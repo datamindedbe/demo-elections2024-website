@@ -1,52 +1,41 @@
-# frontend
+# Website
 
-This template should help get you started developing with Vue 3 in Vite.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## Recommended IDE Setup
+### Installation
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+$ yarn
 ```
 
-### Compile and Hot-Reload for Development
+### Local Development
 
-```sh
-npm run dev
+```
+$ yarn start
 ```
 
-### Type-Check, Compile and Minify for Production
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-```sh
-npm run build
+### Build
+
+```
+$ yarn build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-```sh
-npm run test:unit
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+Not using SSH:
 
-```sh
-npm run lint
 ```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
