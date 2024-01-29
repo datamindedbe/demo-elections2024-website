@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 64000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 167
+TOPIC_NAME: 2_—_Armoedebestrijding__-_2.2_Concrete_maatregelen_-_2.2.4_Administratieve_vereenvoudiging_en_automatische_toekenning_van_rechten.txt

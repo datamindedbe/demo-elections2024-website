@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 64000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 200
+TOPIC_NAME: 2_—_Binnenlands_bestuur_en_stedenbeleid__-_2.2_Concrete_voorstellen_-_2.2.7_Vernieuwde_invulling_Vlaams_stedenbeleid.txt

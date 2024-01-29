@@ -1,0 +1,10 @@
+Ik begrijp dat je informatie wilt over de mate waarin de regering haar beloftes uit het regeerakkoord nakomt aan de hand van bepaalde beslissingen. Helaas heb je geen specifieke documenten verstrekt met details van het regeerakkoord of de genomen regeringsbeslissingen, dus ik kan geen inhoudelijke analyse maken.
+
+Als je echter gedetailleerde informatie verstrekt over specifieke commitments uit het regeerakkoord en de overeenkomstige regeringsbeslissingen, dan kan ik een samenvatting geven over hoe goed de regering presteert met betrekking tot haar beloftes. Vergeet niet om de benodigde documenten of links naar de relevante informatie te verstrekken, zodat ik een correcte analyse kan uitvoeren.
+
+## Referenties (s3 files)
+
+
+
+## Referenties (full text)
+

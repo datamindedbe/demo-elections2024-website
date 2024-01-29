@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 64000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 172
+TOPIC_NAME: 1_—_Welzijn_-_1.2_Concrete_voorstellen_-_1.2.4_Werf_4:_Vlaamse_Sociale_Bescherming_-_1.2.4.5_Van_VSB_tot_stevige_basis_van_een_Vlaamse_sociale_zekerheid.txt
