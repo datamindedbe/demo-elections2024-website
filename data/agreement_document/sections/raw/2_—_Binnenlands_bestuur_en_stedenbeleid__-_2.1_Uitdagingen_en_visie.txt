@@ -1,0 +1,1 @@
+2.1 Uitdagingen en visie Een efficiënte, slagkrachtige, transparante, burger-gerichte en toegankelijke overheid. Dat is de basis voor het creëren van welvaart, welzijn en vertrouwen bij de Vlaamse burger. We zetten meer dan ooit in op een bestuursmodel dat uitgaat van twee sterke polen: sterke lokale besturen enerzijds en een kaderstellende Vlaamse overheid anderzijds. 
