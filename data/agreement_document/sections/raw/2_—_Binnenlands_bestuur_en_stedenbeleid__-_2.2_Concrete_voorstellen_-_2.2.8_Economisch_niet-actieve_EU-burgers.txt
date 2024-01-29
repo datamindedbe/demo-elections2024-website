@@ -1,0 +1,1 @@
+2.2.8 Economisch niet-actieve EU-burgers We geven de lokale overheden de richtlijn om economisch niet-actieve EU-burgers die niet in hun eigen levensonderhoud kunnen voorzien en die een bevel hebben gekregen om het grondgebied te verlaten, systema-tisch uit te schrijven uit het bevolkingsre-gister. 

@@ -1,0 +1,1 @@
+2.2.6 Strikte handhaving taalwetgeving De interpretatie van de omzendbrieven Peeters en Martens blijft aangehouden. We nemen een assertieve houding aan bij schendingen van de taalwetgeving. We verzetten ons maximaal tegen pogingen om de Vlaamse interpretatie uit te hollen. 
