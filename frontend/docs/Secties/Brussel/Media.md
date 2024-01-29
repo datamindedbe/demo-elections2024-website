@@ -1,0 +1,1 @@
+5.11 Media Op 31 december 2020 eindigt de huidige beheers-overeenkomst tussen VBM en de VG/VGC. Deze nieuwe beheersovereenkomst wordt voorafgegaan door een evaluatie van de huidige werking, met aandacht voor de crossmediale samenwerking, de pluriformiteit, het bereik van ieder medium en de wijze waarop de band Brussel-Vlaanderen versterkt kan worden 

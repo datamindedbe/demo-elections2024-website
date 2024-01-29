@@ -1,0 +1,1 @@
+2.2.7 Vernieuwde invulling Vlaams stedenbeleid Binnen het instrumentarium van het Stedenbeleid wordt meer aandacht ontwik-keld voor de stadsregionale dimensie. Hierbij houden we de focus op de 13 centrumsteden, maar bekijken we ook de rol van de stad in haar ruimere regio. 
