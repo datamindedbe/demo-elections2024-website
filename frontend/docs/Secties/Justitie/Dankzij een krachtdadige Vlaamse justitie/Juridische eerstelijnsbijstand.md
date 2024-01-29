@@ -1,0 +1,1 @@
+3.2.4 Juridische eerstelijnsbijstand De Vlaamse minister bevoegd voor Justitie en Handhaving evalueert en optimaliseert de uitvoering van het decreet m.b.t. de juridische eerstelijnsbijstand. 
