@@ -46,13 +46,6 @@ const config = {
           editUrl:
             'https://github.com/datamindedbe/elections2024-playbooks/bot',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/datamindedbe/elections2024-playbooks/bot',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -66,70 +59,22 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Politics-aware AI-bot',
+        title: 'de beloftepolitie',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Flag_of_Flanders.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'aibotSidebar',
             position: 'left',
-            label: 'All about Flanders politics',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/datamindedbe/elections2024-playbooks',
-            label: 'GitHub',
-            position: 'right',
+            label: 'Secties',
           },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community (WIP)',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/datamindedbe/elections2024-playbooks',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
