@@ -79,8 +79,15 @@ for folder in os.listdir(FOLDER_PATH):
             pass
     references = merge_dicts(references_s3_dict, references_full_dict)
 
-            
+    for key, value in references.items():
+        year, month, day = value['s3_filename_clean'].split('/')[-1].split('-')[:3]
+        references[key]['date'] = f"{year}-{month}-{day}"
 
+        document_id = value['s3_filename_clean'].split('-')[-1].rstrip('.txt')
+        
+        # add an implied s3 key ingested
+        f"ingestion/output/{year}/{month}/{document_id}/document.json"
+        references[key]['s3_filename_ingested'] = f"ingestion/output/{year}/{month}/{document_id}/document.json"
 
 
 
