@@ -1,1 +1,0 @@
-2.5.2.2 Asbest We voeren het asbestafbouwplan verder uit, met daarin het verwijderen van risicovol asbest, met prioriteit voor de meest kwetsbare doelgroepen (zoals scholen, kinderkribbes, ziekenhuizen, …) We voorzien hiervoor extra middelen. We werken aan ontzorgingsmodellen op maat om het verwijderen van asbest te ondersteunen. 

@@ -1,1 +1,0 @@
-5.12 Vlaamse feestdag Ter gelegenheid van de Vlaamse feestdag organi-seren we zelfbewust en zonder schroom voor onze identiteit en symbolen jaarlijks een breed toegankelijke 11-juliviering op de Brusselse Grote Markt, een Vlaams volksfeest met maximale zichtbaarheid in de media. 

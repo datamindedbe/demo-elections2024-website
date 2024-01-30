@@ -1,1 +1,0 @@
-3.2.5 Opvolging en rapportering mensenrechtenverdragen De Vlaamse minister bevoegd voor Justitie en Handhaving neemt de coördinatie op zich voor het Vlaams niveau wat betreft de opvolging en rapportering van mensen-rechtenverdragen. 

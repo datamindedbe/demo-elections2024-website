@@ -1,1 +1,0 @@
-1.6 Wegcategorisering Vlaanderen voert een nieuwe wegcategorisering in. Het nieuwe netwerkconcept gaat uit van een multimodale benadering en is robuust, vlot in alle omstandigheden, meer samenhangend en met eenvoudige benamingen. De selectiemethodiek volgt hierbij een duidelijke logica en zorgt voor een betere leesbaarheid van elke wegcategorie. 
