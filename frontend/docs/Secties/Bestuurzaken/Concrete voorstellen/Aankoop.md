@@ -1,5 +1,10 @@
 
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>3.2.4 Aankoop De Vlaamse overheid gebruikt maximaal haar koopkracht om innovatie en duur-zaamheid te stimuleren, efficiëntiewinsten te boeken en maatschappelijk verantwoord ondernemen te belonen. Hierbij wordt een ‘start-ups en kmo-vriendelijk beleid’ nage-streefd, zodat we ons Vlaams economisch weefsel versterken. Het Facilitair Bedrijf wordt aangeduid als enige aankoopcentrale voor courante ondersteunende goederen en diensten. </p>
+        </details> 
+
 # Analyse van de naleving van het regeerakkoord op basis van overheidsbeslissingen
 
 #### Regeerakkoord sectie 3.2.4: Aankoopbeleid
@@ -22,29 +27,9 @@ Het regeerakkoord bepaalt dat de Vlaamse overheid maximaal haar koopkracht moet 
 #### Conclusie
 De Vlaamse Regering neemt diverse besluiten die in lijn zijn met het regeerakkoord, met name op het gebied van innovatie en duurzaam ondernemen, steunbeleid voor kmo's en startups, digitalisering en maatschappelijke transities zoals circulaire economie en duurzame energie. De besluiten over Het Facilitair Bedrijf als aankoopcentrale en de implementatie van diverse ondersteuningsmaatregelen bevestigen dit. Hoewel sommige beslissingen nadere evaluatie vergen, toont het geheel een overheid die actief werkt aan de uitvoering van haar voorgenomen beleid. Eventuele afwijzingen van het oorspronkelijke regeerakkoord zijn op basis van de verstrekte documenten niet duidelijk.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2020/10/2020-10-02-nota-5F72E2B40379AD0008000092.txt
-\[1\]: clean/2019/12/2019-12-20-nota-5DF897765084E700080002D1.txt
-\[2\]: clean/2021/07/2021-07-09-nota-60E4471C364ED90008000893.txt
-\[3\]: clean/2023/12/2023-12-08-nota-6572CA50E2E2C9E5814BF345.txt
-\[4\]: clean/2022/11/2022-11-25-nota-637C9B3E34B8770AF8FDF2AB.txt
-\[5\]: clean/2022/07/2022-07-15-nota-62CD72548E6C4430A8898894.txt
-\[6\]: clean/2021/09/2021-09-03-nota-612F5176364ED90008000281.txt
-\[7\]: clean/2021/12/2021-12-17-nota-61B84D2A364ED90009000DD8.txt
-\[8\]: clean/2023/05/2023-05-26-nota-646DDE768E8235823F6B8343.txt
-\[9\]: clean/2021/02/2021-02-05-nota-601C0B336B34EF0008000064.txt
-\[10\]: clean/2020/12/2020-12-18-nota-5FDC689C6B34EF0008000DBE.txt
-\[11\]: clean/2021/07/2021-07-09-nota-60E564F3364ED900080008CB.txt
-\[12\]: clean/2019/12/2019-12-13-nota-5DEF53155084E700080002BF.txt
-\[13\]: clean/2022/10/2022-10-21-nota-634FE3381EA6B745D23CC063.txt
-\[14\]: clean/2022/12/2022-12-02-nota-63871B0986124BBA17062BC9.txt
-\[15\]: clean/2023/06/2023-06-02-nota-6476FD178E8235823F6B8A65.txt
-\[16\]: clean/2021/04/2021-04-23-nota-60801819364ED900080004F5.txt
-
-## Referenties (full text)
-
-\[0\]: Het Facilitair Bedrijf als enige aankoopcentrale van de Vlaamse overheid   De Vlaamse Regering stelt Het Facilitair Bedrijf aan als enige aankoopcentrale in de Vlaamse overheid voor gangbare en gebruikelijke ondersteunende goederen en diensten. Het samenbrengen van de aankoopkracht binnen de Vlaamse overheid kan leiden tot instrumenten die het mogelijk maken meer spaarzaam om te gaan met de middelen, en tegelijk het economische en sociale beleid van de regering krachtiger uit te voeren. Zo kunnen de klanten van Het Facilitair Bedrijf besparen op hun personeels- én werkingsmiddelen en van betere contracten gebruik maken. Om dit doel te bereiken, zal een traject van aansluitingsprojecten worden uitgezet. Per entiteit die raamcontracten afsluit binnen de projectscope worden opportuniteiten in kaart gebracht, zodat steeds een win-win situatie wordt bekomen. Het Vlaams Energiebedrijf behoudt zijn rol als aankoopcentrale voor energie en energie-efficiëntiediensten.
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Het Facilitair Bedrijf als enige aankoopcentrale van de Vlaamse overheid   De Vlaamse Regering stelt Het Facilitair Bedrijf aan als enige aankoopcentrale in de Vlaamse overheid voor gangbare en gebruikelijke ondersteunende goederen en diensten. Het samenbrengen van de aankoopkracht binnen de Vlaamse overheid kan leiden tot instrumenten die het mogelijk maken meer spaarzaam om te gaan met de middelen, en tegelijk het economische en sociale beleid van de regering krachtiger uit te voeren. Zo kunnen de klanten van Het Facilitair Bedrijf besparen op hun personeels- én werkingsmiddelen en van betere contracten gebruik maken. Om dit doel te bereiken, zal een traject van aansluitingsprojecten worden uitgezet. Per entiteit die raamcontracten afsluit binnen de projectscope worden opportuniteiten in kaart gebracht, zodat steeds een win-win situatie wordt bekomen. Het Vlaams Energiebedrijf behoudt zijn rol als aankoopcentrale voor energie en energie-efficiëntiediensten.
 
 \[1\]: Inkanteling Vastgoed Vlaamse overheid bij het Facilitair Bedrijf   In navolging van het regeerakkoord en het Vlaams Energie- en Klimaatplan van 29 maart 2019 besliste de Vlaamse Regering om de kantoorgebouwen en het bijhorende budget, taken en personeel,  van de Vlaamse overheid in te kantelen bij Het Facilitair Bedrijf. De Vlaamse Regering beslist in dit kader dat de inkanteling van de kantoorgebouwen (in eerste instantie) en bijhorende taken naar Het Facilitair Bedrijf via 3 fasen zal verlopen : inventarisatie, masterplan en inkanteling. Ze keurt tegelijk  enkele principes goed die bij de opmaak van het masterplan zullen worden gebruikt voor de boekhoudkundige verwerking. Het Facilitair Bedrijf zal voor de gebouwen instaan voor het bereiken van doelstellingen op vlak van klimaat, budget/efficiëntie en kwaliteit en hierbij rekening houden met de behoeften van de entiteiten. Entiteiten binnen het toepassingsgebied kunnen pas na overeenstemming met Het Facilitair bedrijf huurcontracten aangaan/verlengen, gebouwen aankopen/verkopen en grote technische onderhoudscontracten afsluiten voor gebouwen.
 
@@ -77,7 +62,5 @@ De Vlaamse Regering neemt diverse besluiten die in lijn zijn met het regeerakkoo
 \[15\]: Sectorale vormingsfondsen beschutte werkplaatsen en lokale diensteneconomie- ondernemingen: subsidie VIA 4 A. Ontwerpbesluit van de Vlaamse Regering houdende toekenning van een subsidie aan het Sociaal Fonds voor het Sociaal-Cultureel Werk van de Vlaamse Gemeenschap – Lokale Diensteneconomie (2023) B. Ontwerpbesluit van de Vlaamse Regering houdende toekenning van een subsidie aan het Sectoraal Vormingsfonds voor de Beschutte Werkplaatsen in Vlaanderen (2023)  De Vlaamse Regering kent een subsidie van 713.000 euro toe aan het Vlaams Vormingsfonds voor de Beschutte Werkplaatsen in Vlaanderen en van 335.000 euro aan het Sociaal Fonds voor het Sociaal-Cultureel Werk van de Vlaamse Gemeenschap - Lokale Diensteneconomie. De subsidies kaderen in de afspraken die gemaakt zijn in het Vierde Vlaams Interprofessioneel Akkoord van 2 december 2011 voor de social/non profitsectoren (VIA 4) voor het jaar 2023.
 
 \[16\]: Plan Vlaamse Veerkracht: uitvoering project 157 - Gemeenschapsinfrastructuur in Brussel Gemeenschapsinfrastructuur in Brussel Ontwerpbesluit van de Vlaamse Regering tot toekenning van een investeringssubsidie aan het EVA Muntpunt vzw  In het kader van het Relanceplan Vlaamse Veerkracht keurt de Vlaamse Regering de uitvoering goed van het project 157 - Gemeenschapsinfrastructuur in Brussel. Ze kent daarbij een investeringssubsidie toe van 378.000 euro aan het EVA Muntpunt vzw voor een digitaliseringsproject. Ze keurt ook de financiering van 200.000 euro  goed voor  digitale transformatiewerken bij het Huis van het Nederlands Brusse l.
+        </details> 
 
-## Sectie inhoud
-
-3.2.4 Aankoop De Vlaamse overheid gebruikt maximaal haar koopkracht om innovatie en duur-zaamheid te stimuleren, efficiëntiewinsten te boeken en maatschappelijk verantwoord ondernemen te belonen. Hierbij wordt een ‘start-ups en kmo-vriendelijk beleid’ nage-streefd, zodat we ons Vlaams economisch weefsel versterken. Het Facilitair Bedrijf wordt aangeduid als enige aankoopcentrale voor courante ondersteunende goederen en diensten. 

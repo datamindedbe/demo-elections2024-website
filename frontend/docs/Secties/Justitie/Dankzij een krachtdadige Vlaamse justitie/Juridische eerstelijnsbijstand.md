@@ -1,5 +1,10 @@
 
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>3.2.4 Juridische eerstelijnsbijstand De Vlaamse minister bevoegd voor Justitie en Handhaving evalueert en optimaliseert de uitvoering van het decreet m.b.t. de juridische eerstelijnsbijstand. </p>
+        </details> 
+
 # Titel: Evaluatie Naleving Regeerakkoord - Juridische Eerstelijnsbijstand in Vlaanderen
 
 De evaluatie van de naleving van het regeerakkoord met betrekking tot de juridische eerstelijnsbijstand toont aan dat de Vlaamse Regering actie heeft ondernomen om de beloften te realiseren. De uitvoeringsmaatregelen aligneren met de doelstellingen die waren bepaald in het regeerakkoord. Hieronder volgt een samenvatting van de belangrijkste acties en besluiten die de regering heeft genomen:
@@ -28,26 +33,9 @@ De besluiten zijn in overeenstemming met het regeringsakkoord en lijken te wijze
 - \[11\]\[12\] Verdere besluiten betreffende de structuur en financiering van de ondersteuning van hulp- en dienstverlening aan gedetineerden.
 - \[13\] Evaluatie van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2021/07/2021-07-02-nota-60DAFACF364ED90008000358.txt
-\[1\]: clean/2021/10/2021-10-29-nota-617907E7364ED90008000626.txt
-\[2\]: clean/2021/09/2021-09-03-nota-612F718E364ED90008000286.txt
-\[3\]: clean/2021/12/2021-12-03-nota-61A5F595364ED90008000578.txt
-\[4\]: clean/2022/03/2022-03-18-nota-6231B21A6BB7B593CFC189D9.txt
-\[5\]: clean/2022/01/2022-01-21-nota-61E7CB4D364ED90008000211.txt
-\[6\]: clean/2023/03/2023-03-17-nota-641325533335D329E25ECFF4.txt
-\[7\]: clean/2022/12/2022-12-23-nota-63A1B57FDBF1CAE811022301.txt
-\[8\]: clean/2022/07/2022-07-15-nota-62D112748E6C4430A8898D84.txt
-\[9\]: clean/2022/09/2022-09-30-nota-6332E0195CD4B179BD8715F7.txt
-\[10\]: clean/2023/12/2023-12-22-nota-65819605E2E2C9E5814C22B8.txt
-\[11\]: clean/2023/07/2023-07-14-nota-64AE554D0592342F299DB9B1.txt
-\[12\]: clean/2021/07/2021-07-16-nota-60ED9322364ED900080014B6.txt
-\[13\]: clean/2020/06/2020-06-12-mededeling-e34b71d0-0fe2-11eb-9a42-a101b41f0404.txt
-
-## Referenties (full text)
-
-\[0\]: Juridische eerstelijnsbijstand: praktische uitwerking Voorontwerp van besluit van de Vlaamse Regering over de juridische eerstelijnsbijstand  Sinds 1 juli 2014 is Vlaanderen inhoudelijk bevoegd voor de juridische eerstelijnsbijstand en de commissies die de bijstand organiseren, en sinds 1 januari 2015 voor de subsidiëring van die commissies. Op het einde van de vorige legislatuur werd het nieuwe voorstel van decreet over de justitiehuizen en de juridische eerstelijnsbijstand goedgekeurd door het Vlaams Parlement. In dit decreet werden krachtlijnen en principes van de juridische eerstelijnsbijstand vastgelegd door zowel een nieuw inhoudelijk kader als een subsidiekader te ontwikkelen. Dit regelgevend kader heeft als doel de drempel naar de juridische eerstelijnsbijstand laag te houden en burgers op een geïntegreerde wijze snel de hulp te laten vinden die ze nodig hebben. Tot op heden wordt de organisatie van de juridische eerstelijnsbijstand nog geregeld via de bestaande federale regelgeving. Daarom keurt de Vlaamse Regering nu principieel een besluit goed dat  de praktische uitwerking van de bepalingen uit het decreet verder concretiseert in een Vlaams uniform kader dat een laagdrempelige, kwalitatieve en efficiënte juridische eerstelijnsbijstand garandeert. Over dit besluit wordt nog het advies ingewonnen van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens en daarna de Raad van State.
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Juridische eerstelijnsbijstand: praktische uitwerking Voorontwerp van besluit van de Vlaamse Regering over de juridische eerstelijnsbijstand  Sinds 1 juli 2014 is Vlaanderen inhoudelijk bevoegd voor de juridische eerstelijnsbijstand en de commissies die de bijstand organiseren, en sinds 1 januari 2015 voor de subsidiëring van die commissies. Op het einde van de vorige legislatuur werd het nieuwe voorstel van decreet over de justitiehuizen en de juridische eerstelijnsbijstand goedgekeurd door het Vlaams Parlement. In dit decreet werden krachtlijnen en principes van de juridische eerstelijnsbijstand vastgelegd door zowel een nieuw inhoudelijk kader als een subsidiekader te ontwikkelen. Dit regelgevend kader heeft als doel de drempel naar de juridische eerstelijnsbijstand laag te houden en burgers op een geïntegreerde wijze snel de hulp te laten vinden die ze nodig hebben. Tot op heden wordt de organisatie van de juridische eerstelijnsbijstand nog geregeld via de bestaande federale regelgeving. Daarom keurt de Vlaamse Regering nu principieel een besluit goed dat  de praktische uitwerking van de bepalingen uit het decreet verder concretiseert in een Vlaams uniform kader dat een laagdrempelige, kwalitatieve en efficiënte juridische eerstelijnsbijstand garandeert. Over dit besluit wordt nog het advies ingewonnen van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens en daarna de Raad van State.
 
 \[1\]: Juridische eerstelijnsbijstand: praktische uitwerking Ontwerpbesluit van de Vlaamse Regering over de juridische eerstelijnsbijstand  Sinds 1 juli 2014 is Vlaanderen inhoudelijk bevoegd voor de juridische eerstelijnsbijstand en de commissies die de bijstand organiseren, en sinds 1 januari 2015 voor de subsidiëring van die commissies. Op het einde van de vorige legislatuur werd het nieuwe  decreet over de justitiehuizen en de juridische eerstelijnsbijstand goedgekeurd door het Vlaams Parlement. In dit decreet werden krachtlijnen en principes van de juridische eerstelijnsbijstand vastgelegd door zowel een nieuw inhoudelijk kader als een subsidiekader te ontwikkelen. Dit regelgevend kader wil de drempel naar de juridische eerstelijnsbijstand laag houden en burgers op een geïntegreerde wijze snel de hulp bieden die ze nodig hebben. Tot op heden wordt de organisatie van de juridische eerstelijnsbijstand nog geregeld via de bestaande federale regelgeving. Daarom keurt de  Vlaamse Regering nu, na advies van de Raad van State, definitief  een besluit goed dat  de praktische uitwerking van de bepalingen uit het decreet verder concretiseert in een Vlaams uniform kader dat een laagdrempelige, kwalitatieve en efficiënte juridische eerstelijnsbijstand garandeert.
 
@@ -74,7 +62,5 @@ De besluiten zijn in overeenstemming met het regeringsakkoord en lijken te wijze
 \[12\]: Delegatie minister voor justitiehuizen Ontwerpbesluit van de Vlaamse Regering houdende delegatie aan de Vlaamse minister bevoegd voor de justitiehuizen voor de subsidiëring op basis van het koninklijk besluit van 17 december 2003 betreffende de subsidiëring van instellingen die voorzien in een gespecialiseerde begeleiding voor burgers die betrokken zijn in een gerechtelijke procedure  Naar aanleiding van de overdracht van de bevoegdheden met betrekking tot de justitiehuizen van het federale niveau naar de gemeenschappen, keurt  de Vlaamse Regering het besluit goed dat delegatie verleent aan de Vlaamse minister bevoegd voor de justitiehuizen voor de toekenning van subsidies op basis van het koninklijk besluit van 17 december 2003 over  de subsidiëring van instellingen die voorzien in een gespecialiseerde begeleiding voor burgers die betrokken zijn in een gerechtelijke procedure.
 
 \[13\]: Evaluatie van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp
+        </details> 
 
-## Sectie inhoud
-
-3.2.4 Juridische eerstelijnsbijstand De Vlaamse minister bevoegd voor Justitie en Handhaving evalueert en optimaliseert de uitvoering van het decreet m.b.t. de juridische eerstelijnsbijstand. 
