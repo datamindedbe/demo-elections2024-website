@@ -1,13 +1,9 @@
-# a script which generates the a json mapping of the agreement sections
-# to their respective sections in the agreement text
-# script should be run from project root directory
-
-# this script is badly coded - can be recursive, but i justed needed it done quickly
-import json
 import os 
 
 
-def get_structure(path):
+def get_secties_structure(path):
+    # a very specific function to get the structure of the secties folder
+    # this should be refactored. bad code
     sections = {}
     files = os.listdir(path)
 
@@ -77,6 +73,5 @@ def get_structure(path):
         if remainder is None:
             sections[section][subsection][subsubsection][subsubsubsection][subsubsubsubsection]=file
             continue
-
 
     return sections

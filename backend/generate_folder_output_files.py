@@ -2,12 +2,12 @@
 # run this script from project root directory
 import os
 from string import digits
-from get_structure import get_structure
+from src.util import get_secties_structure
 
 OUTPUT_FOLDER = 'frontend/docs/Secties/'
 INPUT_AGREEMENTS_RAW_FOLDER = 'data/agreement_document/sections/raw/'
 
-structure = get_structure(INPUT_AGREEMENTS_RAW_FOLDER)
+structure = get_secties_structure(INPUT_AGREEMENTS_RAW_FOLDER)
 
 def create_markdown(input_path, output_path):
     output_path = output_path.replace('.txt', '')
@@ -15,6 +15,7 @@ def create_markdown(input_path, output_path):
         content = f.read()
     with open(output_path + '.md', 'w') as f:
         f.write(content)
+
 
 for section in structure:
     section_clean = section.replace('_', ' ').replace('-', ' ').replace('\u2014',' ')
