@@ -1,5 +1,10 @@
 # Evaluatie van de beloften uit het regeerakkoord: Vlaams stedenbeleid
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>2.2.7 Vernieuwde invulling Vlaams stedenbeleid Binnen het instrumentarium van het Stedenbeleid wordt meer aandacht ontwik-keld voor de stadsregionale dimensie. Hierbij houden we de focus op de 13 centrumsteden, maar bekijken we ook de rol van de stad in haar ruimere regio. </p>
+        </details> 
+
 Samenvatting van de naleving van regeringsbeloften voor het Vlaams stedenbeleid
 
 Het regeerakkoord bevatte specifieke intenties voor een vernieuwde invulling van het Vlaams stedenbeleid, met meer aandacht voor de stadsregionale dimensie en focus op de 13 centrumsteden, alsook de rol van de stad in haar ruimere regio.
@@ -24,28 +29,9 @@ Het regeerakkoord bevatte specifieke intenties voor een vernieuwde invulling van
 
 Over het algemeen lijken de beslissingen en beleidsinitiatieven van de regering coherent te zijn met de aankondigingen in het regeerakkoord ten aanzien van het stedenbeleid. Er zijn verschillende maatregelen getroffen die de beloften ondersteunen, met name inzake ruimtelijke planning, regionaal beleid, ondersteuning van stedelijke vernieuwingsprojecten en innovatiebevordering. Enkele beleidsbeslissingen, zoals GRUP-gerelateerde besluiten en regiovormingsinitiatieven, tonen duidelijk een directe nakoming van de gestelde doelen.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2022/12/2022-12-23-nota-63A1B5F2DBF1CAE811022306.txt
-\[1\]: clean/2022/11/2022-11-10-nota-636B5B5D34B8770AF8FDE266.txt
-\[2\]: clean/2020/10/2020-10-09-nota-5F7C0F980379AD00080002CD.txt
-\[3\]: clean/2021/03/2021-03-12-nota-60487E8D339140000800065B.txt
-\[4\]: clean/2020/04/2020-04-30-mededeling-e4528190-0fe2-11eb-9a42-a101b41f0404.txt
-\[5\]: clean/2020/07/2020-07-17-nota-5F0D4D8CFA87E00008000288.txt
-\[6\]: clean/2021/06/2021-06-04-nota-60B768D8364ED90008000645.txt
-\[7\]: clean/2023/11/2023-11-10-nota-654B4D1E9DAB6626D11E624F.txt
-\[8\]: clean/2022/12/2022-12-09-nota-638F05A5C2B90D4571CF7504.txt
-\[9\]: clean/2020/12/2020-12-18-nota-5FD9D1C86B34EF0008000ADE.txt
-\[10\]: clean/2022/10/2022-10-21-nota-634FAE711EA6B745D23CC016.txt
-\[11\]: clean/2023/12/2023-12-15-nota-6578529CE2E2C9E5814C0351.txt
-\[12\]: clean/2021/12/2021-12-17-nota-61B86D6F364ED900090013BB.txt
-\[13\]: clean/2019/11/2019-11-15-nota-5DCBBF695084E70008000009.txt
-\[14\]: clean/2019/12/2019-12-20-nota-5DFF4969C8C33F000800045B.txt
-\[15\]: clean/2022/02/2022-02-04-nota-61FAA4D8D5F0FAFA87AFA9A1.txt
-
-## Referenties (full text)
-
-\[0\]: Vaststelling gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’ Ontwerpbesluit van de Vlaamse Regering houdende de definitieve vaststelling van het van gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’  Na advies van de Raad van State beslist de Vlaamse Regering tot definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan (GRUP) ‘Regionaalstedelijk gebied Mechelen’. Het geïntegreerde planningsproces heeft als doelstelling het realiseren van een stedelijk gebiedsbeleid, waarbij ruimte wordt gecreëerd voor bedrijvigheid, wonen en andere stedelijke functies. Tegelijk wordt ook sterk ingezet op de versterking van het groenblauwe netwerk door het creëren en uitbreiden van stads(rand)bossen en het behouden en verder versterken van groene ruimtes in de geplande nieuwe ontwikkelingen. Ook duurzame mobiliteit vormt een belangrijk aandachtspunt in dit plan.
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Vaststelling gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’ Ontwerpbesluit van de Vlaamse Regering houdende de definitieve vaststelling van het van gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’  Na advies van de Raad van State beslist de Vlaamse Regering tot definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan (GRUP) ‘Regionaalstedelijk gebied Mechelen’. Het geïntegreerde planningsproces heeft als doelstelling het realiseren van een stedelijk gebiedsbeleid, waarbij ruimte wordt gecreëerd voor bedrijvigheid, wonen en andere stedelijke functies. Tegelijk wordt ook sterk ingezet op de versterking van het groenblauwe netwerk door het creëren en uitbreiden van stads(rand)bossen en het behouden en verder versterken van groene ruimtes in de geplande nieuwe ontwikkelingen. Ook duurzame mobiliteit vormt een belangrijk aandachtspunt in dit plan.
 
 \[1\]: Vaststelling gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’ Voorontwerp van besluit van de Vlaamse Regering houdende de definitieve vaststelling van het van gewestelijk ruimtelijk uitvoeringsplan ‘Regionaalstedelijk gebied Mechelen’  De Vlaamse Regering  beslist principieel tot definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan (GRUP) ‘Regionaalstedelijk gebied Mechelen’. Het geïntegreerde planningsproces heeft als doelstelling het realiseren van een stedelijk gebiedsbeleid, waarbij ruimte wordt gecreëerd voor bedrijvigheid, wonen en andere stedelijke functies. Tegelijk wordt ook sterk ingezet op de versterking van het groenblauwe netwerk door het creëren en uitbreiden van stads(rand)bossen en het behouden en verder versterken van groene ruimtes in de geplande nieuwe ontwikkelingen. Ook duurzame mobiliteit vormt een belangrijk aandachtspunt in dit plan. Over dit GRUP wordt het advies ingewonnen van de Raad van State.
 
@@ -76,7 +62,5 @@ Over het algemeen lijken de beslissingen en beleidsinitiatieven van de regering 
 \[14\]: Instrumentendecreet omgevingsbeleid   Het Vlaams Regeerakkoord 2014-2019 stelt een omgevingsbeleid voorop vanuit gebiedsgerichte en geïntegreerde realisaties in combinatie met een verbeterd instrumentarium. Na advies van de Raad van State hecht de Vlaamse Regering nu haar definitieve goedkeuring aan het ontwerpdecreet over het realisatiegericht instrumentarium ('instrumentendecreet'). Het zet een logische en noodzakelijke vervolgstap in de bundeling en de afstemming van omgevingsinstrumenten met het oog op ruimtelijke realisaties op het terrein. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.
 
 \[15\]: Plan Vlaamse Veerkracht: dossiernummer 53 Kenniscentrum Vlaamse Steden: projectsubsidie ‘City Deal – E-inclusion by design’ Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan het Kenniscentrum Vlaamse Steden  ​De Vlaamse Regering  kent een projectsubsidie van in totaal 2,89 miljoen euro toe aan het Kenniscentrum Vlaamse Steden voor de periode van 1 maart 2022 tot 31 december 2024, voor het project 'City Deal - E-inclusion by design '. In dit project gaat het Kenniscentrum Vlaamse Steden een samenwerking aan met de 13 centrumsteden en de VGC om gezamenlijk aan de slag te gaan met het thema 'e-inclusieve dienstverlening'. Dit project is onderdeel van het relanceprogramma 'iedereen digitaal'.
+        </details> 
 
-## Sectie inhoud
-
-2.2.7 Vernieuwde invulling Vlaams stedenbeleid Binnen het instrumentarium van het Stedenbeleid wordt meer aandacht ontwik-keld voor de stadsregionale dimensie. Hierbij houden we de focus op de 13 centrumsteden, maar bekijken we ook de rol van de stad in haar ruimere regio. 

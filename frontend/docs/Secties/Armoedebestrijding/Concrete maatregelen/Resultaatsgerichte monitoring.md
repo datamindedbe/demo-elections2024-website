@@ -1,5 +1,10 @@
 # Monitoring Naleving van Regeerakkoord: Evaluatie van de Uitvoering van Beloften
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>2.2.8 Resultaatsgerichte monitoring Meten is weten. We hanteren voortaan een nominale armoede-indicator die rekening houdt met alle tegemoetkomingen en sociale voordelen, zodat we naast het armoederisico ook de feitelijke armoede correct in kaart kunnen brengen en aanpakken. Deze nieuwe Vlaamse armoede-indicator houdt per gezins-vorm rekening met een korf van goederen en diensten en het referentiebudget dat nodig is om niet in armoede te leven. Daarnaast voorzien we in een set van kwantitatieve en kwalitatieve armoede- indicatoren, die naast het armoederisico, ons beter in staat stellen om armoede in al zijn aspecten beter te meten, gerichte maat regelen te nemen die inactiviteitsvallen net zoals de eerste promotieval vermijden, en de effecten van de inspanningen op Vlaams én lokaal niveau beter in beeld te brengen. Zo registreren en analyseren we tot op lokaal niveau de in- en uitstroom-cijfers uit armoede: hoe en hoeveel mensen werden concreet uit armoede geholpen, en waaruit bestaat de nieuwe instroom (zoals bv. erkende vluchtelingen). De evaluatie van beleidsmaatregelen is van cruciaal belang in het kader van armoede-bestrijding. We onderzoeken hoe beleids-maatregelen de levenskwaliteit van mensen in armoede effectief verhogen. We voeren armoedebeleid op basis van wat weten-schappelijk aantoonbaar werkt, en hanteren hierbij de nodige vernieuwende concepten. </p>
+        </details> 
+
 Samenvatting
 
 De documenten en beslissingen van de Vlaamse Regering tonen aan dat de regering een actieve benadering heeft gehanteerd om haar beloften uit het regeerakkoord na te komen. De focus lag onder meer op armoedebestrijding, met bijzondere aandacht voor het ontwikkelen en implementeren van indicatoren om armoede te meten en te monitoren \[0\]\[1\]\[2\].
@@ -24,28 +29,9 @@ Het beleid rond BelRAI, een beoordelingsinstrument voor zorgbehoevenden, wordt g
 
 Dit zijn enkele voorbeelden van hoe de Vlaamse Regering zich inspant om haar initieel gestelde doelen te realiseren, hoewel meerdere besluiten en maatregelen in het kader van armoedebestrijding en sociale inclusie worden genomen. Het lijkt erop dat er een veelvoud aan projecten en beslissingen ligt die in lijn zijn met de beloften van het regeerakkoord.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2020/03/2020-03-20-mededeling-e33ad000-0fe2-11eb-9a42-a101b41f0404.txt
-\[1\]: clean/2020/09/2020-09-25-nota-5F69B47B0379AD0008000990.txt
-\[2\]: clean/2022/03/2022-03-25-mededeling-62389AB36BB7B593CFC18C43.txt
-\[3\]: clean/2021/12/2021-12-10-nota-61AF126C364ED9000900043D.txt
-\[4\]: clean/2022/01/2022-01-21-nota-61E7CEAD364ED90008000217.txt
-\[5\]: clean/2022/03/2022-03-11-nota-6228675A6BB7B593CFC18473.txt
-\[6\]: clean/2023/04/2023-04-21-nota-643FF17DCA1CB15B58CF473A.txt
-\[7\]: clean/2022/10/2022-10-28-nota-6358F8451EA6B745D23CC8C4.txt
-\[8\]: clean/2019/12/2019-12-20-nota-5DF8A3375084E700080004A5.txt
-\[9\]: clean/2023/07/2023-07-07-nota-64A3DB102D77B42474D4F695.txt
-\[10\]: clean/2023/07/2023-07-14-nota-64AE7A650592342F299DBA40.txt
-\[11\]: clean/2022/12/2022-12-09-nota-639048ACC2B90D4571CF7663.txt
-\[12\]: clean/2023/12/2023-12-22-nota-65854361E2E2C9E5814C2D87.txt
-\[13\]: clean/2023/10/2023-10-27-nota-6538D9F79DAB6626D11E5485.txt
-\[14\]: clean/2021/04/2021-04-02-nota-606447E0364ED9000800048A.txt
-\[15\]: clean/2021/05/2021-05-28-nota-60AE15D5364ED90008000201.txt
-
-## Referenties (full text)
-
-\[0\]: Vlaams Actieplan Armoedebestrijding 2020-2024: doelstellingenkader   
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Vlaams Actieplan Armoedebestrijding 2020-2024: doelstellingenkader   
 
 \[1\]: Vlaams Actieplan Armoedebestrijding 2020-2024   De Vlaamse Regering keurt het Vlaams Actieplan Armoedebestrijding 2020-2024 goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregelen op het vlak van het voorkomen en bestrijden van armoede, en dat op korte en lange termijn, samen met de modaliteiten van evaluatie van het gevoerde beleid. De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal het plan overzenden naar het Vlaams Parlement.
 
@@ -76,7 +62,5 @@ Dit zijn enkele voorbeelden van hoe de Vlaamse Regering zich inspant om haar ini
 \[14\]: Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit Voorontwerp van besluit van de Vlaamse Regering over de tenuitvoerlegging van BelRAI en tot wijziging van diverse besluiten van de Vlaamse Regering over het beleidsdomein Welzijn, Volksgezondheid en Gezin  In uitvoering van het regeerakkoord wordt het BelRAI inschalingsinstrument gefaseerd ingevoerd in de Vlaamse sociale bescherming. RAI staat voor 'Resident Assessment Instrument', een beoordelingsinstrument dat gestandaardiseerde informatie over de zorgbehoefte van de patiënt/gebruiker in een complexe zorgsituatie ter beschikking stelt van de zorgverlener, de voorziening en de overheid. De Vlaamse Regering keurt daarom nu, na adviezen van de Vlaamse Raad WVG en van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, opnieuw principieel het  uitvoeringsbesluit goed dat de gefaseerde implementatie van BelRAI voor het zorgbudget zorgbehoevenden, de diensten gezinszorg en de residentiële ouderenzorg verder concretiseert. Wel wordt de oorspronkelijke timing ervan aangepast. De impact van de coronapandemie heeft immers een vertragend effect gehad op de oorspronkelijke implementatiedata. Vanaf juni 2021 zal de BelRAI Screener als verplicht inschalingsinstrument gebruikt worden door de diensten voor gezinszorg (DG). Ook in het kader van het zorgbudget zwaar zorgbehoevenden zullen de gemachtigde indicatiestellers (DG, Diensten Maatschappelijk Werk (DMW) en OCMW/ Welzijnsvereniging) enkel nog de BelRAI Screener hanteren (voor +18-jarigen). Vervolgens zullen de DG en de DMW vanaf juni 2022 ook gebruik maken van het sociaal supplement. Ten slotte worden in juni 2023 zowel de BelRAI Home Care (BelRAI HC – voor de DG en de DMW) als de BelRAI Long Term Care Facility (BelRAI LTCF – voor de residentiële ouderenzorg) geïmplementeerd. Daartoe wordt ook het uitvoeringsbesluit van het woonzorgdecreet principieel aangepast. Over dit uitvoeringsbesluit wordt het advies ingewonnen van de Raad van State.
 
 \[15\]: Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit Ontwerpbesluit van de Vlaamse Regering over de tenuitvoerlegging van BelRAI en tot wijziging van diverse besluiten van de Vlaamse Regering over het beleidsdomein Welzijn, Volksgezondheid en Gezin  In uitvoering van het regeerakkoord wordt het BelRAI inschalingsinstrument gefaseerd ingevoerd in de Vlaamse sociale bescherming. RAI staat voor 'Resident Assessment Instrument', een beoordelingsinstrument dat gestandaardiseerde informatie over de zorgbehoefte van de patiënt/gebruiker in een complexe zorgsituatie ter beschikking stelt van de zorgverlener, de voorziening en de overheid. De Vlaamse Regering keurt daarom nu, na advies van de Raad van State, definitief het  uitvoeringsbesluit goed dat de gefaseerde implementatie van BelRAI voor het zorgbudget zorgbehoevenden, de diensten gezinszorg en de residentiële ouderenzorg verder concretiseert. Wel wordt de oorspronkelijke timing ervan aangepast. De impact van de coronapandemie heeft immers een vertragend effect gehad op de oorspronkelijke implementatiedata. Vanaf juni 2021 zal de BelRAI Screener als verplicht inschalingsinstrument gebruikt worden door de diensten voor gezinszorg (DG). Ook in het kader van het zorgbudget zwaar zorgbehoevenden zullen de gemachtigde indicatiestellers (DG, Diensten Maatschappelijk Werk (DMW) en OCMW/ Welzijnsvereniging) enkel nog de BelRAI Screener hanteren (voor +18-jarigen). Vervolgens zullen de DG en de DMW vanaf juni 2022 ook gebruik maken van het sociaal supplement. Ten slotte worden in juni 2023 zowel de BelRAI Home Care (BelRAI HC – voor de DG en de DMW) als de BelRAI Long Term Care Facility (BelRAI LTCF – voor de residentiële ouderenzorg) geïmplementeerd. Daartoe wordt ook het uitvoeringsbesluit van het woonzorgdecreet aangepast.
+        </details> 
 
-## Sectie inhoud
-
-2.2.8 Resultaatsgerichte monitoring Meten is weten. We hanteren voortaan een nominale armoede-indicator die rekening houdt met alle tegemoetkomingen en sociale voordelen, zodat we naast het armoederisico ook de feitelijke armoede correct in kaart kunnen brengen en aanpakken. Deze nieuwe Vlaamse armoede-indicator houdt per gezins-vorm rekening met een korf van goederen en diensten en het referentiebudget dat nodig is om niet in armoede te leven. Daarnaast voorzien we in een set van kwantitatieve en kwalitatieve armoede- indicatoren, die naast het armoederisico, ons beter in staat stellen om armoede in al zijn aspecten beter te meten, gerichte maat regelen te nemen die inactiviteitsvallen net zoals de eerste promotieval vermijden, en de effecten van de inspanningen op Vlaams én lokaal niveau beter in beeld te brengen. Zo registreren en analyseren we tot op lokaal niveau de in- en uitstroom-cijfers uit armoede: hoe en hoeveel mensen werden concreet uit armoede geholpen, en waaruit bestaat de nieuwe instroom (zoals bv. erkende vluchtelingen). De evaluatie van beleidsmaatregelen is van cruciaal belang in het kader van armoede-bestrijding. We onderzoeken hoe beleids-maatregelen de levenskwaliteit van mensen in armoede effectief verhogen. We voeren armoedebeleid op basis van wat weten-schappelijk aantoonbaar werkt, en hanteren hierbij de nodige vernieuwende concepten. 

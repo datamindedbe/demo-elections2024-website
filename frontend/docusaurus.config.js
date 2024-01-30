@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flanders government bot',
-  tagline: 'Flanders is cool',
+  title: 'De Beloftepolitie',
+  tagline: 'De overheid in de spotlight',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

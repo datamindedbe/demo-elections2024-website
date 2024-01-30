@@ -1,5 +1,10 @@
 # Uitvoering van het Regeerakkoord: Evaluatie van het HR-Beleid binnen de Vlaamse Overheid
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>3.2.2 HR Voor een excellente dienstverlening aan burgers, bedrijven en verenigingen heeft de overheid als voornaamste kapitaal haar werknemers. We werken aan een loopbaan- en beloningsbeleid waardoor de Vlaamse overheid een aantrekkelijke werkgever voor talenten blijft. Het belang van anciënniteit in de loonvorming schroeven we stevig terug en we verplichten mobiliteit bij het management; We herzien de procedure m.b.t. ‘eerder verworven competenties’ zodat er meer gebruik van gemaakt kan worden. De streefcijfers ondersteunen het diversi-teitsbeleid van de Vlaamse overheid. Waar nodig zullen bijkomende maatregelen genomen worden, bijvoorbeeld voor de tewerkstelling van personen met een handicap of chronische ziekte. </p>
+        </details> 
+
 Inleiding
 De Vlaamse overheid heeft, in overeenstemming met haar regeerakkoord, een aantal beslissingen genomen met betrekking tot het Human Resources (HR) beleid. Deze beslissingen zijn erop gericht om de overheid als werkgever te blijven positioneren als een aantrekkelijke werkgever die talent aan zich weet te binden. Hierbij spelen loopbaan- en beloningsbeleid een essentiële rol. Mobiliteit binnen het management en herziening van de procedure voor eerder verworven competenties worden tevens benadrukt om het diversiteitsbeleid te ondersteunen.
 
@@ -23,49 +28,9 @@ Er zijn diverse beslissingen genomen door de overheid, gericht op de moderniseri
 ## Conclusie
 Uit de bovengenoemde beslissingen kan worden opgemaakt dat de Vlaamse Regering actief bezig is geweest met de uitvoering van haar beloften uit het regeerakkoord omtrent HR-beleid. Er zijn concrete stappen genomen ter modernisering van het huidige systeem en het stimuleren van diversiteit en mobiliteit binnen het overheidspersoneel. Deze acties zijn, op basis van de verstrekte documentatie, overwegend in lijn met de doelstellingen uit het regeerakkoord.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2023/03/2023-03-24-nota-641D50723335D329E25EDAC1.txt
-\[1\]: clean/2023/03/2023-03-24-nota-641D4DDB3335D329E25EDAC0.txt
-\[2\]: clean/2023/12/2023-12-22-nota-6585470EE2E2C9E5814C2D8E.txt
-\[3\]: clean/2023/03/2023-03-24-nota-641D542E3335D329E25EDAC5.txt
-\[4\]: clean/2020/09/2020-09-04-nota-5F4DF20D0379AD00080000B3.txt
-\[5\]: clean/2020/06/2020-06-26-nota-5EF1AA73AD26920008000449.txt
-\[6\]: clean/2020/07/2020-07-10-nota-5F041E80FA87E000080004B8.txt
-\[7\]: clean/2020/03/2020-03-06-nota-5E5E1B0FBD33FE00080001C9.txt
-\[8\]: clean/2020/04/2020-04-24-nota-5E9EB2C4720F3800080000FD.txt
-\[9\]: clean/2023/10/2023-10-06-nota-651FB4267FDB1A5D07827EC9.txt
-\[10\]: clean/2023/10/2023-10-27-nota-653B618C9DAB6626D11E5810.txt
-\[11\]: clean/2023/12/2023-12-22-nota-65815393E2E2C9E5814C1EEA.txt
-\[12\]: clean/2023/06/2023-06-09-nota-647F23622D77B42474D4C853.txt
-\[13\]: clean/2023/09/2023-09-22-nota-650A9F3A3605E1AC863BFA24.txt
-\[14\]: clean/2021/12/2021-12-23-nota-61C47DFD364ED900080006C4.txt
-\[15\]: clean/2022/05/2022-05-20-nota-6287BCF900408C01F2054841.txt
-\[16\]: clean/2022/03/2022-03-11-nota-622885266BB7B593CFC18499.txt
-\[17\]: clean/2021/01/2021-01-29-nota-60112B1A6B34EF00090001AB.txt
-\[18\]: clean/2020/10/2020-10-30-nota-5F99348B5B1AD200080003A0.txt
-\[19\]: clean/2020/06/2020-06-05-nota-5ED66502FE23BF00080004E4.txt
-\[20\]: clean/2019/11/2019-11-08-nota-5DC28C1C5084E70008000164.txt
-\[21\]: clean/2022/07/2022-07-15-nota-62CD7D448E6C4430A88988A2.txt
-\[22\]: clean/2022/07/2022-07-15-nota-62CD74658E6C4430A8898897.txt
-\[23\]: clean/2022/07/2022-07-15-nota-62D112E38E6C4430A8898D86.txt
-\[24\]: clean/2023/06/2023-06-23-nota-6492AD0E2D77B42474D4D9BB.txt
-\[25\]: clean/2020/06/2020-06-26-mededeling-e31a9dd0-0fe2-11eb-9a42-a101b41f0404.txt
-\[26\]: clean/2022/03/2022-03-11-nota-6228658F6BB7B593CFC18470.txt
-\[27\]: clean/2022/02/2022-02-11-nota-6201475CD5F0FAFA87AFAC48.txt
-\[28\]: clean/2021/09/2021-09-17-nota-61404F7B364ED900080001BB.txt
-\[29\]: clean/2022/12/2022-12-09-nota-638F433CC2B90D4571CF75A9.txt
-\[30\]: clean/2021/03/2021-03-19-nota-6051C2F93391400008000246.txt
-\[31\]: clean/2023/12/2023-12-22-nota-65814B2CE2E2C9E5814C1C80.txt
-\[32\]: clean/2021/07/2021-07-16-nota-60ED47B8364ED90008001405.txt
-\[33\]: clean/2022/03/2022-03-25-nota-6239A32C6BB7B593CFC18D94.txt
-\[34\]: clean/2023/09/2023-09-22-nota-650A9F993605E1AC863BFA27.txt
-\[35\]: clean/2021/07/2021-07-09-nota-60E55CF8364ED900080008C8.txt
-\[36\]: clean/2023/03/2023-03-24-nota-641D57DC3335D329E25EDAD0.txt
-
-## Referenties (full text)
-
-\[0\]: Wijziging Vlaams personeelsstatuut (VPS): beloningsbeleid en prestatiemanagement Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de modernisering van het hr-beleid, het beloningsbeleid en het prestatiemanagement  In het kader van de modernisering van het hr-beleid wijzigt de Vlaamse Regering principieel het Vlaams personeelsstatuut voor wat het beloningsbeleid en prestatiemanagement binnen de Vlaamse overheid betreft. Prestatiemanagement wordt ingezet als een ontwikkelingsinstrument voor de personeelsleden van de Vlaamse overheid. De Vlaamse overheid wil zich positioneren als aantrekkelijke werkgever door het belang van prestaties en competenties te laten toenemen en de rol van anciënniteit in de loonvorming minder prominent te maken. Dit besluit wordt nog voor onderhandelingen voorgelegd aan de sociale partners. De leden van de Vlaamse Regering zullen de nodige initiatieven nemen om de agentschapsspecifieke regeling van de agentschappen waarvoor zij functioneel bevoegd zijn aan te passen aan de nieuwe regeling rond loopbaan en verloning.
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Wijziging Vlaams personeelsstatuut (VPS): beloningsbeleid en prestatiemanagement Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de modernisering van het hr-beleid, het beloningsbeleid en het prestatiemanagement  In het kader van de modernisering van het hr-beleid wijzigt de Vlaamse Regering principieel het Vlaams personeelsstatuut voor wat het beloningsbeleid en prestatiemanagement binnen de Vlaamse overheid betreft. Prestatiemanagement wordt ingezet als een ontwikkelingsinstrument voor de personeelsleden van de Vlaamse overheid. De Vlaamse overheid wil zich positioneren als aantrekkelijke werkgever door het belang van prestaties en competenties te laten toenemen en de rol van anciënniteit in de loonvorming minder prominent te maken. Dit besluit wordt nog voor onderhandelingen voorgelegd aan de sociale partners. De leden van de Vlaamse Regering zullen de nodige initiatieven nemen om de agentschapsspecifieke regeling van de agentschappen waarvoor zij functioneel bevoegd zijn aan te passen aan de nieuwe regeling rond loopbaan en verloning.
 
 \[1\]: Wijziging Vlaams personeelsstatuut (VPS): gezagsfuncties, top- en middenkader en loopbaan Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de modernisering van het hr-beleid, gezagsfuncties, top- en middenkader en loopbaanbeleid en tot wijziging van het besluit van de Vlaamse Regering van 27 maart 2020 tot vaststelling van de regels voor het algemene personeelsbeleid in de diensten van de Vlaamse overheid, de Vlaamse openbare instellingen en de strategische adviesraad SERV en voor het specifieke personeelsbeleid in de diensten van de Vlaamse overheid  In het kader van de modernisering van het hr-beleid wijzigt de Vlaamse Regering principieel het Vlaams personeelsstatuut en haar besluit met de regels voor het algemene personeelsbeleid in de diensten van de Vlaamse overheid voor wat de invulling van gezagsfuncties, het top- en middenkader en het loopbaanbeleid betreft. Via dit besluit verankert de Vlaamse Regering voor de diensten van de Vlaamse overheid de algemene contractuele tewerkstelling. In afwijking voorziet het in de statutaire invulling van gezagsfuncties. Voorts werkt het de drempels weg die vandaag de doorstroom van personeelsleden bemoeilijken en trekt het de principes van contractuele tewerkstelling door naar het top- en middenkader. Dit besluit wordt nog voor onderhandelingen voorgelegd aan de sociale partners.
 
@@ -138,7 +103,5 @@ Uit de bovengenoemde beslissingen kan worden opgemaakt dat de Vlaamse Regering a
 \[35\]: Plan Vlaamse Veerkracht: Acties VDAB binnen de prioriteit ‘opleiding- en loopbaanoffensief’ Acties VDAB binnen de prioriteit ‘opleiding- en loopbaanoffensief’  Binnen het relanceplan 'Vlaamse Veerkracht' moet het plan 'Alle Hens aan Dek' (AHAD)  de  werkzaamheidsgraad terug doen stijgen richting 80%. Het AHAD-plan steunt op 3 pijlers: een opleiding-  en loopbaanoffensief, Vlaanderen digitaal transformeren, en iedereen duurzaam aan het werk. In de kader keurt de Vlaamse Regering nu twee acties goed die VDAB neemt binnen de eerste pijler, namelijk het voorzien van een ruim en toegankelijk opleidingsaanbod  door VDAB in samenwerking met partners, en het i nzetten op competentieversterking  voor tijdelijk werklozen (en kwetsbare ondernemers). Voor beide acties wordt een totaal budget van 30 miljoen euro uitgetrokken.
 
 \[36\]: Wijziging Vlaams personeelsstatuut (VPS): einde van de tewerkstelling Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de modernisering van het hr-beleid, uitstroom  In het kader van de modernisering van het hr-beleid wijzigt de Vlaamse Regering principieel het Vlaams personeelsstatuut voor wat het einde van de tewerkstelling betreft. Dit besluit wordt nog voor onderhandelingen voorgelegd aan de sociale partners.
+        </details> 
 
-## Sectie inhoud
-
-3.2.2 HR Voor een excellente dienstverlening aan burgers, bedrijven en verenigingen heeft de overheid als voornaamste kapitaal haar werknemers. We werken aan een loopbaan- en beloningsbeleid waardoor de Vlaamse overheid een aantrekkelijke werkgever voor talenten blijft. Het belang van anciënniteit in de loonvorming schroeven we stevig terug en we verplichten mobiliteit bij het management; We herzien de procedure m.b.t. ‘eerder verworven competenties’ zodat er meer gebruik van gemaakt kan worden. De streefcijfers ondersteunen het diversi-teitsbeleid van de Vlaamse overheid. Waar nodig zullen bijkomende maatregelen genomen worden, bijvoorbeeld voor de tewerkstelling van personen met een handicap of chronische ziekte. 

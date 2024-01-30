@@ -1,5 +1,10 @@
 
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>6.3.5 Media Vandaag worden diverse media door de overheid ondersteund maar communiceren ze met verschil-lende boodschappen en een verschillende identi-teit. We willen vanzelfsprekend onze regionale zenders behouden maar betrachten een nauwere samenwerking tussen de diverse mediakanalen en bekijken een mogelijke bundeling van krachten en merken met als duidelijke doelstelling de verster-king van de Vlaamse identiteit en het maximaal betrekken van anderstaligen op de Vlaamse gemeenschap. </p>
+        </details> 
+
 # Evaluatie van de Naleving van het Regeerakkoord over Media
 
 #### Titel: Evaluatie Naleving Regeerakkoord: Samenvatting
@@ -29,26 +34,9 @@ In het regeerakkoord \[0\] is er bijzondere aandacht voor het ondersteunen van d
 
 Concluderend tonen de bovenstaande besluiten een reeks acties die gericht zijn op het behouden en versterken van de regionale media en het bevorderen van samenwerking binnen de sector, wat overeenkomt met de doelstellingen van het regeerakkoord. Hoewel sommige besluiten voortvloeien uit door COVID-19 opgelegde noodzaak, lijken ze alsnog bij te dragen aan het behalen van de gestelde doelstellingen.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2022/07/2022-07-15-mededeling-62CD15938E6C4430A8898172.txt
-\[1\]: clean/2023/06/2023-06-13-nota-648879362D77B42474D4CF43.txt
-\[2\]: clean/2023/11/2023-11-23-nota-655E06A6E2E2C9E5814BCFEE.txt
-\[3\]: clean/2023/06/2023-06-13-nota-648877E22D77B42474D4CF42.txt
-\[4\]: clean/2021/04/2021-04-02-nota-6062DF0C364ED9000800028C.txt
-\[5\]: clean/2023/12/2023-12-15-nota-6578216AE2E2C9E5814C01A6.txt
-\[6\]: clean/2023/11/2023-11-10-nota-654B3F2C9DAB6626D11E6216.txt
-\[7\]: clean/2022/12/2022-12-02-nota-63871B0986124BBA17062BC9.txt
-\[8\]: clean/2023/11/2023-11-10-nota-654B47F49DAB6626D11E623A.txt
-\[9\]: clean/2020/07/2020-07-10-nota-5F042478FA87E000080005B5.txt
-\[10\]: clean/2021/03/2021-03-12-nota-60474959339140000800064A.txt
-\[11\]: clean/2023/06/2023-06-02-nota-64770EC58E8235823F6B8A82.txt
-\[12\]: clean/2021/05/2021-05-07-nota-609260AB364ED9000800000A.txt
-\[13\]: clean/2023/04/2023-04-28-nota-6447CE93CA1CB15B58CF512E.txt
-
-## Referenties (full text)
-
-\[0\]: Conceptnota: “Toekomst regionale mediaorganisaties”   
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Conceptnota: “Toekomst regionale mediaorganisaties”   
 
 \[1\]: Nieuwe uitvoeringsbespalingen Mediadecreet rond regionale televisieomroeporganisaties Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van het decreet van 27 maart 2009 betreffende radio-omroep en televisie en tot wijziging van diverse besluiten, wat betreft de regionale televisieomroeporganisaties  Via de conceptnota van 15 juli 2022 over de toekomst van de regionale mediaorganisaties werden de beleidslijnen voorgesteld om de regionale omroepen meer toekomstperspectieven te geven. Met een voorontwerp van wijzigingsdecreet wordt de inhoud van de conceptnota omgezet naar het Mediadecreet. Door die wijzigingen worden nieuwe uitvoeringsbepalingen genomen en worden enkele bepalingen uit een aantal mediabesluiten van de Vlaamse Regering principieel aangepast. Het gaat onder meer om de regeling van de erkenningsprocedure en het samenvoegen van de verzorgingsgebieden binnen de provincies Oost- en West-Vlaanderen vanaf 1 januari 2029. Over dit besluit wordt nu het advies ingewonnen van de sectorraad Media van de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media, van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, van de GBA en daarna van de Raad van State.
 
@@ -75,7 +63,5 @@ Concluderend tonen de bovenstaande besluiten een reeks acties die gericht zijn o
 \[12\]: Frequentieplan particuliere landelijke, regionale, netwerk- en lokale radio- omroeporganisaties Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 29 maart 2019 houdende bepaling van het aantal particuliere landelijke, regionale, netwerk- en lokale radio- omroeporganisaties dat kan worden erkend en houdende de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten die ter beschikking worden gesteld van de particuliere landelijke, regionale, netwerk- en lokale radio-omroeporganisaties  Op 12 februari 2021 werd een wijziging doorgevoerd aan het decreet over de radio-omroep en televisie ( Mediadecreet ). Deze wijziging hield onder meer de afschaffing in van de categorie van de regionale  radio- omroeporganisaties. In dit kader, en na een raadpleging en het advies van de sectorraad Media van de Raad voor Cultuur, Jeugd, Sport en Media (SARC), wijzigt de Vlaamse Regering opnieuw principieel haar besluit met de bepaling van het aantal particuliere landelijke, regionale, netwerk- en lokale radio- omroeporganisaties dat kan worden erkend en met de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten die ter beschikking worden gesteld van de particuliere landelijke, regionale, netwerk- en lokale radio-omroeporganisaties. Zo worden de vroegere regionale frequentiepakketten samengevoegd tot een nieuw landelijk  pakket. Over dit besluit wordt nog het advies gevraagd van de Raad van State.
 
 \[13\]: Addendum samenwerkingsovereenkomst Vlaamse regionale televisieomroeporganisaties: verlenging werkingsjaar 2023 Ontwerp van addendum bij de samenwerkingsovereenkomst 2018-2022 tussen de Vlaamse Regering en de Vlaamse regionale televisieomroeporganisaties  Vlaanderen kent tien regionale televisieomroepen die de specifieke opdracht hebben regionale informatie te brengen om de communicatie onder de bevolking en de algemene sociale en culturele ontwikkeling van de regio te stimuleren. Voor de periode 2018-2022 werd met de regionale televisieomroepen en de koepelorganisatie Niet-Openbare Regionale Televisieverenigingen Vlaanderen (NORTV) vzw een meerjarige samenwerkingsovereenkomst afgesloten. De Vlaamse Regering keurt nu een addendum bij deze samenwerkingsovereenkomst goed. Dit addendum regelt enerzijds de verlenging van de samenwerkingsovereenkomst 2018-2022, met name de toekenning van de regulier vooropgestelde werkingssubsidie voor 2023, maar voorziet vooral een aanvullende subsidie van 707.000 euro voor het werkingsjaar 2023. Van dit budget wordt 507.000 euro specifiek ingezet voor professionalisering van NORTV én het opzetten van gemeenschappelijke samenwerkingsinitiatieven tussen de regionale televisieomroepen. Daarnaast wordt voor 2023 een aanvullende energiecompensatiemaatregel van 200.000 euro toegekend. Dit budget wordt gelijkmatig verdeeld over de regionale televisieomroepen die hiervoor in aanmerking komen. Het actieplan grensoverschrijdend gedrag krijgt extra aandacht door de betrokkenen ertoe aan te zetten – voor zover dit nog niet gebeurd is – dit actieplan te onderschrijven.
+        </details> 
 
-## Sectie inhoud
-
-6.3.5 Media Vandaag worden diverse media door de overheid ondersteund maar communiceren ze met verschil-lende boodschappen en een verschillende identi-teit. We willen vanzelfsprekend onze regionale zenders behouden maar betrachten een nauwere samenwerking tussen de diverse mediakanalen en bekijken een mogelijke bundeling van krachten en merken met als duidelijke doelstelling de verster-king van de Vlaamse identiteit en het maximaal betrekken van anderstaligen op de Vlaamse gemeenschap. 

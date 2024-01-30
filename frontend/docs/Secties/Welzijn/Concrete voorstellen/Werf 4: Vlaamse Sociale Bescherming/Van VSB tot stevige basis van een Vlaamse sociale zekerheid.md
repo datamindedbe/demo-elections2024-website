@@ -1,5 +1,10 @@
 
 
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>1.2.4.5 Van VSB tot stevige basis van een Vlaamse sociale zekerheid Na de zesde staatshervorming werden bepaalde revalidatieconventies en de financiering van de revalidatieziekenhuizen overgedragen naar de deelstaten. Hetzelfde geldt voor de initiatieven beschut wonen en de psychiatrische verzorgingstehuizen. Deze bevoegdheden werden tijdens de voorbije regeerperiode verdergezet conform de federale regelgeving. De komende regeerperiode zullen we deze voorzieningen dan ook verder inkantelen in de Vlaamse sociale bescherming (bijvoor-beeld door samenwerking met zorg-bedrijven), waarbij we nagaan hoe we de ondersteuning die geboden wordt effici-enter, kwalitatiever en cliëntgericht kunnen maken. De Vlaamse revalidatie hervormen we tot een kwalitatief en duidelijk geheel conform de goedgekeurde conceptnota. </p>
+        </details> 
+
 # Samenvatting van de Uitvoering Regeerakkoord op Gebied van Zorg en Welzijn
 
 #### TITEL: Uitvoeringsbesluiten en -maatregelen naargelang het Vlaamse Regeerakkoord
@@ -20,94 +25,9 @@ Het regeerakkoord onderstreept het belang van het verstrekken van kwalitatieve z
 
 De genoemde besluiten en maatregelen tonen aan dat de Vlaamse Regering stappen heeft ondernomen die in lijn liggen met de plannen uiteengezet in het regeerakkoord, voornamelijk op het vlak van gezondheid en zorg, woonbeleid en sociale bescherming. Er is ingezet op verdere digitalisering, kwaliteitsverbetering en capaciteitsuitbreiding van de zorginfrastructuur. Daarnaast is er aandacht voor het versterken van het sociale weefsel binnen gemeenschappen door middel van zorgzame buurten en het ondersteunen van kwetsbare groepen.
 
-## Referenties (s3 files)
-
-\[0\]: clean/2023/09/2023-09-22-nota-650AA52A3605E1AC863BFA2F.txt
-\[1\]: clean/2020/12/2020-12-04-nota-5FC76B6420B66700080000A5.txt
-\[2\]: clean/2021/03/2021-03-26-nota-605AF2453391400008000576.txt
-\[3\]: clean/2021/06/2021-06-25-nota-60D5817C364ED9000800049F.txt
-\[4\]: clean/2021/07/2021-07-16-nota-60ED6298364ED90008001434.txt
-\[5\]: clean/2022/09/2022-09-02-nota-630F17199531BD6B9732BED4.txt
-\[6\]: clean/2020/05/2020-05-08-nota-5EB111DD720F380008000347.txt
-\[7\]: clean/2020/07/2020-07-17-nota-5F0D513AFA87E000080002C4.txt
-\[8\]: clean/2022/06/2022-06-24-nota-62B438CE4ABF604F15C225C3.txt
-\[9\]: clean/2020/03/2020-03-13-nota-5E674D4C5A2F580008000179.txt
-\[10\]: clean/2019/11/2019-11-08-nota-5DC298775084E7000800016A.txt
-\[11\]: clean/2020/10/2020-10-09-nota-5F7C12A00379AD000800031F.txt
-\[12\]: clean/2021/07/2021-07-16-nota-60F12DD1364ED900080017A7.txt
-\[13\]: clean/2020/03/2020-03-06-nota-5E5E1A58BD33FE00080001A5.txt
-\[14\]: clean/2020/02/2020-02-21-nota-5E4B9406A19C1A000800009E.txt
-\[15\]: clean/2021/10/2021-10-15-nota-61669A04364ED90009000494.txt
-\[16\]: clean/2022/03/2022-03-18-nota-6231FB2A6BB7B593CFC189E7.txt
-\[17\]: clean/2020/04/2020-04-24-nota-5E9EB483720F380008000154.txt
-\[18\]: clean/2022/11/2022-11-10-nota-636B5E6C34B8770AF8FDE272.txt
-\[19\]: clean/2022/06/2022-06-24-nota-62B171B94ABF604F15C22396.txt
-\[20\]: clean/2020/04/2020-04-24-nota-5E9EB37F720F380008000113.txt
-\[21\]: clean/2021/12/2021-12-17-nota-61B853F0364ED90009001010.txt
-\[22\]: clean/2021/02/2021-02-12-nota-60226DE76B34EF00080002D1.txt
-\[23\]: clean/2023/02/2023-02-03-nota-63DA22622E929B312AB5C5C3.txt
-\[24\]: clean/2023/12/2023-12-08-nota-65704536E2E2C9E5814BECCB.txt
-\[25\]: clean/2023/07/2023-07-14-nota-64AE7E430592342F299DBA43.txt
-\[26\]: clean/2022/03/2022-03-25-nota-62399B046BB7B593CFC18D93.txt
-\[27\]: clean/2022/12/2022-12-16-nota-6398527CC2B90D4571CF8A0D.txt
-\[28\]: clean/2023/06/2023-06-23-nota-6492B70C2D77B42474D4D9C8.txt
-\[29\]: clean/2023/03/2023-03-24-nota-641AC19C3335D329E25ED72A.txt
-\[30\]: clean/2020/10/2020-10-30-nota-5F97E8FC5B1AD20008000391.txt
-\[31\]: clean/2021/02/2021-02-26-nota-603660C3339140000800034E.txt
-\[32\]: clean/2022/11/2022-11-10-nota-636A2B2B34B8770AF8FDE0EE.txt
-\[33\]: clean/2023/07/2023-07-14-nota-64AE5F250592342F299DB9E4.txt
-\[34\]: clean/2023/07/2023-07-07-nota-64A3DEC02D77B42474D4F6EE.txt
-\[35\]: clean/2022/09/2022-09-09-nota-6316F95C9531BD6B9732C4E3.txt
-\[36\]: clean/2022/06/2022-06-03-nota-6297122C2071A7D754F1831B.txt
-\[37\]: clean/2021/07/2021-07-16-nota-60ED6302364ED90008001435.txt
-\[38\]: clean/2023/05/2023-05-26-nota-646DE0058E8235823F6B8344.txt
-\[39\]: clean/2021/04/2021-04-23-nota-607EE4F5364ED900080004C6.txt
-\[40\]: clean/2022/12/2022-12-16-nota-639C2083C2B90D4571CF90B2.txt
-\[41\]: clean/2023/12/2023-12-22-nota-658158E8E2E2C9E5814C1F81.txt
-\[42\]: clean/2023/02/2023-02-17-nota-63ECA1012E929B312AB5D9E9.txt
-\[43\]: clean/2021/12/2021-12-03-nota-61A76F43364ED90008000003.txt
-\[44\]: clean/2022/12/2022-12-23-nota-63A17503DBF1CAE811022084.txt
-\[45\]: clean/2023/03/2023-03-31-nota-642429418A5434FEB565717C.txt
-\[46\]: clean/2021/07/2021-07-02-nota-60DC2EED364ED90008000378.txt
-\[47\]: clean/2022/10/2022-10-14-nota-6346716E1EA6B745D23CB835.txt
-\[48\]: clean/2023/12/2023-12-15-nota-65785A71E2E2C9E5814C035F.txt
-\[49\]: clean/2022/01/2022-01-28-nota-61F131A0D5F0FAFA87AFA589.txt
-\[50\]: clean/2020/12/2020-12-18-nota-5FD8BB2F6B34EF0008000A7D.txt
-\[51\]: clean/2023/01/2023-01-20-nota-63C7F26417E4B551F4BD090C.txt
-\[52\]: clean/2021/04/2021-04-23-nota-607FD055364ED900080004D1.txt
-\[53\]: clean/2022/07/2022-07-08-nota-62C3F8CD8E6C4430A88977AE.txt
-\[54\]: clean/2023/09/2023-09-29-nota-6512DCE93605E1AC863C02CD.txt
-\[55\]: clean/2023/12/2023-12-15-nota-65781E9DE2E2C9E5814C016B.txt
-\[56\]: clean/2023/07/2023-07-14-nota-64AE56350592342F299DB9B7.txt
-\[57\]: clean/2022/07/2022-07-15-nota-62CD3BDF8E6C4430A88987E6.txt
-\[58\]: clean/2022/06/2022-06-03-nota-629883152071A7D754F18461.txt
-\[59\]: clean/2020/05/2020-05-15-nota-5EBA4C9AFE23BF00080001CB.txt
-\[60\]: clean/2023/11/2023-11-10-nota-654B662A9DAB6626D11E6281.txt
-\[61\]: clean/2023/03/2023-03-17-nota-64107B9E3335D329E25ECCD8.txt
-\[62\]: clean/2021/04/2021-04-23-nota-607ED3B1364ED900080004B8.txt
-\[63\]: clean/2021/07/2021-07-16-nota-60F12FD0364ED900080017AF.txt
-\[64\]: clean/2021/12/2021-12-10-nota-61AF8335364ED90009000648.txt
-\[65\]: clean/2020/01/2020-01-24-nota-5E26D3A49B663900080001B8.txt
-\[66\]: clean/2023/08/2023-08-31-nota-64EDA6623605E1AC863BD531.txt
-\[67\]: clean/2020/09/2020-09-25-nota-5F69AF930379AD0008000935.txt
-\[68\]: clean/2023/08/2023-08-31-nota-64ED94A23605E1AC863BD4EA.txt
-\[69\]: clean/2022/12/2022-12-02-nota-63860AB086124BBA17062B14.txt
-\[70\]: clean/2020/04/2020-04-17-nota-5E987175639E7700080001CB.txt
-\[71\]: clean/2022/10/2022-10-28-nota-6357AC961EA6B745D23CC847.txt
-\[72\]: clean/2021/04/2021-04-02-nota-60631335364ED90008000456.txt
-\[73\]: clean/2022/05/2022-05-06-nota-62723FC51C4A193816C3069F.txt
-\[74\]: clean/2021/07/2021-07-16-nota-60ED5153364ED90008001420.txt
-\[75\]: clean/2022/01/2022-01-14-nota-61DE94C3364ED9000800099F.txt
-\[76\]: clean/2020/09/2020-09-18-nota-5F5F86F40379AD0008000683.txt
-\[77\]: clean/2022/03/2022-03-18-nota-6231A32A6BB7B593CFC189CD.txt
-\[78\]: clean/2023/12/2023-12-22-nota-6581AC4CE2E2C9E5814C231B.txt
-\[79\]: clean/2022/05/2022-05-06-nota-62722CC21C4A193816C3061A.txt
-\[80\]: clean/2020/07/2020-07-17-nota-5F11DA27FA87E00008000D59.txt
-\[81\]: clean/2020/11/2020-11-27-nota-5FBF819C20B6670008000388.txt
-
-## Referenties (full text)
-
-\[0\]: Financiering functieclassificatie in centra voor geestelijke gezondheidszorg: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van de functieclassificatie in de centra voor geestelijke gezondheidszorg  In uitvoering van het Zesde Vlaams Intersectoraal akkoord voor de social/non-profit sectoren , wijzigt de Vlaamse Regering, na advies van de Raad van State, definitief haar besluit over de financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, voor wat betreft de functieclassificatie van werknemers in de centra voor geestelijke gezondheidszorg voor het jaar 2023.
+<details>
+        <summary>Referenties </summary>
+        \[0\]: Financiering functieclassificatie in centra voor geestelijke gezondheidszorg: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het Besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, wat betreft de financiering van de functieclassificatie in de centra voor geestelijke gezondheidszorg  In uitvoering van het Zesde Vlaams Intersectoraal akkoord voor de social/non-profit sectoren , wijzigt de Vlaamse Regering, na advies van de Raad van State, definitief haar besluit over de financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten, voor wat betreft de functieclassificatie van werknemers in de centra voor geestelijke gezondheidszorg voor het jaar 2023.
 
 \[1\]: Tegemoetkoming voor mobiliteitshulpmiddelen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, wat betreft de tegemoetkoming voor mobiliteitshulpmiddelen  Het decreet over de Vlaamse sociale bescherming integreert de zorgverzekering, het basisondersteuningsbudget en de tegemoetkoming voor hulp aan bejaarden in de Vlaamse sociale bescherming (VSB). Sinds 1 januari 2019 maken mobiliteitshulpmiddelen deel uit van de Vlaamse sociale bescherming. In dit kader wijzigt de Vlaamse Regering, na advies van de Raad van State, definitief het uitvoeringsbesluit bij het decreet VSB. De optimalisaties hebben onder meer betrekking op een vereenvoudiging van  procedures, aanpassing van tegemoetkomingen en criteria voor toekenning, de implementatie van een huursysteem voor palliatieve patiënten en een uitbreiding van het aanbod.​
 
@@ -270,7 +190,5 @@ De genoemde besluiten en maatregelen tonen aan dat de Vlaamse Regering stappen h
 \[80\]: COVID-19: financiering ouderenzorg Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 24 april 2020 tot bepaling van een aantal maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de COVID-19 crisis, wat betreft de tweede fase van de maatregelen  De Vlaamse Regering wijzigt het besluit van 24 april 2020 over maatregelen ter ondersteuning van de woonzorgcentra, de centra voor kortverblijf, de centra voor dagverzorging en de centra voor dagopvang naar aanleiding van de Covid-19-crisis. Het gaat om een volgende fase van ondersteunende maatregelen, waarbij een compenserende financiering wordt voorzien voor woonzorgcentra en centra voor kortverblijf die voorzien in een verantwoorde leegstand van woongelegenheden om te kunnen overschakelen op cohortering in het geval van een nieuwe uitbraak. Daarnaast is er ook een compenserende financiering voorzien om extra personeel in te schakelen in de woonzorgcentra en centra voor kortverblijf of om medewerkers die gepresteerde meeruren als recuperatie opnemen, te vervangen. Verder voorziet het besluit in een financiering van de coördinerend en raadgevend arts in alle woongelegenheden van het woonzorgcentrum, al dan niet met bijbehorend centra voor kortverblijf.
 
 \[81\]: Uitbreiding mogelijkheid zorgwonen: wijziging Vlaamse Codex Ruimtelijke Ordening Voorontwerp van decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 wat betreft zorgwonen  Steeds meer Vlamingen met zorgbehoeften willen zo lang mogelijk in hun eigen thuisomgeving blijven wonen en thuiszorg moet bereikbaarder en betaalbaarder worden voor meer mensen. Daarom beslist de Vlaamse Regering het toepassingsgebied van zorgwonen op basis van de meldingsplicht uit te breiden. Ze wijzigt daarvoor principieel de Vlaamse Codex Ruimtelijke Ordening zodat ook   bestaande bijgebouwen en mobiele units voor zorgwonen gebruikt kunnen worden. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de SARO.
+        </details> 
 
-## Sectie inhoud
-
-1.2.4.5 Van VSB tot stevige basis van een Vlaamse sociale zekerheid Na de zesde staatshervorming werden bepaalde revalidatieconventies en de financiering van de revalidatieziekenhuizen overgedragen naar de deelstaten. Hetzelfde geldt voor de initiatieven beschut wonen en de psychiatrische verzorgingstehuizen. Deze bevoegdheden werden tijdens de voorbije regeerperiode verdergezet conform de federale regelgeving. De komende regeerperiode zullen we deze voorzieningen dan ook verder inkantelen in de Vlaamse sociale bescherming (bijvoor-beeld door samenwerking met zorg-bedrijven), waarbij we nagaan hoe we de ondersteuning die geboden wordt effici-enter, kwalitatiever en cliëntgericht kunnen maken. De Vlaamse revalidatie hervormen we tot een kwalitatief en duidelijk geheel conform de goedgekeurde conceptnota. 

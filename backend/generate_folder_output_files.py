@@ -26,15 +26,19 @@ def create_markdown(input_path, output_path):
 
     output_path = output_path.replace('.txt', '')
     with open(output_path + '.md', 'w') as f:
-        # ugly formatting for now
         f.write(llm_data['heading'] + '\n\n')
+
+        f.write(f"""<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>{section_content}</p>
+        </details> \n\n""")
+
         f.write(llm_data['body'] + '\n\n')
-        f.write('## Referenties (s3 files)\n\n')
-        f.write(llm_data['refs_s3'] + '\n\n')
-        f.write('## Referenties (full text)\n\n')
-        f.write(llm_data['refs_full'] + '\n\n')
-        f.write('## Sectie inhoud\n\n')
-        f.write(section_content)
+
+        f.write(f"""<details>
+        <summary> Referenties </summary>
+        {llm_data['refs_full']}
+        </details> \n\n""")
 
 
 if __name__ == '__main__':
