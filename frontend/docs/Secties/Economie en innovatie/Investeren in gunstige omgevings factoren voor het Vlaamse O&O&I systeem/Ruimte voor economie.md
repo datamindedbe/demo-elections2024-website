@@ -1,1 +1,17 @@
+
+
+Ik begrijp dat je informatie wilt over de mate waarin de regering haar beloftes uit het regeerakkoord nakomt aan de hand van bepaalde beslissingen. Helaas heb je geen specifieke documenten verstrekt met details van het regeerakkoord of de genomen regeringsbeslissingen, dus ik kan geen inhoudelijke analyse maken.
+
+Als je echter gedetailleerde informatie verstrekt over specifieke commitments uit het regeerakkoord en de overeenkomstige regeringsbeslissingen, dan kan ik een samenvatting geven over hoe goed de regering presteert met betrekking tot haar beloftes. Vergeet niet om de benodigde documenten of links naar de relevante informatie te verstrekken, zodat ik een correcte analyse kan uitvoeren.
+
+## Referenties (s3 files)
+
+
+
+## Referenties (full text)
+
+
+
+## Sectie inhoud
+
 2.3.3 Ruimte voor economie Vanuit de principes van BRV zorgen we voor voldoende gevarieerd aanbod om te werken en te ondernemen. We brengen de noden en toekomstige ruimte-vraag van ondernemingen in kaart en ontwikkelen een concept dat competitief en toonaangevend is op wereldschaal. We hebben daarbij aandacht voor duurzaamheid, zuinig ruimtegebruik en innovatief bouwen. PMV en LRM nemen hierin een trekkende en faciliterende rol op. We brengen het aanbod verder in kaart en gebruiken deze digitale inventaris om enerzijds beleidsbeslissingen m.b.t. ruimtelijke invulling te ondersteunen en anderzijds snel en doelgericht locaties voor specifieke ondernemingen te zoeken. Via brownfieldconvenanten creëren we nieuwe mogelijkheden na sanering, onder andere voor ondernemingen. Vanuit de principes van het BRV streven we verdichting en multifunctionaliteit gecombineerd met groenblauwe dooradering overal na. Het huidige governance model, met de geïntegreerde en interdepartementale aanpak en afstemming, zetten we verder en trekken we door naar andere complexe projecten, en waar moge-lijk naar blackfieldconvenanten. Binnen onze regelgeving wordt het regelluw zijn een voortdurend streven. We creëren ook regel-luwe zones waarin geëxperimenteerd kan worden met verdichting, verhoging, verdieping, … om tot 4 Bij “fygitale” ondernemingsvormen worden fysieke kleinhandel-en andere ondernemersactiviteiten aangevuld met een online koopplatform en een distributiecomponent die de goederen op een centrale plaats en/of aan huis levert. nieuwe kwaliteitsvolle en duurzame bedrijfs-ruimten en werklocaties te komen. Bestaande bedrijventerreinen worden in de eerste plaats voorbehouden voor ondernemingen. Andere functies (wonen, retail, landbouw, …) kunnen enkel indien ze een ondersteunende meerwaarde bieden voor de bedrijfsfunctie. Alleen op die manier kunnen we de doelstellingen van het BRV in de praktijk realiseren. We zorgen voor soepele instrumenten en soepele normering om ondernemingen snel en flexibel aan bedrijfsruimte te helpen, en stimuleren gemeenten om meer samen te werken rond voldoende ruimte om te ondernemen. Door voortdurend te leren uit concrete terreinrealisa-ties inzake verweving en verdichting voor bedrijfs-ruimten en werklocaties brengen we de regelluwe regelgeving ook permanent in de praktijk. 

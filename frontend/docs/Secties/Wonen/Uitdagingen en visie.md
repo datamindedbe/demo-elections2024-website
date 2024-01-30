@@ -1,1 +1,0 @@
-4.1 Uitdagingen en visie Iedereen moet goed kunnen wonen in Vlaanderen. Daarom verdienen alle segmenten van de woningmarkt de nodige aandacht en ondersteuning. De demografische evolutie met een bevolkingstoename en gezinsverdunning stelt de woningmarkt voor grote uitdagingen inzake nieuwe woningtypologieën en woonvormen, betaalbaarheid en kwaliteit. 
