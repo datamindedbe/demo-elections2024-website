@@ -1,5 +1,7 @@
 import os 
 
+def remove_newline_char(text: str) -> str:
+    return text.replace('\n', ' ')
 
 def get_secties_structure(path):
     # a very specific function to get the structure of the secties folder
