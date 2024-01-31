@@ -4,6 +4,7 @@
 
 import json
 import os
+from config import LLM_RESPONSE_PATH_OF_INTEREST
 
 def merge_dicts(dict1, dict2):
     result = {}
@@ -15,10 +16,8 @@ def merge_dicts(dict1, dict2):
 
     return result
 
-FOLDER_PATH = 'data/llm_responses/agreement_adherence/60k_token_context/'
-
-for folder in os.listdir(FOLDER_PATH):
-    input_file = FOLDER_PATH + folder + '/clean_response.md'
+for folder in os.listdir(LLM_RESPONSE_PATH_OF_INTEREST):
+    input_file = LLM_RESPONSE_PATH_OF_INTEREST + folder + '/clean_response.md'
 
     if not os.path.isfile(input_file):
         continue
@@ -91,7 +90,7 @@ for folder in os.listdir(FOLDER_PATH):
 
 
 
-    with open(FOLDER_PATH + folder + '/clean_responses.json', 'w') as f:
+    with open(LLM_RESPONSE_PATH_OF_INTEREST + folder + '/clean_responses.json', 'w') as f:
         json.dump({'heading': heading,
                    'body': body,
                    'references': references
