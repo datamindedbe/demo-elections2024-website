@@ -1,15 +1,13 @@
 import openai
 import tiktoken
-from src import OPENAI_API_KEY
+from config import OPENAI_API_KEY, OPENAI_MODEL_NAME
 from src.vector_store import VectorDBItem
-
-MODEL = "gpt-4-1106-preview"
 
 client = openai.OpenAI(
     api_key=OPENAI_API_KEY
 )
 
-encoding = tiktoken.encoding_for_model(MODEL)
+encoding = tiktoken.encoding_for_model(OPENAI_MODEL_NAME)
 
 def get_response(prompt:str)->str:
     api_response = client.chat.completions.create(
@@ -20,7 +18,7 @@ def get_response(prompt:str)->str:
                 "content": prompt,
             }
         ],
-        model=MODEL,
+        model=OPENAI_MODEL_NAME,
     )
     return api_response.choices[0].message.content
 

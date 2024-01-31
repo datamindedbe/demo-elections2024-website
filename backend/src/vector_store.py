@@ -3,10 +3,10 @@ from chromadb.utils import embedding_functions
 from typing import Optional, List
 from dataclasses import dataclass
 
-from src import DB_PATH, OPENAI_API_KEY
+from config import VECTOR_DB_PATH, OPENAI_API_KEY
 from src.util import remove_newline_char
 
-Chroma_client = chromadb.PersistentClient(path=DB_PATH)
+Chroma_client = chromadb.PersistentClient(path=VECTOR_DB_PATH)
 
 @dataclass
 class VectorDBItem():

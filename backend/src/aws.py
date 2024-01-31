@@ -1,5 +1,5 @@
 import boto3
-from src import AWS_PROFILE_NAME
+from config import AWS_PROFILE_NAME
 boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
 s3_client= boto3.client('s3')
 
