@@ -1,4 +1,5 @@
 # script to populate setup the chromadb data and populate it
+# once off script
 import glob
 import pathlib
 from src.vector_store import VectorCollection
