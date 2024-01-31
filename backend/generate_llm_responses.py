@@ -2,12 +2,12 @@ import glob, os, datetime, pathlib, re
 from typing import List
 from src import llm
 from src.vector_store import VectorCollection, VectorDBItem
+from config import AGREEMENTS_PATH
 
 
-MAX_DECISIONS_TO_INCLUDE = 200 # 
-MAX_PROMPT_TOKEN_COUNT = 20000
-OUTPUT_DIR_BASE = 'data/llm_responses/generated_responses/tmp/'
-INPUT_DIR = 'data/agreement_document/sections/raw/'
+MAX_DECISIONS_TO_INCLUDE = 200 
+MAX_PROMPT_TOKEN_COUNT = 20000 # main value to tweek
+OUTPUT_DIR_BASE = 'tmp/llm_responses/' # we don't do directly to standard output dir to prevent overwriting
 TOPICS_LIMIT = 3 # for dev, to prevent too many requests to OpenAI
 
 output_dir = os.path.join(OUTPUT_DIR_BASE, datetime.datetime.now().strftime('%Y-%m-%d_%H-%M'))
@@ -88,7 +88,7 @@ def save_response_structured(prompt:str,
 if __name__ == '__main__':
 
     decisions_collection = VectorCollection(name="decisions")
-    topic_paths = glob.glob(INPUT_DIR + '*.txt')[:TOPICS_LIMIT]
+    topic_paths = glob.glob(AGREEMENTS_PATH + '*.txt')[:TOPICS_LIMIT]
     print(f"topic paths: {topic_paths}")
 
     for topic_file in topic_paths:

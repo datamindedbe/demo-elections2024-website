@@ -44,18 +44,13 @@ def add_url_to_response_json(input_file_name, s3_bucket, decisions_path):
 
 
 if __name__ == '__main__':
+    from config import LLM_RESPONSE_PATH_OF_INTEREST, DECISIONS_S3_BUCKET, DECISIONS_LOCAL, AWS_PROFILE_NAME
 
-    SOURCE_JSONS_PATH = 'data/llm_responses/agreement_adherence/60k_token_context/'
-    S3_BUCKET = 'genai-elections2024'
-    DECISIONS_PATH = 'data/decisions/'
-    profile_name = os.environ.get('AWS_PROFILE_NAME')
-    print(f'Using AWS profile: {profile_name}')
-
-    boto3.setup_default_session(profile_name=profile_name)
+    boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
     s3 = boto3.resource('s3')
-    s3_bucket = s3.Bucket(S3_BUCKET)
+    s3_bucket = s3.Bucket(DECISIONS_S3_BUCKET)
 
-    for section in  os.listdir(SOURCE_JSONS_PATH):
-        response_json_path = SOURCE_JSONS_PATH + section + '/clean_responses.json'
-        add_url_to_response_json(response_json_path, s3_bucket, DECISIONS_PATH)
+    for section in  os.listdir(LLM_RESPONSE_PATH_OF_INTEREST):
+        response_json_path = LLM_RESPONSE_PATH_OF_INTEREST + section + '/clean_responses.json'
+        add_url_to_response_json(response_json_path, s3_bucket, DECISIONS_LOCAL)
     
