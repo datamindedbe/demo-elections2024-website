@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "61B871A7364ED9000900146A",
+    "attributes": {
+        "title": "Het Partnerschap Levenslang Leren: oplevering en uitrol van het actieplan levenslang leren \u2018Koers zetten naar een lerend Vlaanderen\u2019",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 182,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61B871A7364ED9000900146A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B871A7364ED9000900146A"
+    }
+}

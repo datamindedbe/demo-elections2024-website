@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64107B9E3335D329E25ECCD8",
+    "attributes": {
+        "title": "Instemmingsdecreet samenwerkingsakkoord slachtofferzorg",
+        "alternativeTitle": "A.\tOntwerp van samenwerkingsakkoord tussen de Federale Staat en de Vlaamse Gemeenschap inzake slachtofferzorg\nB.\tVoorontwerp van instemmingsdecreet",
+        "htmlContent": "<p>Vlaanderen heeft sinds 7 april 1998 een <strong>samenwerkingsakkoord met de federale overheid rond slachtofferzorg</strong>. Daarin wordt omschreven <strong>hoe de verschillende diensten op de verschillende bevoegdheidsniveaus die taken opnemen naar slachtoffers toe, moeten samenwerken</strong>. <strong>Na 25 jaar</strong> dringt een <strong>actualisatie en optimalisatie</strong> van dit samenwerkingsakkoord zich op. De Vlaamse Regering keurt dit <strong>vernieuwde samenwerkingsakkoord</strong> nu goed. Zo wordt nu bijvoorbeeld rekening gehouden met de bevoegdheidsoverdracht van de dienst slachtofferonthaal van de justitiehuizen naar de gemeenschappen in het kader van de Zesde Staatshervorming. Daarnaast wordt ook het slachtoffer zoveel mogelijk centraal gezet. De Vlaamse Regering hecht meteen ook haar principi\u00eble goedkeuring aan het voorontwerp van decreet dat met het nieuwe samenwerkingsakkoord rond slachtofferzorg instemt. Over dit <strong>voorontwerp van instemmingsdecreet</strong> wordt nu het advies ingewonnen van de Vlaamse Raad WVG, de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens en de Gegevensbeschermingsautoriteit.</p>",
+        "position": 9,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-03-17T09:00:00Z",
+        "meetingId": "640F381B3335D329E25ECA38",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64107B9E3335D329E25ECCD8",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64107B9E3335D329E25ECCD8"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "60ED6298364ED90008001434",
+    "attributes": {
+        "title": "Herverdeling provisie VIA6 voor 2021 voor de private WVG-sectoren, de overige welzijnssectoren, de sociale economie en de publieke psychiatrische verzorgingstehuizen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+        "htmlContent": "In uitvoering van Luik III van het zesde Vlaams Intersectoraal Akkoord voor de social/nonprofitsectoren voor de periode 2021-2025, <strong>beslist de Vlaamse Regering voor het begrotingsjaar 2021&nbsp;tot de herverdeling van&nbsp;een provisioneel krediet voor een totaal bedrag van 358 miljoen euro, voor de private WVG-sectoren, de overige welzijnssectoren, de sociale economie en de publieke psychiatrische verzorgingstehuizen.&nbsp;</strong>",
+        "position": 86,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "74cf5db5-8b6c-442e-baf4-97fbc896f986"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+        "agendaitemType": "Nota",
+        "uuid": "60ED6298364ED90008001434",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED6298364ED90008001434"
+    }
+}

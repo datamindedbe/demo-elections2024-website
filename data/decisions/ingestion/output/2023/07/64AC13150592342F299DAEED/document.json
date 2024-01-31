@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64AC13150592342F299DAEED",
+    "attributes": {
+        "title": "Aanpak minimumdoelen basisonderwijs, eerste graad secundair onderwijs en zevende leerjaar secundair onderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 155,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "64AC13150592342F299DAEED",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AC13150592342F299DAEED"
+    }
+}

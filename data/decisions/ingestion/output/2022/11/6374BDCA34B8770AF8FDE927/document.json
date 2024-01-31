@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6374BDCA34B8770AF8FDE927",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Digitalisering integratie en inburgering",
+        "alternativeTitle": "Digitalisering integratie en inburgering",
+        "htmlContent": "In het kader van het <strong data-__set-by=\"rdfa-editor\">project VV50 'Digitalisering Integratie en Inburgering'</strong> van het Relanceplan Vlaamse Veerkracht, <strong data-__set-by=\"rdfa-editor\">keurt de Vlaamse Regering de herverdeling goed van 659.000 euro naar het Agentschap Integratie en Inburgering</strong>. Het gaat om de digitaliseringsprojecten in het integratie- en inburgeringsbeleid die gedragen worden door het Vlaams Agentschap Integratie en Inburgering, Atlas vzw, IN-Gent vzw en het Huis van het Nederlands Brussel. Het bedrag moet een <strong data-__set-by=\"rdfa-editor\">overkoepelend kader</strong> cre\u00ebren <strong data-__set-by=\"rdfa-editor\">voor digitale transformatie</strong> en verder inzetten op de ondersteuning van de entiteiten.",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-11-18T09:00:00Z",
+        "meetingId": "637285F234B8770AF8FDE697",
+        "meetingTypePosition": 1,
+        "themeId": "34394a01-5c8c-44c9-aade-59087026f266",
+        "agendaitemType": "Nota",
+        "uuid": "6374BDCA34B8770AF8FDE927",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6374BDCA34B8770AF8FDE927"
+    }
+}

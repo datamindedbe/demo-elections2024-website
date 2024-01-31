@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "6423EEA38A5434FEB5657111",
+    "attributes": {
+        "title": "Secundair onderwijs: programmatie opleidingen deeltijds beroepssecundair onderwijs en duale structuuronderdelen gewoon voltijds secundair onderwijs",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot goedkeuring van de programmatie van opleidingen in het deeltijds beroepssecundair onderwijs en van duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+        "htmlContent": "<p>De Vlaamse Regering <strong>keurt 266 van de 279 ontvankelijke programmatieaanvragen voor duale structuuronderdelen van het gewoon voltijds secundair onderwijs</strong> en de aanvraag voor een <strong>opleiding in het deeltijds beroepssecundair onderwijs</strong> voor het schooljaar 2023-2024 goed.</p>",
+        "position": 16,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-03-31T08:00:00Z",
+        "meetingId": "6421A81A3335D329E25EDD30",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "6423EEA38A5434FEB5657111",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6423EEA38A5434FEB5657111"
+    }
+}

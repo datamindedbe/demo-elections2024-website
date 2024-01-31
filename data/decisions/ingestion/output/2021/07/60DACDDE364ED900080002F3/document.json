@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60DACDDE364ED900080002F3",
+    "attributes": {
+        "title": "Praktijkcommissie onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs: plan van aanpak, tijdspad en samenstelling",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 44,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d437d986-09de-4b46-8fce-f6ca4389f492",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2021-07-02T08:00:00Z",
+        "meetingId": "60DA116A364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60DACDDE364ED900080002F3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60DACDDE364ED900080002F3"
+    }
+}

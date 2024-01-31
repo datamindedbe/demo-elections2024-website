@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "65814B2CE2E2C9E5814C1C80",
+    "attributes": {
+        "title": "Personeelsuitbreiding met 28 VTE bij het Departement Zorg met het oog op een effici\u00ebnte en kwalitatieve uitvoering van bijkomende opdrachten",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">Met het oog op een <strong>effici\u00ebnte en kwalitatieve uitvoering van bijkomende opdrachten</strong> keurt de Vlaamse Regering de <strong>personeelsuitbreiding met 28 VTE bij het Departement Zorg</strong> goed, zonder compensatie in het kader van de personeelsbesparingen. De meervraag wordt gemotiveerd voor volgende 5 thema\u2019s: de kwaliteit bewaken en handhaven in zorg en welzijn; Belrai als screeningsinstrument implementeren met afgeleide rechten; meer personeel aantrekken in de zorg- en welzijnssector; meer inzetten op preventieve gezondheid; en het versterken van de maturiteit van het Departement Zorg op vlak van project-, proces- en risicomanagement.</p>",
+        "position": 20,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "85e6f060-c8c5-4780-a399-e8b9b2d7d069",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "65814B2CE2E2C9E5814C1C80",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65814B2CE2E2C9E5814C1C80"
+    }
+}

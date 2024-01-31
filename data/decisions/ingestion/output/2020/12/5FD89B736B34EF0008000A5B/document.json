@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "5FD89B736B34EF0008000A5B",
+    "attributes": {
+        "title": "Van leren en werken naar duaal leren en aanloopfase: een veilige haven voor elke leerling",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 169,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070d",
+            "5fed907ee6670526694a0712"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FD89B736B34EF0008000A5B",
+        "uri": "http://themis.vlaanderen.be/id/resource/aeb9c2f0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

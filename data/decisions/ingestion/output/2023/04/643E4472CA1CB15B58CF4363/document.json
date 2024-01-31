@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "643E4472CA1CB15B58CF4363",
+    "attributes": {
+        "title": "Nieuwe samenstelling valideringscommissie voor de (specifieke) minimumdoelen van de 2de en 3de graad secundair onderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 62,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-04-21T08:00:00Z",
+        "meetingId": "643D4B84CA1CB15B58CF4182",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "643E4472CA1CB15B58CF4363",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/643E4472CA1CB15B58CF4363"
+    }
+}

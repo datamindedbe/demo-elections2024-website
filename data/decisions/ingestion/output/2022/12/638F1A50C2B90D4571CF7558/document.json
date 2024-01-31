@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "638F1A50C2B90D4571CF7558",
+    "attributes": {
+        "title": "Addenda duaal leren bij de sectorconvenants 2021-2022",
+        "alternativeTitle": "Negentien ontwerpen van addendum",
+        "htmlContent": "De Vlaamse Regering keurt de <strong data-__set-by=\"rdfa-editor\">werkingssubsidie van 725.000 euro</strong> goed <strong data-__set-by=\"rdfa-editor\">voor de addenda 'duaal leren 2023' bij de sectorconvenants 2021-2022 voor de periode van 1 januari 2023 tot en met 30 juni 2023 met 19 sectoren</strong>. Deze addenda zorgen er ook voor dat vanaf 2023 elke generatie sectorconvenants start op 1 juli in plaats van op 1 januari.",
+        "position": 71,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-12-09T09:00:00Z",
+        "meetingId": "638DD5DDC2B90D4571CF6BBF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "638F1A50C2B90D4571CF7558",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/638F1A50C2B90D4571CF7558"
+    }
+}

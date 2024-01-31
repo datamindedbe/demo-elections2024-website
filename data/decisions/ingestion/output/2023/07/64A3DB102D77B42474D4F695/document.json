@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64A3DB102D77B42474D4F695",
+    "attributes": {
+        "title": "Sciensano: subsidie tweede editie Preventiebarometer",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan Sciensano voor de uitvoering van de tweede editie van de Preventiebarometer",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>kent voor de periode van 1 december 2023 tot 30 november 2026 een subsidie van 616.000 euro toe aan Sciensano, voor de tweede editie van de Preventiebarometer.</strong> De Preventiebarometer is een terugkerend surveyonderzoek bij de Vlaamse bevolking naar kennis, attitude en motivatie over gezonder leven (roken, voeding, beweging, middelengebruik, bevolkingsonderzoek, seksuele gezondheid, mentale gezondheid). De tweede editie maakt het mogelijk om de kennis, attitude en motivatie van Vlamingen te monitoren doorheen de tijd en in te zetten op het verbeteren van het bereik bij kwetsbare doelgroepen, op aanvullende inhouden, en op het ontwikkelen van een gebruiksvriendelijke applicatie voor stakeholders en preventieorganisaties. </p>",
+        "position": 16,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "bb2e174a-374e-447d-ad0c-002204b4561f",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+        "agendaitemType": "Nota",
+        "uuid": "64A3DB102D77B42474D4F695",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A3DB102D77B42474D4F695"
+    }
+}

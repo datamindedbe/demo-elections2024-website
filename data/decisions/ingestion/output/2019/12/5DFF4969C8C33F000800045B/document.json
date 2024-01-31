@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "5DFF4969C8C33F000800045B",
+    "attributes": {
+        "title": "Instrumentendecreet omgevingsbeleid",
+        "alternativeTitle": null,
+        "htmlContent": "                                          <p>Het Vlaams Regeerakkoord 2014-2019 stelt een <strong>omgevingsbeleid</strong> voorop vanuit gebiedsgerichte en ge\u00efntegreerde realisaties in combinatie met een verbeterd instrumentarium. Na advies van de Raad van State hecht de Vlaamse Regering nu <strong>haar definitieve goedkeuring aan het ontwerpdecreet over het realisatiegericht instrumentarium ('instrumentendecreet')</strong>. Het zet een logische en noodzakelijke vervolgstap in de bundeling en de afstemming van omgevingsinstrumenten met het oog op ruimtelijke realisaties op het terrein. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.</p>\n\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2019-12-20T17:30:00Z",
+        "meetingId": "5DFF4907C8C33F0008000455",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "1229a139-cd06-4ba7-9998-da34bf46ed6d"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5DFF4969C8C33F000800045B",
+        "uri": "http://themis.vlaanderen.be/id/resource/3f0423a0-492b-11ec-94bb-99a9d1e168fe"
+    }
+}

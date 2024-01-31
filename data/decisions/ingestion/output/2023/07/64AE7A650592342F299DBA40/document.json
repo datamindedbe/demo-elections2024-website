@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64AE7A650592342F299DBA40",
+    "attributes": {
+        "title": "Oproep \u2018Lokaal Activeringspact\u2019 leefloongerechtigden",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">In het kader van  de conceptnota 'Flankerende activeringsaanpak voor de verplichte inschrijving van leefloongerechtigden' <strong>keurt</strong> de Vlaamse Regering <strong>de oproep 'Lokaal activeringspact' goed</strong>. De oproep wil <strong>lokale besturen resultaatgericht stimuleren om meer leefloongerechtigden te activeren</strong>, en geeft middelen voor acties die hierop zijn gericht. De oproep vraagt lokale besturen om zich ertoe te engageren een hoger duurzaam uitstroomresultaat te behalen dan het Vlaamse gemiddelde van 24%. De oproep zal <strong>tweemaal opengesteld</strong> worden, <strong>telkens voor een bedrag van 10 miljoen euro, voor projecten met een looptijd van een jaar</strong>. De Vlaamse minister, bevoegd voor de sociale economie, en de Vlaamse minister, bevoegd voor binnenlands bestuur, zullen zorgen voor de lancering en uitvoering van de eerste oproep 'Lokaal activeringspact' en voor de toekenning van de middelen aan de begunstigden. </p>",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AE7A650592342F299DBA40",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE7A650592342F299DBA40"
+    }
+}

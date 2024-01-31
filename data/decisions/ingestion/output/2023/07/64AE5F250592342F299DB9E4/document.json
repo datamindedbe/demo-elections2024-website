@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64AE5F250592342F299DB9E4",
+    "attributes": {
+        "title": "Voorontwerp van decreet tot verzelfstandiging Openbare Psychiatrische Zorgcentra (OPZ) Geel en Rekem",
+        "alternativeTitle": "Voorontwerp van decreet tot verzelfstandiging van de Openbare Psychiatrische Zorgcentra Geel en Rekem",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>legt het wettelijk kader vast voor de verdere verzelfstandiging van de Openbare Psychiatrische Zorgcentra Geel en Rekem</strong>, in uitvoering van het Vlaams Regeerakkoord 2019-2024. Ze hecht hiervoor haar principi\u00eble goedkeuring aan het voorontwerp van decreet hierover. Over dit voorontwerp van decreet wordt het advies ingewonnen van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin (WVG). Het wordt ook voor onderhandelingen voorgelegd aan de sociale partners en gaat voor advies naar de Raad van State.</p>",
+        "position": 20,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AE5F250592342F299DB9E4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE5F250592342F299DB9E4"
+    }
+}

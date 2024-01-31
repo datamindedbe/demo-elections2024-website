@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "633BDBA7EB2A31D34EEC5E38",
+    "attributes": {
+        "title": "Eindrapport praktijkcommissie onderwijsdoelen voor de tweede en derde graad van het secundair onderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2022-10-07T08:00:00Z",
+        "meetingId": "633BCDD5EB2A31D34EEC5D22",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "633BDBA7EB2A31D34EEC5E38",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633BDBA7EB2A31D34EEC5E38"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "6295BCB02071A7D754F180DC",
+    "attributes": {
+        "title": "Transitie van voorzieningen van onderwijs naar welzijn",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 48,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-06-03T08:00:00Z",
+        "meetingId": "6294A9CD2071A7D754F17E37",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6295BCB02071A7D754F180DC",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6295BCB02071A7D754F180DC"
+    }
+}

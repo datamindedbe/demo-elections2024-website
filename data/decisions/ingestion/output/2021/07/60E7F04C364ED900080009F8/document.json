@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "60E7F04C364ED900080009F8",
+    "attributes": {
+        "title": "Wijziging integratie- en inburgeringsdecreet",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid, aangenomen door het Vlaams Parlement op 7 juli 2021",
+        "htmlContent": "D<span>e&nbsp;</span>Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het&nbsp;decreet dat het decreet over het Vlaamse integratie- en inburgeringsbeleid wijzigt</strong>. Met de wijzigingen wil de Vlaamse overheid het <strong>inburgeringsbeleid slagkrachtiger maken, met oog voor verhoogde economische zelfredzaamheid, snelle actieve maatschappelijke participatie, doorgedreven taalverwerving en kennis van de Vlaamse waarden en samenleving.</strong> Het gewijzigde decreet moet zo uitvoering geven aan de ambities uit het Vlaamse Regeerakkoord 2019-2024 over de hertekening van inburgering en het aanpassen van het integratiebeleid. Het&nbsp;nieuwe inburgeringsbeleid biedt de inburgeraar meer kansen door het aanreiken van de hefbomen om als een volwaardige burger in Vlaanderen te kunnen functioneren. Het wijzigingsdecreet werd op 7 juli 2021 aangenomen door het Vlaams Parlement.",
+        "position": 100,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E7F04C364ED900080009F8",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E7F04C364ED900080009F8"
+    }
+}

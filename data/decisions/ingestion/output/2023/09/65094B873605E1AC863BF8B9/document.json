@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "65094B873605E1AC863BF8B9",
+    "attributes": {
+        "title": "Samenstelling overkoepelende commissie, (algemene) ontwikkelcommissie(s) en valideringscommissie voor de ontwikkelingsdoelen en minimumdoelen van het basisonderwijs en minimumdoelen van de 1ste graad secundair onderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 28,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-09-22T08:00:00Z",
+        "meetingId": "650935BD3605E1AC863BF6B6",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "65094B873605E1AC863BF8B9",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65094B873605E1AC863BF8B9"
+    }
+}

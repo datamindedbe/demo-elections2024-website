@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5F69B47B0379AD0008000990",
+    "attributes": {
+        "title": "Vlaams Actieplan Armoedebestrijding 2020-2024",
+        "alternativeTitle": null,
+        "htmlContent": "                                          <!---->\n\n De Vlaamse Regering keurt het <strong>Vlaams Actieplan Armoedebestrijding 2020-2024</strong> goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregelen op het vlak van het voorkomen en bestrijden van armoede, en dat op korte en lange termijn, samen met de modaliteiten van evaluatie van het gevoerde beleid.&nbsp;De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal het plan overzenden naar het Vlaams Parlement.<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 17,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "5fed907ee6670526694a0719",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2020-09-25T08:00:00Z",
+        "meetingId": "5F68B3B80379AD000800088E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F69B47B0379AD0008000990",
+        "uri": "http://themis.vlaanderen.be/id/resource/6351cc20-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

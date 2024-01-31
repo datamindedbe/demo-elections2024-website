@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "649BD0772D77B42474D4E8ED",
+    "attributes": {
+        "title": "Projectoproep \u2018Expertenpool ter ondersteuning van lokale besturen in het kader van de preventie van gewelddadige radicalisering en extremisme\u2019",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">Lokale besturen hebben een regierol in het kader van preventie van mogelijke radicalisering van hun burgers. Het uitwerken van een beleid rond radicalisering en het opzetten van concrete acties ter preventie, vergt in sommige gevallen specifieke expertise. De Vlaamse Regering keurt daarom de <strong>projectoproep \u2018Expertenpool ter ondersteuning van lokale besturen in het kader van de preventie van gewelddadige radicalisering en extremisme\u2019</strong> goed. Met de expertenpool kunnen lokale besturen beroep doen op deskundigen om mee een <strong>antwoord</strong> te <strong>bieden op bepaalde pijnpunten, signalen en problemen die zich voordoen</strong>. Op die manier kunnen de lokale besturen inzetten op <strong>gerichte interventies</strong> op maat. De vorm van ondersteuning moet aanvullend zijn bij de algemene ondersteuning voor lokale besturen voor de lokale aanpak van gewelddadige radicalisering, die vandaag reeds aangeboden wordt door de VVSG.</p>",
+        "position": 22,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-06-30T08:00:00Z",
+        "meetingId": "649998A72D77B42474D4E38E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "649BD0772D77B42474D4E8ED",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/649BD0772D77B42474D4E8ED"
+    }
+}

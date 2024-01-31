@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "63C7B55017E4B551F4BD08E3",
+    "attributes": {
+        "title": "Standaardtrajecten secundair onderwijs",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2018 tot vastlegging van structuuronderdelen duaal en standaardtrajecten in het secundair onderwijs, wat betreft een uitbreiding van de standaardtrajecten, vanaf schooljaar 2023-2024",
+        "htmlContent": "De codex secundair onderwijs bepaalt dat de Vlaamse Regering nieuwe <strong data-__set-by=\"rdfa-editor\">structuuronderdelen </strong>kan vastleggen, en dat kunnen vanaf het schooljaar 2019-2020 ook structuuronderdelen duaal leren en aanloopstructuuronderdelen zijn. Tegenover elk structuuronderdeel duaal staat een <strong data-__set-by=\"rdfa-editor\">standaardtraject</strong>, met de minimale inhoudelijke en organisatorische modaliteiten van de opleiding in kwestie. De standaardtrajecten worden ontwikkeld in samenwerking tussen onderwijs en werk, en goedgekeurd door de Vlaamse Regering. De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt nu het besluit goed dat een aantal nieuwe standaardtrajecten bevat, die in voege treden vanaf september 2023.</strong> Het besluit bevat daarnaast een <strong data-__set-by=\"rdfa-editor\">opheffing van een bestaand standaardtraject</strong>, als gevolg van actualisaties en bijkomende wijzigingen.",
+        "position": 18,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-01-20T09:00:00Z",
+        "meetingId": "63C56A6C17E4B551F4BD0440",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63C7B55017E4B551F4BD08E3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63C7B55017E4B551F4BD08E3"
+    }
+}

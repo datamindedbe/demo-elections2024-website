@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64A2F82C2D77B42474D4F22B",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Uitgaventoetsing financiering Hoger Onderwijs",
+        "alternativeTitle": "Uitgaventoetsing financiering Hoger Onderwijs",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Brede Heroverweging (VBH) beoogt een grondige doorlichting van alle uitgavenposten en kostendekkingsgraden binnen de Vlaamse begroting. Dat heeft tot doel om de kwaliteit van de publieke financi\u00ebn te verbeteren op vlak van effici\u00ebntie en effectiviteit. De VBH moet leiden tot een structurele verankering van beleidsevaluaties en uitgaventoetsingen in het beleids- en begrotingsproces. In dit kader hecht de Vlaamse Regering haar goedkeuring aan het <strong>plan van aanpak voor de uitgaventoetsing Hoger onderwijs</strong> die zal plaatsvinden in de <strong>periode 2023 \u2013  2024.</strong></p>",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-07-07T08:00:00Z",
+        "meetingId": "64A2EAEB2D77B42474D4F111",
+        "meetingTypePosition": 1,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "64A2F82C2D77B42474D4F22B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F82C2D77B42474D4F22B"
+    }
+}

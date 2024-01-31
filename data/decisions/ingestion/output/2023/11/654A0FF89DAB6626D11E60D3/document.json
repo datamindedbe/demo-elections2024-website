@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "654A0FF89DAB6626D11E60D3",
+    "attributes": {
+        "title": "Nieuwe samenstelling valideringscommissie voor de minimumdoelen basisonderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 51,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "e5e856aa-ab83-4832-ad0a-9435ef91521e",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-11-10T09:00:00Z",
+        "meetingId": "6548F5C59DAB6626D11E5D39",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "654A0FF89DAB6626D11E60D3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/654A0FF89DAB6626D11E60D3"
+    }
+}

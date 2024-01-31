@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "5F5F704D0379AD0008000624",
+    "attributes": {
+        "title": "Kwaliteitstoezicht centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 20 december 2013 betreffende het kwaliteitstoezicht op de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft",
+        "htmlContent": "                                          <!---->\n\n De <strong>externe kwaliteitscontrole</strong> <strong>door de onderwijsinspectie in de scholen met leerplichtonderwijs</strong> gebeurt intussen volgens een <strong>nieuw doorlichtingsscenario op basis van een referentiekader onderwijskwaliteit</strong>. Om deze <strong>aanpak </strong>vanaf het schooljaar 2020-2021 <strong>door te trekken naar de leertijd die georganiseerd wordt door de centra voor de vorming van zelfstandigen en kmo's, </strong>keurt de Vlaamse Regering nu, na advies van de Raad van State, definitief&nbsp;een besluit goed.<!-- components -->\n<!---->",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070d",
+            "5fed907ee6670526694a0712"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2020-09-18T08:00:00Z",
+        "meetingId": "5F5F3C190379AD000800058C",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F5F704D0379AD0008000624",
+        "uri": "http://themis.vlaanderen.be/id/resource/74c56b10-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

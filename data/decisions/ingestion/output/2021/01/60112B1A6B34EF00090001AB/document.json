@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60112B1A6B34EF00090001AB",
+    "attributes": {
+        "title": "Uitbreiding geboorteverlof personeelsleden lokale besturen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 136 en 209 van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn en artikel 99 van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn",
+        "htmlContent": "De Vlaamse Regering zorgt voor een <strong>uitbreiding van het geboorteverlof voor zowel statutaire als contractuele&nbsp;personeelsleden van de lokale besturen</strong>, tot 15 werkdagen vanaf 1 januari 2021 en tot 20 werkdagen vanaf 1 januari 2023. Ze wijzigt daarvoor principieel de nodige besluiten. Over dit wijzigingsbesluit wordt nog onderhandeld met de sociale partners.&nbsp;",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "5fed907ee6670526694a0710",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-01-29T09:00:00Z",
+        "meetingId": "600FC1BE6B34EF0009000006",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60112B1A6B34EF00090001AB",
+        "uri": "http://themis.vlaanderen.be/id/resource/43fc0450-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

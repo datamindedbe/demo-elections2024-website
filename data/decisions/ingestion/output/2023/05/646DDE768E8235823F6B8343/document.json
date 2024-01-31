@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "646DDE768E8235823F6B8343",
+    "attributes": {
+        "title": "Kenniscentrum en pilootproductiefaciliteit voor biotechnologische geneesmiddelen of biotherapeutica",
+        "alternativeTitle": "Twee ontwerpbesluiten van de Vlaamse Regering",
+        "htmlContent": "<p data-indentation-level=\"0\">Het enorme maatschappelijke potentieel en de impact van biotechnologie is recent nog sterk ge\u00efllustreerd door de snelle ontwikkeling van vaccins en antistoffen om de COVID-pandemie aan te pakken. Het <strong>Vlaams Instituut voor Biotechnologie</strong> (VIB) speelt in Vlaanderen een centrale rol voor <strong>kennisopbouw en economische valorisatie</strong>. Het <strong>ontbreken van productiecapaciteit voor producten die door biotech gemaakt worden</strong>, is echter een belangrijke leemte in het Vlaamse biotech ecosysteem. De Vlaamse Regering <strong>keurt daarom de voorbereiding goed van een onafhankelijk, non-profit kenniscentrum en pilootproductiefaciliteit voor biotechnologische geneesmiddelen of biotherapeutica en componenten nodig voor ATMP-ontwikkeling in Vlaanderen </strong>(ATMP staat voor Advanced therapy medicinal products nvdr). De Vlaamse Regering voorziet hiervoor een <strong>cofinanciering van een half miljoen euro voor VIB</strong> om voor dit kenniscentrum gedurende het loopjaar 2023 een team met industrie-ervaring aan te trekken, een businessplan voor de komende 10 jaar uit te werken, de verschillende stakeholders in het landschap te aligneren en een concreet operationeel investeringsplan voor te stellen. Ze keurt het bijbehorende herverdelingsbesluit goed.</p>",
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-05-26T08:00:00Z",
+        "meetingId": "646B73088E8235823F6B7D3C",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "646DDE768E8235823F6B8343",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/646DDE768E8235823F6B8343"
+    }
+}

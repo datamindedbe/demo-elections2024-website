@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "62D009EE8E6C4430A8898B66",
+    "attributes": {
+        "title": "Decreet gewijzigde samenwerkingsovereenkomst verplicht inburgeringstraject voor nieuwkomers in Brussel-Hoofdstad",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot instemming met het samenwerkingsakkoord van 12 mei 2022 tot wijziging van het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad, aangenomen door het Vlaams Parlement op 13 juli 2022",
+        "htmlContent": "De Vlaamse Regering beslist tot&nbsp;<strong data-__set-by=\"rdfa-editor\">bekrachtiging en afkondiging van het decreet dat instemt met het gewijzigde samenwerkingsakkoord tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor nieuwkomers in Brussel-Hoofdstad</strong>. De wijziging omvat het<strong data-__set-by=\"rdfa-editor\">&nbsp;toevoegen van een wettelijke basis voor de verwerking van persoonsgegevens in een uniform computergestuurd systeem</strong>. Dit uniform computergestuurd systeem zal gebruikt worden voor de opvolging van de dossiers van nieuwkomers en zal ter beschikking worden gesteld van de gemeenten van het tweetalige gebied Brussel-Hoofdstad, de erkende inrichters van het inburgeringstraject en de nieuwkomers. Dit instemmingsdecreet werd op 13 juli 2022 aangenomen door het Vlaams Parlement.",
+        "position": 111,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2022-07-15T08:00:00Z",
+        "meetingId": "62CC10698E6C4430A8897D9F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62D009EE8E6C4430A8898B66",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62D009EE8E6C4430A8898B66"
+    }
+}

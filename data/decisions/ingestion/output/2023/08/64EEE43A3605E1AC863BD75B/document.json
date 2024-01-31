@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64EEE43A3605E1AC863BD75B",
+    "attributes": {
+        "title": "Schrappingsdecreet onderwijs",
+        "alternativeTitle": "Ontwerpdecreet tot opheffing van meerdere onderwijsbepalingen",
+        "htmlContent": "<p data-indentation-level=\"0\">Met het oog op een <strong>vereenvoudiging van de onderwijsregelgeving</strong> hecht de Vlaamse Regering, na advies van de Raad van State, haar definitieve goedkeuring aan het <strong>ontwerpdecreet dat een aantal onderwijsbepalingen opheft in meerdere bestaande niveau- en themadecreten</strong>. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.</p>",
+        "position": 19,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-08-31T08:00:00Z",
+        "meetingId": "64EC4DD43605E1AC863BD1D9",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "64EEE43A3605E1AC863BD75B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64EEE43A3605E1AC863BD75B"
+    }
+}
