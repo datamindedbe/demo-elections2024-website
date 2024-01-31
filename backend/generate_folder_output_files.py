@@ -35,9 +35,27 @@ def create_markdown(input_path, output_path):
 
         f.write(llm_data['body'] + '\n\n')
 
+        reference_markdown = ''
+        references = llm_data['references']
+        keys_sorted = sorted(references.keys(), key=lambda x: int(x))
+        for key in keys_sorted:
+            source_url = references[str(key)].get('source_url',None)
+            if source_url:
+                index_part=f"**[\[{key}\]]({source_url})**"
+            else:
+                index_part=f"**[\[{key}\]]**"
+
+            description_part = references[str(key)].get('s3_clean_content','')
+            if len(description_part) > 200:
+                description_part = references[str(key)].get('s3_clean_content','')[:200] + '...'
+
+            single_ref=f"{index_part} : **({references[str(key)]['date']})** {description_part} \n\n"
+            reference_markdown += single_ref
+
+        reference_markdown = reference_markdown.rstrip('\n\n')
         f.write(f"""<details>
-        <summary> Referenties </summary>
-        {llm_data['refs_full']}
+        <summary> Referenties</summary>
+        {reference_markdown}
         </details> \n\n""")
 
 

@@ -12,7 +12,7 @@ Voor een accurate beoordeling zou ik toegang moeten hebben tot de inhoud van het
 Indien je de relevante documenten kunt verstrekken, kan ik een titel voorstellen voor een mogelijke samenvatting en de tekst in markdown-formaat voorbereiden zoals je hebt verzocht.
 
 <details>
-        <summary>Referenties </summary>
+        <summary> Referenties</summary>
         
         </details> 
 

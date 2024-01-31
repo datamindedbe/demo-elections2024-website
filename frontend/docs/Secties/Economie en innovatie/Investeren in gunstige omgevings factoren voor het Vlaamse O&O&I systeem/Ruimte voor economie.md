@@ -10,7 +10,7 @@ Ik begrijp dat je informatie wilt over de mate waarin de regering haar beloftes 
 Als je echter gedetailleerde informatie verstrekt over specifieke commitments uit het regeerakkoord en de overeenkomstige regeringsbeslissingen, dan kan ik een samenvatting geven over hoe goed de regering presteert met betrekking tot haar beloftes. Vergeet niet om de benodigde documenten of links naar de relevante informatie te verstrekken, zodat ik een correcte analyse kan uitvoeren.
 
 <details>
-        <summary>Referenties </summary>
+        <summary> Referenties</summary>
         
         </details> 
 
