@@ -1,2 +1,4 @@
 chromadb
 boto3
+openai
+tiktoken
