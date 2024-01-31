@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "60C8950B364ED900080003C8",
+    "attributes": {
+        "title": "Wijzigingsbesluit programmatie opleidingen in het deeltijds beroepssecundair onderwijs en duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+        "alternativeTitle": "Ontwerpbesluit tot wijziging van het besluit van de Vlaamse Regering van 26 maart 2021 tot goedkeuring van de programmatie van opleidingen in het deeltijds beroepssecundair onderwijs en van duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+        "htmlContent": "De Vlaamse Regering wijzigt haar&nbsp;besluit van 26 maart 2021 over de programmatieaanvragen van duale structuuronderdelen in het&nbsp;<strong>gewoon voltijds secundair onderwijs</strong> en van opleidingen in het deeltijds beroepssecundair onderwijs voor het schooljaar 2021-2022. Op basis van de reacties van enkele onderwijsinstellingen is een gedeeltelijke herziening van de genomen beslissing opportuun.&nbsp;Er&nbsp;worden <strong>bijkomend&nbsp;twee&nbsp;programmatieaanvragen voor duale structuuronderdelen goedgekeurd</strong>.",
+        "position": 16,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C8442F364ED9000800017D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60C8950B364ED900080003C8",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C8950B364ED900080003C8"
+    }
+}

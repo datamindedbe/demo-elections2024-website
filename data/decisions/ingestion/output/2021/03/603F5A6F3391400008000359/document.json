@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "603F5A6F3391400008000359",
+    "attributes": {
+        "title": "Wijziging van de statuten van het Agentschap Integratie en Inburgering",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong>keurt de gewijzigde statuten goed van het extern verzelfstandigd Agentschap Integratie en Inburgering</strong>. De bestaande statuten van de private stichting het Agentschap Integratie en Inburgering&nbsp;zijn naar aanleiding van het nieuwe Wetboek van vennootschappen en verenigingen integraal opgeheven en vervangen door volledig nieuwe statuten, om deze zo&nbsp;<strong>inhoudelijk en terminologisch in overeenstemming te brengen met de bepalingen van het nieuwe Wetboek van vennootschappen en verenigingen</strong>. De Vlaamse minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen zal de wijziging van de statuten meedelen aan het Vlaams Parlement.&nbsp;",
+        "position": 13,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "5fed907ee6670526694a0710",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-03-05T09:00:00Z",
+        "meetingId": "603D1E3F3391400008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "603F5A6F3391400008000359",
+        "uri": "http://themis.vlaanderen.be/id/resource/c0bc02c0-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

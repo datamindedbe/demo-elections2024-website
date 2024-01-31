@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FD8CEA06B34EF0008000A85",
+    "attributes": {
+        "title": "Vlaams beleidsplan bio-economie",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering keurt het <strong>Vlaams beleidsplan bio-economie</strong> goed. Het&nbsp;bevat&nbsp;een reeks acties rond&nbsp;stimulering van onderzoek en innovatie, begeleiding van nieuwe samenwerkingen tussen industrie en landbouw, en flankerende beleidsmaatregelen.&nbsp;Bio\u2010economie omvat alle economische activiteiten die gebruik maken van organisch materiaal of van biologische processen. <strong>In&nbsp;een bio-economie&nbsp;worden&nbsp;hernieuwbare grondstoffen, biogas en biomassa duurzaam geproduceerd en gebruikt voor&nbsp;een waaier aan toepassingen</strong>. Het&nbsp;vormt een belangrijke schakel in de transitie om de Vlaamse economie koolstofneutraal te maken, door nieuwe waardeketens op te bouwen die zorgen voor een gesloten koolstofcyclus.&nbsp;",
+        "position": 25,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FD8CEA06B34EF0008000A85",
+        "uri": "http://themis.vlaanderen.be/id/resource/a9f5ab30-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

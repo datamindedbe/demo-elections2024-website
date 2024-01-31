@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6228675A6BB7B593CFC18473",
+    "attributes": {
+        "title": "Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wat betreft het maximale aantal te erkennen verenigingen waar armen het woord nemen",
+        "htmlContent": "Na advies van de Raad van State&nbsp;<strong>wijzigt</strong>&nbsp;de Vlaamse Regering <strong>definitief het besluit over de armoedebestrijding, om het maximaal aantal te erkennen verenigingen waar armen het woord nemen te verhogen van 52 naar 58</strong>. Dit maakt het mogelijk om participatieprocessen van mensen in armoede op meer plaatsen te ondersteunen en bij te dragen aan de strijd tegen eenzaamheid bij mensen in armoede. ",
+        "position": 41,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2022-03-11T09:00:00Z",
+        "meetingId": "62262AA06BB7B593CFC1803E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "6af19df8-a1e9-43bc-85f4-3cf8ac151d7e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6228675A6BB7B593CFC18473",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6228675A6BB7B593CFC18473"
+    }
+}

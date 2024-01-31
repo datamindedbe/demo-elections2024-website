@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FC7669120B66700080000A0",
+    "attributes": {
+        "title": "Samenstelling en opdrachten Co\u00f6rdinatiecommissie Integraal Waterbeleid (CIW): wijzigingsbesluit",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, geco\u00f6rdineerd op 15 juni 2018, wat betreft de samenstelling en de opdrachten van de CIW",
+        "htmlContent": "<span style=\"font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;\">Na adviezen van&nbsp;de Minaraad, de&nbsp;SERV&nbsp;en de Raad van State, <strong>wijzigt</strong> d</span>e Vlaamse Regering <strong>definitief het besluit over de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid.</strong> De wijziging omvat het <strong>uitbreiden van de samenstelling van de Co\u00f6rdinatiecommissie Integraal Waterbeleid en het actualiseren van de opdrachten ervan</strong>, waarbij taken over droogte en circulair water als onderdeel van integraal waterbeleid worden toegevoegd.",
+        "position": 21,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2020-12-04T09:00:00Z",
+        "meetingId": "5FC5F96520B6670008000562",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FC7669120B66700080000A0",
+        "uri": "http://themis.vlaanderen.be/id/resource/65034220-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

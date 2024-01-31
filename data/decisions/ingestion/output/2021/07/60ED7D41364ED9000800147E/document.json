@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "60ED7D41364ED9000800147E",
+    "attributes": {
+        "title": "Wijziging regelgeving Vlaams integratie- en inburgeringsbeleid: hertekening inburgeringstraject",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, tot wijziging van de regelgeving over het Vlaamse integratie- en inburgeringsbeleid en tot bepaling van de inwerkingtreding van artikel 3 van het decreet van 22 december 2017 houdende bepalingen tot begeleiding van de begroting 2018",
+        "htmlContent": "De Vlaamse Regering <strong>keurt principieel het besluit goed dat de regelgeving over&nbsp;het Vlaams&nbsp;integratie- en inburgeringsbeleid wijzigt</strong>. Het besluit zorgt voor de <strong>hertekening van het inburgeringstraject</strong>, gebaseerd op een aantal&nbsp;kernelementen: het benadrukken van het belang van gedeelde waarden en normen;&nbsp;het inhoudelijk uitbreiden en versterken van het inburgeringstraject; het flexibiliseren van het inburgeringstraject en het versterken van een aanbod op maat; het invoeren van retributies binnen inburgering; het aanscherpen van de resultaatsverbintenis; een verdieping van het inburgeringscontract; het versterken van het taalvaardigheidsniveau na het inburgeringstraject en een uitbreiding van de handhaving van de verplichtingen. Daarnaast zijn er ook enkele kernelementen voor de <strong>aanpassing van het integratiebeleid</strong>:&nbsp;optimaliseren van het horizontaal integratiebeleid,&nbsp;verfijnen van de dienstverlening sociaal tolken en vertalen,&nbsp;verfijnen van de juridische dienstverlening en het vastleggen van een retributie voor de certificerende taaltesten.&nbsp;Over dit besluit wordt het advies ingewonnen van de SERV, van de VLOR en van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens.&nbsp;",
+        "position": 31,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Matthias",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Diependaele",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "1e207740-3834-4e98-8431-5a2c08704516",
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60ED7D41364ED9000800147E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED7D41364ED9000800147E"
+    }
+}

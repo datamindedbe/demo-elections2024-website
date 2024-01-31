@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "623AE0E76BB7B593CFC18DAF",
+    "attributes": {
+        "title": "Programmatie duale structuuronderdelen opleidingsvorm 3 in het buitengewoon secundair onderwijs 2022-2023",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot goedkeuring van de programmatie van duale structuuronderdelen in opleidingsvorm 3 in het buitengewoon secundair onderwijs",
+        "htmlContent": "\u200bHet Agentschap voor Onderwijsdiensten heeft een aantal programmatieaanvragen voor duale structuuronderdelen in het buitengewoon secundair onderwijs ontvangen. De Vlaamse Regering keurt nu het besluit goed over de&nbsp;<strong>programmatie van duale structuuronderdelen in opleidingsvorm 3 in het buitengewoon secundair onderwijs</strong>&nbsp;voor het&nbsp;<strong>schooljaar 2022-2023</strong>. Alle&nbsp;<strong>70</strong>&nbsp;ontvankelijke programmatieaanvragen worden goedgekeurd.<strong>\u200b</strong>",
+        "position": 10,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-03-25T09:00:00Z",
+        "meetingId": "623893DB6BB7B593CFC18B52",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "623AE0E76BB7B593CFC18DAF",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/623AE0E76BB7B593CFC18DAF"
+    }
+}

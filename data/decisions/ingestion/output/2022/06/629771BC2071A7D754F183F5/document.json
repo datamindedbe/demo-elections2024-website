@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "629771BC2071A7D754F183F5",
+    "attributes": {
+        "title": "Operationalisering leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 1 juni 2018 tot operationalisering van de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding",
+        "htmlContent": "Na advies van de Raad van State wijzigt de Vlaamse Regering definitief haar besluit dat&nbsp;<strong>de leerlingenbegeleiding operationaliseert in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding</strong>. Het gaat om de <strong>toevoeging van&nbsp;</strong><strong>een nieuw thema \u2018leefstijl en gezondheid\u2019 waarvoor gegevens vanuit het multidisciplinair dossier van de leerling worden uitgewisseld met de overheid</strong>. Daarnaast wordt ervoor gekozen om in de onderwijsregelgeving enkel nog gebruik te maken van de term 'werkingsbudget' en de term 'werkingsmiddelen' niet meer te gebruiken. ",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d437d986-09de-4b46-8fce-f6ca4389f492",
+            "bb2e174a-374e-447d-ad0c-002204b4561f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin"
+        ],
+        "meetingDate": "2022-06-03T08:00:00Z",
+        "meetingId": "6294A9CD2071A7D754F17E37",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "629771BC2071A7D754F183F5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/629771BC2071A7D754F183F5"
+    }
+}

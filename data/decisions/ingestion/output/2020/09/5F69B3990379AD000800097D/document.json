@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "5F69B3990379AD000800097D",
+    "attributes": {
+        "title": "Regeling van de leertijd",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot regeling van de leertijd",
+        "htmlContent": "                                                        <!---->\n\n De Vlaamse Regering <strong>keurt principieel het besluit goed over de leertijd</strong>. De leertijd is een bestaande maatregel die jongeren toelaat om een onderwijskwalificerend traject te doorlopen waarin werkplekleren centraal staat.&nbsp;Het besluit regelt alle onderdelen van de leertijd die niet in andere regelgeving gevat zijn, met name de opleiding op zich, met een theoretisch luik en een luik werkplekleren; de manier waarop Syntra vzw dat zal neerzetten en de financiering van Syntra vzw; de voorwaarden waaraan de lesgevers moeten voldoen; de monitoring door VDAB en het toezicht door de Vlaamse Sociale Inspectie.&nbsp;Over dit besluit wordt het advies ingewonnen van de SERV, van de VLOR en van de Vlaamse Toezichtcommissie (VTC), daarna gaat het voor advies naar de Raad van State.&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070d",
+            "5fed907ee6670526694a0712"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2020-09-25T08:00:00Z",
+        "meetingId": "5F68B3B80379AD000800088E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F69B3990379AD000800097D",
+        "uri": "http://themis.vlaanderen.be/id/resource/629c5ed0-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

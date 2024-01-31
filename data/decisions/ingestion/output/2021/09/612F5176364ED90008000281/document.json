@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "612F5176364ED90008000281",
+    "attributes": {
+        "title": "Subsidies Circulair Werk(t) \u2013 fase 2",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan diverse ondernemingen in het kader van de ESF oproep 520 Circulair Werk(t) - fase 2",
+        "htmlContent": "Om sociaal en circulair ondernemerschap op lokaal niveau een boost te geven, hebben de afdeling&nbsp;ESF &amp; Duurzaam Ondernemen en de afdeling Sociale Economie &amp; Werkbaar Werk van het departement WSE samen met Vlaanderen Circulair vorig jaar een <strong>oproep gelanceerd voor circulaire hubs</strong>. De samenwerkingen in deze hubs moeten leiden tot nieuwe circulaire diensten of opdrachten voor erkende sociale economie&nbsp;bedrijven of nieuw circulair ondernemerschap met sociale impact. De Vlaamse Regering <strong data-editor-position-level=\"0\">kent in het kader van de ESF oproep 520 Circulair Werk(t) (fase 2)&nbsp;nu een subsidie toe aan 12 hubs Circulair Werk,&nbsp;voor de periode van 1 mei 2021 tot en met 31 december 2022.</strong>",
+        "position": 13,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-09-03T10:00:00Z",
+        "meetingId": "612CE303364ED90008000049",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "612F5176364ED90008000281",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/612F5176364ED90008000281"
+    }
+}

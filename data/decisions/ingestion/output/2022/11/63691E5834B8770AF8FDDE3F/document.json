@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63691E5834B8770AF8FDDE3F",
+    "attributes": {
+        "title": "Samenstelling (overkoepelende) ontwikkelcommissies en validerings-commissie voor de eindtermen basisvorming van de 2de en 3de graad secundair onderwijs en voor de specifieke eindtermen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 42,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2022-11-10T07:00:00Z",
+        "meetingId": "63690F9A34B8770AF8FDDD73",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "63691E5834B8770AF8FDDE3F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63691E5834B8770AF8FDDE3F"
+    }
+}

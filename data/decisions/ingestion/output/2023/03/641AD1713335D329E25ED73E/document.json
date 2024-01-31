@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "641AD1713335D329E25ED73E",
+    "attributes": {
+        "title": "Opleidingsvorm 4 buitengewoon secundair onderwijs: programmaties niet-duale en duale structuuronderdelen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot goedkeuring van de programmatie van niet-duale en duale structuuronderdelen in opleidingsvorm 4 van het buitengewoon secundair onderwijs",
+        "htmlContent": "<p>De Vlaamse Regering <strong>keurt</strong> alle <strong>16</strong> ontvankelijke <strong>programmatieaanvragen goed van niet-duale en duale structuuronderdelen in opleidingsvorm 4 van het buitengewoon secundair onderwijs</strong> <strong>voor het schooljaar 2023-2024</strong>.</p>",
+        "position": 28,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-03-24T09:00:00Z",
+        "meetingId": "6418722C3335D329E25ED37C",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "641AD1713335D329E25ED73E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/641AD1713335D329E25ED73E"
+    }
+}

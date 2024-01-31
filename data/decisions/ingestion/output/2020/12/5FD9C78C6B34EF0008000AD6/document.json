@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "5FD9C78C6B34EF0008000AD6",
+    "attributes": {
+        "title": "COVID-19: uitstel van leerplannen en de stageverplichtingen in de opleiding kinderbegeleider en zorgkundige duaal",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende diverse dringende maatregelen ingevolge COVID-19 voor wat betreft het secundair onderwijs en de studietoelagen",
+        "htmlContent": "De <strong>coronapandemie</strong> zal nog geruime tijd aanhouden tijdens het schooljaar 2020-2021. Dat heeft een grote impact op de werking binnen het onderwijs en binnen de scholen. Om ervoor te zorgen dat het onderwijsaanbod optimaal verder loopt, <strong>neemt de Vlaamse Regering enkele maatregelen voor het uitstel van leerplannen en de stageverplichtingen in de opleiding kinderbegeleider en zorgkundige duaal.&nbsp;</strong>Zo komt er een afwijking waarbij leerlingen niet moeten voldoen&nbsp;aan&nbsp;de bepaling om op twee werkplekken te werken tijdens de opleiding en aan&nbsp;de termijnen daarbij.",
+        "position": 42,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070d",
+            "5fed907ee6670526694a0712"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "5FD9C78C6B34EF0008000AD6",
+        "uri": "http://themis.vlaanderen.be/id/resource/a89fdf30-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

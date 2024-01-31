@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6572CA50E2E2C9E5814BF345",
+    "attributes": {
+        "title": "Leningsovereenkomsten voor energiezuinige maatregelen in gebouwen Vlaamse overheid",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">In afwijking van het delegatiebesluit en in het kader van de DAB Investeringsprogramma Energiebeheer Overheidsgebouwen <strong>machtigt de Vlaamse Regering de Vlaamse minister bevoegd voor het Facilitair Management tot het verstrekken van leningen die meer dan 250.000 euro bedragen</strong>. Daardoor kunnen leningsovereenkomsten worden afgesloten tussen het Facilitair Bedrijf (DAB Investeringsprogramma Energiebeheer Overheidsgebouwen) en de entiteiten van de Vlaamse overheid met eigen rechtspersoonlijkheid die bij Het Facilitair Bedrijf een aanvraag indienen <strong>voor het financieren van energiebesparende en/of -opwekkende investeringen.</strong></p>",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "ae7478f4-d3cc-478e-b30a-33147b52e742",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2023-12-08T09:00:00Z",
+        "meetingId": "656DDE11E2E2C9E5814BE3E7",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6572CA50E2E2C9E5814BF345",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6572CA50E2E2C9E5814BF345"
+    }
+}

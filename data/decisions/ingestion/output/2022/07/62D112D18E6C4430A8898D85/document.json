@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "62D112D18E6C4430A8898D85",
+    "attributes": {
+        "title": "Organisatie secundair onderwijs",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering over de organisatie van het secundair onderwijs, wat leerlingen betreft",
+        "htmlContent": "\u200bNa advies van de Raad van State hecht de Vlaamse Regering&nbsp;<strong data-__set-by=\"rdfa-editor\">haar definitieve goedkeuring aan het besluit over de organisatie van het secundair onderwijs.</strong>&nbsp;Het besluit kadert in de modernisering van het secundair onderwijs, en omvat de&nbsp;<strong data-__set-by=\"rdfa-editor\">essenti\u00eble maatregelen rond toelating, evaluatie en studiebekrachtiging voor de 2de en 3de graad</strong>. Op die manier komt er een uniformer en transparanter kader voor zowel het voltijds gewoon secundair onderwijs als het buitengewoon secundair onderwijs, opleidingsvormen 3 en 4, voor zowel duale als niet-duale structuuronderdelen. ",
+        "position": 45,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-07-15T08:00:00Z",
+        "meetingId": "62CC10698E6C4430A8897D9F",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "62D112D18E6C4430A8898D85",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62D112D18E6C4430A8898D85"
+    }
+}

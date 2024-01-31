@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6239D5186BB7B593CFC18DA1",
+    "attributes": {
+        "title": "Programmatie duale structuuronderdelen voltijds secundair onderwijs 2022-2023",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot goedkeuring van de programmatie van duale structuuronderdelen in het gewoon voltijds secundair onderwijs",
+        "htmlContent": "Het Agentschap voor Onderwijsdiensten heeft een aantal programmatieaanvragen voor duale structuuronderdelen voor het gewoon voltijds secundair onderwijs ontvangen. De Vlaamse Regering&nbsp;<strong>keurt 301 van de 313 ontvankelijke programmatieaanvragen voor duale structuuronderdelen in het gewoon voltijds secundair onderwijs voor het schooljaar 2022-2023 \u200bgoed</strong>.\u200b",
+        "position": 9,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-03-25T09:00:00Z",
+        "meetingId": "623893DB6BB7B593CFC18B52",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6239D5186BB7B593CFC18DA1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6239D5186BB7B593CFC18DA1"
+    }
+}

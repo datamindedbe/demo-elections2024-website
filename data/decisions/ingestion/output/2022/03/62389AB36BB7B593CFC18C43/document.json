@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "62389AB36BB7B593CFC18C43",
+    "attributes": {
+        "title": "Voortgangsrapport van het Vlaams Actieplan Armoedebestrijding 2020-2024",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2022-03-25T09:00:00Z",
+        "meetingId": "623893DB6BB7B593CFC18B52",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "62389AB36BB7B593CFC18C43",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62389AB36BB7B593CFC18C43"
+    }
+}
