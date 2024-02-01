@@ -69,7 +69,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'aibotSidebar',
             position: 'left',
-            label: 'Secties',
+            label: 'AI Analyse van het Regeerakkoord',
           },
         ],
       },
