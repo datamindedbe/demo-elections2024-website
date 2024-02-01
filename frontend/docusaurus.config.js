@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'De Beloftepolitie',
-  tagline: 'De overheid in de spotlight',
+  title: 'De Regering Robot',
+  tagline: 'De regeringsbesluiten werden geanalyseerd door middel van AI',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/datamindedbe/elections2024-playbooks/bot',
+            'https://github.com/datamindedbe/elections2024-website',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -59,10 +59,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'de beloftepolitie',
+        title: 'De Regering Robot',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Flag_of_Flanders.svg',
+          src: 'img/robot.png',
         },
         items: [
           {
