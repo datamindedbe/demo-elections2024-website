@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'De Beloftepolitie',
-  tagline: 'De overheid in de spotlight',
+  title: 'De Regering Robot',
+  tagline: 'De regeringsbesluiten werden geanalyseerd door middel van AI',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/datamindedbe/elections2024-playbooks/bot',
+            'https://github.com/datamindedbe/elections2024-website',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -59,22 +59,33 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'de beloftepolitie',
+        title: 'De Regering Robot',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Flag_of_Flanders.svg',
+          src: 'img/robot.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'aibotSidebar',
             position: 'left',
-            label: 'Secties',
+            label: 'AI Analyse van het Regeerakkoord',
           },
         ],
       },
       footer: {
         style: 'dark',
+
+        logo: {
+          alt: 'Data Minded Logo',
+          src: 'img/Dataminded_Logo_transparant.webp',
+          href: 'https://www.dataminded.com/',
+          width: 250,
+        },
+        copyright: `Copyright © ${new Date().getFullYear()} Data Minded.`,
+        links:[{
+            html: `<p>Vrijwaring: <i> Wij kunnen niet garanderen dat de inhoud van deze webpagina volledig correct is, aangezien deze gedeeltelijk door AI (openai LLM) is gegenereerd. Deze website is uitsluitend gemaakt voor experimentele en educatieve doeleinden </i> </p>`,
+        }]
       },
       prism: {
         theme: prismThemes.github,
