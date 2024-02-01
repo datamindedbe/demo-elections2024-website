@@ -26,6 +26,15 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  scripts: [
+    {
+      async : true,
+      src : "https://www.feedbackrocket.io/sdk/v1.1.js",
+      'data-fr-id' : "zpymFBtmDsmX6XJXZVipc", // if we ever open source this - this should be injected
+      'data-fr-theme': 'dynamic'
+    }
+  ],
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -70,6 +79,15 @@ const config = {
             sidebarId: 'aibotSidebar',
             position: 'left',
             label: 'AI Analyse van het Regeerakkoord',
+          },
+          // Add a feedback button in the top navbar on every page
+          {
+            type: 'html',
+            position: 'right',
+            value:
+              `<a href=# class=navbar__link data-fr-widget>
+                Geef Feedback
+              </a>`
           },
         ],
       },
