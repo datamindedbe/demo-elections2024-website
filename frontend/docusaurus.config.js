@@ -75,6 +75,17 @@ const config = {
       },
       footer: {
         style: 'dark',
+
+        logo: {
+          alt: 'Data Minded Logo',
+          src: 'img/Dataminded_Logo_transparant.webp',
+          href: 'https://www.dataminded.com/',
+          width: 250,
+        },
+        copyright: `Copyright © ${new Date().getFullYear()} Data Minded.`,
+        links:[{
+            html: `<p>Vrijwaring: <i> Wij kunnen niet garanderen dat de inhoud van deze webpagina volledig correct is, aangezien deze gedeeltelijk door AI (openai LLM) is gegenereerd. Deze website is uitsluitend gemaakt voor experimentele en educatieve doeleinden </i> </p>`,
+        }]
       },
       prism: {
         theme: prismThemes.github,
