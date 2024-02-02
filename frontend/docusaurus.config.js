@@ -89,6 +89,11 @@ const config = {
                 Geef Feedback
               </a>`
           },
+          {
+            type: 'html',
+            position: 'right',
+            value: '<div class=navbar__item>Beta Release - powered by <a href="https://www.dataminded.com/"> Data Minded</a></div>',
+          },
         ],
       },
       footer: {
