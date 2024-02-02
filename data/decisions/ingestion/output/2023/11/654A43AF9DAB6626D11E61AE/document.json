@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "654A43AF9DAB6626D11E61AE",
+    "attributes": {
+        "title": "Samenwerkingsakkoord slachtofferzorg Vlaanderen: actualisering",
+        "alternativeTitle": "Ontwerp van samenwerkingsakkoord tussen de Federale Staat en de Vlaamse Gemeenschap inzake slachtofferzorg",
+        "htmlContent": "<p data-indentation-level=\"0\">Vlaanderen heeft sinds 7 april 1998 een <strong>samenwerkingsakkoord met de federale overheid rond slachtofferzorg</strong>. Daarin wordt omschreven <strong>hoe de verschillende diensten op de verschillende bevoegdheidsniveaus die taken opnemen naar slachtoffers toe, moeten samenwerken</strong>. <strong>Na 25 jaar</strong> dringt een <strong>actualisatie en optimalisatie</strong> van dit samenwerkingsakkoord zich op. De Vlaamse Regering keurt dit <strong>vernieuwde samenwerkingsakkoord</strong> nu goed. Zo wordt nu bijvoorbeeld rekening gehouden met de bevoegdheidsoverdracht van de dienst slachtofferonthaal van de justitiehuizen naar de gemeenschappen in het kader van de Zesde Staatshervorming. Daarnaast wordt ook het slachtoffer zoveel mogelijk centraal gezet. De bevoegde ministers zullen het samenwerkingsakkoord ondertekenen.</p>",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir"
+        ],
+        "mandateeIds": [
+            "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+            "85e6f060-c8c5-4780-a399-e8b9b2d7d069"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin"
+        ],
+        "meetingDate": "2023-11-10T09:00:00Z",
+        "meetingId": "6548F5C59DAB6626D11E5D39",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "654A43AF9DAB6626D11E61AE",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/654A43AF9DAB6626D11E61AE"
+    }
+}

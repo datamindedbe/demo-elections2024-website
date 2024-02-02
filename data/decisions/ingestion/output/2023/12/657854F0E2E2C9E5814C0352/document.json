@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "657854F0E2E2C9E5814C0352",
+    "attributes": {
+        "title": "Stad Vilvoorde en gemeente Zaventem: projectsubsidie voor groenproject in kader van beleid open ruimte in het Vlaams Strategisch Gebied Brussel",
+        "alternativeTitle": "A. Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan stad Vilvoorde voor het uitvoeren van het groenproject in het kader van de projectoproep Groene Rand: \u201cVilvoorde Keelveld\u201d\nB. Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan gemeente Zaventem voor het uitvoeren van het groenproject in het kader van de projectoproep Groene Rand: \u201cSint-Stevens-Woluwe Troostbosje\u201d",
+        "htmlContent": "<p data-indentation-level=\"0\">In het kader van het beleid open ruimte in het Vlaams Strategisch Gebied Brussel (VSGB) kent de Vlaamse Regering <strong>597.000 euro projectsubsidie</strong> toe <strong>aan de stad Vilvoorde</strong> voor de uitvoering van het groenproject '<strong>Vilvoorde Keelveld'</strong> en <strong>291.000 euro</strong> projectsubsidie <strong>aan de gemeente Zaventem</strong> voor het uitvoeren van het groenproject <strong>'Sint-Stevens-Woluwe Troostbosje'</strong>.</p>",
+        "position": 39,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+            "e5e856aa-ab83-4832-ad0a-9435ef91521e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6b4bf676-b4ef-474e-b650-1115ebd23376",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "657854F0E2E2C9E5814C0352",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/657854F0E2E2C9E5814C0352"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64063D9393165640DEAF59E3",
+    "attributes": {
+        "title": "De FOSB en het Open Science beleid in Vlaanderen: update van de Roadmap Open Science Beleid voor Vlaanderen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 34,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "bb2e174a-374e-447d-ad0c-002204b4561f",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-03-10T09:00:00Z",
+        "meetingId": "6405FDCB93165640DEAF57B8",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "64063D9393165640DEAF59E3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64063D9393165640DEAF59E3"
+    }
+}

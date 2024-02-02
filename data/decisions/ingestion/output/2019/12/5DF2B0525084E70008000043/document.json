@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "5DF2B0525084E70008000043",
+    "attributes": {
+        "title": "Oosterweelproject: tweede financieringsovereenkomst tussen de Europese Investeringsbank (EIB) en het Vlaams Gewest",
+        "alternativeTitle": null,
+        "htmlContent": "                            <!---->\n\n In het kader van de financiering van het <strong>Oosterweelproject </strong>keurt de Vlaamse Regering de <strong></strong><strong>tweede financieringsovereenkomst met de Europese Investeringsbank (EIB)</strong> goed&nbsp;<strong></strong><strong>voor een bedrag van 100 miljoen euro</strong>. De bevoegde ministers voor Financi\u00ebn en Begroting en voor Openbare Werken zullen deze overeenkomst ondertekenen en de federale minister van Financi\u00ebn hierover vooraf informeren.&nbsp;<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 33,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Lydia",
+            "Matthias"
+        ],
+        "mandateeFamilyNames": [
+            "Peeters",
+            "Diependaele"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a071c",
+            "5fed907ee6670526694a071b"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2019-12-13T09:00:00Z",
+        "meetingId": "5DEE61125084E700080001A8",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5DF2B0525084E70008000043",
+        "uri": "http://themis.vlaanderen.be/id/resource/98269710-492b-11ec-94bb-99a9d1e168fe"
+    }
+}

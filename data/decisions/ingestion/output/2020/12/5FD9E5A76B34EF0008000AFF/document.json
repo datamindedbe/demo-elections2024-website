@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FD9E5A76B34EF0008000AFF",
+    "attributes": {
+        "title": "Overdracht personeelsleden in het kader van de oprichting van het Vlaams Energie- en Klimaatagentschap  (VEKA)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot overdracht van personeelsleden tussen het departement Omgeving en de Vlaamse Milieumaatschappij, tot overdracht van de ondersteunende ICT programma\u2019s die invulling geven aan de opdrachten van de overgedragen personeelsleden en tot overstap van een personeelslid van de Openbare Vlaamse Afvalstoffenmaatschappij naar het departement Omgeving",
+        "htmlContent": "In het kader van de<strong data-editor-position-level=\"0\"> omvorming van het Vlaams Energieagentschap&nbsp;(VEA) tot het Vlaams Energie- en Klimaatagentschap (VEKA)</strong> beslist de Vlaamse Regering tot <strong>overdracht van personeelsleden</strong> tussen het departement Omgeving en de Vlaamse Milieumaatschappij, tot <strong>overdracht van de ondersteunende ICT programma\u2019s</strong> die invulling geven aan de opdrachten van de overgedragen personeelsleden en tot overstap van een personeelslid van de Openbare Vlaamse Afvalstoffenmaatschappij naar het departement Omgeving.",
+        "position": 84,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FD9E5A76B34EF0008000AFF",
+        "uri": "http://themis.vlaanderen.be/id/resource/a97864e0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

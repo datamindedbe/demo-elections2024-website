@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5D9C56D56B1B8100080001EA",
+    "attributes": {
+        "title": "Ontwerpbesluit van de Vlaamse Regering tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+        "alternativeTitle": "Bevoegdheidsbesluit",
+        "htmlContent": "                            <!---->\n\n De Vlaamse Regering keurt het besluit goed dat <strong>de bevoegdheden</strong> bepaalt van haar leden.\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2019-10-02T12:00:00Z",
+        "meetingId": "5D9B6DCA6B1B810008000176",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Nota",
+        "uuid": "5D9C56D56B1B8100080001EA",
+        "uri": "http://themis.vlaanderen.be/id/resource/61ef3ca0-492c-11ec-94bb-99a9d1e168fe"
+    }
+}

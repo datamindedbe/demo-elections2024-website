@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "625FBFB71C4A193816C2F30F",
+    "attributes": {
+        "title": "Vlaamse bijdrage voor het tweede Nationaal Actieplan inzake Bedrijven en Mensenrechten",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 48,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-04-22T08:00:00Z",
+        "meetingId": "625E75BE1C4A193816C2EDEA",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "625FBFB71C4A193816C2F30F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/625FBFB71C4A193816C2F30F"
+    }
+}

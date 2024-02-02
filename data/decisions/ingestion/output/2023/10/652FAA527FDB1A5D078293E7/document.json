@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "652FAA527FDB1A5D078293E7",
+    "attributes": {
+        "title": "Nota aan het Overlegcomit\u00e9: 'Belangenconflict ingesteld door de Vlaamse Gemeenschap tegen de verschuiving van vliegroutes bij de luchthaven van Zaventem'",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">In uitvoering van Europese regelgeving moet de <strong>procedure voor opstijgen en landen op de luchthaven van Zaventem</strong> wijzigen van conventioneel (radiobakens) naar PBN-procedures (satelliet). De wijzigingen worden aangekondigd via een AIP (Aeronautical Information Publication) en traden in werking op 5 oktober 2023. Nazicht toont aan dat de <strong>vliegroutes (opnieuw) opschuiven richting het grondgebied van het Vlaams Gewest</strong>, en sterker geconcentreerd. Deze nieuwe PBN-procedure <strong>benadeelt daardoor ernstig de belangen van de Vlaamse Gemeenschap, doordat de geluidsoverlast nog meer door gemeenten en inwoners uit de Vlaamse Rand moet gedragen worden</strong>. De procedure schendt bovendien <span lang=\"NL\" __rdfaid=\"cda3baca-0562-4ed2-935a-361f6f62b4c8\" __tag=\"span\">het gelijkheidsbeginsel, </span><span lang=\"NL\" __rdfaid=\"6cc60c96-8de3-44f5-b00c-eac3697d0bd1\" __tag=\"span\">het beginsel van de federale loyauteit, </span><span lang=\"NL\" __rdfaid=\"2c849732-b21f-4165-a83a-ed7e38859b0f\" __tag=\"span\">het redelijkheidsbeginsel en het </span><span lang=\"NL\" __rdfaid=\"2df0c47b-c27c-42bd-b43e-8477e95d3750\" __tag=\"span\">zorgvuldigheidsbeginsel. </span>De Vlaamse Regering <strong>beslist</strong> daarom een <strong>belangenconflict in te roepen</strong> en <strong>keurt de nota aan het Overlegcomit\u00e9 daarover goed</strong>. De Minister-President van de Vlaamse Regering zal een belangenconflict ten behoeve van de Vlaamse Gemeenschap indienen bij het Overlegcomit\u00e9.</p>",
+        "position": 20,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-10-20T08:00:00Z",
+        "meetingId": "652D3B787FDB1A5D07828FF4",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6b4bf676-b4ef-474e-b650-1115ebd23376",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "652FAA527FDB1A5D078293E7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/652FAA527FDB1A5D078293E7"
+    }
+}

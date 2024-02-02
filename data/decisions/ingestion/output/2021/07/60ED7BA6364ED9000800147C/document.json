@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "60ED7BA6364ED9000800147C",
+    "attributes": {
+        "title": "Visienota 'Beleidsmaatregelen voor de her- en nevenbestemming van parochiekerken in Vlaanderen'",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong>stemt in met de visienota 'Beleidsmaatregelen voor de her- en nevenbestemming van parochiekerken in Vlaanderen'</strong> en met de principes die erin vervat zijn. De visienota formuleert hefbomen om stappen vooruit te zetten en een hernieuwde dynamiek te doen ontstaan in het her- of nevenbestemmen van kerken die&nbsp;niet meer of ten dele voor de eredienst noodzakelijk zijn, door er met aangepaste beleidsinstrumenten op in te spelen.&nbsp;De visienota zal nu ingediend worden in het Vlaamse Parlement.&nbsp;",
+        "position": 41,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "1e207740-3834-4e98-8431-5a2c08704516"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60ED7BA6364ED9000800147C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED7BA6364ED9000800147C"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63983C73C2B90D4571CF87A7",
+    "attributes": {
+        "title": "Overdracht personeelsleden Vlaamse Maatschappij voor Sociaal Wonen (VMSW) aan agentschap Wonen-Vlaanderen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot overdracht van de personeelsleden van Vlaamse Maatschappij voor Sociaal Wonen aan agentschap Wonen in Vlaanderen",
+        "htmlContent": "Het decreet van 3 juni 2022 over de<strong data-__set-by=\"rdfa-editor\"> herstructurering van het beleidsveld Wonen</strong> voorziet dat het <strong data-__set-by=\"rdfa-editor\">agentschap Wonen-Vlaanderen en de Vlaamse Maatschappij voor Sociaal Wonen (VMSW) op 1 januari 2023 fuseren</strong>. Hierdoor <strong data-__set-by=\"rdfa-editor\">worden de personeelsleden van de VMSW overgedragen naar het agentschap Wonen-Vlaanderen</strong> (vanaf 1 januari 2023 het agentschap Wonen in Vlaanderen), zodat het personeel van de beide entiteiten in \u00e9\u00e9n entiteit wordt ondergebracht. De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt deze personeelsoverdracht nu goed.</strong>",
+        "position": 51,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "6ace9621-2236-4023-b77d-f4cb8dec1565",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2022-12-16T09:00:00Z",
+        "meetingId": "63974DCAC2B90D4571CF81EF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fa4e010f-84e9-4d65-9675-1604ad41de56",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63983C73C2B90D4571CF87A7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63983C73C2B90D4571CF87A7"
+    }
+}

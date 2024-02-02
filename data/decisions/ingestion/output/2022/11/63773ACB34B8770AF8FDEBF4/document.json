@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63773ACB34B8770AF8FDEBF4",
+    "attributes": {
+        "title": "nv Vlaamse havens: voordracht bestuurders",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">draagt Nathalie Balcaen</strong>, administrateur-generaal van het agentschap Maritieme Dienstverlening en Kust, <strong data-__set-by=\"rdfa-editor\">Kathy Vandenmeersschaut,</strong> administrateur-generaal van het agentschap Wegen en Verkeer <strong data-__set-by=\"rdfa-editor\">en Filip Boelaert</strong>, secretaris -generaal van het departement Mobiliteit en Openbare Werken, <strong data-__set-by=\"rdfa-editor\">voor als bestuurders in de Raad van Bestuur van de nv Vlaamse Havens</strong>. Ze <strong data-__set-by=\"rdfa-editor\">vereenvoudigt</strong> tevens de <strong data-__set-by=\"rdfa-editor\">aandeelhoudersstructuur </strong>van de nv Vlaamse Havens. Er wordt geopteerd om de Participatiemaatschappij Vlaanderen als aandeelhouder te schrappen. De Vlaamse minister bevoegd voor Mobiliteit en Openbare Werken zal daarvoor de koop-verkoopovereenkomst met Participatiemaatschappij Vlaanderen uitwerken en afsluiten. Hierdoor wordt de <strong data-__set-by=\"rdfa-editor\">Vlaamse overheid enige aandeelhouder van de nv Vlaamse havens</strong>.",
+        "position": 22,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2022-11-18T09:00:00Z",
+        "meetingId": "63723F2834B8770AF8FDE59D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63773ACB34B8770AF8FDEBF4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63773ACB34B8770AF8FDEBF4"
+    }
+}

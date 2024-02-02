@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "60B6061C364ED9000800062F",
+    "attributes": {
+        "title": "Topevenementenbeleid Vlaamse Overheid: uitstel World Choir Games naar najaar 2021",
+        "alternativeTitle": null,
+        "htmlContent": "Door de coronacrisis besliste de Vlaamse Regering al eerder de World Choir Games uit te stellen, en te laten doorgaan van 2 tot en met 12 juli 2021 in Antwerpen en Gent. Door de evolutie van de pandemie is ook die datum niet meer&nbsp;haalbaar. Daarom beslist de Vlaamse Regering de <strong>World Choir Games</strong> nogmaals&nbsp;<strong>u</strong><strong>it</strong><strong> </strong><strong>te stellen en te verplaatsen&nbsp;naar het najaar, van 30 oktober tot 7 november</strong>.&nbsp;De format voor de najaarseditie blijft deze van de klassieke World Choir Games, evenwel <strong>uitgebreid met een virtueel luik</strong>. Koren die niet in staat zijn om het evenement fysiek bij te wonen, krijgen op die manier de mogelijkheid om het evenement alsnog te volgen (via streaming) of zelfs deel te nemen aan een virtuele competitie. Antwerpen en Gent blijven de gaststeden, hoewel ook tientallen andere steden en gemeenten via vriendschapsconcerten betrokken worden bij het evenement.&nbsp;De leidend ambtenaren van Toerisme Vlaanderen en het Departement Cultuur, Jeugd en Media zullen zowel met Interkultur als met Koor &amp;&nbsp;Stem vzw de lopende contracten&nbsp;amenderen overeenkomstig de nieuwe afspraken.",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-06-04T08:00:00Z",
+        "meetingId": "60B528F4364ED9000800036B",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "233a8980-9982-445e-8542-8ef7f06797ff",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60B6061C364ED9000800062F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60B6061C364ED9000800062F"
+    }
+}

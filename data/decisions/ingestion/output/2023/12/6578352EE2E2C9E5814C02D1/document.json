@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6578352EE2E2C9E5814C02D1",
+    "attributes": {
+        "title": "Provincie Oost-Vlaanderen: subsidie fietsbrug Deinze",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de provincie Oost-Vlaanderen als co-financiering met betrekking tot het EFRO project 1207 - fietsbrug over de Volhardingslaan in Deinze",
+        "htmlContent": "<p data-indentation-level=\"0\">In het kader van het programma EFRO-Vlaanderen tijdens de periode van 1 september 2017 tot 30 september 2022 kent de Vlaamse Regering <strong>600.000 euro</strong> toe aan de <strong>provincie Oost-Vlaanderen</strong> als co-financiering voor de <strong>uitvoering van het EFRO-project 1207 'fietsbrug over de Volhardingslaan in Deinze'</strong>.</p>",
+        "position": 102,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "305a87c9-6806-42a0-81c9-f6a94c4e8464",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6578352EE2E2C9E5814C02D1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6578352EE2E2C9E5814C02D1"
+    }
+}

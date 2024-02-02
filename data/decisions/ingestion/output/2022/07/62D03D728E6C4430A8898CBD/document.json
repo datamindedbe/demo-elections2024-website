@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "62D03D728E6C4430A8898CBD",
+    "attributes": {
+        "title": "Voortgangsrapportage van het ge\u00efntegreerde planningsproces voor het gewestelijk ruimtelijk uitvoeringsplan \u201cRuimtelijke herinrichting van de Ring rond Brussel (R0) \u2013 deel Noord\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 151,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-07-15T08:00:00Z",
+        "meetingId": "62CC10698E6C4430A8897D9F",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "62D03D728E6C4430A8898CBD",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62D03D728E6C4430A8898CBD"
+    }
+}

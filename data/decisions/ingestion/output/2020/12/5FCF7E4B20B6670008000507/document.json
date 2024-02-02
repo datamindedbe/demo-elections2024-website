@@ -1,0 +1,43 @@
+{
+    "type": "news-item",
+    "id": "5FCF7E4B20B6670008000507",
+    "attributes": {
+        "title": "Overdracht personeelsleden van het departement Welzijn, Volksgezondheid en Gezin naar het agentschap Facilitair Bedrijf",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot overdracht van personeelsleden van het departement Welzijn, Volksgezondheid en Gezin naar het agentschap Facilitair Bedrijf ingevolge de inkanteling van een kantoorgebouw enerzijds en het gecentraliseerd vlootbeheer anderzijds en bijhorende taken naar het agentschap Facilitair Bedrijf",
+        "htmlContent": "Zoals voorzien in het Regeerakkoord en in het Vlaams Energie- en Klimaatplan besliste de Vlaamse Regering om het <strong>vastgoed</strong>&nbsp;<strong>van de Vlaamse overheid in te kantelen bij het agentschap Facilitair Bedrijf</strong>. Het gaat daarbij niet alleen over de (kantoor)gebouwen, maar ook om het bijbehorende budget, taken en personeel. Ook het <strong>vlootbeheer</strong> wordt gecentraliseerd bij het agentschap Facilitair Bedrijf. Bij de overdracht van het vlootbeheer wordt ook het personeel en het budget overgedragen.&nbsp;In dit kader <strong>draagt de Vlaamse Regering 1 statutair personeelslid en 3 contractuele personeelsleden over van het departement Welzijn,&nbsp;Volksgezondheid en Gezin naar het agentschap Facilitair Bedrijf.</strong>",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Wouter",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Beke",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0719",
+            "5fed907ee6670526694a070c"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2020-12-11T09:00:00Z",
+        "meetingId": "5FCE5AF620B66700080001AD",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FCF7E4B20B6670008000507",
+        "uri": "http://themis.vlaanderen.be/id/resource/28d734a0-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

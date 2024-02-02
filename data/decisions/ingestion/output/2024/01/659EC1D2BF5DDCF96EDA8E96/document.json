@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "659EC1D2BF5DDCF96EDA8E96",
+    "attributes": {
+        "title": "Beoordeling schade aan de natuur in Vlaams Ecologisch Netwerk (VEN)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering over de beoordeling van schade aan de natuur in het Vlaams Ecologisch Netwerk",
+        "htmlContent": "<div lang=\"nl-BE\" data-say-document=\"true\"><p data-indentation-level=\"0\">Het Natuurdecreet bepaalt dat het <strong>Vlaams Ecologisch Netwerk (VEN)</strong> een samenhangend en georganiseerd geheel van gebieden van de <strong>open ruimte</strong> is, waarin een <strong>specifiek beleid</strong> wordt gevoerd <strong>voor het natuurbehoud</strong>. Het stelt tevens dat de overheid <strong>geen toestemming of vergunning mag verlenen voor een activiteit die onvermijdbare en onherstelbare schade aan de natuur in het VEN kan veroorzaken</strong>. De Vlaamse Regering <strong>keurt </strong>in dit kader, na het advies van de Minaraad en van de Raad van State,<strong> definitief het besluit goed dat vastlegt hoe moet aangetoond worden dat een activiteit geen onvermijdbare en onherstelbare schade aan de natuur in het VEN kan veroorzaken</strong>.</p></div>",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2024-01-10T18:00:00Z",
+        "meetingId": "659E481EBF5DDCF96EDA8CC7",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "659EC1D2BF5DDCF96EDA8E96",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/659EC1D2BF5DDCF96EDA8E96"
+    }
+}

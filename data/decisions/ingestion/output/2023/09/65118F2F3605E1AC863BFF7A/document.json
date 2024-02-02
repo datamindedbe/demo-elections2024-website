@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "65118F2F3605E1AC863BFF7A",
+    "attributes": {
+        "title": "Tweede voortgangsrapport over het Vlaams Luchtbeleidsplan 2030",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 33,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-09-29T08:00:00Z",
+        "meetingId": "65118DC63605E1AC863BFF56",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "65118F2F3605E1AC863BFF7A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65118F2F3605E1AC863BFF7A"
+    }
+}

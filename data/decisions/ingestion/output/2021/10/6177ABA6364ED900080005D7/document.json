@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6177ABA6364ED900080005D7",
+    "attributes": {
+        "title": "Zending van Vlaams minister-president Jan Jambon naar Berlijn (4-5 november 2021): programma",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 47,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-10-29T09:15:00Z",
+        "meetingId": "6176740D364ED90008000389",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6177ABA6364ED900080005D7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6177ABA6364ED900080005D7"
+    }
+}

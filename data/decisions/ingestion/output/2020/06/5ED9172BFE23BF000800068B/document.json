@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "5ED9172BFE23BF000800068B",
+    "attributes": {
+        "title": "COVID-19: maatregelen economie, wetenschappelijk onderzoek, innovatie en wetenschapsinnovatie (EWI)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot regeling van bepaalde tijdelijke maatregelen in de beleidsvelden economie, wetenschappe-lijk onderzoek, innovatie en wetenschaps-communicatie door de civiele noodsituatie met betrekking tot de volksgezondheid ingevolge van het coronavirus COVID-19",
+        "htmlContent": "              <!---->\n\n De Vlaamse Regering <strong>keurt een besluit goed dat bepaalde tijdelijke maatregelen regelt in de beleidsvelden economie, wetenschappelijk onderzoek, innovatie en wetenschapscommunicatie door de civiele noodsituatie rond de volksgezondheid door het coronavirus Covid-19. </strong>Door de maatregelen om de gevolgen van het coronavirus in ons land te beperken, konden bepaalde doelstellingen of voorwaarden waaronder bepaalde subsidies of financiering aan de instellingen in deze beleidsvelden verleend werden, niet meer of moeilijk gehaald worden. De maatregelen moeten dus op een rechtszekere wijze een antwoord geven op de problemen waarmee deze instellingen nu te maken hebben door de coronacrisis.&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-06-05T08:00:00Z",
+        "meetingId": "5ED6595CFE23BF000800047B",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5ED9172BFE23BF000800068B",
+        "uri": "http://themis.vlaanderen.be/id/resource/a817ca10-8a79-11ec-b92e-970acd8c80b9"
+    }
+}

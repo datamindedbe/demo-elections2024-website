@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "651BE1857FDB1A5D07827920",
+    "attributes": {
+        "title": "Impact geografische omschrijving werkingsgebieden afvalintercommunales op effici\u00ebntie logistiek huishoudelijk afval in Vlaanderen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 47,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-10-06T08:00:00Z",
+        "meetingId": "651AC01D51A2D987E57E2FDA",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "651BE1857FDB1A5D07827920",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/651BE1857FDB1A5D07827920"
+    }
+}

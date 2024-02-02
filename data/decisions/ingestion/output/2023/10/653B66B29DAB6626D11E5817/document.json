@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "653B66B29DAB6626D11E5817",
+    "attributes": {
+        "title": "Crisiscentrum van de Vlaamse overheid: overdracht personeelsleden",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de overdracht van personeelsleden van het Agentschap Overheidspersoneel aan het Departement Kanselarij en Buitenlandse Zaken",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering besliste om het <strong>Crisiscentrum van de Vlaamse overheid (CCVO)</strong> van het Agentschap Overheidspersoneel (AgO) <strong>onder te brengen bij het Departement Kanselarij en Buitenlandse Zaken (DKBUZA)</strong>. Ze keurt daarom nu het besluit goed met de <strong>overdracht van het budget en 2 personeelsleden van AgO aan DKBUZA</strong>. </p>",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-10-27T08:00:00Z",
+        "meetingId": "65367C629DAB6626D11E5006",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "653B66B29DAB6626D11E5817",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/653B66B29DAB6626D11E5817"
+    }
+}

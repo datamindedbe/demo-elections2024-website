@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6036558C3391400008000347",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: wijkverbeteringscontracten met lokale besturen",
+        "alternativeTitle": "Wijkverbeteringscontracten",
+        "htmlContent": "De Vlaamse Regering wil de <strong>uitdagingen in kwetsbare wijken aanpakken</strong> en keurt&nbsp;daarvoor het instrument van de<strong>&nbsp; wijkverbeteringscontracten&nbsp;</strong><strong><span>met&nbsp;lokale besturen&nbsp;</span></strong>goed.&nbsp;Een wijkverbeteringscontract moet mogelijkheden bieden voor lokale besturen om als regisseur concrete oplossingen op het terrein te realiseren. In het kader van het relanceplan Vlaamse Veerkracht wordt een budget voorzien van <strong>4 miljoen euro</strong> om het kader en de aanpak vast te leggen en&nbsp;een <strong>jaarlijkse oproep</strong> voor de lokale besturen te lanceren.&nbsp;",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "5fed907ee6670526694a0710",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-02-26T09:00:00Z",
+        "meetingId": "60342BB633914000080000A1",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6036558C3391400008000347",
+        "uri": "http://themis.vlaanderen.be/id/resource/004b5f80-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

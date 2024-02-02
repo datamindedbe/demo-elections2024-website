@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "65536D198265E66451D4C993",
+    "attributes": {
+        "title": "Voorontwerp van decreet over het Vastgoedinformatieplatform",
+        "alternativeTitle": "Ontwerpdecreet over het Vastgoedinformatieplatform",
+        "htmlContent": "<p data-indentation-level=\"0\">Na advies van de Raad van State hecht de Vlaamse Regering <strong>haar definitieve goedkeuring aan het ontwerpdecreet over het Vastgoedinformatieplatform.</strong> Het nieuwe gegevensuitwisselingsplatform voor vastgoedinformatie moet een <strong>digitale snelweg worden voor de uitwisseling van vastgoedinformatie,</strong> waarmee niet alleen authentieke informatiestromen rond vastgoed digitaal kunnen aangeboden worden, maar ook de bestaande uitwisseling van vastgoedinformatie tussen publieke en private partijen kan geautomatiseerd, versneld en vereenvoudigd worden. Dat moet de doorlooptijd van de aan- of verkoop van een vastgoed versnellen, en het proces transparanter, kwalitatiever en eenvoudiger maken. Het Vastgoedinformatieplatform zal uitgerold worden in gans Vlaanderen en moet beschikbaar komen voor alle burgers, de Vlaamse lokale besturen, en alle makelaars en notarissen die actief zijn in Vlaanderen. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.</p>",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "43c129cc-ba12-4457-b93e-737b7370c46e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2023-11-17T09:00:00Z",
+        "meetingId": "655239658265E66451D4C5B1",
+        "meetingTypePosition": 4,
+        "themeId": "fa4e010f-84e9-4d65-9675-1604ad41de56",
+        "agendaitemType": "Nota",
+        "uuid": "65536D198265E66451D4C993",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65536D198265E66451D4C993"
+    }
+}

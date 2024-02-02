@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5E4B995AA19C1A0008000146",
+    "attributes": {
+        "title": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB): benoeming directeur-generaal\n",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering betreffende de benoeming in de graad van directeur-generaal\n",
+        "htmlContent": "                            <!---->\n\n De Vlaamse Regering besliste op 1 februari&nbsp;2019&nbsp;<strong>Wim Adriaens</strong>&nbsp;met ingang van&nbsp;1 juli 2019&nbsp;toe te laten tot de proeftijd in de graad van&nbsp;directeur-generaal van de VDAB. Aangezien hij&nbsp;met goed gevolg de proeftijd&nbsp;heeft doorlopen, beslist ze hem <strong>m</strong><strong>et</strong> <strong>ingang van 9 januari&nbsp;2020&nbsp;te benoemen in de graad van&nbsp;directeur-generaal&nbsp;van de VDAB</strong>.\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-02-21T09:00:00Z",
+        "meetingId": "5E4B9376A19C1A0008000099",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5E4B995AA19C1A0008000146",
+        "uri": "http://themis.vlaanderen.be/id/resource/9f906fe0-492a-11ec-94bb-99a9d1e168fe"
+    }
+}

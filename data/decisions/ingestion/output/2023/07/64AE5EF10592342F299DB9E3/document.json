@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64AE5EF10592342F299DB9E3",
+    "attributes": {
+        "title": "Steun ondernemingen voor compensatie indirecte emissiekosten: wijzigingsbesluit",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 9 en 17 van het besluit van de Vlaamse Regering van 3 februari 2023 tot toekenning van steun aan ondernemingen voor de compensatie van indirecte emissiekosten",
+        "htmlContent": "<p data-indentation-level=\"0\">In het kader van het systeem voor de handel in de broeikasgasemissierechten na 2021, en na goedkeuring door de Europese Commissie en adviesvraag aan de Raad van State, wijzigt de Vlaamse Regering definitief haar besluit dat de juridische basis legt voor de <strong>uitbetaling van steun aan ondernemingen met installaties in het Vlaamse Gewest voor de compensatie van in de elektriciteitsprijzen doorberekende, dus 'indirecte', CO2-kosten</strong>. Aangezien de elektriciteitssector de CO2-kosten kan doorrekenen in de elektriciteitsprijs, komt de financi\u00eble last van de aankoop van emissierechten terecht bij de elektriciteitsverbruiker. Elektriciteitsintensieve afnemers worden daardoor geacht aan concurrentiekracht te verliezen ten opzichte van bedrijven in regio\u2019s met een minder ambitieus klimaatbeleid. De wijziging <strong>verhoogt de maximaal mogelijke steunintensiteit in het uitzonderingsmechanisme van 90% naar 95%</strong>. Op die manier wil ze het concurrentieel nadeel wegwerken en vermijden dat deze bedrijven genoodzaakt zijn zich te delokaliseren naar landen buiten de Europese Unie. </p>",
+        "position": 140,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AE5EF10592342F299DB9E3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE5EF10592342F299DB9E3"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6295C36A2071A7D754F181AB",
+    "attributes": {
+        "title": "Erfgoedpremies via oproepen: preselectie van kandidaat-dossiers",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 57,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "6ace9621-2236-4023-b77d-f4cb8dec1565",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2022-06-03T08:00:00Z",
+        "meetingId": "6294A9CD2071A7D754F17E37",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6295C36A2071A7D754F181AB",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6295C36A2071A7D754F181AB"
+    }
+}

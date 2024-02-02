@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "657830C9E2E2C9E5814C02A6",
+    "attributes": {
+        "title": "Wijziging havenverkeersverordening Antwerpen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 11 december 2020 tot vaststelling van de verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>wijzigt principieel haar besluit tot vaststelling van de verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen om tegemoet te komen aan vastgestelde hiaten en verbeterpunten bij de toepassing ervan</strong>. Over dit wijzigingsbesluit wordt nog het advies ingewonnen van de gemeentes Beveren en  Zwijndrecht, de stad Antwerpen en de Maatschappij voor het Haven-, Grond- en Industrialiseringsbeleid op de Linkerscheldeoever, van de Mobiliteitsraad van Vlaanderen (MORA), en daarna van de Raad van State.</p>",
+        "position": 103,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "305a87c9-6806-42a0-81c9-f6a94c4e8464",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "657830C9E2E2C9E5814C02A6",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/657830C9E2E2C9E5814C02A6"
+    }
+}

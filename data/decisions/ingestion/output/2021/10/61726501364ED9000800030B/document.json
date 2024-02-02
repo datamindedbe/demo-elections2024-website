@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61726501364ED9000800030B",
+    "attributes": {
+        "title": "Erkenning en toezicht lokale geloofsgemeenschappen: wijzigingsdecreet",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot regeling van de erkenning van lokale geloofsgemeenschappen, de verplichtingen van de besturen van de eredienst en het toezicht daarop en tot wijziging van het decreet van 7 mei 2004 betreffende de materi\u00eble organisatie en werking van de erkende erediensten, aangenomen door het Vlaams Parlement op 20 oktober 2021",
+        "htmlContent": "<div data-editor-position-level=\"0\">De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het&nbsp;decreet dat de erkenning van en het toezicht op&nbsp;lokale geloofsgemeenschappen regelt</strong> en dat het decreet over de organisatie en werking van erkende erediensten wijzigt. Het voert een <strong>nieuw&nbsp;decretaal kader in voor lokale geloofsgemeenschappen</strong> <strong>op vlak van de erkenning, het toezicht en de sanctionering</strong>. Het decreet werd&nbsp;aangenomen door&nbsp;het Vlaams Parlement op 20 oktober 2021.</div>",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-10-22T08:00:00Z",
+        "meetingId": "616D7801364ED90008000004",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61726501364ED9000800030B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61726501364ED9000800030B"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "605459A133914000080002F0",
+    "attributes": {
+        "title": "Kredietherschikking relanceprovisie",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+        "htmlContent": "De Vlaamse Regering <strong data-editor-position-level=\"0\">beslist tot het herschikken van 75 miljoen euro&nbsp;vastleggingskrediet en 18 miljoen euro vereffeningskrediet&nbsp;vanuit de relanceprovisie, voor het financieren van uitgaven&nbsp;door de verschillende beleidsdomeinen&nbsp;die kaderen binnen het relanceplan Vlaamse Veerkracht.</strong>",
+        "position": 32,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "5fed907ee6670526694a071b",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2021-03-19T09:00:00Z",
+        "meetingId": "604FB7DF3391400008000001",
+        "meetingTypePosition": 4,
+        "themeId": "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+        "agendaitemType": "Nota",
+        "uuid": "605459A133914000080002F0",
+        "uri": "http://themis.vlaanderen.be/id/resource/8d802a80-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "5F9BC26B5B1AD200080004F3",
+    "attributes": {
+        "title": "Decreet Wijziging samenwerkingsakkoord adoptie",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet houdende de instemming met het samenwerkingsakkoord van 18 februari 2020 tot wijziging van het samenwerkingsakkoord van 12 december 2005 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de \nGemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie, aangenomen door het Vlaams Parlement op 28 oktober 2020",
+        "htmlContent": "De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet dat instemt met het gewijzigde</strong><p data-editor-position-level=\"0\"><strong>Samenwerkingsakkoord </strong><strong>t</strong><strong>ussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie over de tenuitvoerlegging van de wet tot hervorming van de adoptie</strong>. Dit instemmingsdecreet werd aangenomen in het Vlaams Parlement op 28 oktober 2020.&nbsp;</p>",
+        "position": 54,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2020-10-30T09:00:00Z",
+        "meetingId": "5F97C8F25B1AD2000800013D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "30354d68-91c8-47b0-b5ba-6418d261f642",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F9BC26B5B1AD200080004F3",
+        "uri": "http://themis.vlaanderen.be/id/resource/d4d45090-8a7a-11ec-b92e-970acd8c80b9"
+    }
+}

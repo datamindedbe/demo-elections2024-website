@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "646F53D08E8235823F6B8469",
+    "attributes": {
+        "title": "Instrumentendecreet omgevingsbeleid",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet betreffende het realisatiegerichte instrumentarium, aangenomen door het Vlaams Parlement op 24 mei 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">Het Vlaams Regeerakkoord 2014-2019 stelt een <strong>omgevingsbeleid</strong> voorop vanuit gebiedsgerichte en ge\u00efntegreerde realisaties in combinatie met een verbeterd instrumentarium. Nu beslist de Vlaamse Regering tot <strong>bekrachtiging en afkondiging</strong> van het <strong>decreet over het realisatiegericht instrumentarium ('instrumentendecreet')</strong>. Het zet een logische en noodzakelijke vervolgstap in de bundeling en de afstemming van omgevingsinstrumenten met het oog op ruimtelijke realisaties op het terrein. Dit decreet werd op 24 mei 2023 aangenomen door het Vlaams Parlement.</p>",
+        "position": 53,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-05-26T08:00:00Z",
+        "meetingId": "646B73088E8235823F6B7D3C",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "1229a139-cd06-4ba7-9998-da34bf46ed6d"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "646F53D08E8235823F6B8469",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/646F53D08E8235823F6B8469"
+    }
+}

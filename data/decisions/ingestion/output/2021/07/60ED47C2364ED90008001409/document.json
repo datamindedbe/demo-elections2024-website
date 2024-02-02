@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "60ED47C2364ED90008001409",
+    "attributes": {
+        "title": "Adviesnota: \u201cEen Leesoffensief voor Vlaanderen\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 136,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Wouter",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Beke",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+            "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60ED47C2364ED90008001409",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED47C2364ED90008001409"
+    }
+}

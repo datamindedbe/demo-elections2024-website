@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "653B635A9DAB6626D11E5812",
+    "attributes": {
+        "title": "Vacantverklaring vijf functies van bijzitter bij de Raad voor Betwistingen van studievoortgangsbeslissingen",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>verklaart 5 functies van bijzitters bij de Raad voor Betwistingen van Studievoortgangsbeslissingen vacant,</strong> en legt <strong>een wervingsreserve aan met de geschikt bevonden kandidaten voor de duur van 3 jaar</strong>. De Raad voor Betwistingen van Studievoortgangsbeslissingen is een onderwijseigen administratief rechtscollege voor het hoger onderwijs, dat uitspraken kan doen over betwistingen rond studievoortgangsbeslissingen, beslissingen over niet gelijkwaardig verklaring van een buitenlands diploma hoger onderwijs met een Vlaams diploma hoger onderwijs of met een Vlaamse graad en terugvorderingen van leerkrediet wegens overmacht. De benoemingen zijn nodig om de zetelende kamers van de Raad volgens de decretale bepalingen te kunnen samenstellen en de werking niet in het gedrang te brengen. </p>",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-10-27T08:00:00Z",
+        "meetingId": "65367C629DAB6626D11E5006",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "653B635A9DAB6626D11E5812",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/653B635A9DAB6626D11E5812"
+    }
+}

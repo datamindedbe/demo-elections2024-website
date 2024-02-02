@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6538BE739DAB6626D11E544F",
+    "attributes": {
+        "title": "Overdracht Crisiscentrum Vlaamse overheid van Agentschap Overheidspersoneel naar Departement Kanselarij en Buitenlandse Zaken",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot overdracht van het Crisiscentrum van de Vlaamse overheid van het Agentschap Overheidspersoneel aan het Departement Kanselarij en Buitenlandse Zaken",
+        "htmlContent": "<p data-indentation-level=\"0\">Na advies van de Raad van State beslist de Vlaamse Regering definitief tot <strong>overdracht van het Crisiscentrum van de Vlaamse overheid (CCVO) van het Agentschap Overheidspersoneel naar het Departement Kanselarij en Buitenlandse Zaken</strong>.</p>",
+        "position": 10,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-10-27T08:00:00Z",
+        "meetingId": "65367C629DAB6626D11E5006",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6538BE739DAB6626D11E544F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6538BE739DAB6626D11E544F"
+    }
+}

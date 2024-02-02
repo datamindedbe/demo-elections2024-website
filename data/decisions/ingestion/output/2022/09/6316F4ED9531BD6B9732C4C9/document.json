@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6316F4ED9531BD6B9732C4C9",
+    "attributes": {
+        "title": "Flanders Trainee Programma (FTP): wijzigingsbesluit subsidi\u00ebring van stages bij multilaterale organisaties",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 9 december 2016 betreffende de subsidi\u00ebring van stages bij multilaterale organisaties",
+        "htmlContent": "Na advies van de Raad van State&nbsp;<strong data-__set-by=\"rdfa-editor\">wijzigt</strong>&nbsp;de Vlaamse Regering&nbsp;<strong data-__set-by=\"rdfa-editor\">definitief het besluit over de subsidi\u00ebring van stages bij multilaterale organisaties</strong>. Via het<strong data-__set-by=\"rdfa-editor\">&nbsp;Flanders Trainee Programme (FTP)</strong>&nbsp;wil de Vlaamse Regering Vlamingen ondersteunen die hun loopbaan internationaal willen ori\u00ebnteren, vanuit de strategische doelstelling rond een sterke en coherente profilering van Vlaanderen in het buitenland. Het besluit voorziet zowel<strong data-__set-by=\"rdfa-editor\">&nbsp;technische aanpassingen als effici\u00ebntiewinsten</strong>, die FTP nog gerichter inschakelen voor de beleidsdoelstellingen van de Vlaamse Regering.",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-09-09T08:00:00Z",
+        "meetingId": "6315F4D29531BD6B9732C275",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6316F4ED9531BD6B9732C4C9",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6316F4ED9531BD6B9732C4C9"
+    }
+}

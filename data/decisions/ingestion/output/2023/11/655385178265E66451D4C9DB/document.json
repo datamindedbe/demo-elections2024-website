@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "655385178265E66451D4C9DB",
+    "attributes": {
+        "title": "Taalafdeling Nederlands-Vlaamse Gebarentaal",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering over de taalafdeling Nederlands-Vlaamse Gebarentaal",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>keurt principieel het besluit goed over de taalafdeling Nederlands-Vlaamse Gebarentaal.</strong> Het besluit regelt in het bijzonder de personeelskwesties, de programmatie- en rationalisatienormen, het toekennen van een onderwijssupplement Vlaamse Gebarentaal en dovencultuur en de toekenning van tolkuren Vlaamse Gebarentaal in de taalafdeling Nederlands-Vlaamse Gebarentaal. Het besluit wordt nu voor onderhandelingen voorgelegd aan de sociale partners en gaat daarna voor advies naar de Raad van State.</p>",
+        "position": 21,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-11-17T09:00:00Z",
+        "meetingId": "655239658265E66451D4C5B1",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "655385178265E66451D4C9DB",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/655385178265E66451D4C9DB"
+    }
+}

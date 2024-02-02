@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "608A6D44364ED90008000A20",
+    "attributes": {
+        "title": "Thematische oproep bio-economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen",
+        "alternativeTitle": "Thematische oproep bio-economie\nVoorontwerp van besluit van de Vlaamse Regering tot vaststelling van de regels voor de thematische oproep voor de bio-economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO)",
+        "htmlContent": "In het kader van het relanceplan Vlaamse Veerkracht <strong>keurt </strong>de Vlaamse Regering <strong>principieel de thematische oproep </strong><strong>voor de bio-economie&nbsp;</strong><strong>goed&nbsp;</strong><strong>bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen</strong>. Binnen de bio-economie wordt gezocht naar technologische oplossingen voor afvalverwerking, duurzaam landgebruik, chemicali\u00ebnproductie,...&nbsp;Over deze oproep wordt het advies ingewonnen van het&nbsp;Fonds Wetenschappelijk Onderzoek \u2013Vlaanderen, daarna gaat het naar de Raad van State.&nbsp;Het totaal budget voor deze oproep is <strong>3 miljoen euro</strong>.",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-04-30T08:00:00Z",
+        "meetingId": "6087AEA8364ED90008000801",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "608A6D44364ED90008000A20",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/608A6D44364ED90008000A20"
+    }
+}

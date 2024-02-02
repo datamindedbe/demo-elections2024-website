@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "60E42297364ED900080007C3",
+    "attributes": {
+        "title": "Draaiboek en vraag- en antwoordfiche lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme (LIVC R)",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 110,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "1e207740-3834-4e98-8431-5a2c08704516",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60E42297364ED900080007C3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E42297364ED900080007C3"
+    }
+}

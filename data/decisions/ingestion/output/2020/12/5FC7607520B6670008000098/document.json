@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FC7607520B6670008000098",
+    "attributes": {
+        "title": "Reorganisatie ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van diverse besluiten van de Vlaamse Regering naar aanleiding van de reorganisatie van ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie",
+        "htmlContent": "De Vlaamse Regering <strong>wijzigt principieel diverse besluiten naar aanleiding van de reorganisatie van ICT binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</strong> Zo worden een aantal taken op het vlak van ICT&nbsp;overgedragen van het Facilitair Bedrijf naar het agentschap Informatie Vlaanderen,&nbsp;wijzigt de naam van het agentschap Informatie Vlaanderen naar het agentschap Digitaal Vlaanderen, wordt de DAB Informatie omgevormd tot DAB Documentbeheer, komt er een aanpassing van de bevoegdheden en de inhoudelijke structuurelementen van de beleidsvelden interne dienstverlening en digitalisering, komt er een aanpassing van de bevoegdheden en titel van de bevoegde minister en zijn er terminologische aanpassingen van diverse besluiten.&nbsp;Over dit wijzigingsbesluit wordt het advies ingewonnen van de Raad van State.&nbsp;",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-12-04T09:00:00Z",
+        "meetingId": "5FC5F96520B6670008000562",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "5FC7607520B6670008000098",
+        "uri": "http://themis.vlaanderen.be/id/resource/63ef1300-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

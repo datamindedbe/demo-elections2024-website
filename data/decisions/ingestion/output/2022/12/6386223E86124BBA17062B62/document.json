@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6386223E86124BBA17062B62",
+    "attributes": {
+        "title": "Oproep erkenning en financiering Steunpunt voor Beleidsrelevant Onderzoek voor het thema 'Omgeving en Gezondheid' (2022-2027)",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering hecht haar goedkeuring aan het voorstel voor <strong data-__set-by=\"rdfa-editor\">erkenning en financiering als steunpunt voor beleidsrelevant onderzoek, thema 'Omgeving en Gezondheid' voor de periode 2022-2027</strong>. De voorgestelde jaarlijkse financiering bedraagt 859.000 euro. Deze <strong data-__set-by=\"rdfa-editor\">beleidsdomeinoverschrijdende kennishub </strong>vormt een toegevoegde waarde voor het Vlaamse beleid rond omgeving en gezondheid omdat het een meer geformaliseerde en gestructureerde samenwerking rond omgevings- en gezondheidsthema\u2019s garandeert, kennisuitwisseling stimuleert en de beleidsvertaling ervan over de beleidsdomeinen heen versterkt. Een belangrijk onderdeel van de kennishub vormt het <strong data-__set-by=\"rdfa-editor\">uitvoeren van het Vlaams Humaan Biomonitoringprogramma (meten van de aanwezigheid en gezondheidseffecten van omgevingsfactoren in de mens)</strong> dat sinds 2002 de wetenschappelijk onderbouwde basis vormt voor concreet Vlaams omgevings- en gezondheidsbeleid. <strong data-__set-by=\"rdfa-editor\">Alle Vlaamse universiteiten, samen met de partners Provinciaal Instituut voor Hygi\u00ebne, Vlaamse Instelling voor Technologisch Onderzoek, en Instituut voor Natuur- en Bosonderzoek,</strong> zullen instaan voor de uitvoering van dit steunpunt.",
+        "position": 32,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-12-02T09:00:00Z",
+        "meetingId": "6384C97F86124BBA170625C7",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6386223E86124BBA17062B62",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6386223E86124BBA17062B62"
+    }
+}

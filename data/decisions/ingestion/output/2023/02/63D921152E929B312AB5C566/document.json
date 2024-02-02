@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63D921152E929B312AB5C566",
+    "attributes": {
+        "title": "Studieaanbod secundair onderwijs: wijzigingsbesluit",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 1 juni 2018 houdende sommige maatregelen betreffende de modernisering van het secundair onderwijs, wat betreft het studieaanbod",
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">wijzigt principieel de matrix secundair onderwijs en de samenstelling van structuuronderdelen</strong>. In concreto betreft het de <strong data-__set-by=\"rdfa-editor\">opname van brede aanloopstructuuronderdelen</strong> en de wijziging van de inhoudelijke samenstelling van een aantal structuuronderdelen door de invoering van nieuwe IT-structuuronderdelen. Daarnaast wordt beslist het <strong data-__set-by=\"rdfa-editor\">voorgestelde nieuwe structuuronderdeel \u2018Butler-Eventorganisator\u2019 niet op te nemen in de matrix</strong>. Over dit wijzigingsbesluit wordt nu het advies ingewonnen van de Raad van State.",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-02-03T09:00:00Z",
+        "meetingId": "63D7D13E2E929B312AB5C34B",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "63D921152E929B312AB5C566",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63D921152E929B312AB5C566"
+    }
+}

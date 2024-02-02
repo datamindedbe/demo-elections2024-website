@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5F97D8A65B1AD200080002E6",
+    "attributes": {
+        "title": "Raad van bestuur Vlaams Agentschap voor Internationaal Ondernemen (FIT): benoeming onafhankelijke leden",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot benoeming van de leden in de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen",
+        "htmlContent": "De Vlaamse&nbsp;Regering stelt&nbsp;<strong><span>Hanan Challouki,</span></strong><strong><span>&nbsp;</span></strong><strong><span>Boris Bogaert</span></strong><strong><span>,&nbsp;</span></strong><strong><span>Jan Van Hove</span></strong><strong><span> en&nbsp;</span></strong><strong><span>Eri</span></strong><strong><span>k&nbsp;</span></strong><span><strong>Moniquet</strong> aan als&nbsp;</span><strong><span>onafhankelijke bestuurders in de raad van bestuur </span></strong><strong><span>van het </span></strong><strong><span>Vlaams </span></strong><strong><span>Agentschap </span></strong><span data-editor-position-level=\"0\"><strong>voor Internationaal Ondernemen</strong>.</span>",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-10-30T09:00:00Z",
+        "meetingId": "5F97C8F25B1AD2000800013D",
+        "meetingTypePosition": 4,
+        "themeId": "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+        "agendaitemType": "Nota",
+        "uuid": "5F97D8A65B1AD200080002E6",
+        "uri": "http://themis.vlaanderen.be/id/resource/d4210620-8a7a-11ec-b92e-970acd8c80b9"
+    }
+}

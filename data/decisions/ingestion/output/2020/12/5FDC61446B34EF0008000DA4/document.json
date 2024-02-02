@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FDC61446B34EF0008000DA4",
+    "attributes": {
+        "title": "Maatregelen internationaal ondernemen voor de door de brexit ge\u00efmpacteerde bedrijven in het kader van het Relanceplan Vlaamse Veerkracht: 30 miljoen euro voor FIT",
+        "alternativeTitle": null,
+        "htmlContent": "De (uitkomst van de)&nbsp;brexit impacteert Vlaanderen en Vlaamse bedrijven. Vlaanderen neemt daarom maatregelen om de impact van de brexit zoveel mogelijk te counteren. In dit kader <strong>stemt de Vlaamse Regering in met de maatregelen rond het internationaal ondernemen voor de door de brexit ge\u00efmpacteerde bedrijven. Ze maakt tevens een bedrag van 30 miljoen euro vrij vanuit de relanceprovisie voor het uitvoerend agentschap Vlaams Agentschap voor Internationaal Ondernemen/Flanders Investment &amp; Trade</strong>. De Vlaamse minister bevoegd voor het internationaal ondernemen zal zorgen voor de verdere uitwerking van de maatregelen.",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FDC61446B34EF0008000DA4",
+        "uri": "http://themis.vlaanderen.be/id/resource/a7f2af40-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

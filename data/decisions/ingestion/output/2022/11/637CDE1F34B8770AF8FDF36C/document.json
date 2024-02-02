@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "637CDE1F34B8770AF8FDF36C",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Subsidie aan Brugge Foundation voor financiering werkzaamheden (herbestemming) Sint-Godelieveabdij",
+        "alternativeTitle": "Hefboomrelanceproject \u2018de tuin van heden\u2019\nA.\tOntwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan Brugge Foundation tot financiering van \n        werkzaamheden voor de eerste fase van de restauratiecampagne en het bouwen van het bezoekerspaviljoen voor de \n        herbestemming van de Sint-Godelieveabdij in het kader van het plan Vlaamse Veerkracht\nB.\tOntwerp van subsidieovereenkomst",
+        "htmlContent": "In het kader van het relanceplan voor de toeristische sector, dat voorziet in de <strong data-__set-by=\"rdfa-editor\">ontwikkeling van het bezoekerspotentieel van religieuze erfgoedsites</strong>, kent de Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">4,216 miljoen euro subsidie</strong> toe <strong data-__set-by=\"rdfa-editor\">aan</strong> de private stichting <strong data-__set-by=\"rdfa-editor\">Brugge Foundation voor de herbestemming van de Sint-Godelieveabdij in Brugge</strong>. Het gaat om een <strong data-__set-by=\"rdfa-editor\">volledige restauratiecampagne</strong> van de site en het <strong data-__set-by=\"rdfa-editor\">bouwen van een bezoekerspaviljoen</strong>. Zo wordt de site ingezet als nieuwe ontdekkingsplek van religieus erfgoed in Brugge en bij uitbreiding Vlaanderen.",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2022-11-25T11:00:00Z",
+        "meetingId": "637B875F34B8770AF8FDEEB1",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e",
+            "233a8980-9982-445e-8542-8ef7f06797ff"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "637CDE1F34B8770AF8FDF36C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/637CDE1F34B8770AF8FDF36C"
+    }
+}

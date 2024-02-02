@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60E4214D364ED90008000782",
+    "attributes": {
+        "title": "Het Co\u00f6rdinatieplatform Stand van de Rand: projectmonitoringsfiches",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 106,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d437d986-09de-4b46-8fce-f6ca4389f492",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60E4214D364ED90008000782",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E4214D364ED90008000782"
+    }
+}

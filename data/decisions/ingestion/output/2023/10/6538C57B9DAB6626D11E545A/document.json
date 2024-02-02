@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "6538C57B9DAB6626D11E545A",
+    "attributes": {
+        "title": "Regiovorming: wijziging verschillende decreten",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van verschillende decreten, wat betreft de regiovorming",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>hecht haar principi\u00eble goedkeuring aan het voorontwerp van decreet dat enkele decreten wijzigt die verband houden met regiovorming</strong>. Het maakt de <strong>principes van regioconform samenwerken van toepassing op de intergemeentelijke samenwerkingsvormen bij de lokale regierol op het vlak van sociale economie en werk, het wijk-werken, de cultureelerfgoedconvenants en de bovenlokale cultuurwerking. Het bepaalt ook de territoriale afbakeningen van de organisaties sociaal-cultureel volwassenenwerk met een regionale werking</strong>. Over dit voorontwerp van decreet wordt het advies ingewonnen van de SAR CJSM, van de SERV, van de VVSG en daarna van de Raad van State.</p>",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jan",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Jambon",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-10-27T08:00:00Z",
+        "meetingId": "65367C629DAB6626D11E5006",
+        "meetingTypePosition": 4,
+        "themeId": "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+        "agendaitemType": "Nota",
+        "uuid": "6538C57B9DAB6626D11E545A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6538C57B9DAB6626D11E545A"
+    }
+}

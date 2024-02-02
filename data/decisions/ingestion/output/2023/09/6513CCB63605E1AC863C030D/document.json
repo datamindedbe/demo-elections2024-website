@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6513CCB63605E1AC863C030D",
+    "attributes": {
+        "title": "Verdeling overgedragen investeringsmiddelen",
+        "alternativeTitle": "A.\tGeactualiseerde meerjarenplan met de verdeling van de provinciale investeringsmiddelen 2018 tot en met 2024\nB.\tOntwerpbesluit van de Vlaamse Regering tot de verdeling van de overgedragen provinciale investeringsmiddelen voor het begrotingsjaar 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering k<strong>eurt het geactualiseerde meerjarenplan goed</strong> met de <strong>verdeling van de provinciale investeringsmiddelen</strong> 2018 tot en met 2024. Het plan geeft een overzicht van de re\u00eble investeringsnoden rond de 14 voormalige provinciale cultuur- en jeugdinfrastructuren die zijn overgedragen naar een lokaal bestuur of naar de Vlaamse overheid in het kader van het decreet over de vernieuwde taakstelling en gewijzigde financiering van de provincies. Ze <strong>keurt tegelijk de verdeling van de overgedragen provinciale investeringsmiddelen goed voor het begrotingsjaar 2023</strong>. De Vlaamse minister bevoegd voor cultuur zal zorgen voor de uitvoering van het meerjarenplan 2018-2024 voor de gebouwen overgedragen aan de Vlaamse Gemeenschap.</p>",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding"
+        ],
+        "meetingDate": "2023-09-29T08:00:00Z",
+        "meetingId": "65118DC63605E1AC863BFF56",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6513CCB63605E1AC863C030D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6513CCB63605E1AC863C030D"
+    }
+}

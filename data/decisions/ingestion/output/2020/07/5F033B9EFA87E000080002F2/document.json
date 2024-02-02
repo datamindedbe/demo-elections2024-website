@@ -1,0 +1,51 @@
+{
+    "type": "news-item",
+    "id": "5F033B9EFA87E000080002F2",
+    "attributes": {
+        "title": "Samenvoeging beleidsdomeinen Kanselarij en Bestuur en Internationaal Vlaanderen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering over de reorganisatie van het beleidsdomein Kanselarij en Bestuur en de samenvoeging van het beleidsdomein Kanselarij en Bestuur met het beleidsdomein Internationaal Vlaanderen",
+        "htmlContent": "                                          <!---->\n\n De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het besluit over de<strong> reorganisatie van het beleidsdomein Kanselarij en Bestuur en de samenvoeging van het beleidsdomein Kanselarij en Bestuur met het beleidsdomein Internationaal Vlaanderen</strong>. Dit besluit regelt:&nbsp;de overdracht van een aantal taken van het departement Kanselarij en Bestuur naar het Agentschap Overheidspersoneel, het Agentschap Facilitair Bedrijf, het Agentschap Binnenlands Bestuur&nbsp;en het departement Financi\u00ebn en Begroting; de creatie van een nieuw beleidsveld Justitie en Handhaving; en de samenvoeging van de beleidsdomeinen Kanselarij en Bestuur en Internationaal Vlaanderen. Over dit besluit wordt het advies ingewonnen van de Raad van State.<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Matthias",
+            "Bart",
+            "Wouter",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Diependaele",
+            "Somers",
+            "Beke",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0719",
+            "5fed907ee6670526694a0710",
+            "5fed907ee6670526694a071b",
+            "5fed907ee6670526694a070c"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2020-07-10T08:00:00Z",
+        "meetingId": "5F033875FA87E000080002DF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F033B9EFA87E000080002F2",
+        "uri": "http://themis.vlaanderen.be/id/resource/5722a310-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

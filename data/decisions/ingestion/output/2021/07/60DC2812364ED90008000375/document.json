@@ -1,0 +1,44 @@
+{
+    "type": "news-item",
+    "id": "60DC2812364ED90008000375",
+    "attributes": {
+        "title": "Noodzaak verdere aanleg van een grondreserve in het zoekgebied Linkerscheldeoever",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering beslist&nbsp;dat er <strong>nood</strong> is <strong>aan</strong> een <strong>verdere aanleg van een grondreserve&nbsp;in het zoekgebied Linkerscheldeoever t</strong><strong>en behoeve van (toekomstige) projecten</strong> zoals onder meer het&nbsp;complex project \u2018extra containerbehandelingscapaciteit haven Antwerpen\u2019, de&nbsp;realisatie van de&nbsp;instandhoudingsdoelstellingen en prioriteiten voor de speciale beschermingszone \u2018BE2301336 Schorren en polders van de Beneden-Schelde\u2019, de uitbreiding van de E34&nbsp;ter hoogte van de Waaslandhaven,&nbsp;eventuele verdere havenontwikkelingsprojecten in het havengebied van Antwerpen,&nbsp;en voor het verkrijgen van een betere agrarische structuur. De aanleg van deze grondreserve&nbsp;wordt <strong>beschouwd als een plan, project of programma conform het decreet over de landinrichting</strong>. De Vlaamse Regering stelt hierbij&nbsp;de <strong>inrichtingsnota \u2018Flankerende maatregelen ten behoeve van verdere aanleg van een grondreserve&nbsp;in het zoekgebied Linkerscheldeoever\u2019</strong> vast, en belast de Vlaamse minister, bevoegd voor omgeving, met de opmaak van een <strong>inrichtingsnota ter realisatie van de instandhoudingsdoelstellingen en prioriteiten voor de speciale beschermingszone \u2018BE2301336 Schorren en polders van de Beneden-Schelde\u2019</strong>.",
+        "position": 9,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-07-02T08:00:00Z",
+        "meetingId": "60DA116A364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60DC2812364ED90008000375",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60DC2812364ED90008000375"
+    }
+}

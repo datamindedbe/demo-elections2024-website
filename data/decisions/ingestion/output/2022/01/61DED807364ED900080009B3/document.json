@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "61DED807364ED900080009B3",
+    "attributes": {
+        "title": "Oprichting Agentschap Justitie en Handhaving: wijzigingsbesluiten",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van diverse besluiten naar aanleiding van de oprichting van het Agentschap Justitie en Handhaving",
+        "htmlContent": "Na advies van de Raad van State <strong>wijzigt</strong> de Vlaamse Regering&nbsp;<strong>definitief&nbsp;diverse besluiten&nbsp;</strong><strong>om deze in overeenstemming te brengen met het oprichtingsbesluit van het intern verzelfstandigd agentschap 'Agentschap Justitie en Handhaving'</strong>.",
+        "position": 19,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Matthias",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Diependaele",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-01-14T09:00:00Z",
+        "meetingId": "61DC55E1364ED900080006E4",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61DED807364ED900080009B3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61DED807364ED900080009B3"
+    }
+}

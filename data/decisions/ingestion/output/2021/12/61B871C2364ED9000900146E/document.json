@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61B871C2364ED9000900146E",
+    "attributes": {
+        "title": "Aanduiding van een Vlaamse vertegenwoordiger in het beheerscomit\u00e9 van het Belgisch Commissariaat-generaal voor de internationale tentoonstellingen (Belexpo)",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 183,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5deb9bb2-204a-4fbe-93ba-edeb5fa7a57b",
+        "mandateeTitles": "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalisering en Facilitair Management",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61B871C2364ED9000900146E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B871C2364ED9000900146E"
+    }
+}

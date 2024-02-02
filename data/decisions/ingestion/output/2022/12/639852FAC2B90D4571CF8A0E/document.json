@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "639852FAC2B90D4571CF8A0E",
+    "attributes": {
+        "title": "Besteding middelen Vlaams Klimaatfonds voor energiezuiniger maken jeugdinfrastructuur Vlaamse Gemeenschap",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering neemt kennis van de aanpak voor het <strong data-__set-by=\"rdfa-editor\">verlenen van middelen uit het Vlaams Klimaatfonds voor energiebesparingsmaatregelen voor gesubsidieeerde en eigen jeugdinfrastructuur</strong> van de Vlaamse Gemeenschap en geeft haar goedkeuring aan de reservering van een budget van <strong data-__set-by=\"rdfa-editor\">2,13 miljoen euro</strong>.",
+        "position": 66,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "8dcdc330-348d-4f69-b10c-02f584adb9af",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+        "meetingDate": "2022-12-16T09:00:00Z",
+        "meetingId": "63974DCAC2B90D4571CF81EF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "639852FAC2B90D4571CF8A0E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/639852FAC2B90D4571CF8A0E"
+    }
+}

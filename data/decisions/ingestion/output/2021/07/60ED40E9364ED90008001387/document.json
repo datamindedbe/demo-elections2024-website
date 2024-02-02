@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60ED40E9364ED90008001387",
+    "attributes": {
+        "title": "Oprichting Agentschap Justitie en Handhaving",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap Agentschap Justitie en \nHandhaving",
+        "htmlContent": "De Vlaamse Regering <strong>keurt principieel het besluit goed tot oprichting van het Intern Verzelfstandigd Agentschap Justitie en Handhaving&nbsp;binnen het beleidsdomein Kanselarij, Bestuur, Buitenlandse Zaken en Justitie.</strong> Het agentschap moet de Vlaamse bevoegdheden rond justitie, handhaving en de bestuursrechtscolleges, die nu verspreid zitten over verschillende entiteiten, samenbrengen in \u00e9\u00e9n agentschap. Over dit oprichtingsbesluit wordt het advies ingewonnen van de Raad van State.",
+        "position": 67,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+        "agendaitemType": "Nota",
+        "uuid": "60ED40E9364ED90008001387",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED40E9364ED90008001387"
+    }
+}

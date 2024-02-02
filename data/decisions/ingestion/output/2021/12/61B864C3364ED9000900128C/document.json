@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B864C3364ED9000900128C",
+    "attributes": {
+        "title": "EV ILVO: subsidie voor versnelde kwalitatieve uitrol van de Klimrektool",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie vanuit het Vlaams Klimaatfonds aan EV ILVO voor het project \u2018versnelde kwalitatieve uitrol van de Klimrektool\u2019",
+        "htmlContent": "De Vlaamse Regering kent een subsidie van <strong>433.000 euro</strong> toe aan EV I<strong>nstituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO) voor het project \u2018versnelde kwalitatieve uitrol van de Klimrektool\u2019</strong>. Bedoeling is om <strong>180 unieke melkveebedrijven te begeleiden in het reduceren van hun klimaat-en milieu-impact</strong>. Klimrek biedt landbouwers een klimaattraject op maat aan om het bedrijf klimaatvriendelijker en meer klimaatrobuust te maken. Door middel van een klimaatscan krijgen landbouwers inzicht in hun eigen klimaat-en milieu-impact, en via de klimaatkoers krijgen zij de ecologisch en economisch best passende maatregelen op maat van hun bedrijf aangereikt. Het project loopt over een periode van 1 jaar (2022). Het uiteindelijke doel is om tegen 2025 de volledige melkveesector te bereiken met de Klimrektool.",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B864C3364ED9000900128C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B864C3364ED9000900128C"
+    }
+}

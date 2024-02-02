@@ -1,0 +1,47 @@
+{
+    "type": "news-item",
+    "id": "60ED4290364ED900080013A2",
+    "attributes": {
+        "title": "Werkwijze stedelijke emissievrije zones distributie",
+        "alternativeTitle": null,
+        "htmlContent": "Vlaanderen wil de emissievrije distributie&nbsp;stimuleren, zodat vanaf 2025 in de stadskernen emissieloos&nbsp;gereden wordt voor belevering.&nbsp;De Vlaamse Regering <strong>keurt de werkwijze goed om vanaf 2025 emissievrije zones voor distributie in te richten in steden, in overleg met de logistieke sector en de steden</strong>. Vlaanderen voorziet daarvoor een regelgevend kader, waarbij de autonomie bij de steden ligt. Er wordt ook bekeken hoe een <strong>flankerend beleid </strong>kan gevoerd worden. De Vlaamse minister van Mobiliteit en Openbare Werken zal trekker zijn van dit dossier, in samenwerking&nbsp;met de Vlaamse ministers bevoegd voor Economie, Omgeving en Binnenlands Bestuur.",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Lydia",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Peeters",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "1e207740-3834-4e98-8431-5a2c08704516",
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60ED4290364ED900080013A2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED4290364ED900080013A2"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "60E421CF364ED900080007B3",
+    "attributes": {
+        "title": "Startbeslissing van het complex project \u2018Viaduct Gentbrugge\u2019",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering besliste op 24 mei 2019 tot de opstart van de <strong>verkenningsfase voor het Viaduct Gentbrugge</strong> in het kader van de procedure complexe projecten, met De Werkvennootschap als initiatiefnemer en in co\u00f6rdinatie met het Departement Omgeving. Niettegenstaande de huidige renovatie, dient een traject met het oog op een langetermijnvisie voor het viaduct en de omgeving zich aan. Inmiddels werd de verkenningsfase <strong>afgerond</strong> en keurt de Vlaams Regering nu dus de <strong>startbeslissing en de procesnota van het complex project \u2018Viaduct Gentbrugge\u2019</strong> goed. De projectdoelstellingen die beoogd worden, hebben betrekking op mobiliteit (continu\u00efteit van doorstroming op Europees en Vlaams niveau, duurzaam en geconnecteerd stadsregionaal mobiliteitssysteem); op leefbaarheid (leefbare omgevingen - woon, werk en recreatie) en op landschap (groene en blauwe landschappen verbinden en versterken). De gouverneur van Oost-Vlaanderen wordt aangeduid als procesbegeleider.",
+        "position": 74,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E421CF364ED900080007B3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E421CF364ED900080007B3"
+    }
+}

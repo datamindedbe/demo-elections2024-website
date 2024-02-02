@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63ECAB112E929B312AB5DA25",
+    "attributes": {
+        "title": "Personeelsplan Agentschap Justitie en Handhaving",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering keurt het <strong data-__set-by=\"rdfa-editor\">personeelsplan</strong> goed van het <strong data-__set-by=\"rdfa-editor\">Agentschap Justitie en Handhaving</strong>. In totaliteit wordt het Agentschap versterkt met <strong data-__set-by=\"rdfa-editor\">67 bijkomende arbeidsplaatsen</strong>. Deze personeelsuitbreiding moet een structureel <strong data-__set-by=\"rdfa-editor\">antwoord bieden op de sterke stijging van het aantal opdrachten, in het bijzonder binnen de Justitiehuizen, het Vlaams Centrum Elektronisch Toezicht en de ondersteunende diensten</strong>. Op deze manier zal het Agentschap daders kordater opvolgen en zo meer slachtoffers kunnen voorkomen.",
+        "position": 25,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-02-17T09:00:00Z",
+        "meetingId": "63EA4C692E929B312AB5D4AE",
+        "meetingTypePosition": 4,
+        "themeId": "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+        "agendaitemType": "Nota",
+        "uuid": "63ECAB112E929B312AB5DA25",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63ECAB112E929B312AB5DA25"
+    }
+}

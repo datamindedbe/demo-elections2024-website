@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "6392F0EAC2B90D4571CF7D7F",
+    "attributes": {
+        "title": "Overdracht personeelsleden naar Het Facilitair Bedrijf (HFB) in kader van inkanteling van kantoorgebouwen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid naar het agentschap Facilitair Bedrijf ingevolge de inkanteling van kantoorgebouwen",
+        "htmlContent": "In navolging van het Regeerakkoord en van het Vlaams Energie- en Klimaatplan besliste de Vlaamse Regering om de <strong data-__set-by=\"rdfa-editor\">kantoorgebouwen van de Vlaamse overheid in te kantelen bij het agentschap Facilitair Bedrijf</strong>. Het gaat hierbij niet alleen over de gebouwen, maar ook om het bijbehorende budget, taken en personeel. Het agentschap Facilitair Bedrijf zal voor de gebouwen die bij haar worden ondergebracht, zorgen voor het bereiken van de doelstellingen rond klimaat, budget, effici\u00ebntie en kwaliteit, rekening houdend met de behoeften van de entiteiten. In dit kader keurt de Vlaamse Regering nu de <strong data-__set-by=\"rdfa-editor\">overdracht </strong>goed <strong data-__set-by=\"rdfa-editor\">van 4 statutaire en 2 contractuele personeelsleden van diverse entiteiten naar het agentschap Facilitair Bedrijf. </strong>",
+        "position": 75,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Ben",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Weyts",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-12-09T09:00:00Z",
+        "meetingId": "638DD5DDC2B90D4571CF6BBF",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "6392F0EAC2B90D4571CF7D7F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6392F0EAC2B90D4571CF7D7F"
+    }
+}

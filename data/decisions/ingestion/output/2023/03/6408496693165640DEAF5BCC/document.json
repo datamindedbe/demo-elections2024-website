@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6408496693165640DEAF5BCC",
+    "attributes": {
+        "title": "Diplomavoorwaarden voor tolken Gebarentaal en schrijftolken: wijzigingsbesluit",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin, wat betreft de diplomavoorwaarden voor tolken Gebarentaal en schrijftolken",
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt principieel het besluit goed dat de diplomavoorwaarden voor tolken Gebarentaal en schrijftolken actualiseert</strong>. Het besluit maakt het ook mogelijk voor <strong data-__set-by=\"rdfa-editor\">dove tolken</strong> om <strong data-__set-by=\"rdfa-editor\">tolkopdrachten uit te voeren in welzijns- en onderwijssituaties, na het succesvol voltooien van een \u00e9\u00e9nmalige korte opleiding 'Tolk Vlaamse Gebarentaal'</strong>. Over dit besluit wordt nog het advies ingewonnen van de Raad van State.",
+        "position": 7,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-03-10T09:00:00Z",
+        "meetingId": "6405FDCB93165640DEAF57B8",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6408496693165640DEAF5BCC",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6408496693165640DEAF5BCC"
+    }
+}

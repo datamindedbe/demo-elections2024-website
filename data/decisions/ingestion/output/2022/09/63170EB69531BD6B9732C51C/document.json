@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63170EB69531BD6B9732C51C",
+    "attributes": {
+        "title": "Bestuursorgaan Agentschap Integratie en Inburgering: vervanging lid",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot ontslag en aanstelling van een lid van het bestuursorgaan van het Agentschap Integratie en Inburgering",
+        "htmlContent": "De Vlaamse Regering verleent&nbsp;<strong data-__set-by=\"rdfa-editor\">eervol ontslag aan Sofie Landuyt als bestuurder in het bestuursorgaan van het Agentschap Integratie en Inburgering</strong>. Ze&nbsp;<strong data-__set-by=\"rdfa-editor\">benoemt Lies Reynaert</strong>&nbsp;als bestuurder die het vrijgekomen mandaat zal voleindigen.",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-09-09T08:00:00Z",
+        "meetingId": "6315F4D29531BD6B9732C275",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "34394a01-5c8c-44c9-aade-59087026f266",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63170EB69531BD6B9732C51C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63170EB69531BD6B9732C51C"
+    }
+}

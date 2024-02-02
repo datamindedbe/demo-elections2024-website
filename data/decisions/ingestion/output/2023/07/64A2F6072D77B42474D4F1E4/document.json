@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "64A2F6072D77B42474D4F1E4",
+    "attributes": {
+        "title": "Verzameldecreet landbouw en visserij",
+        "alternativeTitle": "Voorontwerp van decreet houdende wijziging van diverse decreten over het landbouw- en visserijbeleid",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring aan het voorontwerp van decreet dat verschillende wijzigingen verzamelt aan een aantal bestaande decreten rond het landbouw- en visserijbeleid</strong>. Het gaat om een aanpassing aan het nieuwe gemeenschappelijke landbouwbeleid; het invoegen van de nodige rechtsgronden voor het uitvoeren van de Europese plantengezondheidsregelgeving; het invoegen van een decretaal kader in lijn met artikel 22 van de Grondwet; het omschakelen van strafrechtelijke naar administratieve handhaving voor de naleving van de visserijregelgeving; aanpassingen naar aanleiding van de omvorming van het Departement Landbouw en Visserij naar een agentschap; en nog een aantal technische aanpassingen, verduidelijkingen en actualisaties. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de SALV, de VTC, de GBA en de Raad van State.</p>",
+        "position": 23,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": "872c910d-dd86-46b4-a3b0-0ff45df32702",
+        "agendaitemType": "Nota",
+        "uuid": "64A2F6072D77B42474D4F1E4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F6072D77B42474D4F1E4"
+    }
+}

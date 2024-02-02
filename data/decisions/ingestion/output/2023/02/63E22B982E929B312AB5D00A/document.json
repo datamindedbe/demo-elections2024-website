@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63E22B982E929B312AB5D00A",
+    "attributes": {
+        "title": "Afwijkingsaanvragen principes regiovorming via digitaal loket",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de wijze van communicatie ter uitvoering van artikel 7, \u00a74, van het Regiodecreet van 3 februari 2023, wat betreft de afwijkingsaanvraag van de principes rond regiovorming en van diverse bepalingen van het decreet van 22 december 2017 over het lokaal bestuur",
+        "htmlContent": "Het <strong data-__set-by=\"rdfa-editor\">Regiodecreet van 3 februari 2023</strong> vereist enkele uitvoeringsbepalingen over de <strong data-__set-by=\"rdfa-editor\">wijze van communicatie tussen de lokale besturen, de intergemeentelijke samenwerkingsverbanden, de verenigingen en vennootschappen voor maatschappelijk welzijn en de Vlaamse Regering</strong>. Daarover stelt het Vlaams Regeerakkoord dat <strong data-__set-by=\"rdfa-editor\">alle briefwisseling tussen de Vlaamse overheid en de lokale besturen voortaan digitaal</strong> gebeurt. De Vlaamse Regering beslist daarom principieel dat de <strong data-__set-by=\"rdfa-editor\">aanvragen voor een afwijking van de principes van regioconform samenwerken in het kader van het Regiodecreet, evenals de communicatie over de beslissing van de Vlaamse Regering</strong>, <strong data-__set-by=\"rdfa-editor\">via het digitaal loket</strong> moeten verlopen. Ook de adviesvragen aan de Vlaamse Regering over ontwerpen van oprichtingsbesluit en ontwerpen van statutenwijziging van de regioconforme intergemeentelijke samenwerkingsverbanden en van de verenigingen en vennootschappen voor maatschappelijk welzijn moeten via deze weg ingediend en beantwoord worden. Het digitaal loket doet zo dienst als uniek communicatiemiddel tussen de lokale besturen en de Vlaamse overheid. Dit besluit wordt voor advies voorgelegd aan de Raad van State.",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-02-10T09:00:00Z",
+        "meetingId": "63E10F9D2E929B312AB5CD7B",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63E22B982E929B312AB5D00A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63E22B982E929B312AB5D00A"
+    }
+}

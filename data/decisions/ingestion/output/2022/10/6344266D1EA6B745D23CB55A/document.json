@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6344266D1EA6B745D23CB55A",
+    "attributes": {
+        "title": "Huisstijl \u2018Vlaanderen\u2019",
+        "alternativeTitle": null,
+        "htmlContent": "Ontwerp van omzendbrief VR 2022/30: \u201cHuisstijl 'Vlaanderen' van de Vlaamse overheid en de Vlaamse Regering\u201d",
+        "position": 22,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-10-14T08:00:00Z",
+        "meetingId": "634420071EA6B745D23CB4CC",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6344266D1EA6B745D23CB55A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6344266D1EA6B745D23CB55A"
+    }
+}

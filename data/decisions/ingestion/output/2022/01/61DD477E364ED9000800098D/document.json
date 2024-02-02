@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "61DD477E364ED9000800098D",
+    "attributes": {
+        "title": "Instructies opmaak beleids- en begrotingstoelichting naar aanleiding van de begrotingsuitvoering 2021",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 51,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "81e6ca1b-97c1-4572-ae79-fba4ccb91e91"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2022-01-14T09:00:00Z",
+        "meetingId": "61DC55E1364ED900080006E4",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61DD477E364ED9000800098D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61DD477E364ED9000800098D"
+    }
+}

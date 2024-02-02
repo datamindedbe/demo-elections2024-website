@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63D7D62B2E929B312AB5C386",
+    "attributes": {
+        "title": "Evaluatie van de resolutie van het Vlaams Parlement van 16 juni 2021 over geweld en discriminatie tegen LGBTQI+-personen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 32,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-02-03T09:00:00Z",
+        "meetingId": "63D7D13E2E929B312AB5C34B",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "63D7D62B2E929B312AB5C386",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63D7D62B2E929B312AB5C386"
+    }
+}

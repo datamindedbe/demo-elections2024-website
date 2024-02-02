@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5F72E22B0379AD0008000085",
+    "attributes": {
+        "title": "COVID-19: subsidieregeling Vlaamse regionale luchthavens",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering betreffende de subsidieregeling die wordt toegepast teneinde de impact van COVID 19 op de liquiditeitspositie van de Vlaamse regionale luchthavens te beperken",
+        "htmlContent": "                            <!---->\n\n De <strong>coronacrisis</strong> heeft een <strong>sterke impact op de Vlaamse regionale luchthavens</strong>. Het passagiersverkeer kende een daling met quasi 100% in het tweede kwartaal 2020. Vliegtuigmaatschappijen houden bovendien rekening met een lange periode van inactiviteit en een trage herneming van de trafiek, en ontwikkelen een parkeerbeleid voor hun toestellen op lange termijn. Dit heeft een zeer grote impact op de liquiditeitspositie van de luchthavenexploitanten. Daarom kent de Vlaamse Regering nu aan de <strong>luchthavenexploitatiemaatschappijen Antwerpen, Oostende-Brugge en Kortrijk-Wevelgem elk een eenmalige subsidie van&nbsp;366.000 euro</strong> toe.<!-- components -->\n<!---->\n\n Het gaat om een aangepaste beslissing naar aanleiding van bemerkingen van de Europese Commissie.<!-- components -->\n<!---->",
+        "position": 24,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2020-10-02T08:00:00Z",
+        "meetingId": "5F72DC650379AD0008000050",
+        "meetingTypePosition": 4,
+        "themeId": "17ddaff0-b2e3-4f02-9157-76a1cf593a5b",
+        "agendaitemType": "Nota",
+        "uuid": "5F72E22B0379AD0008000085",
+        "uri": "http://themis.vlaanderen.be/id/resource/46f6e2e0-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

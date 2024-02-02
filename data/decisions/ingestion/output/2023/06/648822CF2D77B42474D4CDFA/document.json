@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "648822CF2D77B42474D4CDFA",
+    "attributes": {
+        "title": "Voortgangsrapport 2023 Intern Klimaatplan Vlaamse overheid - gebruiksjaar 2021, actiejaar 2022",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 39,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia",
+            "Matthias",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters",
+            "Diependaele",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-06-16T08:00:00Z",
+        "meetingId": "648725AB2D77B42474D4CC5A",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "648822CF2D77B42474D4CDFA",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/648822CF2D77B42474D4CDFA"
+    }
+}

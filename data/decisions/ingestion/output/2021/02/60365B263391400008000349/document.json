@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60365B263391400008000349",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Visienota 'Voorsprongfonds hoger onderwijs'",
+        "alternativeTitle": "Visienota: \u201cVoorsprongfonds hoger onderwijs\u201d",
+        "htmlContent": "<span style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; font-size: 15px; font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; max-width: 120ch;\">In uitvoering van het relanceplan Vlaamse Veerkracht keurt&nbsp;</span>de Vlaamse Regering het <strong>ontwerp van visienota 'Voorsprongfonds hoger onderwijs'&nbsp;voor het luik onderwijs goed</strong>. De visienota omvat drie speerpunten: een toekomstbestendig en wendbare&nbsp;Vlaamse opleidingsportfolio uitbouwen; levenslang leren in het hoger onderwijs een impuls geven; en kwaliteitsvol verduurzamen van nieuwe (digitale) onderwijsvormen in hoger onderwijs.&nbsp;De Vlaamse minister bevoegd voor onderwijs zal deze visienota indienen bij het Vlaams Parlement.&nbsp;",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "5fed907ee6670526694a0712",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2021-02-26T09:00:00Z",
+        "meetingId": "60342BB633914000080000A1",
+        "meetingTypePosition": 1,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "60365B263391400008000349",
+        "uri": "http://themis.vlaanderen.be/id/resource/002e88b0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

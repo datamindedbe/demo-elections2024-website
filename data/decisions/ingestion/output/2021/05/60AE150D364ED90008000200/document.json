@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60AE150D364ED90008000200",
+    "attributes": {
+        "title": "Erkenning Steunpunt Welzijn, Volksgezondheid en Gezin (2021-2026)",
+        "alternativeTitle": null,
+        "htmlContent": "\n  \n          <!---->\n        \n De Vlaamse Regering <strong>erkent het consortium onder leiding van de KULeuven als Steunpunt Welzijn, Volksgezondheid en Gezin IV (Steunpunt WVG)</strong>. Het consortium is een samenwerking tussen LUCAS, KULeuven, UGent, VUB, UHasselt, PXL Hogeschool, Thomas More, OPZC Rekem en Odisee Hogeschool.&nbsp;Het Steunpunt WVG zal instaan voor de uitvoering van de onderzoeksbehoeften van de beleidsvelden in het domein welzijn, volksgezondheid en gezin. Het meerjarenprogramma is opgebouwd in 3 grote clusters: een onderzoekslijn cluster opgroeien, een onderzoekslijn cluster zorg en een clusteroverstijgende lijn. Het aspect arrmoedebestrijding wordt ingesloten in de verschillende onderzoekslijnen.&nbsp;De Vlaamse minister, bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal de beheersovereenkomst onderhandelen, ondertekenen en meedelen aan de Vlaamse Regering.&nbsp;\n",
+        "position": 17,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2021-05-28T08:00:00Z",
+        "meetingId": "60ABA68B364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "6af19df8-a1e9-43bc-85f4-3cf8ac151d7e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60AE150D364ED90008000200",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE150D364ED90008000200"
+    }
+}

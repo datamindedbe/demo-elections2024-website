@@ -1,0 +1,43 @@
+{
+    "type": "news-item",
+    "id": "6553839A8265E66451D4C9D8",
+    "attributes": {
+        "title": "Nota aan het Overlegcomit\u00e9: \u201cFlexi-jobs in de onderwijssector\u201d",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering heeft de federale regering gevraagd om de <strong>flexi-jobs uit te breiden naar de sectoren onderwijs, kinderopvang, cultuur en sport</strong>. Op die manier wil ze mensen die iets meer willen werken bovenop hun huidige job of tijdens hun pensioen, de kans geven om de vele openstaande vacatures in deze sectoren in te vullen. Om dit verder uit te werken, heeft de federale regering gevraagd om de sectoren af te bakenen en een nota te agenderen aan het Overlegcomit\u00e9. In dit kader keurt de Vlaamse Regering <strong>nu de nota goed over flexi-jobs in het Vlaamse onderwijs, de kinderopvang, cultuur en sport</strong>, en beslist deze te agenderen op de eerstvolgende vergadering van het Overlegcomit\u00e9.</p>",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "658e57e6-4488-4aaf-bee7-1360ab362584",
+            "85e6f060-c8c5-4780-a399-e8b9b2d7d069",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Buitenlandse Zaken, Cultuur, Digitalisering en Facilitair Management",
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2023-11-17T09:00:00Z",
+        "meetingId": "655239658265E66451D4C5B1",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+            "a1fe00b2-9c52-40c1-8c37-3b68a78f4318"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6553839A8265E66451D4C9D8",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6553839A8265E66451D4C9D8"
+    }
+}

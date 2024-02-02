@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60D1AD3B364ED900080002F1",
+    "attributes": {
+        "title": "Vlaamse Strategie Duurzame Ontwikkeling IV",
+        "alternativeTitle": "Voorontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling",
+        "htmlContent": "Het decreet Duurzame Ontwikkeling bepaalt het kader voor het geco\u00f6rdineerd Vlaams beleid duurzame ontwikkeling en verzekert de continu\u00efteit ervan. Een van de bepalingen in het decreet is de opmaak van een Vlaamse Strategie Duurzame Ontwikkeling (VSDO). In dit kader keurt de Vlaamse Regering de <strong>nota '</strong><strong>Vlaamse Strategie Duurzame Ontwikkeling IV' (VSDO4)</strong>&nbsp;principieel goed.&nbsp;Met deze nota&nbsp;zet de regering verder in op een duurzame samenleving met Visie 2050 als langetermijnkompas en Vizier 2030 als focus. Vizier 2030 is de Vlaamse vertaling van de Sustainable Development Goals (SDG\u2019s) van de Verenigde Naties en bevat <strong>53 doelstellingen en 111 indicatoren</strong>. Voor de uitvoering van de VSDO4 wordt ingezet op <strong>zes transitieprioriteiten, </strong>met een&nbsp;duidelijke link met het relanceplan. De nota VDSO4 zal nog voor advies bezorgd worden aan de strategische adviesraden, de Verenigde Verenigingen, de VVSG, de VVP en een aantal maatschappelijke partners.",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-06-25T08:00:00Z",
+        "meetingId": "60D0B03A364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60D1AD3B364ED900080002F1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1AD3B364ED900080002F1"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "618B960B364ED90008000B7F",
+    "attributes": {
+        "title": "Besteding van de middelen uit het Vlaams Klimaatfonds voor het energiezuiniger maken van cultuur- en jeugdinfrastructuur",
+        "alternativeTitle": null,
+        "htmlContent": "\n  \n          <!---->\n        \n\u200bDe Vlaamse Regering zet verder&nbsp;in op het <strong>energiezuiniger maken van cultuur-&nbsp;en jeugdinfrastructuur</strong>&nbsp;door het verlenen van <strong>investeringssubsidies</strong> voor energiezuinige maatregelen in infrastructuur met een bovenlokale werking. In dit kader verleent ze haar goedkeuring aan de reservering <strong>vanuit het Vlaams&nbsp;Klimaatfonds</strong>&nbsp;van <strong>1,5 miljoen euro</strong>&nbsp;voor <strong>culturele&nbsp;infrastructuur</strong> en van&nbsp;<strong>717.000 euro</strong> voor <strong>jeugdinfrastructuur</strong>.\n",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+            "d89222e1-eb8a-411f-8889-b1c1b688ab90"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Brussel, Jeugd en Media"
+        ],
+        "meetingDate": "2021-11-12T09:00:00Z",
+        "meetingId": "618948A1364ED900080008BD",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "618B960B364ED90008000B7F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/618B960B364ED90008000B7F"
+    }
+}

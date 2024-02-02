@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "648821642D77B42474D4CDB2",
+    "attributes": {
+        "title": "Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "bb2e174a-374e-447d-ad0c-002204b4561f",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-06-16T08:00:00Z",
+        "meetingId": "648725AB2D77B42474D4CC5A",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "648821642D77B42474D4CDB2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/648821642D77B42474D4CDB2"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "5F0756FEFA87E00008000718",
+    "attributes": {
+        "title": "Verdeling van de middelen van het noodfonds cultuur",
+        "alternativeTitle": null,
+        "htmlContent": "                                          <!---->\n\n De Vlaamse Regering beslist tot <strong>herverdeling van coronamiddelen voor de beleidsvelden cultuur en jeugd</strong>. Het gaat enerzijds om de <strong>compensatie voor de gederfde inkomsten en meeruitgaven van de buitendiensten </strong>van het departement Cultuur, Jeugd en Media. Deze inkomstenderving is veroorzaakt door de sluitingsperiodes (geen verkoop van toegangstickets of&nbsp;in de museumshop, geen verkoop van publicaties, geen vergaderingen in het congrescentrum, ...); een verminderde werking door de huidige beperkingen; en een dalende sponsoring. De heropstart bracht tenslotte&nbsp;ook meeruitgaven met zich mee: beschermingsmateriaal, schermen, infopanelen,... Anderzijds gaat het <strong>naar IT-middelen voor de operationalisering van de cultuurcoronapremie</strong> en juridische ondersteuning. \n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 7,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070c",
+            "5fed907ee6670526694a071e"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Brussel, Jeugd en Media"
+        ],
+        "meetingDate": "2020-07-10T08:00:00Z",
+        "meetingId": "5F033875FA87E000080002DF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "34654906-74bd-4a69-9f93-0971f263cca3",
+            "12f19487-9fc6-4c02-afc3-0015b1127144"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F0756FEFA87E00008000718",
+        "uri": "http://themis.vlaanderen.be/id/resource/57741e70-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

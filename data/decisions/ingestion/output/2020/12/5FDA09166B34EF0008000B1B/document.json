@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FDA09166B34EF0008000B1B",
+    "attributes": {
+        "title": "Landinrichtingsproject Oudlandpolder fase 1",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot goedkeuring en instelling van het landinrichtingsproject \u2018Oudlandpolder Fase 1\u2019",
+        "htmlContent": "De Vlaamse Regering <strong>beslist tot goedkeuring en instelling van het landinrichtingsproject 'Oudlandpolder Fase 1'. </strong>Het projectgebied ligt ten noordwesten van Brugge, tussen het Boudewijnkanaal, het kanaal Brugge-Oostende en de Noordzee. Het landinrichtingsproject&nbsp;moet zorgen voor&nbsp;een gebiedsgericht en klimaatrobuust waterbeheer in de Oudlandpolder en het realiseren van&nbsp;de langetermijndoelstellingen van het gebied voor zowel landbouw als natuur.&nbsp;De Vlaamse minister bevoegd voor omgeving en natuur zal de nodige herbestemmingen doorvoeren via de opmaak van gewestelijke ruimtelijke uitvoeringsplannen en de startnota's voor de ge\u00efntegreerde planningsprocessen voor goedkeuring voorleggen aan de Vlaamse Regering.",
+        "position": 91,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FDA09166B34EF0008000B1B",
+        "uri": "http://themis.vlaanderen.be/id/resource/a8810c90-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

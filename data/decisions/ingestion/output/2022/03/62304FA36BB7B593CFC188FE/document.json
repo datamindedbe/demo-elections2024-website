@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "62304FA36BB7B593CFC188FE",
+    "attributes": {
+        "title": "Opvangplaatsen tijdelijk ontheemden: financiering lokale besturen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan lokale besturen voor het cre\u00ebren van bijkomende opvangplaatsen voor de tijdelijk ontheemden uit Oekra\u00efne",
+        "htmlContent": "\u200bDe Vlaamse Regering&nbsp;<strong>beslist een subsidie toe te kennen aan lokale besturen om bijkomende opvangplaatsen te cre\u00ebren voor de opvang van tijdelijk ontheemden uit Oekra\u00efne</strong>. De subsidie kan besteed worden aan materi\u00eble, immateri\u00eble en personeels- en werkingskosten die te maken hebben met het cre\u00ebren, beschikbaar houden en invullen van de opvangplaatsen.  ",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "1e207740-3834-4e98-8431-5a2c08704516"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-03-14T20:00:00Z",
+        "meetingId": "622F64CE6BB7B593CFC186BE",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "fa4e010f-84e9-4d65-9675-1604ad41de56"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62304FA36BB7B593CFC188FE",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62304FA36BB7B593CFC188FE"
+    }
+}

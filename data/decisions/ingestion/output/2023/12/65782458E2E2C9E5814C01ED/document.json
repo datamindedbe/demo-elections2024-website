@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "65782458E2E2C9E5814C01ED",
+    "attributes": {
+        "title": "Wijziging kabinetsbesluit: verdeling personeelsleden kabinetten beter afstemmen op gewicht inhoudelijke bevoegdheden",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering",
+        "htmlContent": "<p data-indentation-level=\"0\">Na advies van de Raad van State <strong>wijzigt</strong> de Vlaamse Regering <strong>definitief het kabinetsbesluit van 24 juli 2009</strong> <strong>om de verdeling van de personeelsleden over de kabinetten beter af te stemmen op het gewicht van de respectieve inhoudelijke bevoegdheden</strong>, door de verdeling van het aantal inhoudelijke raadgevers te baseren op de inhoudelijke structuurelementen. </p>",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "ae7478f4-d3cc-478e-b30a-33147b52e742",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "65782458E2E2C9E5814C01ED",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65782458E2E2C9E5814C01ED"
+    }
+}

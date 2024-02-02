@@ -1,0 +1,51 @@
+{
+    "type": "news-item",
+    "id": "63983790C2B90D4571CF8683",
+    "attributes": {
+        "title": "Gegevensdeling hulp- en dienstverlening aan gedetineerden",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot regeling van de gegevensverwerking en informatie-uitwisseling, vermeld in hoofdstuk 4 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden en tot wijziging van artikel 9 van het besluit van de Vlaamse Regering van 13 december 2013 tot uitvoering van hoofdstuk 3 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden en tot bepaling van de inwerkingtreding van het decreet van 26 februari 2021 tot wijziging van het decreet van 8 maart 2013 betreffende de organisa-tie van hulp- en dienstverlening aan gedetineerden, wat betreft de bepalingen over gegevensverwerking en informatie-uitwisseling",
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt principieel het besluit goed dat de gegevensverwerking en informatie-uitwisseling regelt bij de organisatie van hulp- en dienstverlening aan gedetineerden</strong>. Het besluit specifieert welke persoonsgegevens van gedetineerden kunnen verwerkt en gedeeld worden in het kader van de praktische organisatie van hulp- en dienstverlening aan gedetineerden en in het kader van de individueel aangeboden hulp- en dienstverlening aan gedetineerden. Daarnaast zorgt het besluit voor enkele aanpassingen na de oprichting van het Agentschap Justitie en Handhaving en de uitvoering van enkele bepalingen van het decreet van 26 februari 2021 over de organisatie van hulp- en dienstverlening aan gedetineerden. Over dit besluit wordt het advies ingewonnen van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens en daarna van de Raad van State. ",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Ben",
+            "Jan",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Weyts",
+            "Jambon",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-12-16T09:00:00Z",
+        "meetingId": "63974DCAC2B90D4571CF81EF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63983790C2B90D4571CF8683",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63983790C2B90D4571CF8683"
+    }
+}

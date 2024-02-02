@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61AF2F7F364ED9000900061A",
+    "attributes": {
+        "title": "Erkenningsdecreet lokale geloofsgemeenschappen: aanwijzing Informatie- en screeningsdienst",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot aanwijzing van de bevoegde instantie, vermeld in artikel 18 van het Erkenningsdecreet Lokale geloofsgemeenschappen van 22 oktober 2021",
+        "htmlContent": "Het <strong>Erkenningsdecreet Lokale Geloofsgemeenschappen</strong> bevat de erkenningscriteria&nbsp;en -procedure voor&nbsp;lokale geloofsgemeenschappen om erkend te kunnen worden, en ook de <strong>erkenningsverplichtingen</strong> waaraan besturen van de eredienst blijvend moeten voldoen. Voor een permanent en adequaat toezicht op de naleving van de verplichtingen&nbsp;wordt een <strong>Vlaamse toezichtinstantie</strong>&nbsp;opgericht. In dit kader <strong>wijst</strong> de Vlaamse Regering nu, na advies van de Raad van State, definitief&nbsp;<strong>de Informatie-&nbsp;en screeningsdienst&nbsp;lokale geloofsgemeenschappen&nbsp;van het Agentschap Binnenlands Bestuur aan als bevoegde toezichtinstantie</strong>.&nbsp;",
+        "position": 26,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "1e207740-3834-4e98-8431-5a2c08704516",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-12-10T09:00:00Z",
+        "meetingId": "61AE2A82364ED9000900011A",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61AF2F7F364ED9000900061A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF2F7F364ED9000900061A"
+    }
+}

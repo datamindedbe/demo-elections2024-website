@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FF577006B34EF00080001CA",
+    "attributes": {
+        "title": "Vlaams Instituut voor de Zee vzw (VLIZ): voordracht onafhankelijke bestuurders",
+        "alternativeTitle": null,
+        "htmlContent": "M\u200b<span style=\"font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;\">et het oog op hun benoeming door de algemene vergadering <strong>draagt</strong> d</span>e Vlaamse Regering <strong data-editor-position-level=\"0\">Jean Berlamont, Colin Janssen, Willy Versluys en No\u00e9mie Wouters voor&nbsp;</strong>als <strong>bestuurder bij het Vlaams Instituut voor de Zee (VLIZ vzw</strong>). De aanstelling gebeurt voor drie jaar.&nbsp;",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-01-08T09:00:00Z",
+        "meetingId": "5FF413826B34EF0008000054",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FF577006B34EF00080001CA",
+        "uri": "http://themis.vlaanderen.be/id/resource/8e14d3f0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

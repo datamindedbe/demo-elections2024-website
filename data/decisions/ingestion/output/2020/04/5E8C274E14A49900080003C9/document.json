@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "5E8C274E14A49900080003C9",
+    "attributes": {
+        "title": "Coronavirus COVID-19 en impact op maatschappelijk kwetsbare \nkinderen en jongeren",
+        "alternativeTitle": null,
+        "htmlContent": "              <!---->\n\n De maatregelen ter bestrijding van het coronavirus hebben een specifieke impact op kinderen en jongeren in maatschappelijk kwetsbare posities. De Vlaamse Regering <strong>neemt daarom een aantal maatregelen die willen inspelen op de urgentie van informatie en hulpverlening</strong>. Deze maatregelen vertrekken vanuit het belang van het kind en de jongere in Vlaanderen en Brussel. Zo voorziet ze een gerichte financi\u00eble impuls van<strong> 100.000 euro voor De Ambrassade vzw</strong>, voor de periode van 1 april 2020 tot en met 31 december 2020, om de opdracht van het jeugdinformatieplatform WAT WAT tot het centraliseren van jeugdinformatie te intensifi\u00ebren en proactief op te nemen. Ze voorziet ook <strong>75.000 euro voor</strong> de periode van 1 april 2020 tot en met 31 december 2020 aan <strong>Awel vzw, 95.000 euro </strong>voor de periode 1 april 2020 tot en met 31 maart 2021 aan de <strong>Federatie van Tele-Onthaaldiensten</strong>, <strong>140.000 euro voor</strong> de periode van 1 april 2020 tot en met 31 maart 2021 aan <strong>4 Centra voor Algemeen Welzijnswerk </strong>voor de versterking van de 1712-werking, en <strong>50.000 euro voor</strong> de periode van 1 april 2020 tot en met 31 maart 2021 aan <strong>Centrum ter Preventie van Zelfdoding </strong>voor de ondersteuning van de vrijwilligerswerking van de Zelfmoordlijn 1813.&nbsp;<!-- components -->\n<!---->",
+        "position": 22,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Wouter",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Beke",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0719",
+            "5fed907ee6670526694a071e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Brussel, Jeugd en Media"
+        ],
+        "meetingDate": "2020-04-10T08:00:00Z",
+        "meetingId": "5E8C1FC414A49900080002E4",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5E8C274E14A49900080003C9",
+        "uri": "http://themis.vlaanderen.be/id/resource/f4cdfd70-4929-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": "news-item",
+    "id": "5FCF7B1720B6670008000505",
+    "attributes": {
+        "title": "Samenvoeging beleidsdomeinen Kanselarij en Bestuur en Internationaal Vlaanderen: wijzigingsdecreet",
+        "alternativeTitle": "Ontwerpdecreet tot wijziging van decreten naar aanleiding van de reorganisatie van het beleidsdomein Kanselarij en Bestuur en van de samenvoeging van het beleidsdomein Kanselarij en Bestuur met het beleidsdomein Internationaal Vlaanderen",
+        "htmlContent": "Na adviezen van de SERV en van de Raad van State hecht de&nbsp;Vlaamse Regering haar <strong>definitieve&nbsp;goedkeuring</strong> aan het<strong> ontwerpdecreet dat een aantal decreten in overeenstemming brengt&nbsp;met de reorganisatie van de Vlaamse administratie in het kader van de fusie van de&nbsp;beleidsdomeinen 'Kanselarij en Bestuur' en 'Internationaal Vlaanderen' en van de bijhorende departementen</strong>. Het gaat om het decreet over de Sociaal-Economische Raad van Vlaanderen, het decreet over publiek-private samenwerking, en het decreet met de bepalingen tot begeleiding van de begroting 2016. Het&nbsp;ontwerp van wijzigingsdecreet wordt nu ingediend bij het Vlaams Parlement.&nbsp;",
+        "position": 9,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0710",
+            "5fed907ee6670526694a071b",
+            "5fed907ee6670526694a070c"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2020-12-11T09:00:00Z",
+        "meetingId": "5FCE5AF620B66700080001AD",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FCF7B1720B6670008000505",
+        "uri": "http://themis.vlaanderen.be/id/resource/2a029540-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

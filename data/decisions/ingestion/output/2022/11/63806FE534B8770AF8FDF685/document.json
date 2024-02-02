@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "63806FE534B8770AF8FDF685",
+    "attributes": {
+        "title": "Oprichting van Flanders Technology & Innovation BV (FTI)",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">herlanceert het merk FTI, Flanders Technology &amp; Innovation, als een wervend project rond technologie en innovatie</strong>, over alle beleidsdomeinen heen. In dat kader beslissen het Vlaamse Gewest en de Vlaamse Gemeenschap om, <strong data-__set-by=\"rdfa-editor\">samen met private partners, een besloten vennootschap op te richten met de naam 'Flanders Technology &amp; Innovation' </strong>(FTI), die tot doel heeft een platform te cre\u00ebren waar data, know how en innovatieve idee\u00ebn worden samengebracht zodat het een katalysator kan worden voor investeringen in technologische oplossingen voor maatschappelijke uitdagingen. De Vlaamse Regering hecht haar goedkeuring aan het principe van de mede-oprichting van FTI als besloten vennootschap. Ze wil <strong data-__set-by=\"rdfa-editor\">potenti\u00eble private investeerders</strong> de kans geven om de vennootschap mee op te richten en zal daartoe een <strong data-__set-by=\"rdfa-editor\">brede oproep aan de private markt</strong> organiseren.",
+        "position": 7,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2022-11-25T11:00:00Z",
+        "meetingId": "637B67FA34B8770AF8FDEE67",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63806FE534B8770AF8FDF685",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63806FE534B8770AF8FDF685"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "633BDA54EB2A31D34EEC5DF5",
+    "attributes": {
+        "title": "Schriftelijke vraag van 26 september 2022 van Maurits Vande Reyde, gesteld aan alle Vlaamse ministers, betreffende \u201cWebsites en apps Vlaamse overheid \u2013 Toegankelijkheid\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 23,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-10-07T08:00:00Z",
+        "meetingId": "633BCDD5EB2A31D34EEC5D22",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "633BDA54EB2A31D34EEC5DF5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633BDA54EB2A31D34EEC5DF5"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "652657317FDB1A5D078286CA",
+    "attributes": {
+        "title": "Wijziging decreet rechtspositie minderjarige in de integrale jeugdhulp",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en binnen het kader van het decreet betreffende het jeugddelinquentierecht",
+        "htmlContent": "<p data-indentation-level=\"0\">Na adviezen van de Vlaamse Raad WVG, van de Vlaamse Jeugdraad, van de VTC en van de GBA, <strong>wijzigt</strong> de Vlaamse Regering <strong>opnieuw principieel het decreet over de rechtspositie van de minderjarige in de integrale jeugdhulp</strong>. Doel van de wijziging is om het decreet <strong>grondig te actualiseren</strong>. Zo wordt een duidelijker rechtenkader uitgeschreven voor minderjarigen in gesloten settings. De wijziging zorgt ook voor het expliciteren van belangrijke rechten zoals het recht op vrije tijd, op onderwijs, op gezondheidszorg en het belang van aandacht voor een ontwikkelingsgericht leefklimaat. Er komen ook duidelijke rechtswaarborgen over de preventie en de toepassing van vrijheidsbeperkende maatregelen, zoals afzondering en fixatie, gebaseerd op de intersectorale richtlijn hierover. De wijzigingen zorgen voor de versterking van de rechtspositie van alle minderjarigen in de (residenti\u00eble) jeugdhulp. Over dit voorontwerp van wijzigingsdecreet wordt nu het advies ingewonnen van de Raad van State. </p>",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "bb2e174a-374e-447d-ad0c-002204b4561f",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-10-13T08:00:00Z",
+        "meetingId": "652408427FDB1A5D07828189",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "652657317FDB1A5D078286CA",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/652657317FDB1A5D078286CA"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "649ABF282D77B42474D4E86D",
+    "attributes": {
+        "title": "Erfbelasting betalen met cultuurgoederen: wijziging uitvoeringsbesluit decreet bescherming roerend cultureel erfgoed van uitzonderlijk belang",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse regering van 5 december 2003 ter uitvoering van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang en het besluit Vlaamse Codex Fiscaliteit van 20 december 2013, wat betreft de inbetalinggeving van cultuurgoederen ter voldoening van de erfbelasting",
+        "htmlContent": "<p data-indentation-level=\"0\"></p><p data-indentation-level=\"0\">Na advies van de Raad van State <strong>wijzigt</strong> de Vlaamse Regering <strong>definitief</strong> haar uitvoeringsbesluit bij het decreet over de bescherming van het roerend cultureel erfgoed van uitzonderlijk belang en de Vlaamse Codex Fiscaliteit, wat de <strong>regeling</strong> betreft <strong>om cultuurgoederen in betaling te geven om te voldoen aan de erfbelasting</strong>. Het uitvoeringsbesluit regelt onder meer de <strong>aanvraagprocedure, de beslissingsprocedure en de wijze van toerekening op de erfbelasting</strong>. </p>",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "43c129cc-ba12-4457-b93e-737b7370c46e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering"
+        ],
+        "meetingDate": "2023-06-30T08:00:00Z",
+        "meetingId": "649998A72D77B42474D4E38E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "649ABF282D77B42474D4E86D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/649ABF282D77B42474D4E86D"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "655DAD91F639D27EAA9FEA32",
+    "attributes": {
+        "title": "Herverdeling Fonds voor Innoveren en Ondernemen (FIO)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">Bij de begrotingsopmaak 2023 werd 1 miljard euro ingeschreven voor leningen naar aanleiding van de energiecrisis. Hiervan is begin dit jaar 250 miljoen euro herverdeeld, waarmee VLAIO overbruggingsleningen kan toekennen in 2023. De Vlaamse Regering <strong>beslist nu tot herverdeling van </strong>het saldo van<strong> 750 miljoen euro</strong> <strong>om te investeren in een nieuw op te richten infrastructuurvehikel</strong> <strong>(imec EU pilot line nv)</strong> <strong>samen met het onderzoekscentrum imec</strong> <strong>in het kader van de cofinanciering van een Europese R&amp;D-pilootlijn voor chiptechnologie in Vlaanderen</strong>. Deze R&amp;D-pilootlijn cre\u00ebert een platform dat de Vlaamse en Europese industrie de inzichten biedt om het potentieel van nieuwe chiptechnologie voor hun toekomstige producten op een meer matuur niveau te evalueren en zo de adoptie ervan in disruptieve, competitieve producten drastisch te versnellen.</p>",
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "384269c5-542a-4c95-aec6-c6b250fca93e",
+            "002ba4de-5d1c-4cdf-b9f8-7d44ec9feb33"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2023-11-23T16:00:00Z",
+        "meetingId": "655B56ABF639D27EAA9FE44B",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "655DAD91F639D27EAA9FEA32",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/655DAD91F639D27EAA9FEA32"
+    }
+}

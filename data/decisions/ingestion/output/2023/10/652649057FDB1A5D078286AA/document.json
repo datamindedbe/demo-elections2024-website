@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "652649057FDB1A5D078286AA",
+    "attributes": {
+        "title": "Erkenning Nationale Parken 'Brabantse Wouden', 'Hoge Kempen', 'Scheldevallei' en 'Bosland'",
+        "alternativeTitle": "Drie ontwerpbesluiten van de Vlaamse Regering",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>erkent 'Brabantse Wouden', 'Hoge Kempen' 'Scheldevallei' en 'Bosland' als Nationaal Park Vlaanderen,</strong> conform het decreet van 9 juni 2023 over de Vlaamse Parken en de algemene landschapszorg. De Vlaamse Parken is de verzamelnaam van de Nationale Parken Vlaanderen en de Landschapsparken. Het zijn elk erkende gebieden die zich onderscheiden op het vlak van natuur-, landschap- en/of erfgoedwaarden. Met de benaming Vlaamse Parken kan Vlaanderen deze bijzondere gebieden gebundeld benoemen en zich hiermee internationaal positioneren met hun specifieke waarden en hun toeristisch potentieel. </p>",
+        "position": 42,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Matthias"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Diependaele"
+        ],
+        "mandateeIds": [
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-10-13T08:00:00Z",
+        "meetingId": "652408427FDB1A5D07828189",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "652649057FDB1A5D078286AA",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/652649057FDB1A5D078286AA"
+    }
+}

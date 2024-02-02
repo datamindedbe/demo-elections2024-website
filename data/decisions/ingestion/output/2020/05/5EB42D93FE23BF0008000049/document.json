@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "5EB42D93FE23BF0008000049",
+    "attributes": {
+        "title": "Decreet coronagebonden bemiddelingsopdracht woninghuurovereenkomsten",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van enkele bepalingen in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Vredesinstituut en tot instelling bij de Vlaamse Ombudsdienst van een coronagebonden bemiddelingsopdracht inzake woninghuurovereenkomsten, aangenomen door het Vlaams Parlement op 6 mei 2020",
+        "htmlContent": "                            <!---->\n\n De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet dat enkele bepalingen wijzigt&nbsp;in verband met de selectie en de evaluatie van de kinderrechtencommissaris, de Vlaamse ombudsman en de directeur van het Vlaams Vredesinstituut en tot instelling bij de Vlaamse Ombudsdienst van een coronagebonden bemiddelingsopdracht rond woninghuurovereenkomsten</strong>.&nbsp;Dit decreet werd op 6 mei 2020 aangenomen door het Vlaams Parlement.\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 31,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2020-05-08T08:00:00Z",
+        "meetingId": "5EB10E06720F380008000338",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "34654906-74bd-4a69-9f93-0971f263cca3",
+            "fa4e010f-84e9-4d65-9675-1604ad41de56",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5EB42D93FE23BF0008000049",
+        "uri": "http://themis.vlaanderen.be/id/resource/9998af90-4929-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6050BF983391400008000225",
+    "attributes": {
+        "title": "Vaststelling toepassingsgebied verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van het toepassingsgebied van de verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen",
+        "htmlContent": "De Vlaamse Regering stelt principieel&nbsp;het&nbsp;<strong>toepassingsgebied vast&nbsp;van de verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen</strong>.&nbsp;Om de bewegingen van en met havenvoertuigen effici\u00ebnt te kunnen organiseren voor&nbsp;de haven van Antwerpen moet&nbsp;het gebied waarin de betrokken verordening van toepassing is als \u00e9\u00e9n functioneel-economisch&nbsp;gebied worden beschouwd. Dit impliceert dat het toepassingsgebied van de verordening in de haven van Antwerpen ook de weg-&nbsp;en tunnelverbindingen moet bevatten tussen alle gebieden waar havenactiviteiten plaatsvinden. Over dit besluit wordt het advies ingewonnen van de&nbsp;Mobiliteitsraad Vlaanderen,&nbsp;van de steden en gemeenten op wiens grondgebied de havenverkeersverordening van toepassing zal zijn, en daarna van de Raad van State.",
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-03-19T09:00:00Z",
+        "meetingId": "604FB7DF3391400008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6050BF983391400008000225",
+        "uri": "http://themis.vlaanderen.be/id/resource/8da84bf0-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

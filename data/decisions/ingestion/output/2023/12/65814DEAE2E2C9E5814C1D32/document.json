@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "65814DEAE2E2C9E5814C1D32",
+    "attributes": {
+        "title": "3,15 miljoen euro subsidie voor project \u2018Proeftuin - Technologie voor werkbaar werk in zorg- en welzijnssectoren\u2019",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van steun aan hoofdaanvrager Flanders Make vzw, en neven-aanvragers Imec, PXL, Thomas More en UC Leuven-Limburg voor de uitvoering van het project Proeftuin \u2018Technologie voor Werkbaar werk in de Zorg- en Welzijnssectoren\u2019",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering kent <strong>3,15 miljoen euro subsidie</strong> toe <strong>aan FLANDERS MAKE, IMEC, PXL, Thomas More en UC Leuven-Limburg voor de uitvoering van het project \u2018Proeftuin - Technologie voor werkbaar werk in zorg- en welzijnssectoren\u2019</strong>. Het doel van dit proeftuinproject is om bestaande en nieuwe (maar mature) technologische hulpmiddelen aan te wenden, te testen en te evalueren om de werkbaarheid van het personeel binnen zorg- en welzijnsvoorzieningen te verbeteren, hen bij te scholen en op te leiden, om hen te ondersteunen en te versterken in hun competenties en taken.</p>",
+        "position": 116,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "384269c5-542a-4c95-aec6-c6b250fca93e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "65814DEAE2E2C9E5814C1D32",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65814DEAE2E2C9E5814C1D32"
+    }
+}

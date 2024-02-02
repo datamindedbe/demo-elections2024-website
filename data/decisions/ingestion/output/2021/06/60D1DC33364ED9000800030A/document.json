@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "60D1DC33364ED9000800030A",
+    "attributes": {
+        "title": "Gemeenschapsinstellingen: experiment \u2018kortverblijf met mobiele begeleiding\u2019 met \u00e9\u00e9n jaar verlengd",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering keurde op&nbsp;24 april 2020 een aantal maatregelen goed om&nbsp;de instroommogelijkheden van de <strong>gemeenschapsinstellingen</strong> te verhogen en te differenti\u00ebren.&nbsp;Een aantal van de maatregelen werd&nbsp;ondertussen vertaald in recurrent beleid. E\u00e9n van deze maatregelen,&nbsp;<span>het <strong>experiment \u2018kortverblijf&nbsp;met mobiele begeleiding\u2019</strong>,</span>&nbsp;wordt nu&nbsp;<strong>eenmalig&nbsp;</strong><strong><span>projectmatig&nbsp;</span></strong><strong>met \u00e9\u00e9n jaar&nbsp;verlengd</strong>,<strong> waarna ook deze formule recurrent kan verankerd worden</strong>.&nbsp;Het experiment werd opgezet in functie van twee duidelijke doelstellingen: het verhogen van de instroommogelijkheden van de gemeenschapsinstellingen en het terugdringen van het aantal weigeringen van jongeren in de instellingen&nbsp;en het gevoel van straffeloosheid; en&nbsp;het versterken en versnellen van noodzakelijke partnerschappen rond beslissingen tot gesloten begeleiding.",
+        "position": 23,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-06-25T08:00:00Z",
+        "meetingId": "60D0B03A364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60D1DC33364ED9000800030A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1DC33364ED9000800030A"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63A1B1BCDBF1CAE8110222D8",
+    "attributes": {
+        "title": "Herverdeling krediet IT- en datawerking Departement Werk en Sociale Economie (DWSE)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling van het begrotingsartikel JB0-1JBB2AB-PR naar begrotingsartikel JB0-1JAB2ZZ-WT van de Vlaamse Gemeenschap voor het begrotingsjaar 2022",
+        "htmlContent": "De Vlaamse Regering keurt een <strong data-__set-by=\"rdfa-editor\">herverdelingsbesluit</strong> goed, waarbij <strong data-__set-by=\"rdfa-editor\">5 miljoen euro</strong> herverdeeld wordt van de \u2018Provisie voor maatregelen voor de ondersteuning van het werkgelegenheidsbeleid\u2019 naar het begrotingsartikel met onder meer de IT-kredieten van het <strong data-__set-by=\"rdfa-editor\">Departement Werk en Sociale Economie</strong> (DWSE). Deze middelen worden ingezet om een <strong data-__set-by=\"rdfa-editor\">\u00e9\u00e9nmalige impuls</strong> te geven aan de <strong data-__set-by=\"rdfa-editor\">IT- en datawerking</strong> van het Departement WSE.",
+        "position": 114,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2022-12-23T09:00:00Z",
+        "meetingId": "63A041CADBF1CAE8110217E9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63A1B1BCDBF1CAE8110222D8",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A1B1BCDBF1CAE8110222D8"
+    }
+}

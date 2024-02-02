@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61BA40E5364ED900080000B1",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: dossiernummer 160",
+        "alternativeTitle": null,
+        "htmlContent": "Vermindering van regeldruk en administratieve vereenvoudiging: stand van zaken na de afwerking van de eerste fase van het project",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-12-10T09:00:00Z",
+        "meetingId": "61AF270A364ED900090005BA",
+        "meetingTypePosition": 1,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61BA40E5364ED900080000B1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61BA40E5364ED900080000B1"
+    }
+}

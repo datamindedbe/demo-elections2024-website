@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "647E0B0E2D77B42474D4C437",
+    "attributes": {
+        "title": "Vlaams Actieplan Jeugddelinquentie",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 51,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-06-09T08:00:00Z",
+        "meetingId": "647DD15D2D77B42474D4C399",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "647E0B0E2D77B42474D4C437",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/647E0B0E2D77B42474D4C437"
+    }
+}

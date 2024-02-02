@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64267E198A5434FEB5657410",
+    "attributes": {
+        "title": "Projectoproep 'Natuur in je school 2023'",
+        "alternativeTitle": null,
+        "htmlContent": "<p>De Vlaamse Regering lanceert de <strong>projectoproep 'Natuur in je School 2023'</strong> en voorziet maximaal <strong>9 miljoen euro</strong> voor projecten die <strong>inzetten op natuurgebaseerde klimaatadaptieve maatregelen op school</strong>. De projectoproep wil inspelen op de grote vraag vanuit scholen naar financi\u00eble middelen voor de inrichting van het schooldomein met natuurgebaseerde klimaatadaptieve maatregelen. Meer natuur op school draagt rechtstreeks bij aan een <strong>klimaatbestendige schoolomgeving</strong>, zorgt voor meer infiltratie en buffering van water, en heeft een positieve impact op het tegengaan van droogte en hittestress. Een natuurlijkere schoolomgeving laat scholen bovendien toe <strong>meer in te zetten op buiten leren</strong>. Dit heeft positieve effecten op leerresultaten en het welzijn op school van leerlingen, personeel en andere gebruikers.</p>",
+        "position": 15,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-03-31T08:00:00Z",
+        "meetingId": "6421A81A3335D329E25EDD30",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64267E198A5434FEB5657410",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64267E198A5434FEB5657410"
+    }
+}

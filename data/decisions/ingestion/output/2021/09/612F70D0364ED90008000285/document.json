@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "612F70D0364ED90008000285",
+    "attributes": {
+        "title": "Opstart ge\u00efntegreerd planningsproces gewestelijk ruimtelijk uitvoeringsplan \u2018Herkenrodebossen en de Wijer\u2019",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong>keurt de startnota 'Herkenrodebossen en de Wijer' goed.</strong> Het plangebied van het gewestelijk ruimtelijk uitvoeringsplan bestaat uit twee deelgebieden: 'Herkenrodebossen' en 'de Wijer'. 'Herkenrodebossen' is een open ruimtegebied tussen Hasselt en Herk-De-Stad. Het planproces wil daar de boskernen herstellen en terug met elkaar verbinden. Het deelgebied 'de Wijer' ligt in Hasselt en Nieuwerkerken, en betreft grotendeels het voormalige ontginningsgebied (Weyerbos). Daar ligt de focus op bosuitbreiding, met aandacht voor het aanwezige erfgoed in de onmiddellijke omgeving.&nbsp;De bevoegde minister voor ruimtelijke ordening zal de vereiste adviezen inwinnen over deze startnota en de bevolking van de betrokken gemeenten informeren en raadplegen hierover.&nbsp;",
+        "position": 21,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2021-09-03T10:00:00Z",
+        "meetingId": "612CE303364ED90008000049",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "612F70D0364ED90008000285",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/612F70D0364ED90008000285"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60ED7A56364ED9000800147A",
+    "attributes": {
+        "title": "Exploitatie kernnet en aanvullend net openbaar vervoer",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering over de exploitatie van het kernnet en aanvullend net",
+        "htmlContent": "De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring</strong> aan&nbsp;het&nbsp;<strong>exploitatiebesluit dat&nbsp;de voorwaarden bundelt&nbsp;waaraan de exploitanten&nbsp;van het kernnet en het aanvullend net in het kader van het decreet Basisbereikbaarheid moeten voldoen</strong>.&nbsp;Het decreet Basisbereikbaarheid verandert het landschap&nbsp;rond <strong>openbaar vervoer</strong> in Vlaanderen. Niet enkel door de nieuwe opdeling in kernnet, aanvullend net en vervoer op maat, maar ook doordat er afgestapt wordt van het monopolie van de VVM De Lijn voor het geregeld personenvervoer. Over dit besluit wordt nog het advies ingewonnen van de MORA en daarna van de Raad van State.",
+        "position": 94,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": "17ddaff0-b2e3-4f02-9157-76a1cf593a5b",
+        "agendaitemType": "Nota",
+        "uuid": "60ED7A56364ED9000800147A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED7A56364ED9000800147A"
+    }
+}

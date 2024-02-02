@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6009B2E26B34EF00080002A1",
+    "attributes": {
+        "title": "Samenstelling stuurgroep Vlaamse Brede Heroverweging",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 39,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "5fed907ee6670526694a071b",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2021-01-22T09:00:00Z",
+        "meetingId": "600688A26B34EF0008000001",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6009B2E26B34EF00080002A1",
+        "uri": "http://themis.vlaanderen.be/id/resource/5f803ca0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

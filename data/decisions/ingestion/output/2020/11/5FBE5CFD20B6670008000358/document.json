@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FBE5CFD20B6670008000358",
+    "attributes": {
+        "title": "Kapitaalverhoging van 100 miljoen euro bij nv Limburgse Reconversiemaatschappij (LRM)",
+        "alternativeTitle": null,
+        "htmlContent": "<span data-editor-position-level=\"0\">Om de Limburgse economie en innovatiestructuren extra zuurstof te </span><span>geven, voert de Vlaamse Regering</span><span> een <strong>kapitaalverhoging van 100 miljoen euro</strong> door <strong>bij&nbsp;de Limburgse Reconversiemaatschappij</strong>.&nbsp;Met deze&nbsp;</span><span>extra </span><span>middelen kan de LRM binnen het kader van de beheersovereenkomst beloftevolle startups&nbsp;</span><span>en </span><span>scale</span><span>\u2010</span><span>ups ondersteunen in hun verdere groei, alsook </span><span>participeren in innovatieve spinoffs&nbsp;</span><span>samen </span><span>met de UHasselt en andere onderzoeks</span><span>\u2010&nbsp;</span><span>en kennisinstellingen.</span>",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-11-27T09:00:00Z",
+        "meetingId": "5FBC12FD20B66700080000C7",
+        "meetingTypePosition": 4,
+        "themeId": "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+        "agendaitemType": "Nota",
+        "uuid": "5FBE5CFD20B6670008000358",
+        "uri": "http://themis.vlaanderen.be/id/resource/9549f640-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

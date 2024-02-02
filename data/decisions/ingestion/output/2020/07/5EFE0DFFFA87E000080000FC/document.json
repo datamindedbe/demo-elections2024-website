@@ -1,0 +1,39 @@
+{
+    "type": "news-item",
+    "id": "5EFE0DFFFA87E000080000FC",
+    "attributes": {
+        "title": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB): aanstelling regeringscommissarissen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot aanstelling van een regeringscommissaris bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+        "htmlContent": "Op voordracht van de Vlaamse minister bevoegd voor Werk wordt <strong>Elke Jeurissen</strong> aangesteld&nbsp;als <strong>regeringscommissaris bij de VDAB</strong>, ter vervanging van Marion Vrijens, aan wie eervol ontslag wordt&nbsp;verleend.&nbsp;Op voordracht van de Vlaamse minister bevoegd voor Financi\u00ebn en Begroting wordt <strong>Charlien Van Leuffel</strong> aangesteld als regeringscommissaris bij de VDAB, ter vervanging van Kristof Boon, aan wie eervol ontslag wordt&nbsp;verleend.\n\n<!-- components -->\n<!---->",
+        "position": 15,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Matthias"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Diependaele"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a070d",
+            "5fed907ee6670526694a071b"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2020-07-03T08:00:00Z",
+        "meetingId": "5EF8F3BCFA87E00008000002",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5EFE0DFFFA87E000080000FC",
+        "uri": "http://themis.vlaanderen.be/id/resource/a1c69bb0-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

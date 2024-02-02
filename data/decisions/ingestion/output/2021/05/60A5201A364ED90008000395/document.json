@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60A5201A364ED90008000395",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: dossier 118",
+        "alternativeTitle": "Verderzetting digitalisering Groeipakket",
+        "htmlContent": "In het kader van <strong data-editor-position-level=\"0\">project VV118 van&nbsp;het relanceplan Vlaamse Veerkracht: 'Verder zetten digitalisering Groeipakket'</strong>, keurt de Vlaamse Regering de budgettoewijzing goed van de nodige&nbsp;relancemiddelen voor de verdere&nbsp;digitalisering van het Groeipakket. De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal de voorziene acties uitvoeren die zijn toegewezen aan de verschillende entiteiten binnen zijn beleidsdomein.&nbsp;",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2021-05-21T08:00:00Z",
+        "meetingId": "60A35F53364ED9000800019D",
+        "meetingTypePosition": 1,
+        "themeId": "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+        "agendaitemType": "Nota",
+        "uuid": "60A5201A364ED90008000395",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60A5201A364ED90008000395"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5F102BEEFA87E0000800089F",
+    "attributes": {
+        "title": "Wijzigingsdecreet integrale jeugdhulp: leeftijd voor plaatsing in pleeggezin",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van artikel 48 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, wat de leeftijd voor plaatsing in een pleeggezin betreft, aangenomen door het Vlaams Parlement op 15 juli 2020",
+        "htmlContent": "              <!---->\n\n De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet dat artikel 48 wijzigt&nbsp;van het decreet over de integrale jeugdhulp, wat de leeftijd voor plaatsing in een pleeggezin betreft</strong>. Het ontwerp van wijzigingsdecreet werd op 15 juli 2020 aangenomen door het Vlaams Parlement.<!-- components -->\n<!---->",
+        "position": 131,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2020-07-17T08:00:00Z",
+        "meetingId": "5F0CA175FA87E00008000182",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F102BEEFA87E0000800089F",
+        "uri": "http://themis.vlaanderen.be/id/resource/d8fe2810-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

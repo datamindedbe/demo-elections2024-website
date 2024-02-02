@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "5FD9D1626B34EF0008000ADD",
+    "attributes": {
+        "title": "Facultatieve projectsubsidie voor groenprojecten open ruimte in het Vlaams Strategisch Gebied Brussel ",
+        "alternativeTitle": "Vijf ontwerpbesluiten van de Vlaamse Regering tot toekenning van een projectsubsidie voor het uitvoeren van het groenproject",
+        "htmlContent": "De Vlaamse Regering <strong>kent een facultatieve projectsubsidie</strong> toe aan vijf steden en gemeenten <strong>voor groenprojecten in het kader van het beleid open ruimte in het Vlaams Strategisch Gebied Brussel (VSGB)</strong>. Het gaat om <strong>Halle</strong>: 342.000 euro voor&nbsp;'Zenneweide&nbsp;- inrichtingswerken'; <strong>Hoeilaart</strong>: 305.000 euro voor&nbsp;'Vergroenen en ontharden stationsplein Groenendaal'; <strong>Vilvoorde</strong>: 565.000 euro voor 'Asiat-Darse'; <strong>Tervuren</strong>: 368.000 euro voor 'Bebossing en ontsluiting site Hertenbergstraat' en <strong>Wemmel</strong>: 303.000 euro voor&nbsp;'Van Reek tot Motte en verder (Maalbeekvallei)'. De Vlaamse minister bevoegd voor Omgeving zal zorgen voor de uitvoering van deze beslissing.",
+        "position": 77,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0712"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6b4bf676-b4ef-474e-b650-1115ebd23376",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FD9D1626B34EF0008000ADD",
+        "uri": "http://themis.vlaanderen.be/id/resource/abeee320-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

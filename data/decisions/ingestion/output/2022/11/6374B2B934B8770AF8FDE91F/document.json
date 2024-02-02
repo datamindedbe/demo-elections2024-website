@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "6374B2B934B8770AF8FDE91F",
+    "attributes": {
+        "title": "Decreet werk- en zorgtrajecten: uitvoeringsbesluit",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de uitvoering van het decreet van 8 juli 2022 over de werk- en zorgtrajecten",
+        "htmlContent": "Het <strong data-__set-by=\"rdfa-editor\">decreet over de werk- en zorgtrajecten</strong> voorziet in een <strong data-__set-by=\"rdfa-editor\">aanbod voor personen die niet, niet meer of nog niet betaald aan het werk kunnen door cognitieve, medische, psychische, psychiatrische of sociale problemen.</strong> Het voorziet in drie types van dienstverlening: <strong data-__set-by=\"rdfa-editor\">activeringstrajecten</strong> als een voorbereiding op betaald werk, <strong data-__set-by=\"rdfa-editor\">arbeidsmatige activiteiten op een continu\u00fcm van participatie naar activering, en onthaaltrajecten</strong> via het Ge\u00efntegreerd Breed Onthaal om onderbescherming tegen te gaan. (Onderbescherming is iedere situatie waarin personen zich bevinden die niet al hun sociale grondrechten realiseren). Na advies van de Raad van State <strong data-__set-by=\"rdfa-editor\">keurt </strong>de Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">definitief het uitvoeringsbesluit goed bij dit decreet</strong>.",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2022-11-18T09:00:00Z",
+        "meetingId": "63723F2834B8770AF8FDE59D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6374B2B934B8770AF8FDE91F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6374B2B934B8770AF8FDE91F"
+    }
+}

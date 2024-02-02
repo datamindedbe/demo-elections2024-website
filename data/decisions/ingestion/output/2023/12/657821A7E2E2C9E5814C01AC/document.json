@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "657821A7E2E2C9E5814C01AC",
+    "attributes": {
+        "title": "Projectsubsidies aan provincie Oost-Vlaanderen voor aankoop te bebossen gronden en aan Waregem voor bosuitbreiding",
+        "alternativeTitle": "Vijf ontwerpbesluiten van de Vlaamse Regering",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering kent in totaal zo'n<strong> 300.000 euro projectsubsidie </strong>toe<strong> aan de provincie Oost-Vlaanderen</strong>, met het oog op de <strong>aankoop van te bebossen gronden in Wachtebeke voor project Moervaart (deel 1 en 2)</strong>. Ze kent tegelijk zo'n <strong>578.000 euro</strong> <strong>projectsubsidie </strong>toe<strong> aan de stad Waregem</strong>, met het oog op de <strong>aankoop van te bebossen gronden in Waregem voor project Zavelput (deel 1, 2 en 3)</strong>. De subsidies kaderen in het beleid voor bosuitbreiding in Vlaanderen.</p>",
+        "position": 88,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "657821A7E2E2C9E5814C01AC",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/657821A7E2E2C9E5814C01AC"
+    }
+}

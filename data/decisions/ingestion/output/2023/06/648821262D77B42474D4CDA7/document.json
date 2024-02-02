@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "648821262D77B42474D4CDA7",
+    "attributes": {
+        "title": "Rapportering over de uitvoering van de beheersovereenkomst met de VRT over de activiteiten van het jaar 2022",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 34,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "8dcdc330-348d-4f69-b10c-02f584adb9af",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+        "meetingDate": "2023-06-16T08:00:00Z",
+        "meetingId": "648725AB2D77B42474D4CC5A",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "648821262D77B42474D4CDA7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/648821262D77B42474D4CDA7"
+    }
+}

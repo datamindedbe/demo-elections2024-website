@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6172640A364ED90008000309",
+    "attributes": {
+        "title": "Verkeersveiligheid weginfrastructuur: wijzigingsdecreet",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur, aangenomen door het Vlaams Parlement op 20 oktober 2021",
+        "htmlContent": "De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging</strong> van het<strong> decreet dat het decreet over&nbsp;het beheer van de verkeersveiligheid van weginfrastructuur wijzigt</strong>. Dit decreet werd aangenomen door&nbsp;het Vlaams Parlement op 20 oktober 2021.",
+        "position": 31,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-10-22T08:00:00Z",
+        "meetingId": "616D7801364ED90008000004",
+        "meetingTypePosition": 4,
+        "themeId": "17ddaff0-b2e3-4f02-9157-76a1cf593a5b",
+        "agendaitemType": "Nota",
+        "uuid": "6172640A364ED90008000309",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6172640A364ED90008000309"
+    }
+}

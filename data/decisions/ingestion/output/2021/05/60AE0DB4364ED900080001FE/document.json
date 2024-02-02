@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "60AE0DB4364ED900080001FE",
+    "attributes": {
+        "title": "Wijzigingsdecreet wonen: regelgevend kader woonmaatschappijen en geplande aanpassingen sociale huurstelsel",
+        "alternativeTitle": "Ontwerpdecreet houdende wijziging van diverse decreten met betrekking tot wonen",
+        "htmlContent": "<span>Na advies van&nbsp;de&nbsp;Raad van State&nbsp;<strong>wijzigt</strong>&nbsp;</span>de Vlaamse Regering <strong>definitief&nbsp;diverse decreten rond wonen</strong>. Het wijzigingsdecreet omvat twee hoofdthema's, namelijk het<strong> invoeren van een&nbsp;regelgevend kader voor de woonmaatschappijen en de geplande aanpassingen aan het sociale huurstelsel</strong>. Daarnaast zijn ook andere wijzigingsvoorstellen meegenomen.&nbsp;Het&nbsp;ontwerp van wijzigingsdecreet wordt nu ingediend bij het Vlaams Parlement.",
+        "position": 15,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Matthias"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Diependaele"
+        ],
+        "mandateeIds": [
+            "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2021-05-28T08:00:00Z",
+        "meetingId": "60ABA68B364ED90008000001",
+        "meetingTypePosition": 4,
+        "themeId": "fa4e010f-84e9-4d65-9675-1604ad41de56",
+        "agendaitemType": "Nota",
+        "uuid": "60AE0DB4364ED900080001FE",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE0DB4364ED900080001FE"
+    }
+}

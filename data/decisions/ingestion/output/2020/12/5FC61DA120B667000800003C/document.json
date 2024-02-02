@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FC61DA120B667000800003C",
+    "attributes": {
+        "title": "Open Science beleid in Vlaanderen: roadmap, KPI\u2019s en meerjarenplan",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 44,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-12-04T09:00:00Z",
+        "meetingId": "5FC5F96520B6670008000562",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FC61DA120B667000800003C",
+        "uri": "http://themis.vlaanderen.be/id/resource/64d52d40-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

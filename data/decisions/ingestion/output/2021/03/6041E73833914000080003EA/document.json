@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6041E73833914000080003EA",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: inzetten middelen beleidsdomein MOW",
+        "alternativeTitle": null,
+        "htmlContent": "In het kader van de relance 'Vlaamse veerkracht' worden binnen het <strong>beleidsdomein Mobiliteit en Openbare Werken</strong> (MOW) de <strong>relancemiddelen ingezet op drie grote pijlers:</strong> <strong>fietsinfrastructuur, verkeersveiligheid en duurzaamheid, bovenop de bestaande investeringsmiddelen</strong>. De Vlaamse Regering <strong>keurt nu de opstart goed van de initiatieven die invulling geven aan deze relanceprojecten MOW 2021</strong>, en neemt kennis van de indicatieve betaalkalender van de verschillende relanceprojecten, op basis van de huidige inschattingen. De Vlaamse minister bevoegd voor Mobiliteit en Openbare Werken zal zorgen voor de uitvoering van deze beslissing.&nbsp;",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-03-05T09:00:00Z",
+        "meetingId": "603D1E5C3391400008000005",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6041E73833914000080003EA",
+        "uri": "http://themis.vlaanderen.be/id/resource/bdb63cd0-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

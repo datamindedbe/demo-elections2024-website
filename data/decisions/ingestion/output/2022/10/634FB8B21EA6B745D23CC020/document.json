@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "634FB8B21EA6B745D23CC020",
+    "attributes": {
+        "title": "Omgevingshandhavingsprogramma",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van het omgevingshandhavingsprogramma, vermeld in artikel 16.2.2 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en artikel 6.1.3 van de Vlaamse Codex Ruimtelijke Ordening",
+        "htmlContent": "De Vlaamse Regering&nbsp;<strong data-__set-by=\"rdfa-editor\">stelt principieel het omgevingshandhavingsprogramma vast.</strong>&nbsp;Het is de opvolger van het handhavingsprogramma Ruimtelijke Ordening en het Milieuhandhavingsprogramma, en geeft richting aan het Vlaamse omgevingshandhavingsbeleid van de volgende jaren. Het bevat de&nbsp;<strong data-__set-by=\"rdfa-editor\">strategische en operationele beleidsdoelstellingen en -prioriteiten voor een gewestelijk ge\u00efntegreerd en afgestemd omgevingshandhavingsbeleid</strong>. Over dit besluit wordt het advies ingewonnen van de SERV, de Minaraad, de SARO, de VVSG en Vlinter (Vereniging van intergemeentelijke samenwerkingsverbanden voor streekontwikkeling). ",
+        "position": 18,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2022-10-21T08:00:00Z",
+        "meetingId": "634D5D721EA6B745D23CBB91",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "634FB8B21EA6B745D23CC020",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/634FB8B21EA6B745D23CC020"
+    }
+}

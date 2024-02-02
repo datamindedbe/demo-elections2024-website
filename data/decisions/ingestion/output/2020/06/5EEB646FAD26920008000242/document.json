@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5EEB646FAD26920008000242",
+    "attributes": {
+        "title": "Decreet dringende maatregelen armoedebestrijding COVID-19",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot het nemen van dringende maatregelen met betrekking tot de noodfondsen voor cultuur, jeugd, sport, media en de lokale besturen, en met betrekking tot de armoedebestrijding naar aanleiding van de COVID-19-pandemie, aangenomen door het Vlaams Parlement op 17 juni 2020",
+        "htmlContent": "              <!---->\n De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet tot het nemen van dringende maatregelen over de noodfondsen voor cultuur, jeugd, sport, media en de lokale besturen, en over de armoedebestrijding naar aanleiding van de Covid-19-pandemie. </strong>Dit decreet werd aangenomen door het Vlaams Parlement op 17 juni 2020.&nbsp;<!-- components -->\n<!---->",
+        "position": 33,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2020-06-19T08:00:00Z",
+        "meetingId": "5EE86AD3AD2692000800008E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "6af19df8-a1e9-43bc-85f4-3cf8ac151d7e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5EEB646FAD26920008000242",
+        "uri": "http://themis.vlaanderen.be/id/resource/f1bb5bb0-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

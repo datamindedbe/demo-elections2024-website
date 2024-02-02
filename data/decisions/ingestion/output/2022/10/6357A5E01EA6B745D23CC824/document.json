@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6357A5E01EA6B745D23CC824",
+    "attributes": {
+        "title": "1 miljoen euro strategische ecologiesteun aan Belgian Eco Energy nv in Mechelen",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering kent&nbsp;<strong data-__set-by=\"rdfa-editor\">1 miljoen euro strategische ecologiesteun</strong>&nbsp;toe aan&nbsp;<strong data-__set-by=\"rdfa-editor\">Belgian Eco Energy nv (BEE nv) in Mechelen</strong>. BEE nv is een Belgisch B2B-energiebedrijf, opgericht in 2010, dat duurzame productie-installaties ontwikkelt, financiert, bouwt en exploiteert. De focus van BEE ligt op hernieuwbare energie: zon, wind, bio en groene warmte. In dit project wenst BEE nv samen te werken met InnovaFeed, een biotechbedrijf dat een nieuwe eiwitbron uit de insectenkweek produceert voor diervoeder. BEE nv ontwikkelde een&nbsp;<strong data-__set-by=\"rdfa-editor\">warmtekrachtkoppeling (WKK)-installatie om niet-recycleerbaar afvalhout om te zetten in elektriciteit en warmte</strong>. BEE wil in dit project de<strong data-__set-by=\"rdfa-editor\">&nbsp;restwarmte op lage temperatuur recupereren door de rookgassen door een rookgascondensor te leiden</strong>. Deze laagwaardige warmte kan nuttig gebruikt worden bij InnovaFeed, omdat de insectenkweek er op een voldoende hoge en gecontroleerde temperatuur moet gebeuren.",
+        "position": 32,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2022-10-28T08:00:00Z",
+        "meetingId": "63569AA21EA6B745D23CC476",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6357A5E01EA6B745D23CC824",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6357A5E01EA6B745D23CC824"
+    }
+}

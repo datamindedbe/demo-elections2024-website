@@ -1,0 +1,27 @@
+{
+    "type": "news-item",
+    "id": "61B86FFB364ED90009001431",
+    "attributes": {
+        "title": "Subsidie project Proeftuin Industrie 4.0 \u2018Technologie voor Werkbaar werk\u2019",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van steun aan hoofdaanvrager Flanders Make en neven-aanvragers Universiteit Hasselt EDM, Vrije Universiteit Brussel R&MM, IMEC IDLAB, IMEC SMIT, SIRRIS En KU Leuven \u2013 HIVA voor de uitvoering van het project Proeftuin Industrie 4.0 \u2018Technologie voor Werkbaar werk\u2019",
+        "htmlContent": "De Vlaamse Regering kent <strong>2,4 miljoen euro subsidie&nbsp;</strong><strong data-editor-position-level=\"0\">toe&nbsp;aan FLANDERS MAKE, Imec, SIRRIS en KULEUVEN voor de uitvoering van het project Proeftuin Industrie 4.0 \u2018Technologie voor Werkbaar werk</strong>\u2019. Het project kadert in de ambitie om na te gaan&nbsp;hoe industrie 4.0-technologie\u00ebn en organisatievernieuwingen een grotere rol kunnen spelen in het verhogen van de werkzaamheidsgraad door de ondersteuning van de integratie in het arbeidsleven van niet-actieven en meer werkbaar werk.",
+        "position": 33,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B86FFB364ED90009001431",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B86FFB364ED90009001431"
+    }
+}

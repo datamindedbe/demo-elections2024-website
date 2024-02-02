@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63EA5A5B2E929B312AB5D577",
+    "attributes": {
+        "title": "ESF+ Vlaanderen 2021-2027: Uitvoering van het Vlaamse ESF+-programma 2021-2027 in het kader van het cohesiebeleid",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 50,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-02-17T09:00:00Z",
+        "meetingId": "63EA4C692E929B312AB5D4AE",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "63EA5A5B2E929B312AB5D577",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63EA5A5B2E929B312AB5D577"
+    }
+}

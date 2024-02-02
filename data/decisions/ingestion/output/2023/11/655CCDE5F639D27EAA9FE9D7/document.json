@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "655CCDE5F639D27EAA9FE9D7",
+    "attributes": {
+        "title": "Voorlopige aanduiding watergevoelig openruimtegebied \u2018Breeveld\u2019 in Brakel",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de voorlopige aanduiding van het watergevoelig openruimtegebied \u2018Breeveld\u2019 in Brakel",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>beslist tot voorlopige aanduiding van het gebied 'Breeveld' in Brakel als watergevoelig openruimtegebied (WORG)</strong>. Het gebied bestaat uit een grasveld met in het zuiden enkele bomen en een paadje. Het is volgens het gewestplan gelegen in woonuitbreidingsgebied. Het is gelegen in een zone voor ambachtelijke bedrijven en bijhorende bufferzone overeenkomstig het Bijzonder Plan van Aanleg (BPA) 4 Breeveld. Verder bebouwen van gebieden met een waterproblematiek kan leiden tot grotere overstromingsrisico's op andere plaatsen. De procedure om WORG's aan te duiden is daarom ingeschreven in de Vlaamse Codex Ruimtelijke Ordening, om de belangen van het watersysteem te beschermen. Daarbij zijn de stedenbouwkundige voorschriften bepaald die garanderen dat het gebied onbebouwd kan blijven en kan functioneren als onderdeel van het watersysteem. De Vlaamse minister, bevoegd voor Omgeving, zal hierover een <strong>openbaar onderzoek</strong> organiseren en een individuele kennisgeving sturen naar de eigenaars van percelen die geheel of gedeeltelijk binnen deze voorlopige aanduiding liggen.</p>",
+        "position": 25,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-11-23T16:00:00Z",
+        "meetingId": "655B56ABF639D27EAA9FE44B",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "655CCDE5F639D27EAA9FE9D7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/655CCDE5F639D27EAA9FE9D7"
+    }
+}

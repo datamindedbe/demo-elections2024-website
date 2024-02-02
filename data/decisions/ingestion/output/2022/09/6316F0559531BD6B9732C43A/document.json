@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6316F0559531BD6B9732C43A",
+    "attributes": {
+        "title": "Grondwettelijk Hof: rolnummer 7831",
+        "alternativeTitle": null,
+        "htmlContent": "Prejudici\u00eble vragen betreffende artikel 23 van de wetten op het gebruik van de talen in bestuurszaken, geco\u00f6rdineerd op 18 juli 1966, gesteld door de Raad van State",
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-09-09T08:00:00Z",
+        "meetingId": "6315F4D29531BD6B9732C275",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6316F0559531BD6B9732C43A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6316F0559531BD6B9732C43A"
+    }
+}

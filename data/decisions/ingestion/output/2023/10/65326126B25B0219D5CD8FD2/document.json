@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "65326126B25B0219D5CD8FD2",
+    "attributes": {
+        "title": "Oosterweelwerf: aanpak remedi\u00ebring naar aanleiding van herkwalificatie van toegepaste bodemmaterialen naar opslag van afvalstoffen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 54,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-10-20T08:00:00Z",
+        "meetingId": "652D3B787FDB1A5D07828FF4",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "65326126B25B0219D5CD8FD2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65326126B25B0219D5CD8FD2"
+    }
+}

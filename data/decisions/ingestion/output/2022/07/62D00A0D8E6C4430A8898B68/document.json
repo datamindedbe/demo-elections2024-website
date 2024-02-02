@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "62D00A0D8E6C4430A8898B68",
+    "attributes": {
+        "title": "Wijziging Mestdecreet wat het invoeren van de mogelijkheid om adviescommissies op te richten en de afschaffing van de nutri\u00ebntenemissie-rechten-MVW betreft",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van het Mestdecreet, wat het invoeren van de mogelijkheid om adviescommissies op te richten en de afschaffing van de nutri\u00ebntenemissie-rechten-MVW betreft, aangenomen door het Vlaams Parlement op 13 juli 2022",
+        "htmlContent": "De Vlaamse Regering beslist tot&nbsp;<strong data-__set-by=\"rdfa-editor\">bekrachtiging en afkondiging van het decreet dat het Mestdecreet wijzigt, voor wat het invoeren van de mogelijkheid om adviescommissies op te richten en de afschaffing van de nutri\u00ebntenemissie-rechten-MVW betreft</strong>. Dit wijzigingsdecreet werd op 13 juli 2022 aangenomen door het Vlaams Parlement.",
+        "position": 113,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2022-07-15T08:00:00Z",
+        "meetingId": "62CC10698E6C4430A8897D9F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62D00A0D8E6C4430A8898B68",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62D00A0D8E6C4430A8898B68"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "638F372CC2B90D4571CF7582",
+    "attributes": {
+        "title": "Samenwerkingsovereenkomst 2023-2027 vzw Vlaams-Europees verbindingsagentschap (VLEVA)",
+        "alternativeTitle": "Samenwerkingsovereenkomst vzw Vlaams-Europees verbindingsagentschap (VLEVA)",
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt de samenwerkingsovereenkomst 2023-2027 met vzw Vlaams-Europees verbindingsagentschap (VLEVA) goed</strong>. Vzw VLEVA werd opgericht in 2006 om te functioneren als brug tussen Europa en de Vlaamse lokale overheden, het middenveld en de Vlaamse overheid. De samenwerkingsovereenkomst draagt daartoe bij, met de volgende doelstellingen: de proactieve opvolging van de Europese agenda; de uitbouw van een gedragen Vlaams-Europees beleid; het stimuleren van de Europese betrokkenheid van het Vlaamse middenveld en lokale overheden en van de interactie tussen de EU, de Vlaamse overheid, lokale overheden en het Vlaamse middenveld. ",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-12-09T09:00:00Z",
+        "meetingId": "638DD5DDC2B90D4571CF6BBF",
+        "meetingTypePosition": 4,
+        "themeId": "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+        "agendaitemType": "Nota",
+        "uuid": "638F372CC2B90D4571CF7582",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/638F372CC2B90D4571CF7582"
+    }
+}

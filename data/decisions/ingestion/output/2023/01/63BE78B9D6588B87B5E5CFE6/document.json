@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "63BE78B9D6588B87B5E5CFE6",
+    "attributes": {
+        "title": "Verhoogde dreiging op vlak informatieveiligheid: opstart co\u00f6rdinerend Cyber Response Team lokale overheden en versnelde investeringen VO-strategie informatieveiligheid",
+        "alternativeTitle": "A.\tOpstart co\u00f6rdinerend Cyber Response Team voor de lokale overheden\nB.\tVersnelde investeringen VO-strategie informatieveiligheid",
+        "htmlContent": "De recente cyberincidenten in Zwijndrecht, Antwerpen en Diest hebben nogmaals duidelijk gemaakt dat cyberdreigingen een toenemend risico vormen voor overheden op alle niveaus. Sinds enkele weken zien overheden in Vlaanderen het aantal aanvallen op hun ICT-infrastructuur sterk stijgen. Zo\u2019n aanval kan leiden tot de onbeschikbaarheid van ICT-systemen en het verlies van data waaronder ook persoonsgegevens. Er zijn bovendien signalen vanuit het Centrum voor Cybersecurity Belgi\u00eb (CCB) en de Veiligheid van de Staat dat er mogelijk nog andere centrumsteden geviseerd kunnen worden. Naar aanleiding van deze incidenten wordt een <strong data-__set-by=\"rdfa-editor\">Cyber Response Team (CRT) </strong>opgericht, dat <strong data-__set-by=\"rdfa-editor\">lokale overheden </strong>actief zal ondersteunen als er zich een incident voordoet en preventief advies zal geven om een incident te vermijden. Het CRT zal opereren in nauwe samenwerking met onder andere het CCB en de politiediensten. De Vlaamse Regering keurt de <strong data-__set-by=\"rdfa-editor\">oprichting van het Cyber Response Team en de bijhorende eenmalige middelen van 1 miljoen euro </strong>voor de uitvoeringsperiode 2022-2023 goed. Ze keurt ook het voorstel goed om de <strong data-__set-by=\"rdfa-editor\">strategie van de Vlaamse overheid rond informatieveiligheid te versnellen</strong> en de nodige investeringen vrij te maken en toe te voegen aan de begroting van het Eigen Vermogen Digitaal Vlaanderen. ",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-01-13T09:00:00Z",
+        "meetingId": "63BC2AC0D6588B87B5E5CAE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63BE78B9D6588B87B5E5CFE6",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63BE78B9D6588B87B5E5CFE6"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "62CD3B1E8E6C4430A88987E2",
+    "attributes": {
+        "title": "Dienst Bestuursrechtscolleges: inkanteling Raad voor betwistingen studievoortgangsbeslissingen en rechtspositieregeling bestuursrechters",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van de Codex Hoger Onderwijs van 11 oktober 2013 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechts-colleges, wat betreft de Raad voor betwistingen inzake studievoortgangsbeslissingen en de rechtspositieregeling van de bestuursrechters",
+        "htmlContent": "De Vlaamse Regering&nbsp;<strong data-__set-by=\"rdfa-editor\">wijzigt principieel de Codex Hoger Onderwijs en het decreet over de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges.&nbsp;</strong>Bedoeling is de&nbsp;<strong data-__set-by=\"rdfa-editor\">Raad voor betwistingen rond studievoortgangsbeslissingen in te kantelen onder de koepel van de dienst van de Bestuursrechtscolleges (DBRC) en het statuut van de bestuursrechters van de Raad voor Betwistingen voor studievoortgangsbeslissingen in overeenstemming te brengen met het DBRC-decreet</strong>. Voor de huidige en toekomstige effectieve bestuursrechters die onder de rechtspositieregeling van het DBRC-decreet vallen, wordt ook de mogelijkheid voorzien voor verlof voor deeltijdse prestaties. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de VLOR en van de SERV, daarna gaat het voor advies naar de Raad van State. ",
+        "position": 44,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-07-15T08:00:00Z",
+        "meetingId": "62CC10698E6C4430A8897D9F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62CD3B1E8E6C4430A88987E2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD3B1E8E6C4430A88987E2"
+    }
+}

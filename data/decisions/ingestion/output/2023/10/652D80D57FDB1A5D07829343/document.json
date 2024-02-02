@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "652D80D57FDB1A5D07829343",
+    "attributes": {
+        "title": "Rapportering aan het Vlaams Parlement in het kader van het decreet betreffende het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten door de Vlaamse Gemeenschap en het Vlaamse Gewest",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 50,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2023-10-20T08:00:00Z",
+        "meetingId": "652D3B787FDB1A5D07828FF4",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "652D80D57FDB1A5D07829343",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/652D80D57FDB1A5D07829343"
+    }
+}

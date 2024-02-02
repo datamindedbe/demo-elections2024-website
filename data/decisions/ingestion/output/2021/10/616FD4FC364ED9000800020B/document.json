@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "616FD4FC364ED9000800020B",
+    "attributes": {
+        "title": "Ontwerp Vlaams Scheepvaartdecreet",
+        "alternativeTitle": "Ontwerp van scheepvaartdecreet",
+        "htmlContent": "<span>Na advies van de Raad van State&nbsp;<strong>hecht</strong>&nbsp;</span>de Vlaamse Regering&nbsp;<strong>haar definitieve&nbsp;goedkeuring aan het&nbsp;ontwerp van Vlaams Scheepvaartdecreet.</strong> Het decreet cre\u00ebert een <strong data-editor-position-level=\"0\">algemeen regelgevend kader voor het beheer en het gebruik van de binnenwateren en de binnenvaart in Vlaanderen, en zorgt voor de gedeeltelijke omzetting van Europese regelgeving&nbsp;over het onderzoek van scheepvaartongevallen en de erkenning van beroepskwalificaties in de binnenvaart\u200b</strong>.&nbsp;Met het oog op het verder verhogen van&nbsp;de veiligheid op de Vlaamse waterwegen wordt de regelgeving geactualiseerd en worden adequate handhavingsmodaliteiten opgenomen. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-10-22T08:00:00Z",
+        "meetingId": "616D7801364ED90008000004",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "616FD4FC364ED9000800020B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/616FD4FC364ED9000800020B"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "news-item",
+    "id": "653A30509DAB6626D11E55CE",
+    "attributes": {
+        "title": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2024",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 62,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Lydia",
+            "Ben",
+            "Matthias",
+            "Bart",
+            "Jan",
+            "Benjamin",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Peeters",
+            "Weyts",
+            "Diependaele",
+            "Somers",
+            "Jambon",
+            "Dalle",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-10-27T08:00:00Z",
+        "meetingId": "65367C629DAB6626D11E5006",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "653A30509DAB6626D11E55CE",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/653A30509DAB6626D11E55CE"
+    }
+}

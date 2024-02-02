@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60224AD96B34EF00080002B4",
+    "attributes": {
+        "title": "Vlaams eenzaamheidsplan 2021 - 2024: doelstellingenkader",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 37,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "5fed907ee6670526694a0719",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2021-02-12T09:00:00Z",
+        "meetingId": "602231C76B34EF00080000CD",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60224AD96B34EF00080002B4",
+        "uri": "http://themis.vlaanderen.be/id/resource/0ad21340-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

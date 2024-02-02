@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "5DDFFC585084E70008000226",
+    "attributes": {
+        "title": "Programmadecreet begrotingsopmaak 2020: regeringsamendementen\n",
+        "alternativeTitle": "Ontwerpen van regeringsamendement op het ontwerpdecreet houdende bepalingen tot begeleiding van de begroting 2020 \n\n\n",
+        "htmlContent": "                                                                                    <!----> Na adviezen van de SAR WGG, de Vlaamse Woonraad en de Raad van State hecht de Vlaamse Regering haar <strong>definitieve&nbsp;goedkeuring aan de amendementen bij&nbsp;het ontwerpdecreet met de&nbsp;bepalingen tot begeleiding van de begroting 2020</strong> en de bijhorende Memorie van Toelichting. De Vlaamse minister bevoegd voor het budgettair beleid zal de amendementen indienen bij het Vlaams Parlement.&nbsp;<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 13,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0719",
+            "5fed907ee6670526694a071b"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2019-11-29T09:00:00Z",
+        "meetingId": "5DDCD8585084E700080000B0",
+        "meetingTypePosition": 4,
+        "themeId": "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+        "agendaitemType": "Nota",
+        "uuid": "5DDFFC585084E70008000226",
+        "uri": "http://themis.vlaanderen.be/id/resource/e5ac2bd0-492b-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "630DD40F9531BD6B9732BCA5",
+    "attributes": {
+        "title": "Vertegenwoordiging van de Vlaamse Regering in de Interministeri\u00eble Conferenties (IMC)",
+        "alternativeTitle": null,
+        "htmlContent": "Vanwege het raakvlak, vooral voor wat het luik Handicap betreft, met de bevoegdheid voor gelijke kansen wordt de&nbsp;<strong data-__set-by=\"rdfa-editor\">minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen toegevoegd aan de vertegenwoordiging in de Interministeri\u00eble Conferentie IMC 17</strong>.<br>",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-09-02T08:00:00Z",
+        "meetingId": "630C9ABB9531BD6B9732BA03",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "630DD40F9531BD6B9732BCA5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/630DD40F9531BD6B9732BCA5"
+    }
+}

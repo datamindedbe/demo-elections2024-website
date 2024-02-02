@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61963469364ED900080001B5",
+    "attributes": {
+        "title": "Nieuwe klimaatmaatregelen van de Vlaamse Regering",
+        "alternativeTitle": null,
+        "htmlContent": "Motie tot besluit van het op 10 november 2021 in plenaire vergadering gehouden actualiteitsdebat over de nieuwe klimaatmaatregelen van de Vlaamse Regering, aangenomen door het Vlaams Parlement op 10 november 2021",
+        "position": 42,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-11-19T09:00:00Z",
+        "meetingId": "619229AC364ED90008000C94",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61963469364ED900080001B5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61963469364ED900080001B5"
+    }
+}

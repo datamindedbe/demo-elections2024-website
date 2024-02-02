@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "655365858265E66451D4C989",
+    "attributes": {
+        "title": "Wijziging complexe projecten",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft het optimaliseren van de regelgeving inzake complexe projecten",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring </strong>aan het voorontwerp van decreet dat het<strong> decreet over de organisatie en rechtspleging van sommige Vlaamse bestuursrechtscolleges (DBRC-decreet)</strong> en het<strong> decreet over complexe projecten wijzigt.</strong> Het gaat om een aantal optimalisaties in opvolging van de evaluatiestudie over het decreet complexe projecten. Zo wordt het statuut van het voorkeursbesluit als 'point of no return' benadrukt en komen er enkele verduidelijkingen over het onderzoek van de milieueffecten. Omwille van het groot maatschappelijk en ruimtelijk-strategisch belang van complexe projecten, komt er in het DBRC-decreet ook een voorrangsprocedure voor beroepen tegen een voorkeursbesluit. Daarnaast zijn er nog enkele technische correcties. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de SARO, de Minaraad, de MORA en de SERV, daarna gaat het nog voor advies naar de Raad van State. </p>",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+            "305a87c9-6806-42a0-81c9-f6a94c4e8464"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Mobiliteit en Openbare Werken"
+        ],
+        "meetingDate": "2023-11-17T09:00:00Z",
+        "meetingId": "655239658265E66451D4C5B1",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "655365858265E66451D4C989",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/655365858265E66451D4C989"
+    }
+}

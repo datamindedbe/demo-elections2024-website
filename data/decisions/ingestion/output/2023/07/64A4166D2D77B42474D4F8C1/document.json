@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64A4166D2D77B42474D4F8C1",
+    "attributes": {
+        "title": "Wijziging impulsprogramma binnenvaart",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 14 januari 2022 betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles en frequentieverhogingen van terminalhubshuttles",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>wijzigt principieel het besluit over een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles.</strong> De wijziging <strong>heft de voorwaarde op dat de consortia een bewijs moesten voorleggen dat aan het corridorschip dat de maritieme terminal aanloopt een vast behandelingsvenster was toegewezen,</strong> omdat de ongunstige marktomstandigheden niet toelaten om met deze vaste afspraken te werken. Daarnaast worden twee kaartjes aangepast zodat projecten uit de regio West-Vlaanderen, Henegouwen en Noord-Frankrijk ook in aanmerking kunnen komen bij een nieuwe tweede call in het najaar van 2023. Over dit besluit wordt het advies ingewonnen van de Raad van State.</p><p data-indentation-level=\"0\"></p>",
+        "position": 67,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64A4166D2D77B42474D4F8C1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A4166D2D77B42474D4F8C1"
+    }
+}

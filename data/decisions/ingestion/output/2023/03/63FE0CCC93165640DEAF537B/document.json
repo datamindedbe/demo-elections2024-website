@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "63FE0CCC93165640DEAF537B",
+    "attributes": {
+        "title": "Fusie Agentschap Zorg en Gezondheid en Departement Welzijn, Volksgezondheid en Gezin (WVG): oprichtingsbesluit Departement Welzijn en Gezondheid",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering over het Departement Zorg",
+        "htmlContent": "Op 1 juni 2023 zal de fusie van het Departement Welzijn, Volksgezondheid en Gezin met het intern verzelfstandigd agentschap Zorg en Gezondheid tot het Departement Welzijn en Gezondheid een feit zijn. Door die fusie worden de respectievelijke oprichtingsbesluiten van de twee afzonderlijke entiteiten opgeheven en vervangen door een nieuw oprichtingsbesluit voor het nieuwe departement. De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt nu, na adviezen van de Vlaamse Raad WVG en van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, opnieuw principieel het oprichtingsbesluit van het Departement Welzijn en Gezondheid goed</strong>. Over dit besluit wordt nog het advies ingewonnen van de Raad van State.",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding"
+        ],
+        "meetingDate": "2023-03-03T09:00:00Z",
+        "meetingId": "63FCCFF493165640DEAF4E0F",
+        "meetingTypePosition": 4,
+        "themeId": "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+        "agendaitemType": "Nota",
+        "uuid": "63FE0CCC93165640DEAF537B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63FE0CCC93165640DEAF537B"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61E030ED364ED900080009EC",
+    "attributes": {
+        "title": "Verdiepingsdecreet Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \u201cVlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding\u201d, aangenomen door het Vlaams Parlement op 12 januari 2022",
+        "htmlContent": "De Vlaamse Regering <strong data-editor-position-level=\"0\">beslist tot bekrachtiging en afkondiging van&nbsp;het gewijzigde&nbsp;oprichtingsdecreet van de&nbsp;</strong><strong>Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)</strong>. Het gaat enerzijds om een actualisering en wijzigingen,&nbsp;en anderzijds om de&nbsp;verdieping van de nieuwe data-, loopbaan- en activeringsregisseursrollen die aan de&nbsp;VDAB zijn toebedeeld.&nbsp;Dit decreet werd aangenomen door&nbsp;het Vlaams Parlement op 12 januari 2022.",
+        "position": 34,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2022-01-14T09:00:00Z",
+        "meetingId": "61DC55E1364ED900080006E4",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61E030ED364ED900080009EC",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E030ED364ED900080009EC"
+    }
+}

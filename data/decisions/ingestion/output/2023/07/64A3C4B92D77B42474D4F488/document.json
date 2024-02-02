@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64A3C4B92D77B42474D4F488",
+    "attributes": {
+        "title": "Subsidie gemeenten voor klimaatacties ter uitvoering Lokaal Energie- en Klimaatpact 2023",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de gemeenten van het Vlaamse Gewest voor klimaatacties ter uitvoering van het Lokaal Energie- en Klimaatpact 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering keurt de <strong>subsidie en de opvolgingswijze</strong> goed <strong>ter ondersteuning van de realisatie van lokale klimaatpactacties en uitvoering van het Lokaal Energie- en Klimaatpact 1.0 en 2.0.</strong> De subsidie wordt uitgekeerd als <strong>trekkingsrecht aan de lokale besturen</strong> die het Lokaal Energie- en Klimaatpact 1.0 of 2.0 ondertekenen, en wordt uiterlijk op 30 april 2024 uitbetaald. Voor het <strong>LEKP 1.0</strong>, dat werd ge\u00efntroduceerd in 2021, wordt in 2023 aan de lokale besturen die het LEKP 1.0 ondertekend hebben of zullen ondertekenen, een subsidiebedrag toegekend van <strong>maximaal 28,3 miljoen euro</strong>. Voor het <strong>LEKP 2.0</strong>, dat werd ge\u00efntroduceerd in 2022, wordt aan de lokale besturen die het LEKP 2.0 ondertekend hebben of zullen ondertekenen, een subsidiebedrag toegekend van <strong>maximaal 8,75 miljoen euro</strong>. De overige 450.000 euro worden aan het Agentschap Binnenlands Bestuur voorzien als werkingsmiddelen, nodig voor de opvolging van de Pacten. De middelen van LEKP 1.0 en LEKP 2.0 zijn afkomstig van drie subsidiebronnen: algemene uitgavenbegroting, het Vlaams Klimaatfonds, en de eenmalige budgetten voor de versterking van collectieve renovaties.</p>",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64A3C4B92D77B42474D4F488",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A3C4B92D77B42474D4F488"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B84995364ED90009000D54",
+    "attributes": {
+        "title": "Herverdeling provisioneel krediet: Subsidie Ecoom voor analyse strategische waardenketens in de Vlaamse economie en versterking beleidsrelevant onderzoek",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021",
+        "htmlContent": "Binnen het Europees industriebeleid spelen waardenketens een steeds belangrijkere rol. Vanuit beleidsoogpunt en -onderbouwing is een <strong>beter zicht op de voor Vlaanderen strategische waardenketens in de globale wereldeconomie nodig</strong>. De Vlaamse Regering beslist daarom <strong>245.000 euro</strong> te herverdelen vanuit de provisie Algemene beleidsondersteuning Opstap Onderzoek &amp;&nbsp;Ontwikkeling voor de <strong>subsidie aan Ecoom (Expertisecentrum Onderzoek en Ontwikkelingsmonitoring</strong> van de Vlaamse Gemeenschap) voor het <strong>uitvoeren van extra taken in 2022 rondom waardenketens en beleidsrelevant onderzoek</strong>.",
+        "position": 17,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B84995364ED90009000D54",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B84995364ED90009000D54"
+    }
+}

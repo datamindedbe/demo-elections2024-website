@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64AE6A5B0592342F299DBA00",
+    "attributes": {
+        "title": "Samenwerkingsakkoord hulp- en dienstverlening aan gedetineerden",
+        "alternativeTitle": "A.\tOntwerp van samenwerkingsakkoord tussen de Federale Staat en de Vlaamse Gemeenschap en het Vlaamse Gewest inzake de hulp- en dienstverlening aan gedetineerden\nB.\tOntwerp van instemmingsdecreet",
+        "htmlContent": "<p data-indentation-level=\"0\">\u200bDe Vlaamse Regering hecht haar<strong> goedkeuring aan het vernieuwde samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap en het Vlaamse Gewest over de hulp- en dienstverlening aan gedetineerden</strong>. Het akkoord regelt de samenwerking met de federale collega's binnen het directoraat-generaal Penitentiaire inrichtingen, over de organisatie van hulp- en dienstverlening aan gedetineerden <strong>met het oog op re-integratie na de detentie en de beperking van recidive</strong>. <span lang=\"NL\" __rdfaid=\"23356815-b975-45b0-bbe8-c5e082f14912\" __tag=\"span\">De Minister-President van de Vlaamse Regering en de Vlaamse minister van Justitie en Handhaving worden gemachtigd dit samenwerkingsakkoord te ondertekenen.</span></p>",
+        "position": [
+            71,
+            72
+        ],
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+        "agendaitemType": "Nota",
+        "uuid": "64AE6A5B0592342F299DBA00",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE6A5B0592342F299DBA00"
+    }
+}
