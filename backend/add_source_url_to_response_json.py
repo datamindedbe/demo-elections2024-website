@@ -3,6 +3,15 @@
 import os
 import json
 import boto3
+import urllib
+
+
+def title_to_url(title, date):
+    # this is a very custom function to interact with the flemish government's website
+    url_friendly_title = urllib.parse.quote(title)
+    url_friendly_date = urllib.parse.quote(date)
+    full_url = f"https://beslissingenvlaamseregering.vlaanderen.be/?search={url_friendly_title}&dateOption=select&startDate={url_friendly_date}&endDate={url_friendly_date}"
+    return full_url
 
 def add_url_to_response_json(input_file_name, s3_bucket, decisions_path):
     with open(input_file_name, 'r') as f:
@@ -35,8 +44,10 @@ def add_url_to_response_json(input_file_name, s3_bucket, decisions_path):
         # add url to json
         with open(decisions_path + ingested_file_key, 'r') as f:
             decision = json.load(f)
-            url = decision['attributes']['uri']
-            data['references'][index]['source_url'] = url
+            title = decision['attributes']['title']
+            date = decision['attributes']['meetingDate']
+            data['references'][index]['source_url'] = title_to_url(title, date)
+            data['references'][index]['source_title'] = title
             # resave the data
             with open(input_file_name, 'w') as f:
                 json.dump(data, f, indent=4)

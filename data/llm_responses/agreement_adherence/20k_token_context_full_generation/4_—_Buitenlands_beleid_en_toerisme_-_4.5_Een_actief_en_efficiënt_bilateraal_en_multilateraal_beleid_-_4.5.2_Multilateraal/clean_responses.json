@@ -13,77 +13,88 @@
             "s3_clean_content": "Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen",
             "date": "2022-10-21",
             "s3_filename_ingested": "ingestion/output/2022/10/634E51E71EA6B745D23CBD8A/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/634E51E71EA6B745D23CBD8A"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20bijdrage%20aan%20het%20tweede%20Vrijwillig%20Nationaal%20Rapport%20over%20de%20voortgang%20van%20Agenda%202030%20en%20de%20duurzame%20ontwikkelingsdoelstellingen&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z",
+            "source_title": "Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen"
         },
         "9": {
             "s3_filename_clean": "clean/2021/03/2021-03-19-nota-605086413391400008000217.txt",
             "s3_clean_content": "Visienota 'Vlaanderen en het Noorden'   In haar Regeerakkoord 2019-2024 richt de Vlaamse Regering nadrukkelijk de blik op het Noorden. In dit kader   beslist ze de samenwerking met de landen van het Noorden , zoals gedefinieerd in de  visienota 'Vlaanderen en het Noorden' ,  een meer voorname plaats te geven in haar Europees en internationaal beleid. Ze neemt zich voor om daarvoor de aanpak te volgen zoals die in de visienota is uitgewerkt. Deze visienota licht toe wat het strategisch belang van de samenwerking met het Noorden voor Vlaanderen kan zijn en welke inhoudelijke invulling daaraan gegeven kan worden.",
             "date": "2021-03-19",
             "s3_filename_ingested": "ingestion/output/2021/03/605086413391400008000217/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/8de5ca20-4924-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Noorden%27&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z",
+            "source_title": "Visienota 'Vlaanderen en het Noorden'"
         },
         "0": {
             "s3_filename_clean": "clean/2021/06/2021-06-04-nota-60B5E17B364ED900080005F2.txt",
             "s3_clean_content": "Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko   In haar Regeerakkoord heeft de Vlaamse Regering aangegeven dat zij een nieuwe samenwerking wenst op te starten met \u00e9\u00e9n of meerdere landen in Noord- en/of Oost-Afrika. In dit kader hecht ze nu haar goedkeuring aan de intentie tot structurele, bilaterale samenwerking met Marokko , met als doelstelling structurele armoede en ongelijkheid te verminderen en bij te dragen tot de realisatie van de duurzame ontwikkelingsdoelstellingen. In lijn met de principes en uitgangspunten uit het Kaderdecreet voor ontwikkelingssamenwerking, wenst de Vlaamse Regering hierover de dialoog op te starten met de Marokkaanse autoriteiten. Ze belast de Vlaamse minister, bevoegd voor ontwikkelingssamenwerking, met de uitvoering van deze beslissing.",
             "date": "2021-06-04",
             "s3_filename_ingested": "ingestion/output/2021/06/60B5E17B364ED900080005F2/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60B5E17B364ED900080005F2"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Nieuwe%20samenwerking%20met%20de%20regio%20Noord-%20en/of%20Oost-Afrika%3A%20intentie%20tot%20samenwerking%20met%20Marokko&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z",
+            "source_title": "Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko"
         },
         "1": {
             "s3_filename_clean": "clean/2021/03/2021-03-19-nota-6051B7713391400008000239.txt",
             "s3_clean_content": "Herori\u00ebntatie van de samenwerking met Zuid\u2010Afrika van een ontwikkelings\u2010 naar een sterke politieke, economische en diplomatieke samenwerking   Sinds de afschaffing van het apartheidsregime in 1994 heeft Vlaanderen een intense relatie opgebouwd met Zuid-Afrika. Zuid-Afrika was daarbij lang \u00e9\u00e9n van de prioritaire landen van de Vlaamse ontwikkelingssamenwerking. In haar regeerakkoord 2019-2024 heeft de Vlaamse Regering bepaald dat ze de samenwerking met Zuid-Afrika wil bijsturen. In dat kader beslist ze nu om de samenwerking te herori\u00ebnteren van een ontwikkelings- naar een sterke politieke, economische en diplomatieke samenwerking , met de nadruk op handel en investeringen, alsook op innovatie, onderzoek en ontwikkeling, sociale en circulaire economie, de vierde industri\u00eble revolutie en de blauwe economie. Ze wil de dialoog aangaan en samenwerking initi\u00ebren rond de grote thema's die de internationale diplomatieke agenda beheersen zoals klimaat, migratie, digitalisering, mensenrechten en goed bestuur. De Vlaamse minister- president zal daarom ook de Zuid-Afrikaanse regering het voorstel doen om het Memorandum of Understanding over de ontwikkelingssamenwerking met Zuid-Afrika van 2001 te be\u00ebindigen. De toekomstige relatie met Zuid-Afrika zal een analoge invulling krijgen als die met andere belangrijke landen buiten Europa. De donor-ontvanger relatie zal plaats maken voor een meer gelijke samenwerking op diplomatiek, economisch en politiek vlak. De klemtoon verschuift daarbij van middelenoverdracht naar uitwisseling op het vlak van kennis en expertise.",
             "date": "2021-03-19",
             "s3_filename_ingested": "ingestion/output/2021/03/6051B7713391400008000239/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/8d01d2c0-4924-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herori%C3%ABntatie%20van%20de%20samenwerking%20met%20Zuid%E2%80%90Afrika%20van%20een%20ontwikkelings%E2%80%90%20naar%20een%20sterke%20politieke%2C%20economische%20en%20diplomatieke%20samenwerking&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z",
+            "source_title": "Herori\u00ebntatie van de samenwerking met Zuid\u2010Afrika van een ontwikkelings\u2010 naar een sterke politieke, economische en diplomatieke samenwerking"
         },
         "10": {
             "s3_filename_clean": "clean/2021/05/2021-05-28-nota-60AE54B8364ED9000800020A.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: dossiernummers 25 en 27 Blue Deal: ecologiesteun aan bedrijven en steun voor onderzoek in de landbouwsector  Uit recente kaarten en indicatoren van de OESO en van het World Resources Institute blijkt dat Belgi\u00eb \u00e9\u00e9n van de Europese landen is die het zwaarst getroffen worden door extreme droogte. Vooral in Vlaanderen is de jaarlijkse waterbeschikbaarheid laag, gezien de grote bevolkingsdichtheid, verharding, en de grote verscheidenheid aan activiteiten op een kleine oppervlakte. Door de klimaatverandering kan het risico op waterschaarste bovendien nog toenemen. Met de Blue Deal wil de Vlaamse Regering daarom deze droogteproblematiek op een structurele manier aanpakken, met een verhoogde inzet van middelen en juiste instrumenten, met betrokkenheid van de industrie en de landbouwers als deel van de oplossing en met een duidelijke voorbeeldrol voor de Vlaamse en andere overheden. In het kader van het relanceplan Vlaamse Veerkracht  keurt de Vlaamse Regering nu de besteding goed van 16 miljoen euro , in te zetten voor de versterking van ecologiesteun aan bedrijven voor projecten die tegemoetkomen aan de waterproblematiek , en steun voor onderzoek gericht op toepassingen in de landbouwsector via landbouwtrajecten.\u200b Ze voorziet daarbij het bedrag van 10 miljoen euro op de relanceprovisie voor het Agentschap Innoveren & Ondernemen voor de uitvoering van het project VV 27 - blue deal economie , en 6 miljoen euro op de relanceprovisie voor het Agentschap Innoveren & Ondernemen voor de uitvoering van het project VV 25 - onderzoek.",
             "date": "2021-05-28",
             "s3_filename_ingested": "ingestion/output/2021/05/60AE54B8364ED9000800020A/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE54B8364ED9000800020A"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossiernummers%2025%20en%2027&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: dossiernummers 25 en 27"
         },
         "5": {
             "s3_filename_clean": "clean/2021/06/2021-06-25-nota-60D1AD3B364ED900080002F1.txt",
             "s3_clean_content": "Vlaamse Strategie Duurzame Ontwikkeling IV Voorontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het geco\u00f6rdineerd Vlaams beleid duurzame ontwikkeling en verzekert de continu\u00efteit ervan. Een van de bepalingen in het decreet is de opmaak van een Vlaamse Strategie Duurzame Ontwikkeling (VSDO). In dit kader keurt de Vlaamse Regering de nota ' Vlaamse Strategie Duurzame Ontwikkeling IV' (VSDO4)  principieel goed. Met deze nota zet de regering verder in op een duurzame samenleving met Visie 2050 als langetermijnkompas en Vizier 2030 als focus. Vizier 2030 is de Vlaamse vertaling van de Sustainable Development Goals (SDG\u2019s) van de Verenigde Naties en bevat 53 doelstellingen en 111 indicatoren. Voor de uitvoering van de VSDO4 wordt ingezet op zes transitieprioriteiten, met een duidelijke link met het relanceplan. De nota VDSO4 zal nog voor advies bezorgd worden aan de strategische adviesraden, de Verenigde Verenigingen, de VVSG, de VVP en een aantal maatschappelijke partners.",
             "date": "2021-06-25",
             "s3_filename_ingested": "ingestion/output/2021/06/60D1AD3B364ED900080002F1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1AD3B364ED900080002F1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z",
+            "source_title": "Vlaamse Strategie Duurzame Ontwikkeling IV"
         },
         "4": {
             "s3_filename_clean": "clean/2021/11/2021-11-26-nota-619CB3FD364ED9000800026C.txt",
             "s3_clean_content": "Vlaamse Strategie Duurzame Ontwikkeling IV Ontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het geco\u00f6rdineerd Vlaams beleid duurzame ontwikkeling en verzekert de continu\u00efteit ervan. Een van de bepalingen in het decreet is de opmaak van een Vlaamse Strategie Duurzame Ontwikkeling (VSDO). In dit kader keurt de Vlaamse Regering, na adviezen van de betrokken strategische adviesraden, van de Verenigde Verenigingen, van de VVSG, van de VVP en van een aantal maatschappelijke partners, de nota ' Vlaamse Strategie Duurzame Ontwikkeling IV' (VSDO4) definitief goed. Met deze nota zet de regering verder in op een duurzame samenleving met Visie 2050 als langetermijnkompas en Vizier 2030 als focus. Vizier 2030 is de Vlaamse vertaling van de Sustainable Development Goals (SDG\u2019s) van de Verenigde Naties en bevat 53 doelstellingen en 111 indicatoren. Voor de uitvoering van de VSDO4 wordt ingezet op de transitieprioriteiten 'Circulaire Economie;  Leven, leren en werken in 2050; Industrie 4.0, Samen Leven in 2050; Mobiliteit; Energie en Klimaat; en Omgeving voor de toekomst', met een duidelijke link met het relanceplan. De VSDO4 wordt meegedeeld aan het Vlaams Parlement.",
             "date": "2021-11-26",
             "s3_filename_ingested": "ingestion/output/2021/11/619CB3FD364ED9000800026C/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/619CB3FD364ED9000800026C"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-11-26T09%3A00%3A00Z&endDate=2021-11-26T09%3A00%3A00Z",
+            "source_title": "Vlaamse Strategie Duurzame Ontwikkeling IV"
         },
         "11": {
             "s3_filename_clean": "clean/2022/12/2022-12-09-nota-638F372CC2B90D4571CF7582.txt",
             "s3_clean_content": "Samenwerkingsovereenkomst 2023-2027 vzw Vlaams-Europees verbindingsagentschap (VLEVA) Samenwerkingsovereenkomst vzw Vlaams-Europees verbindingsagentschap (VLEVA)  De Vlaamse Regering keurt de samenwerkingsovereenkomst 2023-2027 met vzw Vlaams-Europees verbindingsagentschap (VLEVA) goed. Vzw VLEVA werd opgericht in 2006 om te functioneren als brug tussen Europa en de Vlaamse lokale overheden, het middenveld en de Vlaamse overheid. De samenwerkingsovereenkomst draagt daartoe bij, met de volgende doelstellingen: de proactieve opvolging van de Europese agenda; de uitbouw van een gedragen Vlaams-Europees beleid; het stimuleren van de Europese betrokkenheid van het Vlaamse middenveld en lokale overheden en van de interactie tussen de EU, de Vlaamse overheid, lokale overheden en het Vlaamse middenveld.",
             "date": "2022-12-09",
             "s3_filename_ingested": "ingestion/output/2022/12/638F372CC2B90D4571CF7582/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/638F372CC2B90D4571CF7582"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsovereenkomst%202023-2027%20vzw%20Vlaams-Europees%20verbindingsagentschap%20%28VLEVA%29&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z",
+            "source_title": "Samenwerkingsovereenkomst 2023-2027 vzw Vlaams-Europees verbindingsagentschap (VLEVA)"
         },
         "8": {
             "s3_filename_clean": "clean/2022/09/2022-09-30-nota-6332DE415CD4B179BD8715F5.txt",
             "s3_clean_content": "Subsidie projecten samenwerking Vlaanderen-Marokko Twee ontwerpbesluiten van de Vlaamse Regering betreffende de toekenning van twee projectsubsidies in het kader van de pilootfase voor samenwerking tussen Vlaanderen en Marokko  In het kader van de pilootfase voor  samenwerking tussen Vlaanderen en Marokko, ondersteunt  de Vlaamse Regering  twee pilootprojecten, voor telkens 1 miljoen euro , die gericht zijn op de prioriteiten ' versterken van de groene economie'  en ' bevorderen van duurzame tewerkstelling'. Het project van  VITO  focust op het voorzien van  grotere energiestroomcapaciteit in rurale gebieden, via de uitbouw van zogenaamde microgrids. Zo kan de capaciteit opgeschroefd worden om lokale industrie en economische activiteiten uit te bouwen. Het project van  Adelphi Reserach GmbH  richt zich op de  ontwikkeling van Marokkaanse kmo\u2019s binnen de groene economie. Het programma focust op regio\u2019s met hoge werkloosheidscijfers, maar tegelijk met potentieel voor bedrijfsontwikkeling. De projecten zijn lokaal ingebed, waarbij Marokkaanse overheidsinstellingen nauw betrokken zijn bij de uitvoering.",
             "date": "2022-09-30",
             "s3_filename_ingested": "ingestion/output/2022/09/6332DE415CD4B179BD8715F5/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6332DE415CD4B179BD8715F5"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20projecten%20samenwerking%20Vlaanderen-Marokko&dateOption=select&startDate=2022-09-30T09%3A30%3A00Z&endDate=2022-09-30T09%3A30%3A00Z",
+            "source_title": "Subsidie projecten samenwerking Vlaanderen-Marokko"
         },
         "3": {
             "s3_filename_clean": "clean/2022/05/2022-05-06-nota-627536081C4A193816C30A65.txt",
             "s3_clean_content": "Visienota 'Vlaanderen en het Verenigd Koninkrijk'   \u200bDe Vlaamse Regering hecht haar goedkeuring aan de  visienota 'Vlaanderen en het Verenigd Koninkrijk'. Deze visienota licht toe waarom een blijvende samenwerking met het Verenigd Koninkrijk en met de deelstaten Schotland, Wales en Noord-Ierland nodig is en op welke manier die ingevuld kan worden, na het uittreden van het land uit de Europese Unie. De Vlaamse Regering  focust in de nieuwe samenwerking in hoofdzaak  op vijf domeinen: politiek, economie, onderwijs & onderzoek, cultuur, en mobiliteit & transport. Voor de realisatie van deze doelstellingen worden  drie instrumenten  ingezet: een flankerend beleid  voeren  bij de Handels- en Samenwerkingsovereenkomst tussen de EU en het VK ,  bijkomende bilaterale samenwerking  opzetten, en  nieuwe samenwerkingsstructuren  opzetten.",
             "date": "2022-05-06",
             "s3_filename_ingested": "ingestion/output/2022/05/627536081C4A193816C30A65/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/627536081C4A193816C30A65"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Verenigd%20Koninkrijk%27&dateOption=select&startDate=2022-05-06T08%3A00%3A00Z&endDate=2022-05-06T08%3A00%3A00Z",
+            "source_title": "Visienota 'Vlaanderen en het Verenigd Koninkrijk'"
         },
         "6": {
             "s3_filename_clean": "clean/2021/05/2021-05-28-nota-60ADF2D8364ED900080001F1.txt",
             "s3_clean_content": "Ontwikkelingssamenwerking Mozambique Ontwerp van vierde Landenstrategienota voor de ontwikkelingssamenwerking met Mozambique, 2021-2025  De Vlaamse Regering keurt het ontwerp goed van Vierde Landenstrategienota voor de ontwikkelingssamenwerking met Mozambique, 2021-2025. Deze bevat een indicatief samenwerkingsprogramma voor de volgende vijf jaar, en is in overleg met de Mozambikaanse overheid en na een consultatie van het brede Vlaamse middenveld voorbereid en uitgeschreven. De landenstrategienota focust op systemische samenwerking in de gezondheidssector , met daarnaast specifieke aandacht voor de seksuele en reproductieve gezondheid en rechten van voornamelijk kwetsbare groepen: adolescenten, personen met een handicap, leden van seksuele en genderminderheden, migranten en intern ontheemden. Er wordt daarbij gestreefd naar samenwerking en complementariteit met andere aanwezige donoren. De Vlaamse minister bevoegd voor ontwikkelingssamenwerking zal zorgen voor de verdere uitvoering van deze beslissing.",
             "date": "2021-05-28",
             "s3_filename_ingested": "ingestion/output/2021/05/60ADF2D8364ED900080001F1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ADF2D8364ED900080001F1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwikkelingssamenwerking%20Mozambique&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z",
+            "source_title": "Ontwikkelingssamenwerking Mozambique"
         }
     }
 }

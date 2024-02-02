@@ -21,6 +21,6 @@ Door het ontbreken van expliciete beslissingen met betrekking tot de ratificatie
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbericht/652E39B37FDB1A5D07829376)** : **(2023-10-20)** Nota aan het Overlegcomité: 'Stemrecht deelstaatverkiezingen onderdanen in het buitenland'   De leden van de Kamer van Volksvertegenwoordigers en ook van het Europees Parlement (kunnen) worden verkoze... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Nota%20aan%20het%20Overlegcomit%C3%A9%3A%20%27Stemrecht%20deelstaatverkiezingen%20onderdanen%20in%20het%20buitenland%27&dateOption=select&startDate=2023-10-20T08%3A00%3A00Z&endDate=2023-10-20T08%3A00%3A00Z)** : **(2023-10-20)** Nota aan het Overlegcomité: 'Stemrecht deelstaatverkiezingen onderdanen in het buitenland' 
         </details> 
 

@@ -32,42 +32,42 @@ Uit de genoemde besluiten en maatregelen blijkt dat de Vlaamse regering in lijn 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B872EF364ED90009001494)** : **(2021-12-17)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2022-2024   De Vlaamse Regering keurt het Vlaams Statistisch Programma 2022-2024 goed. In het programma is voor het eerst een meerjarenplanning uitg... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Statistiek%20Vlaanderen%3A%20Vlaams%20Statistisch%20Programma%202022-2024&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2022-2024 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/44ece540-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2020   De Vlaamse Regering keurt het V l aams Statistisch Programma 2020 goed. Het Vlaams Statistisch Programma legt de planning en afspraken vast v... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Statistiek%20Vlaanderen%3A%20Vlaams%20Statistisch%20Programma%202020&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2020 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/29d91440-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-11)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2021   De Vlaamse Regering keurt het Vlaams Statistisch Programma 2021 goed en verlengt het doelstellingenkader voor Statistiek Vlaanderen 2018-2020... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Statistiek%20Vlaanderen%3A%20Vlaams%20Statistisch%20Programma%202021&dateOption=select&startDate=2020-12-11T09%3A00%3A00Z&endDate=2020-12-11T09%3A00%3A00Z)** : **(2020-12-11)** Statistiek Vlaanderen: Vlaams Statistisch Programma 2021 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6230A3676BB7B593CFC189BC)** : **(2022-03-18)** Bekrachtiging Vlaamse datastrategie   ​Voor een goede en efficiënte werking heeft de Vlaamse overheid nood aan een goed onderbouwde datastrategie. Data speelt namelijk een belangrijke ondersteunende r... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bekrachtiging%20Vlaamse%20datastrategie&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z)** : **(2022-03-18)** Bekrachtiging Vlaamse datastrategie 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/616590C1364ED90009000483)** : **(2021-10-15)** Plan Vlaamse Veerkracht: Vlaamse Sensor Data Space Vlaamse Sensor Data Space  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Vlaamse Sensor Data Space' met de bijbehorende eenmali... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Vlaamse%20Sensor%20Data%20Space&dateOption=select&startDate=2021-10-15T08%3A00%3A00Z&endDate=2021-10-15T08%3A00%3A00Z)** : **(2021-10-15)** Plan Vlaamse Veerkracht: Vlaamse Sensor Data Space 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61A77157364ED90008000004)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit Data Integratiediensten voor Slimme Mobiliteit  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Data Integra... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Data%20Integratiediensten%20voor%20Slimme%20Mobiliteit&dateOption=select&startDate=2021-12-03T09%3A00%3A00Z&endDate=2021-12-03T09%3A00%3A00Z)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B768D8364ED90008000645)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen Uitbouw Slimme Regio Vlaand... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Uitbouw%20Slimme%20Regio%20Vlaanderen%20door%20samenbrengen%20innovatiecapaciteit%20ondernemingen%20en%20stimuleren%20implementatie%20en%20kennisopbouw%20bij%20lokale%20besturen&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen 
 
-**[\[7\]]** : **(2020-07-17)** Uitbouw van Slimme Regio Vlaanderen 
+**[\[7\]]** : **(2020-07-17)**  
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6093A5DC364ED9000800002D)** : **(2021-05-07)** Plan Vlaamse Veerkracht: dossier 58 Versnelling gemeenschappelijke dienstverlening  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Versnelling gemeenschappelijke dienstverlening' ... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossier%2058&dateOption=select&startDate=2021-05-07T08%3A00%3A00Z&endDate=2021-05-07T08%3A00%3A00Z)** : **(2021-05-07)** Plan Vlaamse Veerkracht: dossier 58 
 
-**[\[9\]](http://themis.vlaanderen.be/id/resource/bd476380-4926-11ec-94bb-99a9d1e168fe)** : **(2020-11-20)** Erkenning en financiering van een Steunpunt Werk (2021-2025) KU Leuven   De Vlaamse overheid hecht groot belang aan de  wetenschappelijke   onderbouwing   van   het   gevoerde arbeidsmarktbeleid. Via ... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20en%20financiering%20van%20een%20Steunpunt%20Werk%20%282021-2025%29%20KU%20Leuven&dateOption=select&startDate=2020-11-20T09%3A00%3A00Z&endDate=2020-11-20T09%3A00%3A00Z)** : **(2020-11-20)** Erkenning en financiering van een Steunpunt Werk (2021-2025) KU Leuven 
 
-**[\[10\]](http://themis.vlaanderen.be/id/resource/d5d9dda0-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** Oproep tot erkenning en financiering van een steunpunt Werk als data- en expertisecentrum voor de Vlaamse arbeidsmarkt (2021-2025)   Het Steunpunt Werk zorgt als data- en expertisecentrum voor de wete... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oproep%20tot%20erkenning%20en%20financiering%20van%20een%20steunpunt%20Werk%20als%20data-%20en%20expertisecentrum%20voor%20de%20Vlaamse%20arbeidsmarkt%20%282021-2025%29&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** Oproep tot erkenning en financiering van een steunpunt Werk als data- en expertisecentrum voor de Vlaamse arbeidsmarkt (2021-2025) 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62693E061C4A193816C2FCAD)** : **(2022-04-29)** Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie Volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie  ​De  beleidsnota Economie, Wet... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20volgende%20stappen%20en%20uitbreiding%20van%20het%20Vlaams%20beleidsplan%20bio-economie&dateOption=select&startDate=2022-04-29T08%3A00%3A00Z&endDate=2022-04-29T08%3A00%3A00Z)** : **(2022-04-29)** Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/a9f5ab30-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** Vlaams beleidsplan bio-economie   De Vlaamse Regering keurt het Vlaams beleidsplan bio-economie goed. Het bevat een reeks acties rond stimulering van onderzoek en innovatie, begeleiding van nieuwe sam... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20beleidsplan%20bio-economie&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z)** : **(2020-12-18)** Vlaams beleidsplan bio-economie 
 
-**[\[13\]](http://themis.vlaanderen.be/id/resource/4874d050-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-02)** Vervolledigen van ‘Vizier 2030 – een 2030-doelstellingenkader voor Vlaanderen’   Vizier 2030 is het 2030-doelstellingkader voor Vlaanderen. Het werd samen met een indicatorenset door de Vlaamse Regeri... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vervolledigen%20van%20%E2%80%98Vizier%202030%20%E2%80%93%20een%202030-doelstellingenkader%20voor%20Vlaanderen%E2%80%99&dateOption=select&startDate=2020-10-02T08%3A00%3A00Z&endDate=2020-10-02T08%3A00%3A00Z)** : **(2020-10-02)** Vervolledigen van ‘Vizier 2030 – een 2030-doelstellingenkader voor Vlaanderen’ 
 
-**[\[14\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/634E51E71EA6B745D23CBD8A)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20bijdrage%20aan%20het%20tweede%20Vrijwillig%20Nationaal%20Rapport%20over%20de%20voortgang%20van%20Agenda%202030%20en%20de%20duurzame%20ontwikkelingsdoelstellingen&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A6AD862D77B42474D4FC91)** : **(2023-07-07)** Analyse van buitenlands zeggenschap in de Vlaamse economie   Resolutie over een nieuwe en brede kwantitatieve analyse van buitenlandse zeggenschap in de Vlaamse economie, aangenomen door het Vlaams Pa... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Analyse%20van%20buitenlands%20zeggenschap%20in%20de%20Vlaamse%20economie&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Analyse van buitenlands zeggenschap in de Vlaamse economie 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E449C1364ED90008000894)** : **(2021-07-09)** Visienota 'Internationaal beurzenprogramma'   De Vlaamse Regering hecht haar goedkeuring aan de   Visienota 'Internationaal beurzenprogramma'. Om Vlaanderen als innovatieve topregio nog meer op de kaa... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Internationaal%20beurzenprogramma%27&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Visienota 'Internationaal beurzenprogramma' 
 
-**[\[17\]](http://themis.vlaanderen.be/id/nieuwsbericht/63D900E82E929B312AB5C55B)** : **(2023-02-03)** Visienota ‘Naar een versterkte concurrentiekracht van de Europese Industrie’   Een nieuwe Europese strategie voor de concurrentiekracht is in opbouw. Deze strategie moet onderbouwd worden door een ste... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%E2%80%98Naar%20een%20versterkte%20concurrentiekracht%20van%20de%20Europese%20Industrie%E2%80%99&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z)** : **(2023-02-03)** Visienota ‘Naar een versterkte concurrentiekracht van de Europese Industrie’ 
 
-**[\[18\]](http://themis.vlaanderen.be/id/resource/a932ece0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-12)** Externe tussentijdse evaluatie van de landenstrategienota voor ontwikkelingssamenwerking Vlaanderen - Zuid-Afrika, 2017-2021 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Externe%20tussentijdse%20evaluatie%20van%20de%20landenstrategienota%20voor%20ontwikkelingssamenwerking%20Vlaanderen%20-%20Zuid-Afrika%2C%202017-2021&dateOption=select&startDate=2021-03-12T09%3A00%3A00Z&endDate=2021-03-12T09%3A00%3A00Z)** : **(2021-03-12)** Externe tussentijdse evaluatie van de landenstrategienota voor ontwikkelingssamenwerking Vlaanderen - Zuid-Afrika, 2017-2021 
         </details> 
 

@@ -28,34 +28,36 @@ In het algemeen tonen deze beslissingen een hoge mate van naleving van het regee
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8BF05364ED900090015DC)** : **(2021-12-17)** Vlaamse havenstrategie: ontwerpen van individuele samenwerkingsovereenkomst tussen de havens van Antwerpen, Oostende, Zeebrugge, North Sea Port en het Vlaamse Gewest   Aansluitend op de definitieve go... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20havenstrategie%3A%20ontwerpen%20van%20individuele%20samenwerkingsovereenkomst%20tussen%20de%20havens%20van%20Antwerpen%2C%20Oostende%2C%20Zeebrugge%2C%20North%20Sea%20Port%20en%20het%20Vlaamse%20Gewest&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Vlaamse havenstrategie: ontwerpen van individuele samenwerkingsovereenkomst tussen de havens van Antwerpen, Oostende, Zeebrugge, North Sea Port en het Vlaamse Gewest 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8BD80364ED900090015D0)** : **(2021-12-17)** Vlaamse havenstrategie   De Vlaamse Regering hecht haar definitieve goedkeuring aan de Vlaamse havenstrategie. Met de Vlaamse havenstrategie zet de Vlaamse overheid in op een verbreding en verdieping ... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20havenstrategie&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Vlaamse havenstrategie 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/aca16a40-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** Havens: havenkapiteindiensten en sluizen Acht ontwerpen van overeenkomst  De Vlaamse Regering keurt de overeenkomsten goed over de financiële tegemoetkomingen van het Vlaams Gewest voor de havenkapite... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Havens%3A%20havenkapiteindiensten%20en%20sluizen&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z)** : **(2020-12-18)** Havens: havenkapiteindiensten en sluizen 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8704D364ED9000900143C)** : **(2021-12-17)** Havenbedrijven: subsidie aanleg, onderhoud en exploitatie zeesluizen Ontwerpbesluit van de Vlaamse Regering tot toekenning van subsidies aan de havenbedrijven voor de aanleg en de instandhouding, met ... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Havenbedrijven%3A%20subsidie%20aanleg%2C%20onderhoud%20en%20exploitatie%20zeesluizen&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Havenbedrijven: subsidie aanleg, onderhoud en exploitatie zeesluizen 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/ed4ccc10-492a-11ec-94bb-99a9d1e168fe)** : **(2020-01-31)** Voorkeursbesluit complex project extra containerbehandelingscapaciteit in het havengebied Antwerpen (ECA) Voorontwerp van besluit van de Vlaamse Regering tot definitieve vaststelling van het voorkeurs... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorkeursbesluit%20complex%20project%20extra%20containerbehandelingscapaciteit%20in%20het%20havengebied%20Antwerpen%20%28ECA%29%0A%0A&dateOption=select&startDate=2020-01-31T09%3A00%3A00Z&endDate=2020-01-31T09%3A00%3A00Z)** : **(2020-01-31)** Voorkeursbesluit complex project extra containerbehandelingscapaciteit in het havengebied Antwerpen (ECA)
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6194C901364ED90008000173)** : **(2021-11-19)** Impulsprogramma binnenvaart: subsidieregeling Voorontwerp van besluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse... 
+ 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61DE981D364ED900080009A4)** : **(2022-01-14)** Impulsprogramma binnenvaart: subsidieregeling Ontwerpbesluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehaven... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2021-11-19T09%3A00%3A00Z&endDate=2021-11-19T09%3A00%3A00Z)** : **(2021-11-19)** Impulsprogramma binnenvaart: subsidieregeling 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6358F7201EA6B745D23CC8C3)** : **(2022-10-28)** Plan Vlaamse Veerkracht: Vlaggenschipprojecten ter versterking van het watersysteem van de kustduinen Vlaggenschipproject Duinencomplex Drie ontwerpbesluiten van de Vlaamse Regering  In het kader van ... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z)** : **(2022-01-14)** Impulsprogramma binnenvaart: subsidieregeling 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63773ACB34B8770AF8FDEBF4)** : **(2022-11-18)** nv Vlaamse havens: voordracht bestuurders   De Vlaamse Regering draagt Nathalie Balcaen , administrateur-generaal van het agentschap Maritieme Dienstverlening en Kust, Kathy Vandenmeersschaut, adminis... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Vlaggenschipprojecten%20ter%20versterking%20van%20het%20watersysteem%20van%20de%20kustduinen&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Plan Vlaamse Veerkracht: Vlaggenschipprojecten ter versterking van het watersysteem van de kustduinen 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD309C8E6C4430A8898772)** : **(2022-07-15)** nv Vlaamse Havens: uitzondering op de verplichting om te voorzien in één derde onafhankelijke bestuurders   De  nv Vlaamse Havens  werd opgericht om sluisprojecten in de Vlaamse zeehavens te realisere... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=nv%20Vlaamse%20havens%3A%20voordracht%20bestuurders&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** nv Vlaamse havens: voordracht bestuurders 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9ABD6364ED900080003EB)** : **(2021-06-18)** Vaststelling toepassingsgebied verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen Ontwerpbesluit van de Vlaamse Regering tot vaststelling van het toepassingsgebied van de veror... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=nv%20Vlaamse%20Havens%3A%20uitzondering%20op%20de%20verplichting%20om%20te%20voorzien%20in%20%C3%A9%C3%A9n%20derde%20onafhankelijke%20bestuurders&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** nv Vlaamse Havens: uitzondering op de verplichting om te voorzien in één derde onafhankelijke bestuurders 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbericht/63C5724B17E4B551F4BD04E6)** : **(2023-01-20)** Gewijzigde statuten nv Vlaamse havens 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vaststelling%20toepassingsgebied%20verordening%20voor%20het%20verkeer%20van%20havenvoertuigen%20in%20de%20haven%20van%20Antwerpen&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z)** : **(2021-06-18)** Vaststelling toepassingsgebied verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/2b4cef90-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-11)** Vaststelling verkeersverordening havenvoertuigen in de haven van Antwerpen Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de verordening voor het verkeer van havenvoertuigen in de haven v... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gewijzigde%20statuten%20nv%20Vlaamse%20havens&dateOption=select&startDate=2023-01-20T09%3A00%3A00Z&endDate=2023-01-20T09%3A00%3A00Z)** : **(2023-01-20)** Gewijzigde statuten nv Vlaamse havens 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbericht/6578323AE2E2C9E5814C02B0)** : **(2023-12-15)** Toepassingsgebied verkeer van havenvoertuigen in de haven van Antwerpen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 18 ... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vaststelling%20verkeersverordening%20havenvoertuigen%20in%20de%20haven%20van%20Antwerpen&dateOption=select&startDate=2020-12-11T09%3A00%3A00Z&endDate=2020-12-11T09%3A00%3A00Z)** : **(2020-12-11)** Vaststelling verkeersverordening havenvoertuigen in de haven van Antwerpen 
 
-**[\[14\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9AD18364ED900080003ED)** : **(2021-06-18)** Wijziging Havendecreet Voorontwerp van decreet tot wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens, het decreet van 22 december 2017 over het lokaal bestu... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Toepassingsgebied%20verkeer%20van%20havenvoertuigen%20in%20de%20haven%20van%20Antwerpen%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-12-15T09%3A00%3A00Z&endDate=2023-12-15T09%3A00%3A00Z)** : **(2023-12-15)** Toepassingsgebied verkeer van havenvoertuigen in de haven van Antwerpen: wijzigingsbesluit 
+
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20Havendecreet&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z)** : **(2021-06-18)** Wijziging Havendecreet 
         </details> 
 

@@ -35,48 +35,48 @@ Uit de verstrekte documenten blijkt dat Vlaamse Regering maatregelen heeft genom
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/634FB8B21EA6B745D23CC020)** : **(2022-10-21)** Omgevingshandhavingsprogramma Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van het omgevingshandhavingsprogramma, vermeld in artikel 16.2.2 van het decreet van 5 april 1995 houdend... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Omgevingshandhavingsprogramma&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z)** : **(2022-10-21)** Omgevingshandhavingsprogramma 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63985A56C2B90D4571CF8A16)** : **(2022-12-16)** Omgevingshandhavingsprogramma Ontwerpbesluit van de Vlaamse Regering tot vaststelling van het omgevingshandhavingsprogramma, vermeld in artikel 16.2.2 van het decreet van 5 april 1995 houdende algemen... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Omgevingshandhavingsprogramma&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Omgevingshandhavingsprogramma 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/630E12309531BD6B9732BE67)** : **(2022-09-02)** Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving  ​Na adviezen van de SERV, van de SARO, van de Minaraa... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20decreet%20over%20de%20optimalisatie%20van%20de%20omgevingshandhaving&dateOption=select&startDate=2022-09-02T08%3A00%3A00Z&endDate=2022-09-02T08%3A00%3A00Z)** : **(2022-09-02)** Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627B68191C4A193816C31013)** : **(2022-05-13)** Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving  ​De Vlaamse Regering  hecht haar principiële goedkeur... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20decreet%20over%20de%20optimalisatie%20van%20de%20omgevingshandhaving&dateOption=select&startDate=2022-05-13T08%3A00%3A00Z&endDate=2022-05-13T08%3A00%3A00Z)** : **(2022-05-13)** Voorontwerp van decreet over de optimalisatie van de omgevingshandhaving 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbericht/646CCB7B8E8235823F6B829B)** : **(2023-05-26)** Implementatie Kaderdecreet Vlaamse Handhaving: wijziging diverse decreten Voorontwerp van decreet tot wijziging van diverse decreten, wat betreft de implementatie van het kaderdecreet Vlaamse Handhavi... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Implementatie%20Kaderdecreet%20Vlaamse%20Handhaving%3A%20wijziging%20diverse%20decreten&dateOption=select&startDate=2023-05-26T08%3A00%3A00Z&endDate=2023-05-26T08%3A00%3A00Z)** : **(2023-05-26)** Implementatie Kaderdecreet Vlaamse Handhaving: wijziging diverse decreten 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbericht/64118AEE3335D329E25ECD6B)** : **(2023-03-17)** Implementatie Kaderdecreet Vlaamse Handhaving: wijziging diverse decreten Voorontwerp van decreet tot wijziging van diverse decreten, wat betreft de implementatie van het kaderdecreet Vlaamse Handhavi... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Implementatie%20Kaderdecreet%20Vlaamse%20Handhaving%3A%20wijziging%20diverse%20decreten&dateOption=select&startDate=2023-03-17T09%3A00%3A00Z&endDate=2023-03-17T09%3A00%3A00Z)** : **(2023-03-17)** Implementatie Kaderdecreet Vlaamse Handhaving: wijziging diverse decreten 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AE5BD30592342F299DB9DD)** : **(2023-07-14)** Aansluitingen Handhavingsplatform Voorontwerp van besluit van de Vlaamse Regering over de digitalisering van de handhaving van diverse Vlaamse regelgeving  Het kaderdecreet Vlaamse Handhaving voorziet... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aansluitingen%20Handhavingsplatform&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Aansluitingen Handhavingsplatform 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbericht/6553927D8265E66451D4CA0A)** : **(2023-11-17)** Aansluitingen Handhavingsplatform: gefaseerde uitrol Ontwerpbesluit van de Vlaamse Regering over de digitalisering van de handhaving van diverse Vlaamse regelgeving  Het kaderdecreet Vlaamse Handhavin... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aansluitingen%20Handhavingsplatform%3A%20gefaseerde%20uitrol&dateOption=select&startDate=2023-11-17T09%3A00%3A00Z&endDate=2023-11-17T09%3A00%3A00Z)** : **(2023-11-17)** Aansluitingen Handhavingsplatform: gefaseerde uitrol 
 
-**[\[8\]]** : **(2020-04-03)** Milieuhandhavingsrapport 2018 van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) 
+**[\[8\]]** : **(2020-04-03)**  
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbericht/651FAEFE7FDB1A5D07827EBD)** : **(2023-10-06)** Aansluitingen Handhavingsplatform: gefaseerde uitrol Voorontwerp van besluit van de Vlaamse Regering over de digitalisering van de handhaving van diverse Vlaamse regelgeving  Het kaderdecreet Vlaamse ... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aansluitingen%20Handhavingsplatform%3A%20gefaseerde%20uitrol&dateOption=select&startDate=2023-10-06T08%3A00%3A00Z&endDate=2023-10-06T08%3A00%3A00Z)** : **(2023-10-06)** Aansluitingen Handhavingsplatform: gefaseerde uitrol 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/607FE961364ED900080004E0)** : **(2021-04-23)** Plan Vlaamse Veerkracht: Omgevingsloket - digitalisering inzageloket en omgevingscheck Het Omgevingsloket: digitalisering inzage-loket en omgevingscheck  Digitale transformatie is één van de zeven spe... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Omgevingsloket%20-%20digitalisering%20inzageloket%20en%20omgevingscheck&dateOption=select&startDate=2021-04-23T08%3A00%3A00Z&endDate=2021-04-23T08%3A00%3A00Z)** : **(2021-04-23)** Plan Vlaamse Veerkracht: Omgevingsloket - digitalisering inzageloket en omgevingscheck 
 
-**[\[11\]](http://themis.vlaanderen.be/id/resource/d8052210-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) Voorontwerp van decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaams... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Opheffing%20Vlaamse%20Hoge%20Handhavingsraad%20voor%20Ruimte%20en%20Milieu%20%28VHRM%29&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/2de00110-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-09)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) Voorontwerp van decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaams... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Opheffing%20Vlaamse%20Hoge%20Handhavingsraad%20voor%20Ruimte%20en%20Milieu%20%28VHRM%29&dateOption=select&startDate=2020-10-09T08%3A00%3A00Z&endDate=2020-10-09T08%3A00%3A00Z)** : **(2020-10-09)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) 
 
-**[\[13\]](http://themis.vlaanderen.be/id/resource/291ffd70-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-11)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM): wijzigingsdecreet Ontwerpdecreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Opheffing%20Vlaamse%20Hoge%20Handhavingsraad%20voor%20Ruimte%20en%20Milieu%20%28VHRM%29%3A%20wijzigingsdecreet&dateOption=select&startDate=2020-12-11T09%3A00%3A00Z&endDate=2020-12-11T09%3A00%3A00Z)** : **(2020-12-11)** Opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM): wijzigingsdecreet 
 
-**[\[14\]](http://themis.vlaanderen.be/id/resource/d5e27080-4924-11ec-94bb-99a9d1e168fe)** : **(2021-02-26)** Wijzigingsdecreet opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) Bekrachtiging en afkondiging van het decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepa... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20opheffing%20Vlaamse%20Hoge%20Handhavingsraad%20voor%20Ruimte%20en%20Milieu%20%28VHRM%29&dateOption=select&startDate=2021-02-26T09%3A00%3A00Z&endDate=2021-02-26T09%3A00%3A00Z)** : **(2021-02-26)** Wijzigingsdecreet opheffing Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu (VHRM) 
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED40E9364ED90008001387)** : **(2021-07-16)** Oprichting Agentschap Justitie en Handhaving Voorontwerp van besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap Agentschap Justitie en Handhaving  De Vlaamse Rege... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%20Agentschap%20Justitie%20en%20Handhaving&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Oprichting Agentschap Justitie en Handhaving 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/612F6F86364ED90008000284)** : **(2021-09-03)** Oprichting Agentschap Justitie en Handhaving Ontwerpbesluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap “Agentschap Justitie en Handhaving”  Na advies van de Raad ... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%20Agentschap%20Justitie%20en%20Handhaving&dateOption=select&startDate=2021-09-03T10%3A00%3A00Z&endDate=2021-09-03T10%3A00%3A00Z)** : **(2021-09-03)** Oprichting Agentschap Justitie en Handhaving 
 
-**[\[17\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/637C916434B8770AF8FDF22A)** : **(2022-11-25)** Kaderdecreet handhaving Vlaamse regelgeving Voorontwerp van kaderdecreet over de handhaving van Vlaamse regelgeving  Na advies van de SERV, de Minaraad, de SARO, de MORA, de SAR WVG, de SALV, de VLOR,... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kaderdecreet%20handhaving%20Vlaamse%20regelgeving&dateOption=select&startDate=2022-11-25T11%3A00%3A00Z&endDate=2022-11-25T11%3A00%3A00Z)** : **(2022-11-25)** Kaderdecreet handhaving Vlaamse regelgeving 
 
-**[\[18\]](http://themis.vlaanderen.be/id/nieuwsbericht/646DD7698E8235823F6B832B)** : **(2023-05-26)** Kaderdecreet handhaving Vlaamse regelgeving Ontwerp van kaderdecreet over de handhaving van Vlaamse regelgeving  Na advies van de Raad van State hecht de Vlaamse Regering haar definitieve goedkeuring ... 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kaderdecreet%20handhaving%20Vlaamse%20regelgeving&dateOption=select&startDate=2023-05-26T08%3A00%3A00Z&endDate=2023-05-26T08%3A00%3A00Z)** : **(2023-05-26)** Kaderdecreet handhaving Vlaamse regelgeving 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AFEC530592342F299DBC7B)** : **(2023-07-14)** Kaderdecreet handhaving Vlaamse regelgeving Bekrachtiging en afkondiging van het kaderdecreet over de handhaving van Vlaamse regelgeving, aangenomen door het Vlaams Parlement op 12 juli 2023  De Vlaam... 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kaderdecreet%20handhaving%20Vlaamse%20regelgeving&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Kaderdecreet handhaving Vlaamse regelgeving 
 
-**[\[20\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD639E8E6C4430A889886C)** : **(2022-07-15)** Kaderdecreet handhaving Vlaamse regelgeving Voorontwerp van kaderdecreet over de handhaving van Vlaamse regelgeving  De Vlaamse Regering hecht haar  principiële goedkeuring aan het voorontwerp van kad... 
+**[\[20\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kaderdecreet%20handhaving%20Vlaamse%20regelgeving&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Kaderdecreet handhaving Vlaamse regelgeving 
 
-**[\[21\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60C89B36364ED900080003DD)** : **(2021-06-18)** Plan Vlaamse Veerkracht: Vlaams bestuurlijk sanctieregister Vlaams bestuurlijk sanctieregister  Het belang van de bestuurlijke handhaving, via bestuurlijke beboeting en bestuurlijke maatregelen, neemt... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Vlaams%20bestuurlijk%20sanctieregister&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z)** : **(2021-06-18)** Plan Vlaamse Veerkracht: Vlaams bestuurlijk sanctieregister 
         </details> 
 

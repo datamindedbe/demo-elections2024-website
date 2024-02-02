@@ -27,28 +27,28 @@ De verzameling van deze beslissingen geeft weer dat de Vlaamse Regering in veel 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B5E17B364ED900080005F2)** : **(2021-06-04)** Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko   In haar Regeerakkoord heeft de Vlaamse Regering aangegeven dat zij een nieuwe samenwerking wenst op t... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Nieuwe%20samenwerking%20met%20de%20regio%20Noord-%20en/of%20Oost-Afrika%3A%20intentie%20tot%20samenwerking%20met%20Marokko&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/8d01d2c0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Heroriëntatie van de samenwerking met Zuid‐Afrika van een ontwikkelings‐ naar een sterke politieke, economische en diplomatieke samenwerking   Sinds de afschaffing van het apartheidsregime in 1994 hee... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herori%C3%ABntatie%20van%20de%20samenwerking%20met%20Zuid%E2%80%90Afrika%20van%20een%20ontwikkelings%E2%80%90%20naar%20een%20sterke%20politieke%2C%20economische%20en%20diplomatieke%20samenwerking&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Heroriëntatie van de samenwerking met Zuid‐Afrika van een ontwikkelings‐ naar een sterke politieke, economische en diplomatieke samenwerking 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/634E51E71EA6B745D23CBD8A)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20bijdrage%20aan%20het%20tweede%20Vrijwillig%20Nationaal%20Rapport%20over%20de%20voortgang%20van%20Agenda%202030%20en%20de%20duurzame%20ontwikkelingsdoelstellingen&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627536081C4A193816C30A65)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk'   ​De Vlaamse Regering hecht haar goedkeuring aan de  visienota 'Vlaanderen en het Verenigd Koninkrijk'. Deze visienota licht toe waarom een blijvende... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Verenigd%20Koninkrijk%27&dateOption=select&startDate=2022-05-06T08%3A00%3A00Z&endDate=2022-05-06T08%3A00%3A00Z)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk' 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/619CB3FD364ED9000800026C)** : **(2021-11-26)** Vlaamse Strategie Duurzame Ontwikkeling IV Ontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het gecoördineerd Vlaams beleid duurzame... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-11-26T09%3A00%3A00Z&endDate=2021-11-26T09%3A00%3A00Z)** : **(2021-11-26)** Vlaamse Strategie Duurzame Ontwikkeling IV 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1AD3B364ED900080002F1)** : **(2021-06-25)** Vlaamse Strategie Duurzame Ontwikkeling IV Voorontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het gecoördineerd Vlaams beleid duur... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Vlaamse Strategie Duurzame Ontwikkeling IV 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ADF2D8364ED900080001F1)** : **(2021-05-28)** Ontwikkelingssamenwerking Mozambique Ontwerp van vierde Landenstrategienota voor de ontwikkelingssamenwerking met Mozambique, 2021-2025  De Vlaamse Regering keurt het ontwerp goed van Vierde Landenstr... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwikkelingssamenwerking%20Mozambique&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Ontwikkelingssamenwerking Mozambique 
 
-**[\[7\]]** : **(2020-02-07)** Externe tussentijdse evaluatie van de derde landenstrategienota voor de ontwikkelingssamenwerking tussen de Regering van Vlaanderen en de Regering van Mozambique, 2016-2020 
+**[\[7\]]** : **(2020-02-07)**  
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6332DE415CD4B179BD8715F5)** : **(2022-09-30)** Subsidie projecten samenwerking Vlaanderen-Marokko Twee ontwerpbesluiten van de Vlaamse Regering betreffende de toekenning van twee projectsubsidies in het kader van de pilootfase voor samenwerking tu... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20projecten%20samenwerking%20Vlaanderen-Marokko&dateOption=select&startDate=2022-09-30T09%3A30%3A00Z&endDate=2022-09-30T09%3A30%3A00Z)** : **(2022-09-30)** Subsidie projecten samenwerking Vlaanderen-Marokko 
 
-**[\[9\]](http://themis.vlaanderen.be/id/resource/8de5ca20-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden'   In haar Regeerakkoord 2019-2024 richt de Vlaamse Regering nadrukkelijk de blik op het Noorden. In dit kader   beslist ze de samenwerking met de landen van het N... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Noorden%27&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden' 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE54B8364ED9000800020A)** : **(2021-05-28)** Plan Vlaamse Veerkracht: dossiernummers 25 en 27 Blue Deal: ecologiesteun aan bedrijven en steun voor onderzoek in de landbouwsector  Uit recente kaarten en indicatoren van de OESO en van het World Re... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossiernummers%2025%20en%2027&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Plan Vlaamse Veerkracht: dossiernummers 25 en 27 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/638F372CC2B90D4571CF7582)** : **(2022-12-09)** Samenwerkingsovereenkomst 2023-2027 vzw Vlaams-Europees verbindingsagentschap (VLEVA) Samenwerkingsovereenkomst vzw Vlaams-Europees verbindingsagentschap (VLEVA)  De Vlaamse Regering keurt de samenwer... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsovereenkomst%202023-2027%20vzw%20Vlaams-Europees%20verbindingsagentschap%20%28VLEVA%29&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Samenwerkingsovereenkomst 2023-2027 vzw Vlaams-Europees verbindingsagentschap (VLEVA) 
         </details> 
 

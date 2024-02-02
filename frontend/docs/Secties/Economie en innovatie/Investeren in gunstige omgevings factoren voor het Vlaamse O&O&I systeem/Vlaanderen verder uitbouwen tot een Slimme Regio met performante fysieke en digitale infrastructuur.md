@@ -40,56 +40,61 @@ De geïmplementeerde en goedgekeurde beslissingen tonen aan dat de regering acti
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B768D8364ED90008000645)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen Uitbouw Slimme Regio Vlaand... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Uitbouw%20Slimme%20Regio%20Vlaanderen%20door%20samenbrengen%20innovatiecapaciteit%20ondernemingen%20en%20stimuleren%20implementatie%20en%20kennisopbouw%20bij%20lokale%20besturen&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen 
 
-**[\[1\]]** : **(2020-07-17)** Uitbouw van Slimme Regio Vlaanderen 
+**[\[1\]]** : **(2020-07-17)**  
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/44787890-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** AI-onderzoeksprogramma: subsidie voor de periode 1 januari tot en met 30 juni 2020 Ontwerpbesluit van de Vlaamse Regering over de toekenning van een subsidie voor het onderzoeksprogramma Artificiële I... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=AI-onderzoeksprogramma%3A%20subsidie%20voor%20de%20periode%201%20januari%20tot%20en%20met%2030%20juni%202020%0A%0A&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** AI-onderzoeksprogramma: subsidie voor de periode 1 januari tot en met 30 juni 2020
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbericht/65815409E2E2C9E5814C1F00)** : **(2023-12-22)** Vlaams Beleidsplan Artificiële Intelligentie (AI), Luik opleidingen: verlenging Vlaamse AI Academie – Werkjaar 2024 Ontwerpbesluit van de Vlaamse Regering tot toekenning van de subsidie voor de werkin... 
+ 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61A77157364ED90008000004)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit Data Integratiediensten voor Slimme Mobiliteit  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Data Integra... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Beleidsplan%20Artifici%C3%ABle%20Intelligentie%20%28AI%29%2C%20Luik%20opleidingen%3A%20verlenging%20Vlaamse%20AI%20Academie%20%E2%80%93%20Werkjaar%202024&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Vlaams Beleidsplan Artificiële Intelligentie (AI), Luik opleidingen: verlenging Vlaamse AI Academie – Werkjaar 2024 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/64147550-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-04)** Vlaams Beleidsplan AI – Flankerend beleid: programma voor Burgerwetenschap AI A. Programma voor Burgerwetenschap AI B. Ontwerpbesluit van de Vlaamse Regering tot toekenning van de subsidie voor de ops... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Data%20Integratiediensten%20voor%20Slimme%20Mobiliteit&dateOption=select&startDate=2021-12-03T09%3A00%3A00Z&endDate=2021-12-03T09%3A00%3A00Z)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/645210C9878C11494CF541EB)** : **(2023-05-05)** Vlaamse AI-Academie (VAIA): werkingssubsidie 2023 Ontwerpbesluit van de Vlaamse Regering tot toekenning van de subsidie voor de werking van de Vlaamse AI-Academie in 2023  In het kader van het luik Fl... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Beleidsplan%20AI%20%E2%80%93%20Flankerend%20beleid%3A%20programma%20voor%20Burgerwetenschap%20AI&dateOption=select&startDate=2020-12-04T09%3A00%3A00Z&endDate=2020-12-04T09%3A00%3A00Z)** : **(2020-12-04)** Vlaams Beleidsplan AI – Flankerend beleid: programma voor Burgerwetenschap AI 
 
-**[\[7\]](http://themis.vlaanderen.be/id/resource/4269bcd0-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Flankerende maatregelen hoger onderwijs in het kader van beleidsagenda’s artificiële intelligentie en cybersecurity Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie voor het inst... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20AI-Academie%20%28VAIA%29%3A%20werkingssubsidie%202023&dateOption=select&startDate=2023-05-05T08%3A00%3A00Z&endDate=2023-05-05T08%3A00%3A00Z)** : **(2023-05-05)** Vlaamse AI-Academie (VAIA): werkingssubsidie 2023 
 
-**[\[8\]](http://themis.vlaanderen.be/id/resource/4420f170-4925-11ec-94bb-99a9d1e168fe)** : **(2021-01-29)** Onderzoeksprogramma Artificiële Intelligentie (AI): 12 miljoen euro subsidie werkjaar 2021 Ontwerpbesluit van de Vlaamse Regering over de toekenning van een subsidie voor het onderzoeksprogramma Artif... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Flankerende%20maatregelen%20hoger%20onderwijs%20in%20het%20kader%20van%20beleidsagenda%E2%80%99s%20artifici%C3%ABle%20intelligentie%20en%20cybersecurity%0A%0A&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Flankerende maatregelen hoger onderwijs in het kader van beleidsagenda’s artificiële intelligentie en cybersecurity
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62013CF7D5F0FAFA87AFAB8F)** : **(2022-02-11)** Subsidie AI-plan onderzoeksluik Ontwerpbesluit van de Vlaamse Regering over de toekenning van een subsidie voor het onderzoeksprogramma Artificiële Intelligentie (periode januari- december 2022)  Op 2... 
+ 
 
-**[\[10\]](http://themis.vlaanderen.be/id/resource/f0c82210-4928-11ec-94bb-99a9d1e168fe)** : **(2020-06-19)** Vlaams Beleidsplan AI – Luik opleidingen: De Vlaamse AI Academie Ontwerpbesluit van de Vlaamse Regering tot toekenning van de subsidie voor de oprichting van De Vlaamse AI Academie  In uitvoering van ... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Onderzoeksprogramma%20Artifici%C3%ABle%20Intelligentie%20%28AI%29%3A%2012%20miljoen%20euro%20subsidie%20werkjaar%202021&dateOption=select&startDate=2021-01-29T09%3A00%3A00Z&endDate=2021-01-29T09%3A00%3A00Z)** : **(2021-01-29)** Onderzoeksprogramma Artificiële Intelligentie (AI): 12 miljoen euro subsidie werkjaar 2021 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D2E8BD364ED90008000325)** : **(2021-06-25)** Plan Vlaamse Veerkracht: Cybersecurity en uitrol centraal systeem van veiligheidsbouwstenen en het beheer van veiligheidsevenementen en –informatie (SIEM) Cybersecurity en uitrol SIEM  Met het relance... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20AI-plan%20onderzoeksluik&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z)** : **(2022-02-11)** Subsidie AI-plan onderzoeksluik 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/f45990c0-4929-11ec-94bb-99a9d1e168fe)** : **(2020-04-10)** Subsidie Kenniscentrum Data en Maatschappij Ontwerpbesluit van de Vlaamse Regering tot toekenning van de subsidie voor de werking van het Kenniscentrum Data en Maatschappij  Naar aanleiding van het Vl... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Beleidsplan%20AI%20%E2%80%93%20Luik%20opleidingen%3A%20De%20Vlaamse%20AI%20Academie&dateOption=select&startDate=2020-06-19T08%3A00%3A00Z&endDate=2020-06-19T08%3A00%3A00Z)** : **(2020-06-19)** Vlaams Beleidsplan AI – Luik opleidingen: De Vlaamse AI Academie 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6093ABAF364ED90008000033)** : **(2021-05-07)** Plan Vlaamse Veerkracht dossier 67 Modernisering cloud -en netwerkinfrastructuur  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Modernisering cloud- en netwerkinfrastructuur' (VV... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Cybersecurity%20en%20uitrol%20centraal%20systeem%20van%20veiligheidsbouwstenen%20en%20het%20beheer%20van%20veiligheidsevenementen%20en%20%E2%80%93informatie%20%28SIEM%29&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Plan Vlaamse Veerkracht: Cybersecurity en uitrol centraal systeem van veiligheidsbouwstenen en het beheer van veiligheidsevenementen en –informatie (SIEM) 
 
-**[\[14\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6093A956364ED9000800002E)** : **(2021-05-07)** Plan Vlaamse Veerkracht: dossier 57 Ondersteuning Digitale Transformatie  In het kader van het relanceplan 'Vlaamse Veerkracht' keurt de Vlaamse Regering de invulling goed van het project 'Ondersteuni... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20Kenniscentrum%20Data%20en%20Maatschappij%0A&dateOption=select&startDate=2020-04-10T08%3A00%3A00Z&endDate=2020-04-10T08%3A00%3A00Z)** : **(2020-04-10)** Subsidie Kenniscentrum Data en Maatschappij
+ 
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9F6B7364ED9000800041D)** : **(2021-06-18)** Plan Vlaamse Veerkracht: FIT – Datagedreven organisatie & Digitalisering dienstverlening FIT – Datagedreven organisatie & Digitalisering dienstverlening  In uitvoering van het luik digitale transforma... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%20dossier%2067&dateOption=select&startDate=2021-05-07T08%3A00%3A00Z&endDate=2021-05-07T08%3A00%3A00Z)** : **(2021-05-07)** Plan Vlaamse Veerkracht dossier 67 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D2F02B364ED90008000329)** : **(2021-06-25)** Plan Vlaamse Veerkracht: Kennis- en adviescentrum ‘Digisprong’ ten dienste van het onderwijsveld en aangepaste digitale leermiddelen Kennis- en adviescentrum ‘Digisprong’ ten dienste van het onderwijs... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossier%2057&dateOption=select&startDate=2021-05-07T08%3A00%3A00Z&endDate=2021-05-07T08%3A00%3A00Z)** : **(2021-05-07)** Plan Vlaamse Veerkracht: dossier 57 
 
-**[\[17\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61701C77364ED9000800020C)** : **(2021-10-22)** Plan Vlaamse Veerkracht: actieplan E-leren Actieplan E-leren: digitaliseringsprojecten VDAB en Departement Werk en Sociale Economie in het kader van AHAD relance  Het Actieplan E-leren maakt deel uit ... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20FIT%20%E2%80%93%20Datagedreven%20organisatie%20%26%20Digitalisering%20dienstverlening&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z)** : **(2021-06-18)** Plan Vlaamse Veerkracht: FIT – Datagedreven organisatie & Digitalisering dienstverlening 
 
-**[\[18\]](http://themis.vlaanderen.be/id/resource/950bdbd0-4926-11ec-94bb-99a9d1e168fe)** : **(2020-11-27)** Stuurorgaan Vlaams Informatie- en ICT-beleid: invulling Programma Vlaanderen Radicaal Digitaal 2   De Vlaamse Regering keurt de   gemotiveerd e voordracht van het Stuurorgaan Vlaams Informatie -   en ... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Kennis-%20en%20adviescentrum%20%E2%80%98Digisprong%E2%80%99%20ten%20dienste%20van%20het%20onderwijsveld%20en%20aangepaste%20digitale%20leermiddelen&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Plan Vlaamse Veerkracht: Kennis- en adviescentrum ‘Digisprong’ ten dienste van het onderwijsveld en aangepaste digitale leermiddelen 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60EE9BDD364ED900080014E1)** : **(2021-07-16)** Plan Vlaamse Veerkracht: toewijzing middelen 'Iedereen Digitaal' Iedereen Digitaal Drie ontwerpbesluiten van de Vlaamse Regering  Een van de belangrijke pijlers binnen het relanceplan 'Vlaamse Veerkra... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20actieplan%20E-leren&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Plan Vlaamse Veerkracht: actieplan E-leren 
 
-**[\[20\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B856E8364ED9000900104F)** : **(2021-12-17)** Programma Vlaanderen Radicaal Digitaal 2: uitvoeringsjaar 2022   Voor de invulling van het programma Vlaanderen Radicaal Digitaal 2 voor het uitvoeringsjaar 2022, keurt de Vlaamse Regering de gemotive... 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Stuurorgaan%20Vlaams%20Informatie-%20en%20ICT-beleid%3A%20invulling%20Programma%20Vlaanderen%20Radicaal%20Digitaal%202&dateOption=select&startDate=2020-11-27T09%3A00%3A00Z&endDate=2020-11-27T09%3A00%3A00Z)** : **(2020-11-27)** Stuurorgaan Vlaams Informatie- en ICT-beleid: invulling Programma Vlaanderen Radicaal Digitaal 2 
 
-**[\[21\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63749CBF34B8770AF8FDE8D0)** : **(2022-11-18)** Programma Vlaanderen Radicaal Digitaal 2: uitvoeringsjaar 2023   Het regeerakkoord 2019-2024 investeert met het programma 'Vlaanderen Radicaal Digitaal 2' (VRD 2) in innovatie en een ‘slimmere overhei... 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20toewijzing%20middelen%20%27Iedereen%20Digitaal%27&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Plan Vlaamse Veerkracht: toewijzing middelen 'Iedereen Digitaal' 
 
-**[\[22\]](http://themis.vlaanderen.be/id/nieuwsbericht/6553329B8265E66451D4C7CF)** : **(2023-11-17)** Programma Vlaanderen Radicaal Digitaal: exploitatiebudget begrotingsjaar 2024   De Vlaamse Regering wil de Vlaamse administratie en lokale overheden radicaal digitaal laten werken , om een 'state-of-t... 
+**[\[20\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programma%20Vlaanderen%20Radicaal%20Digitaal%202%3A%20uitvoeringsjaar%202022&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Programma Vlaanderen Radicaal Digitaal 2: uitvoeringsjaar 2022 
 
-**[\[23\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60EE8E0C364ED900080014D3)** : **(2021-07-16)** Plan Vlaamse Veerkracht: Digitale transformatie cultuursector: ‘doelgericht digitaal transformeren’ (VV072) en ‘koppeling databanken en betere informatiedoorstroming’ Relance-initiatieven in het kader... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programma%20Vlaanderen%20Radicaal%20Digitaal%202%3A%20uitvoeringsjaar%202023&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** Programma Vlaanderen Radicaal Digitaal 2: uitvoeringsjaar 2023 
 
-**[\[24\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD317D8E6C4430A889877E)** : **(2022-07-15)** Plan Vlaamse Veerkracht: Digitaliseringsprojecten inburgering Digitalisering integratie en inburgering  De Vlaamse Regering  keurt de verdere concretisering van de inhoud en de herverdeling goed van d... 
+**[\[22\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programma%20Vlaanderen%20Radicaal%20Digitaal%3A%20exploitatiebudget%20begrotingsjaar%202024&dateOption=select&startDate=2023-11-17T09%3A00%3A00Z&endDate=2023-11-17T09%3A00%3A00Z)** : **(2023-11-17)** Programma Vlaanderen Radicaal Digitaal: exploitatiebudget begrotingsjaar 2024 
 
-**[\[25\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61409E2F364ED900080001D5)** : **(2021-09-17)** Plan Vlaamse Veerkracht: Digitalisering integratie en inburgering Digitalisering integratie en inburgering  Het programma ‘Digitalisering Integratie en Inburgering’ geeft uitvoering aan de ambities ui... 
+**[\[23\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Digitale%20transformatie%20cultuursector%3A%20%E2%80%98doelgericht%20digitaal%20transformeren%E2%80%99%20%28VV072%29%20en%20%E2%80%98koppeling%20databanken%20en%20betere%20informatiedoorstroming%E2%80%99&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Plan Vlaamse Veerkracht: Digitale transformatie cultuursector: ‘doelgericht digitaal transformeren’ (VV072) en ‘koppeling databanken en betere informatiedoorstroming’ 
+
+**[\[24\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Digitaliseringsprojecten%20inburgering&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Plan Vlaamse Veerkracht: Digitaliseringsprojecten inburgering 
+
+**[\[25\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Digitalisering%20integratie%20en%20inburgering&dateOption=select&startDate=2021-09-17T08%3A00%3A00Z&endDate=2021-09-17T08%3A00%3A00Z)** : **(2021-09-17)** Plan Vlaamse Veerkracht: Digitalisering integratie en inburgering 
         </details> 
 

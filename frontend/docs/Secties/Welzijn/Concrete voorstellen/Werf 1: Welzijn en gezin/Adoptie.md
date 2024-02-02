@@ -35,58 +35,62 @@ De Vlaamse regering heeft belangrijke stappen ondernomen om de doelen omtrent ad
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbericht/650169A33605E1AC863BEFEE)** : **(2023-09-15)** Wijzigingsdecreet interlandelijke adoptie: invoering van een gezamenlijk voortraject pleegzorg-adoptie Voorontwerp van decreet tot wijziging van het decreet van 20 januari 2012 houdende regeling van d... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20interlandelijke%20adoptie%3A%20invoering%20van%20een%20gezamenlijk%20voortraject%20pleegzorg-adoptie&dateOption=select&startDate=2023-09-15T08%3A00%3A00Z&endDate=2023-09-15T08%3A00%3A00Z)** : **(2023-09-15)** Wijzigingsdecreet interlandelijke adoptie: invoering van een gezamenlijk voortraject pleegzorg-adoptie 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/631AE4559531BD6B9732C779)** : **(2022-09-09)** Eéngemaakte interlandelijke adoptiedienst: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 25, 26 en 27 van het Besluit van de Vlaamse Regering van 24 mei 2019 tot w... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=E%C3%A9ngemaakte%20interlandelijke%20adoptiedienst%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-09-09T08%3A00%3A00Z&endDate=2022-09-09T08%3A00%3A00Z)** : **(2022-09-09)** Eéngemaakte interlandelijke adoptiedienst: wijzigingsbesluit 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/b7bd3fd0-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-14)** Oprichting afstammingscentrum en DNA-databank Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een ... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%20afstammingscentrum%20en%20DNA-databank%0A&dateOption=select&startDate=2020-02-14T09%3A00%3A00Z&endDate=2020-02-14T09%3A00%3A00Z)** : **(2020-02-14)** Oprichting afstammingscentrum en DNA-databank
+ 
 
-**[\[3\]](http://themis.vlaanderen.be/id/resource/986586c0-4929-11ec-94bb-99a9d1e168fe)** : **(2020-05-08)** Oprichting afstammingscentrum en DNA-databank Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van het decreet van 26 april 2019 houdende de oprichting van een afstammingscentrum en een ... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%20afstammingscentrum%20en%20DNA-databank%0A&dateOption=select&startDate=2020-05-08T08%3A00%3A00Z&endDate=2020-05-08T08%3A00%3A00Z)** : **(2020-05-08)** Oprichting afstammingscentrum en DNA-databank
+ 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/612DF033364ED9000800025B)** : **(2021-09-03)** Eindrapport expertenpanel interlandelijke adoptie 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Eindrapport%20expertenpanel%20interlandelijke%20adoptie&dateOption=select&startDate=2021-09-03T10%3A00%3A00Z&endDate=2021-09-03T10%3A00%3A00Z)** : **(2021-09-03)** Eindrapport expertenpanel interlandelijke adoptie 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/613715F8364ED90008000190)** : **(2021-09-10)** Eindrapport expertenpanel interlandelijke adoptie 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Eindrapport%20expertenpanel%20interlandelijke%20adoptie&dateOption=select&startDate=2021-09-10T08%3A00%3A00Z&endDate=2021-09-10T08%3A00%3A00Z)** : **(2021-09-10)** Eindrapport expertenpanel interlandelijke adoptie 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B853F0364ED90009001010)** : **(2021-12-17)** VIA6: preventieve gezinsondersteuning en adoptie Voorontwerp van besluit van de Vlaamse Regering tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maa... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VIA6%3A%20preventieve%20gezinsondersteuning%20en%20adoptie&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** VIA6: preventieve gezinsondersteuning en adoptie 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61F131A0D5F0FAFA87AFA589)** : **(2022-01-28)** VIA6: preventieve gezinsondersteuning en adoptie Ontwerpbesluit van de Vlaamse Regering tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maatregelen ... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VIA6%3A%20preventieve%20gezinsondersteuning%20en%20adoptie&dateOption=select&startDate=2022-01-28T09%3A00%3A00Z&endDate=2022-01-28T09%3A00%3A00Z)** : **(2022-01-28)** VIA6: preventieve gezinsondersteuning en adoptie 
 
-**[\[8\]](http://themis.vlaanderen.be/id/resource/445ade70-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Kinderopvang, preventieve gezinsondersteuning en adoptie: nieuwe maatregelen van het Vlaams Intersectoraal Akkoord voor de social profitsectoren Voorontwerp van besluit van de Vlaamse Regering tot wij... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kinderopvang%2C%20preventieve%20gezinsondersteuning%20en%20adoptie%3A%20nieuwe%20maatregelen%20van%20het%20Vlaams%20Intersectoraal%20Akkoord%20voor%20de%20social%20profitsectoren&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Kinderopvang, preventieve gezinsondersteuning en adoptie: nieuwe maatregelen van het Vlaams Intersectoraal Akkoord voor de social profitsectoren 
 
-**[\[9\]](http://themis.vlaanderen.be/id/resource/d1019a40-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-07)** Kinderopvang, preventieve gezinsondersteuning en adoptie: nieuwe maatregelen van het Vlaams Intersectoraal Akkoord voor de social profitsectoren Voorontwerp van besluit van de Vlaamse Regering tot wij... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kinderopvang%2C%20preventieve%20gezinsondersteuning%20en%20adoptie%3A%20nieuwe%20maatregelen%20van%20het%20Vlaams%20Intersectoraal%20Akkoord%20voor%20de%20social%20profitsectoren&dateOption=select&startDate=2020-02-07T09%3A00%3A00Z&endDate=2020-02-07T09%3A00%3A00Z)** : **(2020-02-07)** Kinderopvang, preventieve gezinsondersteuning en adoptie: nieuwe maatregelen van het Vlaams Intersectoraal Akkoord voor de social profitsectoren 
 
-**[\[10\]](http://themis.vlaanderen.be/id/resource/9881fd80-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-13)** Samenwerkingsakkoord hervorming adoptie   De Vlaamse Regering keurt het gewijzigde samenwerkingsakkoord goed tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gem... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsakkoord%20hervorming%20adoptie&dateOption=select&startDate=2019-12-13T09%3A00%3A00Z&endDate=2019-12-13T09%3A00%3A00Z)** : **(2019-12-13)** Samenwerkingsakkoord hervorming adoptie 
 
-**[\[11\]](http://themis.vlaanderen.be/id/resource/83af7190-492a-11ec-94bb-99a9d1e168fe)** : **(2020-03-06)** Samenwerkingsakkoord hervorming adoptie: voorontwerp instemmingsdecreet   De Vlaamse Regering keurt het gewijzigde samenwerkingsakkoord goed tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsakkoord%20hervorming%20adoptie%3A%20voorontwerp%20instemmingsdecreet&dateOption=select&startDate=2020-03-06T09%3A00%3A00Z&endDate=2020-03-06T09%3A00%3A00Z)** : **(2020-03-06)** Samenwerkingsakkoord hervorming adoptie: voorontwerp instemmingsdecreet 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/388aa5a0-4929-11ec-94bb-99a9d1e168fe)** : **(2020-05-29)** Samenwerkingsakkoord hervorming adoptie: voorontwerp instemmingsdecreet   Op 6 maart 2020 keurde de Vlaamse Regering het gewijzigde samenwerkingsakkoord goed t ussen de Federale Staat, de Vlaamse Geme... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsakkoord%20hervorming%20adoptie%3A%20voorontwerp%20instemmingsdecreet&dateOption=select&startDate=2020-05-29T08%3A00%3A00Z&endDate=2020-05-29T08%3A00%3A00Z)** : **(2020-05-29)** Samenwerkingsakkoord hervorming adoptie: voorontwerp instemmingsdecreet 
 
-**[\[13\]](http://themis.vlaanderen.be/id/resource/d4d45090-8a7a-11ec-b92e-970acd8c80b9)** : **(2020-10-30)** Decreet Wijziging samenwerkingsakkoord adoptie Bekrachtiging en afkondiging van het decreet houdende de instemming met het samenwerkingsakkoord van 18 februari 2020 tot wijziging van het samenwerkings... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Decreet%20Wijziging%20samenwerkingsakkoord%20adoptie&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z)** : **(2020-10-30)** Decreet Wijziging samenwerkingsakkoord adoptie 
 
-**[\[14\]](http://themis.vlaanderen.be/id/resource/63abc870-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-04)** Aanpassen besluiten naar aanleiding van naamswijziging Agentschappen Opgroeien (regie) Voorontwerp van besluit van de Vlaamse Regering tot wijziging van diverse besluiten over welzijn, volksgezondheid... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpassen%20besluiten%20naar%20aanleiding%20van%20naamswijziging%20Agentschappen%20Opgroeien%20%28regie%29&dateOption=select&startDate=2020-12-04T09%3A00%3A00Z&endDate=2020-12-04T09%3A00%3A00Z)** : **(2020-12-04)** Aanpassen besluiten naar aanleiding van naamswijziging Agentschappen Opgroeien (regie) 
 
-**[\[15\]](http://themis.vlaanderen.be/id/resource/a8f3c100-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-12)** Organisatorische eenmaking van de agentschappen Kind en Gezin en Jongerenwelzijn: naamswijziging Opgroeien (regie) Ontwerpbesluit van de Vlaamse Regering tot wijziging van diverse besluiten over welzi... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Organisatorische%20eenmaking%20van%20de%20agentschappen%20Kind%20en%20Gezin%20en%20Jongerenwelzijn%3A%20naamswijziging%20Opgroeien%20%28regie%29&dateOption=select&startDate=2021-03-12T09%3A00%3A00Z&endDate=2021-03-12T09%3A00%3A00Z)** : **(2021-03-12)** Organisatorische eenmaking van de agentschappen Kind en Gezin en Jongerenwelzijn: naamswijziging Opgroeien (regie) 
 
-**[\[16\]](http://themis.vlaanderen.be/id/resource/9fe17610-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-21)** Afschaffing retroactief recht gezinsbijslagen vluchtelingen Afschaffing retroactief recht gezinsbijslagen vluchtelingen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit va... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Afschaffing%20retroactief%20recht%20gezinsbijslagen%20vluchtelingen%0A&dateOption=select&startDate=2020-02-21T09%3A00%3A00Z&endDate=2020-02-21T09%3A00%3A00Z)** : **(2020-02-21)** Afschaffing retroactief recht gezinsbijslagen vluchtelingen
+ 
 
-**[\[17\]](http://themis.vlaanderen.be/id/resource/bc226420-4929-11ec-94bb-99a9d1e168fe)** : **(2020-04-30)** Afschaffing retroactief recht gezinsbijslagen vluchtelingen Afschaffing retroactief recht gezinsbijslagen vluchtelingen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit va... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Afschaffing%20retroactief%20recht%20gezinsbijslagen%20vluchtelingen%0A&dateOption=select&startDate=2020-04-30T08%3A00%3A00Z&endDate=2020-04-30T08%3A00%3A00Z)** : **(2020-04-30)** Afschaffing retroactief recht gezinsbijslagen vluchtelingen
+ 
 
-**[\[18\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61BC5050364ED900080003E2)** : **(2021-12-17)** Subsidie uitbreiding bevolkingsonderzoek aangeboren aandoeningen 2022   Alle ouders van pasgeboren baby’s in Vlaanderen kunnen in een gedroogd bloedstaal van hun kindje 12 aangeboren aandoeningen late... 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20uitbreiding%20bevolkingsonderzoek%20aangeboren%20aandoeningen%202022&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Subsidie uitbreiding bevolkingsonderzoek aangeboren aandoeningen 2022 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E476D3364ED900080008BB)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken Integratie erfgoeddatabanken  In het kader van het relanceplan 'Vlaamse Veerkracht' hecht de Vlaamse Regering haar goedkeuring ... 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Operationalisering%20integratie%20erfgoeddatabanken&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken 
 
-**[\[20\]](http://themis.vlaanderen.be/id/nieuwsbericht/65819D5BE2E2C9E5814C22DF)** : **(2023-12-22)** Fokkerijbesluit van honden en katten: voorwaarden om stambomen af te leveren Voorontwerp van besluit van de Vlaamse Regering over de fokkerij van honden en katten en de voorwaarden om stambomen af te ... 
+**[\[20\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Fokkerijbesluit%20van%20honden%20en%20katten%3A%20voorwaarden%20om%20stambomen%20af%20te%20leveren&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Fokkerijbesluit van honden en katten: voorwaarden om stambomen af te leveren 
 
-**[\[21\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6172640C364ED9000800030A)** : **(2021-10-22)** Wijziging regelgeving Vlaams integratie- en inburgeringsbeleid: hertekening inburgeringstraject Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 1 van het besluit van de Vlaam... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20regelgeving%20Vlaams%20integratie-%20en%20inburgeringsbeleid%3A%20hertekening%20inburgeringstraject&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Wijziging regelgeving Vlaams integratie- en inburgeringsbeleid: hertekening inburgeringstraject 
 
-**[\[22\]](http://themis.vlaanderen.be/id/nieuwsbericht/657829BAE2E2C9E5814C0229)** : **(2023-12-15)** Optimalisatie aanvragen en behandelen van de zorgtoeslag: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 5 oktober 2018 tot... 
+**[\[22\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Optimalisatie%20aanvragen%20en%20behandelen%20van%20de%20zorgtoeslag%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-12-15T09%3A00%3A00Z&endDate=2023-12-15T09%3A00%3A00Z)** : **(2023-12-15)** Optimalisatie aanvragen en behandelen van de zorgtoeslag: wijzigingsbesluit 
 
-**[\[23\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8C011364ED900090015DE)** : **(2021-12-17)** Wijziging regelgeving Vlaams integratie- en inburgeringsbeleid: hertekening inburgeringstraject Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 1 van het besluit van de Vlaamse Regeri... 
+**[\[23\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20regelgeving%20Vlaams%20integratie-%20en%20inburgeringsbeleid%3A%20hertekening%20inburgeringstraject&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Wijziging regelgeving Vlaams integratie- en inburgeringsbeleid: hertekening inburgeringstraject 
 
-**[\[24\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6387581886124BBA17062CA0)** : **(2022-12-02)** Automatisering bewijslast 'leerling met een zorgthuis' Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsf... 
+**[\[24\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Automatisering%20bewijslast%20%27leerling%20met%20een%20zorgthuis%27&dateOption=select&startDate=2022-12-02T09%3A00%3A00Z&endDate=2022-12-02T09%3A00%3A00Z)** : **(2022-12-02)** Automatisering bewijslast 'leerling met een zorgthuis' 
 
-**[\[25\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62AB445394D257C352466A57)** : **(2022-06-17)** Versterking van de lokale dienstverlening Kind en Gezin van Opgroeien als antwoord op het stijgend aantal dossiers ten gevolge van de instroom van Oekraïense vluchtelingengezinnen met jonge kinderen  ... 
+**[\[25\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Versterking%20van%20de%20lokale%20dienstverlening%20Kind%20en%20Gezin%20van%20Opgroeien%20als%20antwoord%20op%20het%20stijgend%20aantal%20dossiers%20ten%20gevolge%20van%20de%20instroom%20van%20Oekra%C3%AFense%20vluchtelingengezinnen%20met%20jonge%20kinderen&dateOption=select&startDate=2022-06-17T09%3A00%3A00Z&endDate=2022-06-17T09%3A00%3A00Z)** : **(2022-06-17)** Versterking van de lokale dienstverlening Kind en Gezin van Opgroeien als antwoord op het stijgend aantal dossiers ten gevolge van de instroom van Oekraïense vluchtelingengezinnen met jonge kinderen 
 
-**[\[26\]](http://themis.vlaanderen.be/id/nieuwsbericht/645B5D768E8235823F6B750B)** : **(2023-05-12)** Lokale samenwerkingsverbanden doorgaande lijn kinderopvang: afwijkingen Vergunningsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 16 ... 
+**[\[26\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Lokale%20samenwerkingsverbanden%20doorgaande%20lijn%20kinderopvang%3A%20afwijkingen%20Vergunningsbesluit&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z)** : **(2023-05-12)** Lokale samenwerkingsverbanden doorgaande lijn kinderopvang: afwijkingen Vergunningsbesluit 
         </details> 
 

@@ -31,22 +31,22 @@ Uit de genomen beslissingen blijkt dat de Regering actie heeft ondernomen die co
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbericht/643FBAB3CA1CB15B58CF470D)** : **(2023-04-21)** Startbeslissing voor de opmaak van een strategisch plan in het kader van bescherming tegen overstromingen uit zee (Kustvisie)   De voorbije jaren is onderzoek verricht om onze kust bij een verder stij... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Startbeslissing%20voor%20de%20opmaak%20van%20een%20strategisch%20plan%20in%20het%20kader%20van%20bescherming%20tegen%20overstromingen%20uit%20zee%20%28Kustvisie%29&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z)** : **(2023-04-21)** Startbeslissing voor de opmaak van een strategisch plan in het kader van bescherming tegen overstromingen uit zee (Kustvisie) 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6358F7201EA6B745D23CC8C3)** : **(2022-10-28)** Plan Vlaamse Veerkracht: Vlaggenschipprojecten ter versterking van het watersysteem van de kustduinen Vlaggenschipproject Duinencomplex Drie ontwerpbesluiten van de Vlaamse Regering  In het kader van ... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Vlaggenschipprojecten%20ter%20versterking%20van%20het%20watersysteem%20van%20de%20kustduinen&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Plan Vlaamse Veerkracht: Vlaggenschipprojecten ter versterking van het watersysteem van de kustduinen 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/638F1077C2B90D4571CF7552)** : **(2022-12-09)** Plan Vlaamse Veerkracht: subsidies voor uitvoering Water-Land-Schap 2.0 Vijfendertig ontwerpbesluiten van de Vlaamse Regering tot toekenning van subsidies voor uitvoering van Water-Land-Schap 2.0 binn... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidies%20voor%20uitvoering%20Water-Land-Schap%202.0&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Plan Vlaamse Veerkracht: subsidies voor uitvoering Water-Land-Schap 2.0 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D2E958364ED90008000326)** : **(2021-06-25)** Stopzetting procedure Complexe Projecten Kustvisie   Op 22 december 2017 startte de Vlaamse overheid het complex project Kustvisie. Kustvisie onderzoekt welke aanpak nodig is om onze kust en het achte... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Stopzetting%20procedure%20Complexe%20Projecten%20Kustvisie&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Stopzetting procedure Complexe Projecten Kustvisie 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbericht/64267E198A5434FEB5657410)** : **(2023-03-31)** Projectoproep 'Natuur in je school 2023'   De Vlaamse Regering lanceert de projectoproep 'Natuur in je School 2023' en voorziet maximaal 9 miljoen euro voor projecten die inzetten op natuurgebaseerde ... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Projectoproep%20%27Natuur%20in%20je%20school%202023%27&dateOption=select&startDate=2023-03-31T08%3A00%3A00Z&endDate=2023-03-31T08%3A00%3A00Z)** : **(2023-03-31)** Projectoproep 'Natuur in je school 2023' 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60894D96364ED90008000A10)** : **(2021-04-30)** Plan Vlaamse Veerkracht: wijziging subsidiebesluit inrichtingen en aankopen in het kader van natte natuur (Blue deal) Geïntegreerd natuurbeheer: natte natuur Voorontwerp van besluit van de Vlaamse Reg... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20wijziging%20subsidiebesluit%20inrichtingen%20en%20aankopen%20in%20het%20kader%20van%20natte%20natuur%20%28Blue%20deal%29&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z)** : **(2021-04-30)** Plan Vlaamse Veerkracht: wijziging subsidiebesluit inrichtingen en aankopen in het kader van natte natuur (Blue deal) 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/658548A3E2E2C9E5814C2D96)** : **(2023-12-22)** Projectoproep 'Natuur in je school' 2023: bijkomend budget   De Vlaamse overheid voorzag met de projectoproep 'Natuur in je School' in 2023 een budget van 9 miljoen euro voor projecten die inzetten op... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Projectoproep%20%27Natuur%20in%20je%20school%27%202023%3A%20bijkomend%20budget&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Projectoproep 'Natuur in je school' 2023: bijkomend budget 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbericht/6448DFF9CA1CB15B58CF51BF)** : **(2023-04-28)** Aanpassing milieukwaliteitsnormen oppervlaktewater, waterbodems en stofneerslag Ontwerpbesluit van de Vlaamse Regering tot wijziging van diverse bijlagen bij het besluit van de Vlaamse regering van 1 ... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpassing%20milieukwaliteitsnormen%20oppervlaktewater%2C%20waterbodems%20en%20stofneerslag&dateOption=select&startDate=2023-04-28T08%3A00%3A00Z&endDate=2023-04-28T08%3A00%3A00Z)** : **(2023-04-28)** Aanpassing milieukwaliteitsnormen oppervlaktewater, waterbodems en stofneerslag 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/632191AD5CD4B179BD870A72)** : **(2022-09-16)** Aanpassing milieukwaliteitsnormen oppervlaktewater, waterbodems en stofneerslag Voorontwerp van besluit van de Vlaamse Regering tot wijziging van diverse bijlagen bij het besluit van de Vlaamse regeri... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpassing%20milieukwaliteitsnormen%20oppervlaktewater%2C%20waterbodems%20en%20stofneerslag&dateOption=select&startDate=2022-09-16T08%3A00%3A00Z&endDate=2022-09-16T08%3A00%3A00Z)** : **(2022-09-16)** Aanpassing milieukwaliteitsnormen oppervlaktewater, waterbodems en stofneerslag 
         </details> 
 

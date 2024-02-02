@@ -7,70 +7,80 @@
             "s3_clean_content": "Programmadecreet begrotingsopmaak 2020: regeringsamendementen Ontwerpen van regeringsamendement op het ontwerpdecreet houdende bepalingen tot begeleiding van de begroting 2020  Na adviezen van de SAR WGG, de Vlaamse Woonraad en de Raad van State hecht de Vlaamse Regering haar definitieve  goedkeuring aan de amendementen bij het ontwerpdecreet met de bepalingen tot begeleiding van de begroting 2020 en de bijhorende Memorie van Toelichting. De Vlaamse minister bevoegd voor het budgettair beleid zal de amendementen indienen bij het Vlaams Parlement.",
             "date": "2019-11-29",
             "s3_filename_ingested": "ingestion/output/2019/11/5DDFFC585084E70008000226/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/e5ac2bd0-492b-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsopmaak%202020%3A%20regeringsamendementen%0A&dateOption=select&startDate=2019-11-29T09%3A00%3A00Z&endDate=2019-11-29T09%3A00%3A00Z",
+            "source_title": "Programmadecreet begrotingsopmaak 2020: regeringsamendementen\n"
         },
         "21": {
             "s3_filename_clean": "clean/2023/07/2023-07-07-nota-64A2F82C2D77B42474D4F22B.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Uitgaventoetsing financiering Hoger Onderwijs Uitgaventoetsing financiering Hoger Onderwijs  De Vlaamse Brede Heroverweging (VBH) beoogt een grondige doorlichting van alle uitgavenposten en kostendekkingsgraden binnen de Vlaamse begroting. Dat heeft tot doel om de kwaliteit van de publieke financi\u00ebn te verbeteren op vlak van effici\u00ebntie en effectiviteit. De VBH moet leiden tot een structurele verankering van beleidsevaluaties en uitgaventoetsingen in het beleids- en begrotingsproces. In dit kader hecht de Vlaamse Regering haar goedkeuring aan het plan van aanpak voor de uitgaventoetsing Hoger onderwijs die zal plaatsvinden in de periode 2023 \u2013 2024.",
             "date": "2023-07-07",
             "s3_filename_ingested": "ingestion/output/2023/07/64A2F82C2D77B42474D4F22B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F82C2D77B42474D4F22B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Uitgaventoetsing%20financiering%20Hoger%20Onderwijs&dateOption=select&startDate=2023-07-07T08%3A00%3A00Z&endDate=2023-07-07T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Uitgaventoetsing financiering Hoger Onderwijs"
         },
         "61": {
             "s3_filename_clean": "clean/2021/10/2021-10-28-nota-617A73E9364ED90008000703.txt",
             "s3_clean_content": "Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2022  Na adviezen van de SERV, de VLOR, de Vlaamse Raad WVG, de SAR CJSM, de SALV, de MORA, de Minaraad, de SARO en de Raad van State,  hecht de Vlaamse Regering haar definitieve  goedkeuring aan het  ontwerp van Programmadecreet met de bepalingen tot begeleiding van de begroting 2022. Het ontwerp van Programmadecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2021-10-28",
             "s3_filename_ingested": "ingestion/output/2021/10/617A73E9364ED90008000703/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/617A73E9364ED90008000703"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begroting%202022&dateOption=select&startDate=2021-10-28T09%3A15%3A00Z&endDate=2021-10-28T09%3A15%3A00Z",
+            "source_title": "Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022"
         },
         "53": {
             "s3_filename_clean": "clean/2020/10/2020-10-30-nota-5F99385E5B1AD200080003A8.txt",
             "s3_clean_content": "Ge\u00efntegreerde economische boekhouding en budgettaire rapportering gemeenschapsonderwijs: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 33, 34 en bijlage 1 van het besluit van de Vlaamse regering van 6 juli 1999 betreffende een ge\u00efntegreerde economische boekhouding en budgettaire rapportering voor de scholengroepen en het centrale niveau van het gemeenschapsonderwijs  De Vlaamse Regering wijzigt principieel het besluit over een ge\u00efntegreerde economische boekhouding en budgettaire rapportering voor  de scholengroepen en het centrale niveau van het gemeenschapsonderwijs. Het besluit in kwestie is 20 jaar oud, waardoor een aantal wijzigingen noodzakelijk zijn om up-to-date te blijven met gewijzigde adviezen van de begeleidingscommissie en de boekhoudregels. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2020-10-30",
             "s3_filename_ingested": "ingestion/output/2020/10/5F99385E5B1AD200080003A8/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/d573ebf0-8a7a-11ec-b92e-970acd8c80b9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Ge%C3%AFntegreerde%20economische%20boekhouding%20en%20budgettaire%20rapportering%20gemeenschapsonderwijs%3A%20wijzigingsbesluit&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z",
+            "source_title": "Ge\u00efntegreerde economische boekhouding en budgettaire rapportering gemeenschapsonderwijs: wijzigingsbesluit"
         },
         "26": {
             "s3_filename_clean": "clean/2022/03/2022-03-11-nota-622AFF326BB7B593CFC185AD.txt",
             "s3_clean_content": "Wijzigingsdecreet Vlaamse Codex Overheidsfinanci\u00ebn (VCO) Voorontwerp van decreet tot wijziging van de Vlaamse Codex Overheidsfinanci\u00ebn van 29 maart 2019  \u200bNa advies van de SERV  wijzigt  de Vlaamse Regering  opnieuw principieel de Vlaamse Codex Overheidsfinanci\u00ebn (VCO). Het voorontwerp van wijzigingsdecreet bundelt   praktische verbeteringen en verduidelijkingen die ontdekt werden bij de decreetevaluatie van de VCO. Daarmee is het de bedoeling om inconsistenties, onduidelijkheden en hiaten in het huidig juridisch kader weg te werken, de wetgeving eenduidiger te formuleren en aanpassingen te doen in functie van beslist beleid. Het decreet geeft ook uitvoering aan de conceptnota 'subsidies in goede banen'. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de Raad van State.",
             "date": "2022-03-11",
             "s3_filename_ingested": "ingestion/output/2022/03/622AFF326BB7B593CFC185AD/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/622AFF326BB7B593CFC185AD"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z",
+            "source_title": "Wijzigingsdecreet Vlaamse Codex Overheidsfinanci\u00ebn (VCO)"
         },
         "64": {
             "s3_filename_clean": "clean/2022/07/2022-07-15-nota-62CEBDC58E6C4430A889897B.txt",
             "s3_clean_content": "Bestek uitgaventoetsing Culturele Bovenbouw Uitgaventoetsing Culturele Bovenbouw Bestek nr. 2022/CJM/KO/EV  De Vlaamse Regering beslist haar goedkeuring te hechten aan het  plan van aanpak/bestek voor een uitgaventoetsing op de culturele bovenbouw voor de loop van de herfst 2022 tot einde 2023.",
             "date": "2022-07-15",
             "s3_filename_ingested": "ingestion/output/2022/07/62CEBDC58E6C4430A889897B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62CEBDC58E6C4430A889897B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Bestek%20uitgaventoetsing%20Culturele%20Bovenbouw&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z",
+            "source_title": "Bestek uitgaventoetsing Culturele Bovenbouw"
         },
         "57": {
             "s3_filename_clean": "clean/2023/06/2023-06-16-mededeling-648821642D77B42474D4CDB2.txt",
             "s3_clean_content": "Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget",
             "date": "2023-06-16",
             "s3_filename_ingested": "ingestion/output/2023/06/648821642D77B42474D4CDB2/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/648821642D77B42474D4CDB2"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereenvoudiging%20van%20de%20toeleidingsprocedure%20naar%20een%20persoonsvolgend%20budget&dateOption=select&startDate=2023-06-16T08%3A00%3A00Z&endDate=2023-06-16T08%3A00%3A00Z",
+            "source_title": "Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget"
         },
         "22": {
             "s3_filename_clean": "clean/2022/12/2022-12-09-nota-639048ACC2B90D4571CF7663.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: uitgaventoetsing \u2018Duurzaam watergebruik en de organisatie van het waterlandschap\u2019 Uitgaventoetsing water  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanci\u00ebn gedefinieerd als 'systematische, diepgaande en specifieke onderzoeken van uitgavencategorie\u00ebn met een substanti\u00eble budgettaire impact om bij constant beleid de doeltreffendheid of doelmatigheid van het beleid te verbeteren'. De Vlaamse Regering hecht nu haar goedkeuring aan de uitgaventoetsing \u2018Duurzaam watergebruik en de organisatie van het waterlandschap\u2019. Hierin wordt het jaarlijks vastleggingsbudget voor de rioleringssubsidies in de orde van 120 miljoen euro onder de loep genomen. Dit onderzoek moet toelaten om na te gaan of de beschikbare middelen effectiever en effici\u00ebnter ingezet kunnen worden, met oog voor zuinigheid en zorgvuldigheid.",
             "date": "2022-12-09",
             "s3_filename_ingested": "ingestion/output/2022/12/639048ACC2B90D4571CF7663/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/639048ACC2B90D4571CF7663"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20%E2%80%98Duurzaam%20watergebruik%20en%20de%20organisatie%20van%20het%20waterlandschap%E2%80%99&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: uitgaventoetsing \u2018Duurzaam watergebruik en de organisatie van het waterlandschap\u2019"
         },
         "60": {
             "s3_filename_clean": "clean/2021/12/2021-12-10-nota-61AF5E72364ED9000900063C.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet VIA-5 voor koopkrachtmaatregelen in de socio-culturele en de publieke sector Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2021  De Vlaamse Regering beslist tot herverdeling van een provisioneel krediet voor een totaal bedrag van 35,19 miljoen euro, voor koopkrachtmaatregelen in de socio-culturele en de publieke sector in het kader van het vijfde Vlaams Intersectoraal Akkoord (VIA-5) voor de socio-culturele sector en de publieke sector.",
             "date": "2021-12-10",
             "s3_filename_ingested": "ingestion/output/2021/12/61AF5E72364ED9000900063C/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF5E72364ED9000900063C"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20%20provisioneel%20krediet%20VIA-5%20voor%20koopkrachtmaatregelen%20in%20de%20socio-culturele%20en%20de%20publieke%20sector&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z",
+            "source_title": "Herverdeling  provisioneel krediet VIA-5 voor koopkrachtmaatregelen in de socio-culturele en de publieke sector"
         },
         "56": {
             "s3_filename_clean": "clean/2019/12/2019-12-20-nota-5DFBE869C8C33F00080001E7.txt",
             "s3_clean_content": "Monitoring begrotingsuitvoering: herverdeling provisie Ontwerpbesluit van de Vlaamse Regering houdende de herverdeling van begrotingsartikel CB0-1CBG2AB-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019  Naar aanleiding van gunstige monitoring van de begrotingsuitvoering beslist de Vlaamse Regering tot herverdeling van 95 miljoen euro vanuit de provisie bij Financi\u00ebn & Begroting.",
             "date": "2019-12-20",
             "s3_filename_ingested": "ingestion/output/2019/12/5DFBE869C8C33F00080001E7/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/44b1d810-492b-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Monitoring%20begrotingsuitvoering%3A%20herverdeling%20provisie%0A%0A&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z",
+            "source_title": "Monitoring begrotingsuitvoering: herverdeling provisie\n\n"
         },
         "14": {
             "s3_filename_clean": "clean/2019/10/2019-10-18-mededeling-e39d1440-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -83,56 +93,64 @@
             "s3_clean_content": "Instructies m.b.t. de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2022",
             "date": "2021-07-16",
             "s3_filename_ingested": "ingestion/output/2021/07/60ED429E364ED900080013A4/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED429E364ED900080013A4"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20m.b.t.%20de%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202022&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z",
+            "source_title": "Instructies m.b.t. de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2022"
         },
         "38": {
             "s3_filename_clean": "clean/2019/10/2019-10-18-nota-5DA974D05084E70008000166.txt",
             "s3_clean_content": "Programmadecreet begrotingsopmaak 2020 Voorontwerp van decreet houdende bepalingen tot begeleiding van de begroting 2020  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van decreet met  de bepalingen tot begeleiding van de aanpassing van de begroting 2019 en aan de bijhorende Memorie van Toelichting. Over dit voorontwerp van decreet wordt het advies ingewonnen van de SERV, de VLOR, de SAR WGG, de SARC, de VREG, de Vlaamse Woonraad, de Minaraad, de SARO, de MORA, de SALV, de VARIO en de Vlaamse Jeugdraad. Daarna gaat het voor advies naar de Raad van State. Het voorontwerp van decreet wordt ook voorgelegd aan de sociale partners.",
             "date": "2019-10-18",
             "s3_filename_ingested": "ingestion/output/2019/10/5DA974D05084E70008000166/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/412894d0-492c-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsopmaak%202020&dateOption=select&startDate=2019-10-18T08%3A00%3A00Z&endDate=2019-10-18T08%3A00%3A00Z",
+            "source_title": "Programmadecreet begrotingsopmaak 2020"
         },
         "54": {
             "s3_filename_clean": "clean/2020/10/2020-10-30-nota-5F9972A95B1AD200080003BB.txt",
             "s3_clean_content": "Vernieuwd werkingskader Dienstencentrum Boekhouding bij de Vlaamse overheid   De Vlaamse Regering keurt het vernieuwde werkingskader goed van het Dienstencentrum Boekhouding bij de diensten  van de Vlaamse overheid, waarbij nieuwe instappers een volledige dienstverlening afnemen. Ze keurt tegelijk het hernieuwde financieringskader goed voor de overdracht van koppen en middelen bij instap in het dienstencentrum Boekhouding en de uitbreiding van het personeelskader met 10 VTE, en de financiering van de Vlaanderen connectoren, investeringsenveloppe, kostprijs ISAE certificering en voorbereiding van een nieuw financieel systeem en de 10 extra VTE die wordt voorzien vanuit de algemene middelen.",
             "date": "2020-10-30",
             "s3_filename_ingested": "ingestion/output/2020/10/5F9972A95B1AD200080003BB/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/d43a8190-8a7a-11ec-b92e-970acd8c80b9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vernieuwd%20werkingskader%20Dienstencentrum%20Boekhouding%20bij%20de%20Vlaamse%20overheid&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z",
+            "source_title": "Vernieuwd werkingskader Dienstencentrum Boekhouding bij de Vlaamse overheid"
         },
         "6": {
             "s3_filename_clean": "clean/2022/06/2022-06-10-mededeling-629EFA9494D257C352465ECA.txt",
             "s3_clean_content": "Instructies met betrekking tot de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2023",
             "date": "2022-06-10",
             "s3_filename_ingested": "ingestion/output/2022/06/629EFA9494D257C352465ECA/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/629EFA9494D257C352465ECA"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20met%20betrekking%20tot%20de%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202023&dateOption=select&startDate=2022-06-10T08%3A00%3A00Z&endDate=2022-06-10T08%3A00%3A00Z",
+            "source_title": "Instructies met betrekking tot de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2023"
         },
         "7": {
             "s3_filename_clean": "clean/2021/05/2021-05-21-mededeling-60A67571364ED90008000470.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichtingen (BBT) naar aanleiding van de begrotingsuitvoering 2020",
             "date": "2021-05-21",
             "s3_filename_ingested": "ingestion/output/2021/05/60A67571364ED90008000470/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60A67571364ED90008000470"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichtingen%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202020&dateOption=select&startDate=2021-05-21T08%3A00%3A00Z&endDate=2021-05-21T08%3A00%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichtingen (BBT) naar aanleiding van de begrotingsuitvoering 2020"
         },
         "20": {
             "s3_filename_clean": "clean/2023/07/2023-07-14-nota-64AE70ED0592342F299DBA14.txt",
             "s3_clean_content": "Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie  Voor de werking en het streven naar een democratisch en bestuurskrachtig bestuur van de Vlaamse Gemeenschapscommissie zijn de mandatarissen cruciaal. Om hun rol ten volle te kunnen opnemen, is daarom kwalitatieve en gepaste financi\u00eble en beleidsinformatie nodig, en dus ook een correcte en transparante rapportering over het beleid en de financi\u00ebn van het bestuur. De Vlaamse Regering wil de transparantie, de leesbaarheid en de bruikbaarheid van de beleidsrapporten volgens de beleids- en beheerscyclus (BBC) voor de raadsleden van de Vlaamse Gemeenschapscommissie verhogen. Na adviezen van de SERV en de Raad van State wijzigt ze daarvoor definitief het besluit van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie. De wijzigingen zorgen voor ruimere mogelijkheden om kwalitatieve en vlot leesbare beleidsrapporten te presenteren aan de raadsleden, en versterken de werking van het bestuur.",
             "date": "2023-07-14",
             "s3_filename_ingested": "ingestion/output/2023/07/64AE70ED0592342F299DBA14/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE70ED0592342F299DBA14"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20Vlaamse%20Gemeenschapscommissie%20%28VGC%29%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z",
+            "source_title": "Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit"
         },
         "71": {
             "s3_filename_clean": "clean/2023/12/2023-12-22-nota-65815393E2E2C9E5814C1EEA.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet: ondersteuning leidinggevenden en teams in kader van vernieuwingen 5-sporenbeleid Ontwerpbesluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023  De Vlaamse Regering bouwt met het 5-sporenbeleid verder aan een modern, toekomstgericht en dynamisch HR-beleid om te evolueren naar dezelfde arbeidsvoorwaarden voor iedereen. Het 5-sporenbeleid zal een grote verandering betekenen voor de Vlaamse overheid , vooral voor leidinggevenden en hun teams. Om hen te ondersteunen hierbij werkte het Agentschap Overheidspersoneel (AgO) een voorstel uit. In dit kader beslist de Vlaamse Regering tot de herverdeling van 327.000 euro vanuit het provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023 naar de DAB Overheidspersoneel, voor het ondersteunen en versterken van leidinggevenden en hun teams in het kader van de vernieuwingen naar een modern HR-beleid.",
             "date": "2023-12-22",
             "s3_filename_ingested": "ingestion/output/2023/12/65815393E2E2C9E5814C1EEA/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65815393E2E2C9E5814C1EEA"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%3A%20ondersteuning%20leidinggevenden%20en%20teams%20in%20kader%20van%20vernieuwingen%205-sporenbeleid&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z",
+            "source_title": "Herverdeling provisioneel krediet: ondersteuning leidinggevenden en teams in kader van vernieuwingen 5-sporenbeleid"
         },
         "27": {
             "s3_filename_clean": "clean/2022/05/2022-05-20-nota-6284F4EF479218B0ED55BC35.txt",
             "s3_clean_content": "Wijzigingsdecreet Vlaamse Codex Overheidsfinanci\u00ebn (VCO) Ontwerpdecreet tot wijziging van de Vlaamse Codex Overheidsfinanci\u00ebn van 29 maart 2019  \u200bNa advies van de Raad van State  wijzigt  de Vlaamse Regering definitief de Vlaamse Codex Overheidsfinanci\u00ebn (VCO). Het ontwerp van wijzigingsdecreet bundelt   praktische verbeteringen en verduidelijkingen die ontdekt werden bij de decreetevaluatie van de VCO. Daarmee is het de bedoeling om inconsistenties, onduidelijkheden en hiaten in het huidig juridisch kader weg te werken, de wetgeving eenduidiger te formuleren en aanpassingen te doen in functie van beslist beleid. Het decreet geeft ook uitvoering aan de conceptnota 'subsidies in goede banen'. Het ontwerp van wijzigingsdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2022-05-20",
             "s3_filename_ingested": "ingestion/output/2022/05/6284F4EF479218B0ED55BC35/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6284F4EF479218B0ED55BC35"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z",
+            "source_title": "Wijzigingsdecreet Vlaamse Codex Overheidsfinanci\u00ebn (VCO)"
         },
         "48": {
             "s3_filename_clean": "clean/2020/04/2020-04-24-mededeling-e374f2d0-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -145,77 +163,88 @@
             "s3_clean_content": "Begrotingscontrole 2020: ontwerp programmadecreet bij de aanpassing van de begroting 2020 Voorontwerp van programmadecreet bij de aanpassing van de begroting 2020  Na adviezen van de Raad van State en van diverse Strategische Adviesraden hecht de Vlaamse Regering haar definitieve goedkeuring aan het ontwerp van programmadecreet bij  de aanpassing van de begroting 2020 en aan de bijhorende Memorie van Toelichting. Dit ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2020-05-04",
             "s3_filename_ingested": "ingestion/output/2020/05/5EAFE0ED720F380008000281/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/b3e5ee80-4929-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Begrotingscontrole%202020%3A%20ontwerp%20programmadecreet%20bij%20de%20aanpassing%20van%20de%20begroting%202020&dateOption=select&startDate=2020-05-04T09%3A00%3A00Z&endDate=2020-05-04T09%3A00%3A00Z",
+            "source_title": "Begrotingscontrole 2020: ontwerp programmadecreet bij de aanpassing van de begroting 2020"
         },
         "0": {
             "s3_filename_clean": "clean/2023/01/2023-01-13-mededeling-63BD1B3AD6588B87B5E5CC01.txt",
             "s3_clean_content": "Instructies opmaak beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022",
             "date": "2023-01-13",
             "s3_filename_ingested": "ingestion/output/2023/01/63BD1B3AD6588B87B5E5CC01/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63BD1B3AD6588B87B5E5CC01"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202022&dateOption=select&startDate=2023-01-13T09%3A00%3A00Z&endDate=2023-01-13T09%3A00%3A00Z",
+            "source_title": "Instructies opmaak beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022"
         },
         "41": {
             "s3_filename_clean": "clean/2023/04/2023-04-21-nota-643F950CCA1CB15B58CF46BE.txt",
             "s3_clean_content": "Ontwerpdecreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen Ontwerpdecreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen  Na advies van de Gegevensbeschermingsautoriteit en van de Raad van State, hecht de Vlaamse Regering haar definitieve goedkeuring aan het ontwerpdecreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen. Het decreet aligneert de werkingen van de digitale kernorganisaties meemoo, publiq en Cultuurconnect op elkaar, op de digitale strategie van Vlaanderen en op de beleidscyclus van de Vlaamse Regering. Met de kernorganisaties zullen op basis van meerjarenplannen beheersovereenkomsten afgesloten worden voor vijf jaar. Deze periode wordt ingekort tot twee jaar voor de eerste meerjarenplannen en beheersovereenkomsten (2024-2025). Deze beheersovereenkomsten omvatten twee luiken: een vast gedeelte met de voortzetting van de bestaande dienstverlening, zowel binnen de cultuursector als voor andere beleidsvelden; en een variabel gedeelte met nieuwe basisinfrastructuur en dienstverlening door middel van ontwikkelingsprojecten. Het Departement Cultuur, Jeugd en Media staat in voor de opvolging van de beheersovereenkomsten. Dit ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2023-04-21",
             "s3_filename_ingested": "ingestion/output/2023/04/643F950CCA1CB15B58CF46BE/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/643F950CCA1CB15B58CF46BE"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerpdecreet%20tot%20structurele%20subsidi%C3%ABring%20van%20kernorganisaties%20om%20de%20digitale%20transformatie%20van%20de%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z",
+            "source_title": "Ontwerpdecreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen"
         },
         "49": {
             "s3_filename_clean": "clean/2022/12/2022-12-16-nota-63985439C2B90D4571CF8A0F.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet VIA-5 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2022  In uitvoering van het Vijfde Vlaams Intersectoraal Akkoord voor de social/nonprofitsectoren beslist de Vlaamse Regering tot herverdeling van 36,6 miljoen euro , voor de financiering van de koopkrachtmaatregelen in de socio-culturele en de publieke sector.",
             "date": "2022-12-16",
             "s3_filename_ingested": "ingestion/output/2022/12/63985439C2B90D4571CF8A0F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63985439C2B90D4571CF8A0F"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA-5&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z",
+            "source_title": "Herverdeling provisioneel krediet VIA-5"
         },
         "17": {
             "s3_filename_clean": "clean/2023/05/2023-05-12-nota-645B7B488E8235823F6B7530.txt",
             "s3_clean_content": "Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen  Voor de werking van de lokale autonomie en het streven naar democratische en bestuurskrachtige lokale besturen zijn de lokale mandatarissen een cruciale schakel. Om hun rol ten volle te kunnen opnemen, is daarom kwalitatieve en gepaste financi\u00eble en beleidsinformatie nodig, en dus ook een correcte en transparante rapportering over het beleid en de lokale financi\u00ebn. De Vlaamse Regering wil de transparantie, de leesbaarheid en de bruikbaarheid van de beleidsrapporten volgens de beleids- en beheerscyclus (BBC) voor de raadsleden verder verhogen. Ze wijzigt daarvoor principieel het besluit van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en provinciale besturen. De wijzigingen zorgen voor ruimere mogelijkheden om kwalitatieve en vlot leesbare beleidsrapporten te presenteren aan de raadsleden, en versterken de werking van de lokale en provinciale raden. Over dit wijzigingsbesluit wordt het advies ingewonnen van de VVSG, van de Vereniging van de Vlaamse Provincies en daarna van de Raad van State.",
             "date": "2023-05-12",
             "s3_filename_ingested": "ingestion/output/2023/05/645B7B488E8235823F6B7530/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/645B7B488E8235823F6B7530"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20lokale%20en%20provinciale%20besturen%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z",
+            "source_title": "Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit"
         },
         "11": {
             "s3_filename_clean": "clean/2023/05/2023-05-12-mededeling-645CB5528E8235823F6B75F9.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022",
             "date": "2023-05-12",
             "s3_filename_ingested": "ingestion/output/2023/05/645CB5528E8235823F6B75F9/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/645CB5528E8235823F6B75F9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202022&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022"
         },
         "25": {
             "s3_filename_clean": "clean/2022/02/2022-02-18-nota-620D1ED5D5F0FAFA87AFB022.txt",
             "s3_clean_content": "Vlaamse Codex Overheidsfinanci\u00ebn (VCO) Voorontwerp van decreet tot wijziging van de Vlaamse Codex Overheidsfinanci\u00ebn van 29 maart 2019  \u200bDe Vlaamse Regering  wijzigt principieel de Vlaamse Codex Overheidsfinanci\u00ebn (VCO). Het voorontwerp van wijzigingsdecreet bundelt praktische verbeteringen en verduidelijkingen die ontdekt werden bij de decreetevaluatie van de VCO. Daarmee is het de bedoeling om inconsistenties, onduidelijkheden en hiaten in het huidig juridisch kader weg te werken, de wetgeving eenduidiger te formuleren en aanpassingen te doen in functie van beslist beleid. Het decreet geeft ook uitvoering aan de conceptnota 'subsidies in goede banen'. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de SERV en daarna van de Raad van State.",
             "date": "2022-02-18",
             "s3_filename_ingested": "ingestion/output/2022/02/620D1ED5D5F0FAFA87AFB022/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/620D1ED5D5F0FAFA87AFB022"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-02-18T09%3A00%3A00Z&endDate=2022-02-18T09%3A00%3A00Z",
+            "source_title": "Vlaamse Codex Overheidsfinanci\u00ebn (VCO)"
         },
         "62": {
             "s3_filename_clean": "clean/2022/09/2022-09-09-nota-63185D0B9531BD6B9732C5FC.txt",
             "s3_clean_content": "Delegatieregeling beslissingsbevoegdheid Vlaamse Codex Overheidsfinanci\u00ebn: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering en het Besluit Vlaamse Codex Overheidsfinanci\u00ebn van 17 mei 2019  De  Vlaamse Codex Overheidsfinanci\u00ebn  van 29 maart 2019 (VCO) en het  Besluit Vlaamse Codex Overheidsfinanci\u00ebn van 17 mei 2019 (BVCO) traden in werking op 1 januari 2020. Bij de decreetsevaluatie van de VCO werden  een aantal praktische verbeter- en verduidelijkingsopportuniteiten gedetecteerd. De Vlaamse Regering keurt daarom nu, na advies van de SERV, opnieuw principieel een besluit goed dat deze praktische verbeter- en verduidelijkingsopportuniteiten ook verder vertaalt en uitvoert door een wijziging van het BVCO. Bedoeling is om  inconsistenties, onduidelijkheden en hiaten in het huidig juridisch kader weg te werken , de wetgeving eenduidiger te formuleren en aanpassingen te doen in functie van beslist beleid. Over dit wijzigingsbesluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2022-09-09",
             "s3_filename_ingested": "ingestion/output/2022/09/63185D0B9531BD6B9732C5FC/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63185D0B9531BD6B9732C5FC"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Delegatieregeling%20beslissingsbevoegdheid%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-09-09T08%3A00%3A00Z&endDate=2022-09-09T08%3A00%3A00Z",
+            "source_title": "Delegatieregeling beslissingsbevoegdheid Vlaamse Codex Overheidsfinanci\u00ebn: wijzigingsbesluit"
         },
         "37": {
             "s3_filename_clean": "clean/2019/11/2019-11-08-nota-5DB1B76B5084E70008000366.txt",
             "s3_clean_content": "Programmadecreet begrotingsaanpassing 2019 Voorontwerp van decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2019  Na advies van de SERV, de VARIO, de VLOR en de Raad van State hecht de Vlaamse Regering haar definitieve goedkeuring aan het  ontwerpdecreet met  de bepalingen tot begeleiding van de aanpassing van de begroting 2019 en aan de bijhorende Memorie van Toelichting. Dit ontwerpdecreet wordt ingediend bij het Vlaams Parlement.",
             "date": "2019-11-08",
             "s3_filename_ingested": "ingestion/output/2019/11/5DB1B76B5084E70008000366/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/0f002860-492c-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsaanpassing%202019&dateOption=select&startDate=2019-11-08T09%3A00%3A00Z&endDate=2019-11-08T09%3A00%3A00Z",
+            "source_title": "Programmadecreet begrotingsaanpassing 2019"
         },
         "3": {
             "s3_filename_clean": "clean/2022/05/2022-05-20-mededeling-62865D0500408C01F2054576.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2021",
             "date": "2022-05-20",
             "s3_filename_ingested": "ingestion/output/2022/05/62865D0500408C01F2054576/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62865D0500408C01F2054576"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202021&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2021"
         },
         "52": {
             "s3_filename_clean": "clean/2023/09/2023-09-08-nota-64F82D6E3605E1AC863BE454.txt",
             "s3_clean_content": "Uitvoering decreet subsidi\u00ebring kernorganisaties om digitale transformatie cultuursector aan te sturen Ontwerpbesluit van de Vlaamse Regering tot uitvoering van het decreet van 23 juni 2023 tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen  Het decreet over de structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen, aligneert de werkingen van meemoo, publiq en Cultuurconnect op elkaar, op de digitale strategie van Vlaanderen en op de beleidscyclus van de Vlaamse Regering om het programma Digitale Transformatie vorm te geven. Het is de bedoeling om op basis van meerjarenplannen beheersovereenkomsten af te sluiten met de kernorganisaties meemoo, publiq en Cultuurconnect. De Vlaamse Regering keurt in dit kader, en na adviezen van  de SARC, van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens (VTC), van de Gegevensbeschermingsautoriteit (GBA) en van de Raad van State, definitief het uitvoeringsbesluit bij dit decreet goed.",
             "date": "2023-09-08",
             "s3_filename_ingested": "ingestion/output/2023/09/64F82D6E3605E1AC863BE454/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64F82D6E3605E1AC863BE454"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoering%20decreet%20subsidi%C3%ABring%20kernorganisaties%20om%20digitale%20transformatie%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-09-08T08%3A00%3A00Z&endDate=2023-09-08T08%3A00%3A00Z",
+            "source_title": "Uitvoering decreet subsidi\u00ebring kernorganisaties om digitale transformatie cultuursector aan te sturen"
         },
         "12": {
             "s3_filename_clean": "clean/2020/05/2020-05-04-mededeling-e33ec7a0-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -228,70 +257,80 @@
             "s3_clean_content": "Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer Uitgaventoetsing Modal Shift Goederenvervoer  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanci\u00ebn gedefinieerd als 'systematische, diepgaande en specifieke onderzoeken van uitgavencategorie\u00ebn met een substanti\u00eble budgettaire impact om bij constant beleid de doeltreffendheid of doelmatigheid van het beleid te verbeteren'. De Vlaamse Regering hecht nu haar goedkeuring aan het plan van aanpak in het kader van de uitgaventoetsing Modal Shift Goederenvervoer.",
             "date": "2022-12-16",
             "s3_filename_ingested": "ingestion/output/2022/12/639847DDC2B90D4571CF89CE/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/639847DDC2B90D4571CF89CE"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Modal%20Shift%20Goederenvervoer&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer"
         },
         "58": {
             "s3_filename_clean": "clean/2022/10/2022-10-07-nota-633D3378EB2A31D34EEC5FEC.txt",
             "s3_clean_content": "Kredietherschikking energie-effici\u00ebntiemaatregelen Ontwerpbesluit van de Vlaamse Regering houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0-1CBX2AC-PR van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022  De Vlaamse Regering  herschikt 2,39 miljoen euro vastleggingskrediet en 2,43 miljoen euro vereffeningskrediet vanuit de provisie bij Financi\u00ebn & Begroting voor de implementatie van energie-effici\u00ebntiemaatregelen voor de eigen gebouwen en technische installaties.",
             "date": "2022-10-07",
             "s3_filename_ingested": "ingestion/output/2022/10/633D3378EB2A31D34EEC5FEC/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633D3378EB2A31D34EEC5FEC"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Kredietherschikking%20energie-effici%C3%ABntiemaatregelen&dateOption=select&startDate=2022-10-07T08%3A00%3A00Z&endDate=2022-10-07T08%3A00%3A00Z",
+            "source_title": "Kredietherschikking energie-effici\u00ebntiemaatregelen"
         },
         "19": {
             "s3_filename_clean": "clean/2023/05/2023-05-12-nota-645A508D8E8235823F6B744B.txt",
             "s3_clean_content": "Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie  Voor de werking en het streven naar een democratisch en bestuurskrachtig bestuur van de Vlaamse Gemeenschapscommissie zijn de mandatarissen cruciaal. Om hun rol ten volle te kunnen opnemen, is daarom kwalitatieve en gepaste financi\u00eble en beleidsinformatie nodig, en dus ook een correcte en transparante rapportering over het beleid en de financi\u00ebn van het bestuur. De Vlaamse Regering wil de transparantie, de leesbaarheid en de bruikbaarheid van de beleidsrapporten volgens de beleids- en beheerscyclus (BBC) voor de raadsleden van de Vlaamse Gemeenschapscommissie verhogen. Ze wijzigt daarvoor principieel het besluit van 4 december 2020 over de beleids- en beheerscyclus van de Vlaamse Gemeenschapscommissie. De wijzigingen zorgen voor ruimere mogelijkheden om kwalitatieve en vlot leesbare beleidsrapporten te presenteren aan de raadsleden, en versterken de werking van het bestuur. Over dit wijzigingsbesluit wordt het advies ingewonnen van de SERV en daarna van de Raad van State.",
             "date": "2023-05-12",
             "s3_filename_ingested": "ingestion/output/2023/05/645A508D8E8235823F6B744B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/645A508D8E8235823F6B744B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20Vlaamse%20Gemeenschapscommissie%20%28VGC%29%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z",
+            "source_title": "Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit"
         },
         "23": {
             "s3_filename_clean": "clean/2022/12/2022-12-16-nota-639C2083C2B90D4571CF90B2.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming Uitgaventoetsing Vlaamse sociale bescherming  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanci\u00ebn gedefinieerd als 'systematische, diepgaande en specifieke onderzoeken van uitgavencategorie\u00ebn met een substanti\u00eble budgettaire impact om bij constant beleid de doeltreffendheid of doelmatigheid van het beleid te verbeteren'. De Vlaamse Regering hecht nu haar goedkeuring aan de Uitgaventoetsing Vlaamse sociale bescherming. In het domein van de Vlaamse sociale bescherming worden 2 pijlers naar voren geschoven: de zorgbudgetten en de mobiliteitshulpmiddelen.",
             "date": "2022-12-16",
             "s3_filename_ingested": "ingestion/output/2022/12/639C2083C2B90D4571CF90B2/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/639C2083C2B90D4571CF90B2"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Vlaamse%20sociale%20bescherming&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming"
         },
         "40": {
             "s3_filename_clean": "clean/2023/10/2023-10-27-nota-653B5EC99DAB6626D11E5808.txt",
             "s3_clean_content": "Ontwerp van Programmadecreet begrotingsopmaak 2024 Ontwerp van programmadecreet 2024  Na onderhandelingen en na adviezen van de SERV, de VLOR, de SAR WVG, de SARC, de SALV, de MORA, de Minaraad, de SARO en de Raad van State, hecht de Vlaamse Regering haar definitieve goedkeuring aan het ontwerp van Programmadecreet met bepalingen tot begeleiding van de begrotingsopmaak 2024. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2023-10-27",
             "s3_filename_ingested": "ingestion/output/2023/10/653B5EC99DAB6626D11E5808/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/653B5EC99DAB6626D11E5808"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerp%20van%20Programmadecreet%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z",
+            "source_title": "Ontwerp van Programmadecreet begrotingsopmaak 2024"
         },
         "63": {
             "s3_filename_clean": "clean/2020/07/2020-07-17-nota-5F109E30FA87E000080009F5.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet VIA-5 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2020  De Vlaamse Regering beslist tot herverdeling van kredieten  voor de koopkrachtmaatregelen in de private sector en de tweede pensioenpijler in uitvoering van het vijfde Vlaams Instersectoraal Akkoord 2018 voor de social/non-profitsectoren 2018-2020.",
             "date": "2020-07-17",
             "s3_filename_ingested": "ingestion/output/2020/07/5F109E30FA87E000080009F5/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/da8479f0-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA-5&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z",
+            "source_title": "Herverdeling provisioneel krediet VIA-5"
         },
         "68": {
             "s3_filename_clean": "clean/2021/03/2021-03-19-nota-605459A133914000080002F0.txt",
             "s3_clean_content": "Kredietherschikking relanceprovisie Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021  De Vlaamse Regering beslist tot het herschikken van 75 miljoen euro vastleggingskrediet en 18 miljoen euro vereffeningskrediet vanuit de relanceprovisie, voor het financieren van uitgaven door de verschillende beleidsdomeinen die kaderen binnen het relanceplan Vlaamse Veerkracht.",
             "date": "2021-03-19",
             "s3_filename_ingested": "ingestion/output/2021/03/605459A133914000080002F0/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/8d802a80-4924-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Kredietherschikking%20relanceprovisie&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z",
+            "source_title": "Kredietherschikking relanceprovisie"
         },
         "29": {
             "s3_filename_clean": "clean/2021/10/2021-10-14-nota-61681E1C364ED900090004DD.txt",
             "s3_clean_content": "Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2022  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van Programmadecreet met de bepalingen tot begeleiding van de begroting 2022. Over dit voorontwerp van Programmadecreet wordt het spoedadvies ingewonnen van de SERV, de VLOR, de Vlaamse Raad WVG, de SAR CJSM, de SALV, de MORA, de Minaraad en de SARO. Daarna gaat het voor advies naar de Raad van State. Het wordt ook voorgelegd voor onderhandelingen met de sociale partners.",
             "date": "2021-10-14",
             "s3_filename_ingested": "ingestion/output/2021/10/61681E1C364ED900090004DD/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61681E1C364ED900090004DD"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begroting%202022&dateOption=select&startDate=2021-10-14T12%3A00%3A00Z&endDate=2021-10-14T12%3A00%3A00Z",
+            "source_title": "Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022"
         },
         "66": {
             "s3_filename_clean": "clean/2023/02/2023-02-10-nota-63E375732E929B312AB5D0C0.txt",
             "s3_clean_content": "Nota aan het Overlegcomit\u00e9: 'De opmaak van een samenwerkingsakkoord voor de oprichting van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen'   Zowel de Vlaamse als de federale regering zijn bezig met het uitwerken van regelgeving voor de integriteitsbeoordeling door openbare besturen en de oprichting van een Dienst integriteitsbeoordeling voor Openbare besturen (DIOB). Omwille van de bevoegdheidsverdeling is het afsluiten van een samenwerkingsakkoord de beste manier om een omvattende regeling over deze integriteitsbeoordelingen uit te werken. \u200bDe Vlaamse Regering keurt daarom de nota voor het Overlegcomit\u00e9 goed , waarbij de minister van Binnenlandse Zaken, Institutionele Hervormingen en Democratische Vernieuwing verzocht wordt om gesprekken op te starten met de deelstaten met het oog op het uitwerken van een samenwerkingsakkoord rond het instellen van een bestuurlijk integriteitsonderzoek en het oprichten van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen. Dat samenwerkingsakkoord omvat ook een regeling rond de informatiedeling. De nota wordt geagendeerd op het eerstvolgende Overlegcomit\u00e9.",
             "date": "2023-02-10",
             "s3_filename_ingested": "ingestion/output/2023/02/63E375732E929B312AB5D0C0/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/63E375732E929B312AB5D0C0"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Nota%20aan%20het%20Overlegcomit%C3%A9%3A%20%27De%20opmaak%20van%20een%20samenwerkingsakkoord%20voor%20de%20oprichting%20van%20een%20interfederale%20Dienst%20Integriteitsbeoordeling%20voor%20Openbare%20Besturen%27&dateOption=select&startDate=2023-02-10T09%3A00%3A00Z&endDate=2023-02-10T09%3A00%3A00Z",
+            "source_title": "Nota aan het Overlegcomit\u00e9: 'De opmaak van een samenwerkingsakkoord voor de oprichting van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen'"
         },
         "67": {
             "s3_filename_clean": "clean/2023/11/2023-11-17-nota-655386E48265E66451D4C9DD.txt",
             "s3_clean_content": "Programmadecreet 2024: regeringsamendement onderwijs en vorming Ontwerp van amendement bij het decreet houdende bepalingen tot begeleiding van de begrotingsopmaak 2024  Na advies van de Raad van State keurt de Vlaamse Regering definitief het regeringsamendement goed bij het decreet met bepalingen tot begeleiding van de begrotingsopmaak 2024, over de bijzondere maatregelen in het kader van de capaciteitsproblematiek in het onderwijs. De maatregel voorziet financi\u00eble steun in het lopende schooljaar voor scholen en centra voor deeltijds onderwijs die bijkomende plaatsen cre\u00ebren in de B-stroom van de eerste graad of in het beroepssecundair onderwijs. Het aantal leerlingen in de B-stroom en het beroepssecundair onderwijs zit in stijgende lijn, waarbij de verwachting is dat de leerlingenaantallen in deze structuuronderdelen ook de komende jaren blijven toenemen. De maatregel moet het organiseren van deze structuuronderdelen daarom faciliteren. Scholen ontvangen hiervoor een extra werkingsbudget, dat eveneens kan ingezet worden voor het aanstellen van personeel. Daarnaast kan de Vlaamse Regering een beheersovereenkomst met een looptijd van vijf jaar afsluiten met een via een oproep te selecteren partner voor de monitoring en de bevordering van het welbevinden van de studenten. Het ontwerp van regeringsamendement wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2023-11-17",
             "s3_filename_ingested": "ingestion/output/2023/11/655386E48265E66451D4C9DD/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/655386E48265E66451D4C9DD"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%202024%3A%20regeringsamendement%20onderwijs%20en%20vorming&dateOption=select&startDate=2023-11-17T09%3A00%3A00Z&endDate=2023-11-17T09%3A00%3A00Z",
+            "source_title": "Programmadecreet 2024: regeringsamendement onderwijs en vorming"
         },
         "46": {
             "s3_filename_clean": "clean/2020/04/2020-04-03-mededeling-e5384db0-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -304,133 +343,152 @@
             "s3_clean_content": "Delegatieregeling Vlaamse Codex Overheidsfinanci\u00ebn Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse Regering en het Besluit Vlaamse Codex Overheidsfinanci\u00ebn van 17 mei 2019  De  Vlaamse Codex Overheidsfinanci\u00ebn  van 29 maart 2019 (VCO) en het  Besluit Vlaamse Codex Overheidsfinanci\u00ebn van 17 mei 2019 (BVCO) traden in werking op 1 januari 2020. Bij de decreetsevaluatie van de VCO werden  een aantal praktische verbeter- en verduidelijkingsopportuniteiten gedetecteerd. De Vlaamse Regering keurt daarom nu principieel een besluit goed dat deze praktische verbeter- en verduidelijkingsopportuniteiten ook verder vertaalt en uitvoert door een wijziging van het BVCO. Hierbij is net zoals bij de wijziging van VCO de betrachting om  inconsistenties, onduidelijkheden en hiaten in het huidig juridisch kader weg te werken , de wetgeving eenduidiger te formuleren en aanpassingen te doen in functie van beslist beleid. Over dit wijzigingsbesluit wordt het advies ingewonnen van de SERV en daarna van de Raad van State.",
             "date": "2022-07-15",
             "s3_filename_ingested": "ingestion/output/2022/07/62CD3D518E6C4430A88987E7/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD3D518E6C4430A88987E7"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Delegatieregeling%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z",
+            "source_title": "Delegatieregeling Vlaamse Codex Overheidsfinanci\u00ebn"
         },
         "5": {
             "s3_filename_clean": "clean/2021/01/2021-01-29-mededeling-600FD2046B34EF0009000197.txt",
             "s3_clean_content": "Instructies opmaak Beleids- en Begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2020",
             "date": "2021-01-29",
             "s3_filename_ingested": "ingestion/output/2021/01/600FD2046B34EF0009000197/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/43b6e500-4925-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20Beleids-%20en%20Begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202020&dateOption=select&startDate=2021-01-29T09%3A00%3A00Z&endDate=2021-01-29T09%3A00%3A00Z",
+            "source_title": "Instructies opmaak Beleids- en Begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2020"
         },
         "10": {
             "s3_filename_clean": "clean/2021/10/2021-10-28-mededeling-617A41FD364ED90008000679.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2022",
             "date": "2021-10-28",
             "s3_filename_ingested": "ingestion/output/2021/10/617A41FD364ED90008000679/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/617A41FD364ED90008000679"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202022&dateOption=select&startDate=2021-10-28T09%3A15%3A00Z&endDate=2021-10-28T09%3A15%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2022"
         },
         "45": {
             "s3_filename_clean": "clean/2023/02/2023-02-03-nota-63D922AC2E929B312AB5C567.txt",
             "s3_clean_content": "Voorontwerp van decreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen Voorontwerp van decreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van decreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen. Het decreet aligneert de werkingen van de digitale kernorganisaties meemoo, publiq en Cultuurconnect op elkaar, op de digitale strategie van Vlaanderen en op de beleidscyclus van de Vlaamse Regering. Met de kernorganisaties zullen op basis van meerjarenplannen beheersovereenkomsten afgesloten worden voor vijf jaar. Deze periode wordt ingekort tot twee jaar voor de eerste meerjarenplannen en beheersovereenkomsten (2024-2025). Deze beheersovereenkomsten omvatten twee luiken: een vast gedeelte met de voortzetting van de bestaande dienstverlening, zowel binnen de cultuursector als voor andere beleidsvelden; en een variabel gedeelte met nieuwe basisinfrastructuur en dienstverlening door middel van ontwikkelingsprojecten. Het Departement Cultuur, Jeugd en Media staat in voor de opvolging van de beheersovereenkomsten. Over dit voorontwerp van decreet wordt het advies ingewonnen van de Raad van State.",
             "date": "2023-02-03",
             "s3_filename_ingested": "ingestion/output/2023/02/63D922AC2E929B312AB5C567/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/63D922AC2E929B312AB5C567"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20decreet%20tot%20structurele%20subsidi%C3%ABring%20van%20kernorganisaties%20om%20de%20digitale%20transformatie%20van%20de%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z",
+            "source_title": "Voorontwerp van decreet tot structurele subsidi\u00ebring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen"
         },
         "36": {
             "s3_filename_clean": "clean/2023/12/2023-12-22-nota-658153A4E2E2C9E5814C1EEB.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet: communicatiestrategie voor het 5-sporenbeleid Ontwerpbesluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023  De Vlaamse Regering bouwt met het 5-sporenbeleid verder aan een modern, toekomstgericht en dynamisch HR-beleid om te evolueren naar dezelfde arbeidsvoorwaarden voor iedereen. De implementatie van het 5-sporenbeleid vraagt een uitgebreide verander- en communicatiestrategie , om zowel belanghebbenden, ambassadeurs als de verschillende doelgroepen binnen de Vlaamse overheid te informeren, te enthousiasmeren en te activeren. De Vlaamse Regering beslist daarom tot de herverdeling van 160.000 euro voor het begrotingsjaar 2023 naar de DAB Overheidspersoneel, voor de opmaak, uitvoering en bijsturing van de communicatiestrategie van het 5-sporenbeleid tot aan de implementatiedatum.",
             "date": "2023-12-22",
             "s3_filename_ingested": "ingestion/output/2023/12/658153A4E2E2C9E5814C1EEB/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/658153A4E2E2C9E5814C1EEB"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%3A%20communicatiestrategie%20voor%20het%205-sporenbeleid&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z",
+            "source_title": "Herverdeling provisioneel krediet: communicatiestrategie voor het 5-sporenbeleid"
         },
         "51": {
             "s3_filename_clean": "clean/2021/10/2021-10-22-nota-616E79DD364ED900080001F3.txt",
             "s3_clean_content": "Geactualiseerd meerjarenplan verdeling provinciale investeringsmiddelen 2018-2024   De Vlaamse Regering keurt het  geactualiseerde meerjarenplan 2018-2024 goed, dat de verdeling omvat van de overgedragen provinciale investeringsmiddelen. Het plan geeft een overzicht van de re\u00eble investeringsnoden met betrekking tot de 14 voormalige provinciale (culturele) infrastructuren die zijn overgedragen naar een lokaal bestuur of naar de Vlaamse overheid in het kader van het decreet over de vernieuwde taakstelling en gewijzigde financiering van de provincies. Het meerjarenplan wordt jaarlijks geactualiseerd en opnieuw voorgelegd aan de Vlaamse Regering. Deze actualisering stelt een afwijking van de oorspronkelijk voorziene besteding voor. Het totaal van de investeringen blijft ongewijzigd.",
             "date": "2021-10-22",
             "s3_filename_ingested": "ingestion/output/2021/10/616E79DD364ED900080001F3/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/616E79DD364ED900080001F3"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Geactualiseerd%20meerjarenplan%20verdeling%20provinciale%20investeringsmiddelen%202018-2024&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z",
+            "source_title": "Geactualiseerd meerjarenplan verdeling provinciale investeringsmiddelen 2018-2024"
         },
         "69": {
             "s3_filename_clean": "clean/2021/04/2021-04-30-nota-608913F6364ED900080009E9.txt",
             "s3_clean_content": "Terugbetaalbare voorschotten als modaliteit voor innovatie- en economische ondersteuning: aanpassing steunbesluiten VLAIO Ontwerpbesluit van de Vlaamse Regering tot wijziging van besluiten van de Vlaamse Regering over strategische ecologiesteun, strategische transformatiesteun, steun O&O; met kennisintensief karakter, innovatie-steun en steun samenwerkingsverband, wat betreft de terugbetaalbare voorschotten  De financi\u00eble steunverstrekking aan ondernemingen vanuit het Vlaams   Agentschap Innoveren & Ondernemen (VLAIO) gebeurt nu quasi uitsluitend via subsidies. Het gebruik van steun in de vorm van terugbetaalbare voorschotten moet volgens de Europese regelgeving worden bevorderd, omdat dit soort risicodelende instrumenten aanzienlijk bijdraagt tot het versterkte stimulerende effect van steun. Na adviezen van de SERV en van de Raad van State beslist de Vlaamse Regering daarom definitief haar  steunbesluiten aan te passen   zodat  het gebruik van terugbetaalbare voorschotten als modaliteit voor innovatie- en economische ondersteuning in het VLAIO- instrumentarium mogelijk wordt.",
             "date": "2021-04-30",
             "s3_filename_ingested": "ingestion/output/2021/04/608913F6364ED900080009E9/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/608913F6364ED900080009E9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Terugbetaalbare%20voorschotten%20als%20modaliteit%20voor%20innovatie-%20en%20economische%20ondersteuning%3A%20aanpassing%20steunbesluiten%20VLAIO&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z",
+            "source_title": "Terugbetaalbare voorschotten als modaliteit voor innovatie- en economische ondersteuning: aanpassing steunbesluiten VLAIO"
         },
         "15": {
             "s3_filename_clean": "clean/2022/01/2022-01-14-mededeling-61DD477E364ED9000800098D.txt",
             "s3_clean_content": "Instructies opmaak beleids- en begrotingstoelichting naar aanleiding van de begrotingsuitvoering 2021",
             "date": "2022-01-14",
             "s3_filename_ingested": "ingestion/output/2022/01/61DD477E364ED9000800098D/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61DD477E364ED9000800098D"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20beleids-%20en%20begrotingstoelichting%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202021&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z",
+            "source_title": "Instructies opmaak beleids- en begrotingstoelichting naar aanleiding van de begrotingsuitvoering 2021"
         },
         "2": {
             "s3_filename_clean": "clean/2023/10/2023-10-27-mededeling-653A30509DAB6626D11E55CE.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2024",
             "date": "2023-10-27",
             "s3_filename_ingested": "ingestion/output/2023/10/653A30509DAB6626D11E55CE/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/653A30509DAB6626D11E55CE"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2024"
         },
         "32": {
             "s3_filename_clean": "clean/2023/04/2023-04-21-nota-64423445CA1CB15B58CF4921.txt",
             "s3_clean_content": "Voorontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van programmadecreet met de bepalingen tot begeleiding van de begrotingsaanpassing 2023. Over dit voorontwerp van programmadecreet wordt nu het advies ingewonnen van de Sociaal Economische Raad van Vlaanderen, de Vlaamse Onderwijsraad, de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media, de Strategische Adviesraad Landbouw en Visserij, de Mobiliteitsraad, de Milieu- en Natuurraad, de Strategische Adviesraad voor Ruimtelijke Ordening en Onroerend Erfgoed, en daarna de Raad van State. Het wordt ook geagendeerd voor onderhandelingen in de betrokken Overlegcomit\u00e9s.",
             "date": "2023-04-21",
             "s3_filename_ingested": "ingestion/output/2023/04/64423445CA1CB15B58CF4921/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64423445CA1CB15B58CF4921"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begrotingsaanpassing%202023&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z",
+            "source_title": "Voorontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023"
         },
         "24": {
             "s3_filename_clean": "clean/2022/11/2022-11-18-nota-6377A78534B8770AF8FDEDF9.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Onderzoek optimalisering organisatiestructuur Vlaamse overheid Vlaamse Brede Heroverweging / Spending review: organisatiestructuur van de Vlaamse overheid Uitvoeren van een onderzoek en formuleren van concrete aanbevelingen voor een optimalisering van de organisatiestructuur van de Vlaamse overheid Bestek nr. 2022016  De Vlaamse Regering beslist haar goedkeuring te geven aan het ontwerpbestek voor een uitgaventoetsing rond de optimalisering van de organisatiestructuur van de Vlaamse overheid. Ze keurt meteen ook de bekendmaking van de overheidsopdracht goed. De uitgaventoetsing zal meer specifiek ingaan op het cre\u00ebren van meer consistentie in activiteiten en/of rechtsvormen; en op een uitbreiding van de gemeenschappelijke dienstverlening (op vlak van HR, financi\u00ebn, ICT, facilities, boekhouding enz) van de kernoverheid naar de periferie van de Vlaamse overheid.",
             "date": "2022-11-18",
             "s3_filename_ingested": "ingestion/output/2022/11/6377A78534B8770AF8FDEDF9/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6377A78534B8770AF8FDEDF9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Onderzoek%20optimalisering%20organisatiestructuur%20Vlaamse%20overheid%20&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Onderzoek optimalisering organisatiestructuur Vlaamse overheid "
         },
         "50": {
             "s3_filename_clean": "clean/2022/10/2022-10-28-nota-635B7D8D1EA6B745D23CCC5F.txt",
             "s3_clean_content": "Programmadecreet 2023 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2023  Na onderhandelingen met de sociale partners en na adviezen van de SERV, de VLOR, de Vlaamse Raad WVG, de SAR CJSM, de SALV, de MORA, de Minaraad, de SARO en de Raad van State  hecht  de Vlaamse Regering  haar definitieve goedkeuring aan het ontwerp van programmadecreet met bepalingen tot begeleiding van de begroting 2023. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2022-10-28",
             "s3_filename_ingested": "ingestion/output/2022/10/635B7D8D1EA6B745D23CCC5F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/635B7D8D1EA6B745D23CCC5F"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%202023&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z",
+            "source_title": "Programmadecreet 2023"
         },
         "9": {
             "s3_filename_clean": "clean/2022/10/2022-10-28-mededeling-635A8F181EA6B745D23CCB45.txt",
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2023",
             "date": "2022-10-28",
             "s3_filename_ingested": "ingestion/output/2022/10/635A8F181EA6B745D23CCB45/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/635A8F181EA6B745D23CCB45"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202023&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2023"
         },
         "70": {
             "s3_filename_clean": "clean/2023/07/2023-07-07-nota-64A2F4572D77B42474D4F1CF.txt",
             "s3_clean_content": "EU-voorzitterschap in 2024: eerste herverdelingsbesluit 2023 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023  In de begroting 2023 is een provisie voorzien voor uitgaven in het kader van de voorbereidingen van het EU-voorzitterschap in 2024. De Vlaamse Regering keurt nu een herverdelingsbesluit goed dat ongeveer 70% van de voorziene middelen voor 2023 herverdeelt vanuit de centrale provisie naar de relevante basisallocaties van de betrokken entiteiten. De resterende 30% zal herverdeeld worden via een tweede herverdelingsbesluit in het najaar van 2023.",
             "date": "2023-07-07",
             "s3_filename_ingested": "ingestion/output/2023/07/64A2F4572D77B42474D4F1CF/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F4572D77B42474D4F1CF"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=EU-voorzitterschap%20in%202024%3A%20eerste%20herverdelingsbesluit%202023&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z",
+            "source_title": "EU-voorzitterschap in 2024: eerste herverdelingsbesluit 2023"
         },
         "18": {
             "s3_filename_clean": "clean/2023/07/2023-07-14-nota-64AE7B7B0592342F299DBA41.txt",
             "s3_clean_content": "Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en de provinciale besturen  Voor de werking van de lokale autonomie en het streven naar democratische en bestuurskrachtige lokale besturen zijn de lokale mandatarissen een cruciale schakel. Om hun rol ten volle te kunnen opnemen, is daarom kwalitatieve en gepaste financi\u00eble en beleidsinformatie nodig, en dus ook een correcte en transparante rapportering over het beleid en de lokale financi\u00ebn. De Vlaamse Regering wil de transparantie, de leesbaarheid en de bruikbaarheid van de beleidsrapporten volgens de beleids- en beheerscyclus (BBC) voor de raadsleden verder verhogen. Ze wijzigt daarvoor, na adviezen van de VVSG, van de Vereniging van de Vlaamse Provincies en van de Raad van State, definitief het besluit van 30 maart 2018 over de beleids- en beheerscyclus van de lokale en provinciale besturen. De wijzigingen zorgen voor ruimere mogelijkheden om kwalitatieve en vlot leesbare beleidsrapporten te presenteren aan de raadsleden, en versterken de werking van de lokale en provinciale raden.",
             "date": "2023-07-14",
             "s3_filename_ingested": "ingestion/output/2023/07/64AE7B7B0592342F299DBA41/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE7B7B0592342F299DBA41"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20lokale%20en%20provinciale%20besturen%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z",
+            "source_title": "Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit"
         },
         "30": {
             "s3_filename_clean": "clean/2023/10/2023-10-06-nota-651FFAAE7FDB1A5D07827FBC.txt",
             "s3_clean_content": "Voorontwerp van Programmadecreet begrotingsopmaak 2024 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsopmaak 2024  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begrotingsopmaak 2024. Over dit voorontwerp van decreet wordt nog advies ingewonnen van de SERV, de VLOR, de SAR WVG, de SARC, de SALV, de MORA, de Minaraad en de SARO. Het wordt ook geagendeerd voor onderhandelingen in de bevoegde onderhandelingdcomit\u00e9s. Daarna gaat het voor advies naar de Raad van State.",
             "date": "2023-10-06",
             "s3_filename_ingested": "ingestion/output/2023/10/651FFAAE7FDB1A5D07827FBC/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/651FFAAE7FDB1A5D07827FBC"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-06T08%3A00%3A00Z&endDate=2023-10-06T08%3A00%3A00Z",
+            "source_title": "Voorontwerp van Programmadecreet begrotingsopmaak 2024"
         },
         "1": {
             "s3_filename_clean": "clean/2023/03/2023-03-24-mededeling-6418768A3335D329E25ED3D3.txt",
             "s3_clean_content": "Instructie beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2024",
             "date": "2023-03-24",
             "s3_filename_ingested": "ingestion/output/2023/03/6418768A3335D329E25ED3D3/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/6418768A3335D329E25ED3D3"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructie%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202024&dateOption=select&startDate=2023-03-24T09%3A00%3A00Z&endDate=2023-03-24T09%3A00%3A00Z",
+            "source_title": "Instructie beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2024"
         },
         "43": {
             "s3_filename_clean": "clean/2022/11/2022-11-18-nota-63773DD534B8770AF8FDEC17.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' Uitgaventoetsing gezinsfiscaliteit en gezinsbijslag Bestek nr. VO/FB/DEP/2022/008/BOBFO  De Vlaamse Regering hecht haar goedkeuring aan het ontwerpbestek en het bijgevoegde plan van aanpak voor het onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' , dat zal plaatsvinden in het najaar 2022 \u2013 2023. Bedoeling is om in detail na te gaan hoe en met welke impact bestaande fiscale maatregelen zouden kunnen omgezet worden in een versterking van de gezinsbijslagen van het Groeipakket. De Vlaamse Regering keurt meteen ook de budgettoewijzing van de relancekredieten aan deze overheidsopdracht goed.",
             "date": "2022-11-18",
             "s3_filename_ingested": "ingestion/output/2022/11/63773DD534B8770AF8FDEC17/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63773DD534B8770AF8FDEC17"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Bestek%20onderzoek%20%27uitgaventoetsing%3A%20gezinsfiscaliteit%20en%20gezinsbijslag%27&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag'"
         },
         "44": {
             "s3_filename_clean": "clean/2021/07/2021-07-09-nota-60E476D3364ED900080008BB.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken Integratie erfgoeddatabanken  In het kader van het relanceplan 'Vlaamse Veerkracht' hecht de Vlaamse Regering haar goedkeuring aan de principes voor de operationalisering van het integratietraject van de erfgoeddatabanken , en aan de budgetttoewijzing vauit de relancemiddelen. De erfgoeddatabanken zijn een belangrijk instrument om de registratie en het beheer van collecties in de cultureel-erfgoedsector te ondersteunen en daarbij schaalvoordelen te benutten. Het geeft continu\u00efteit aan de eerdere ondersteuning die door de provincies tot 2018 opgenomen werd en is een bouwsteen die een coherente aanpak rond digitale collectieregistratie zal bespoedigen.",
             "date": "2021-07-09",
             "s3_filename_ingested": "ingestion/output/2021/07/60E476D3364ED900080008BB/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E476D3364ED900080008BB"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Operationalisering%20integratie%20erfgoeddatabanken&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken"
         },
         "16": {
             "s3_filename_clean": "clean/2020/07/2020-07-17-mededeling-e3e281b0-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -443,7 +501,8 @@
             "s3_clean_content": "Begrotingscontrole 2020 Voorontwerp van programmadecreet bij de aanpassing van de begroting 2020  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het voorontwerp van programmadecreet bij  de aanpassing van de begroting 2020 en aan de bijhorende Memorie van Toelichting. Over dit voorontwerp van decreet wordt het advies ingewonnen van de Sociaal-Economische Raad van Vlaanderen, de Vlaamse Onderwijsraad, de Vlaamse Raad voor Welzijn, Gezondheid en Gezin, de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media, de Vlaamse Regulator van de Elektriciteits- en Gasmarkt, de Vlaamse Woonraad, de Milieu- en Natuurraad, de Strategische Adviesraad Ruimtelijke Ordening \u2013 Onroerend Erfgoed, de Mobiliteitsraad, de Strategische Adviesraad voor Landbouw en Visserij, de Vlaamse Raad voor Wetenschap en Innovatie, de Vlaamse Jeugdraad en de Raad van State. Het wordt ook geagendeerd voor onderhandelingen met de sociale partners.",
             "date": "2020-04-17",
             "s3_filename_ingested": "ingestion/output/2020/04/5E994BB7639E7700080001E0/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/e90d9130-4929-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Begrotingscontrole%202020&dateOption=select&startDate=2020-04-17T08%3A00%3A00Z&endDate=2020-04-17T08%3A00%3A00Z",
+            "source_title": "Begrotingscontrole 2020"
         },
         "13": {
             "s3_filename_clean": "clean/2019/11/2019-11-08-mededeling-e480e490-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -456,49 +515,56 @@
             "s3_clean_content": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2021",
             "date": "2020-10-28",
             "s3_filename_ingested": "ingestion/output/2020/10/5F99816F5B1AD2000800041F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/fd07bb50-4926-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202021&dateOption=select&startDate=2020-10-28T14%3A30%3A00Z&endDate=2020-10-28T14%3A30%3A00Z",
+            "source_title": "Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2021"
         },
         "33": {
             "s3_filename_clean": "clean/2023/05/2023-05-12-nota-645DE27C8E8235823F6B779F.txt",
             "s3_clean_content": "Ontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023  Na adviezen van de Sociaal Economische Raad van Vlaanderen, de Vlaamse Onderwijsraad, de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media, de Strategische Adviesraad Landbouw en Visserij, de Mobiliteitsraad, de Milieu- en Natuurraad, de Strategische Adviesraad voor Ruimtelijke Ordening en Onroerend Erfgoed, en de Raad van State, en na onderhandelingen in de betrokken Overlegcomit\u00e9s, hecht de Vlaamse Regering haar definitieve goedkeuring aan het ontwerp van programmadecreet met de bepalingen tot begeleiding van de begrotingsaanpassing 2023. Dit ontwerp van programmadecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2023-05-12",
             "s3_filename_ingested": "ingestion/output/2023/05/645DE27C8E8235823F6B779F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/645DE27C8E8235823F6B779F"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerp%20van%20programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begrotingsaanpassing%202023&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z",
+            "source_title": "Ontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023"
         },
         "59": {
             "s3_filename_clean": "clean/2023/12/2023-12-08-nota-65709072E2E2C9E5814BEDF7.txt",
             "s3_clean_content": "Regeling cofinanciering Programma Innovatieve Overheidsopdrachten (PIO) Voorontwerp van besluit van de Vlaamse Regering tot regeling van de cofinanciering van onderzoek, ontwikkeling en innovatie in het kader van overheidsopdrachten  Het Programma Innovatieve Overheidsopdrachten (PIO) stimuleert de publieke sector in Vlaanderen om zijn koopkracht en zijn overheidsopdrachten meer strategisch in te zetten voor innovatie. Het PIO heeft nu nog een tijdelijk karakter, maar zal vanaf 1 januari 2024 ingebed worden als regulier beleidsinstrument voor innovatie binnen het Vlaams Agentschap Innoveren & Ondernemen (VLAIO). De Vlaamse Regering keurt nu principieel het besluit goed dat de cofinanciering regelt van VLAIO aan overheidsopdrachten gericht op onderzoek-, ontwikkeling- en innovatieactiviteiten voor en door de publieke sector in Vlaanderen vanaf 2024. Over dit besluit wordt het advies ingewonnen van het Beslissingscomit\u00e9 van het Fonds Innoveren en Ondernemen, en daarna van de Raad van State.",
             "date": "2023-12-08",
             "s3_filename_ingested": "ingestion/output/2023/12/65709072E2E2C9E5814BEDF7/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65709072E2E2C9E5814BEDF7"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Regeling%20cofinanciering%20Programma%20Innovatieve%20Overheidsopdrachten%20%28PIO%29&dateOption=select&startDate=2023-12-08T09%3A00%3A00Z&endDate=2023-12-08T09%3A00%3A00Z",
+            "source_title": "Regeling cofinanciering Programma Innovatieve Overheidsopdrachten (PIO)"
         },
         "65": {
             "s3_filename_clean": "clean/2022/07/2022-07-15-nota-62CD6E648E6C4430A8898880.txt",
             "s3_clean_content": "Herverdeling provisioneel krediet VIA6-budget Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022  De Vlaamse Regering  beslist tot de herverdeling van een provisioneel krediet voor een bedrag van 606,47 miljoen euro , voor de uitvoering van het Zesde Vlaams Intersectoraal Akkoord van 30 maart 2021 voor de social/nonprofitsectoren voor de periode 2021-2025, en meer bepaald de verdeling van het  koopkracht- en kwaliteitsbudget voor 2022 voor alle VIA- sectoren.",
             "date": "2022-07-15",
             "s3_filename_ingested": "ingestion/output/2022/07/62CD6E648E6C4430A8898880/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD6E648E6C4430A8898880"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA6-budget&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z",
+            "source_title": "Herverdeling provisioneel krediet VIA6-budget"
         },
         "47": {
             "s3_filename_clean": "clean/2022/02/2022-02-11-nota-6201471ED5F0FAFA87AFAC3F.txt",
             "s3_clean_content": "Institutionele hervormingen: oprichting interfederale ambtelijke thematische werkgroepen   In uitvoering van de beslissingen van het Overlegcomit\u00e9 van 8 september en van 24 november 2021  wil de Vlaamse Regering voorstellen om 3 interfederale ambtelijke thematische werkgroepen op te richten , met een informatieve opdracht in het kader van de voorbereiding van institutionele hervormingen rond fiscaliteit en financi\u00ebn, lokale besturen en justitie. Ze  keurt daarom de nota aan het Overlegcomit\u00e9 hierover goed  en gelast de minister-president van de Vlaamse Regering om deze nota te agenderen op het eerstvolgende Overlegcomit\u00e9. \u200b",
             "date": "2022-02-11",
             "s3_filename_ingested": "ingestion/output/2022/02/6201471ED5F0FAFA87AFAC3F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6201471ED5F0FAFA87AFAC3F"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Institutionele%20hervormingen%3A%20oprichting%20interfederale%20ambtelijke%20thematische%20werkgroepen&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z",
+            "source_title": "Institutionele hervormingen: oprichting interfederale ambtelijke thematische werkgroepen"
         },
         "34": {
             "s3_filename_clean": "clean/2020/03/2020-03-20-nota-5E7087BE5AB66F000800005A.txt",
             "s3_clean_content": "Verdeling overgedragen provinciale investeringsmiddelen A. Geactualiseerde meerjarenplan verdeling provinciale investeringsmiddelen 2018 tot en met 2024 B. Ontwerpbesluit van de Vlaamse Regering houdende de verdeling van de overgedragen provinciale investeringsmiddelen voor het begrotingsjaar 2020  De Vlaamse Regering keurt het geactualiseerde meerjarenplan 2018-2024 met de verdeling van de overgedragen provinciale investeringsmiddelen goed. Het plan geeft een overzicht van de re\u00eble investeringsnoden van de 14 voormalige provinciale (culturele) infrastructuren die zijn overgedragen naar een lokaal bestuur of naar de Vlaamse overheid, in het kader van het decreet over de vernieuwde taakstelling en gewijzigde financiering van de provincies. Ze keurt tevens het besluit goed over de verdeling van de overgedragen provinciale investeringsmiddelen voor het begrotingsjaar 2020. De Vlaamse minister bevoegd voor cultuur zal zorgen voor de uitvoering van het meerjarenplan 2018-2024 voor de gebouwen overgedragen aan de Vlaamse overheid.",
             "date": "2020-03-20",
             "s3_filename_ingested": "ingestion/output/2020/03/5E7087BE5AB66F000800005A/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/4e757f60-492a-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Verdeling%20overgedragen%20provinciale%20investeringsmiddelen&dateOption=select&startDate=2020-03-20T09%3A00%3A00Z&endDate=2020-03-20T09%3A00%3A00Z",
+            "source_title": "Verdeling overgedragen provinciale investeringsmiddelen"
         },
         "39": {
             "s3_filename_clean": "clean/2021/07/2021-07-09-nota-60E47894364ED900080008C0.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Herverdeling uit relanceprovisie in het kader van de Vlaamse Brede Heroverweging Vlaamse Brede Heroverweging (VBH)  De Vlaamse Brede Heroverweging (VBH) heeft als doel alle uitgavenposten en, waar relevant, kostendekkingsgraden binnen de Vlaamse begroting grondig door te lichten. De VBH, die ook is opgenomen in de Vlaamse bijdrage aan het Plan voor Herstel en Veerkracht, moet op termijn leiden tot een structurele verankering van uitgaventoetsingen. In dit kader hecht de Vlaamse Regering haar goedkeuring aan de herverdeling van 10 miljoen euro.",
             "date": "2021-07-09",
             "s3_filename_ingested": "ingestion/output/2021/07/60E47894364ED900080008C0/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E47894364ED900080008C0"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Herverdeling%20uit%20relanceprovisie%20in%20het%20kader%20van%20de%20Vlaamse%20Brede%20Heroverweging&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Herverdeling uit relanceprovisie in het kader van de Vlaamse Brede Heroverweging"
         }
     }
 }
