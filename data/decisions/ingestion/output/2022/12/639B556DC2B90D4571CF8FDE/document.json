@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "639B556DC2B90D4571CF8FDE",
+    "attributes": {
+        "title": "Conceptnota: \u201cDe Vlaamse overheid dynamiseren via 5-sporenbeleid\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 94,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-12-16T09:00:00Z",
+        "meetingId": "63974DCAC2B90D4571CF81EF",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "639B556DC2B90D4571CF8FDE",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/639B556DC2B90D4571CF8FDE"
+    }
+}

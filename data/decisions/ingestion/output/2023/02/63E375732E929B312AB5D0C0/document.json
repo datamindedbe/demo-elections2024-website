@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "63E375732E929B312AB5D0C0",
+    "attributes": {
+        "title": "Nota aan het Overlegcomit\u00e9: 'De opmaak van een samenwerkingsakkoord voor de oprichting van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen'",
+        "alternativeTitle": null,
+        "htmlContent": "Zowel de Vlaamse als de federale regering zijn bezig met het <strong data-__set-by=\"rdfa-editor\">uitwerken van regelgeving voor de integriteitsbeoordeling door openbare besturen en de oprichting van een Dienst integriteitsbeoordeling voor Openbare besturen (DIOB)</strong>. Omwille van de bevoegdheidsverdeling is het afsluiten van een samenwerkingsakkoord de beste manier om een omvattende regeling over deze integriteitsbeoordelingen uit te werken. \u200bDe Vlaamse Regering<strong data-__set-by=\"rdfa-editor\"> keurt daarom de nota voor het Overlegcomit\u00e9 goed</strong>, waarbij de minister van Binnenlandse Zaken, Institutionele Hervormingen en Democratische Vernieuwing verzocht wordt om gesprekken op te starten met de deelstaten met het oog op het <strong data-__set-by=\"rdfa-editor\">uitwerken van een samenwerkingsakkoord rond het instellen van een bestuurlijk integriteitsonderzoek en het oprichten van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen. </strong>Dat samenwerkingsakkoord omvat ook een regeling rond de informatiedeling. De nota wordt geagendeerd op het eerstvolgende Overlegcomit\u00e9.",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-02-10T09:00:00Z",
+        "meetingId": "63E10F9D2E929B312AB5CD7B",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63E375732E929B312AB5D0C0",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63E375732E929B312AB5D0C0"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "62C537498E6C4430A889786F",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: projectsubsidie aan Vlaamse gemeenten voor fietsinfrastructuur",
+        "alternativeTitle": "Subsidi\u00ebring gemeenten voor investeringen fietsinfrastructuur\nOntwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van Vlaamse Regering van 26 februari 2021 tot toekenning van een projectsubsidie aan de Vlaamse gemeenten voor investeringen in fietsinfrastructuur",
+        "htmlContent": "In het kader van het Relanceplan Vlaamse Veerkracht<strong data-__set-by=\"rdfa-editor\">&nbsp;kent de Vlaamse Regering een projectsubsidie toe aan de Vlaamse gemeenten voor investeringen in fietsinfrastructuur,&nbsp;</strong>het zogenaamde Kopenhagenplan. Bij elke twee euro die een lokaal bestuur zelf investeert in nieuwe of verbeterde fietsinfrastructuur, legt de Vlaamse Regering er \u00e9\u00e9n euro naast om die investeringen verder te versterken. Hiermee wil ze voor in totaal minstens 450 miljoen euro aan lokale investeringen in betere fietsfaciliteiten realiseren. Voor dit project is&nbsp;<strong data-__set-by=\"rdfa-editor\">150 miljoen euro</strong>&nbsp;voorzien uit de Relanceprovisie.",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Lydia",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Peeters",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-07-08T08:00:00Z",
+        "meetingId": "62C2FE228E6C4430A88972D7",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62C537498E6C4430A889786F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62C537498E6C4430A889786F"
+    }
+}

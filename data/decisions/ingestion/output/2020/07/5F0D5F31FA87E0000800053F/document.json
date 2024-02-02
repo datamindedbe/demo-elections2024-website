@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5F0D5F31FA87E0000800053F",
+    "attributes": {
+        "title": "Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust, wat betreft de toewijzing van de exploitatie van de personen-mobiliteit over water",
+        "htmlContent": "                                          <!---->\n\n De Vlaamse Regering <strong>wijzigt  principieel het oprichtingsbesluit</strong> van    het    intern    verzelfstandigd    agentschap    zonder rechtspersoonlijkheid <strong>'Agentschap voor Maritieme Dienstverlening en Kust' (MDK)</strong>. De wijziging voorziet in de <strong>toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water</strong> aan het Agentschap MDK. Over dit wijzigingsbesluit wordt het advies ingewonnen van de Raad van State.\n\n<!-- components -->\n<!-- components -->\n<!---->",
+        "position": 125,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2020-07-17T08:00:00Z",
+        "meetingId": "5F0CA175FA87E00008000182",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F0D5F31FA87E0000800053F",
+        "uri": "http://themis.vlaanderen.be/id/resource/d8a46f50-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

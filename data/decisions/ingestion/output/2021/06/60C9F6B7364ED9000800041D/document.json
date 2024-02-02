@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60C9F6B7364ED9000800041D",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: FIT \u2013 Datagedreven organisatie & Digitalisering dienstverlening",
+        "alternativeTitle": "FIT \u2013 Datagedreven organisatie & Digitalisering dienstverlening",
+        "htmlContent": "In uitvoering van&nbsp;het luik digitale transformatie van&nbsp;het relanceplan Vlaamse Veerkracht <strong>keurt de Vlaamse Regering het project FIT- Datagedreven organisatie &amp;&nbsp;Digitalisering dienstverlening goed.</strong> Het project&nbsp;moet de Vlaamse ondernemer ondersteunen bij zijn&nbsp;relancering&nbsp;op het internationale terrein. Flanders Investment &amp; Trade (FIT), het Vlaams Agentschap voor Internationaal Ondernemen, heeft hiervoor&nbsp;een roadmap&nbsp;ontwikkeld.&nbsp;FIT wil dit realiseren&nbsp;door&nbsp;versneld in&nbsp;te zetten op digitalisering om zijn dienstverlening nog doelgerichter te maken, om de impact van prospectie te verhogen en om matching tussen Vlaamse bedrijven en buitenlandse zakenpartners te faciliteren.",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C84FC9364ED9000800031A",
+        "meetingTypePosition": 1,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "60C9F6B7364ED9000800041D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9F6B7364ED9000800041D"
+    }
+}

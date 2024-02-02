@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6385DB9B86124BBA17062A5B",
+    "attributes": {
+        "title": "Herverdelingsbesluit besteding middelen uit Vlaams Klimaatfonds",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022 in het kader van de besteding van de middelen uit het Vlaams Klimaatfonds",
+        "htmlContent": "De Vlaamse Regering beslist tot<strong data-__set-by=\"rdfa-editor\"> herverdeling van zo'n 30,5 miljoen euro vanuit het Vlaamse Klimaatfonds voor de uitvoering van allerhande klimaatmaatregelen</strong>. Het gaat onder meer om het verderzetten en versterken van het Lokaal Energie- en Klimaatpact, verregaande duurzame maatregelen in de vernieuwbouw en renovatie van een schoolmonument van de Hogere Zeevaartschool Antwerpen, de maatregel \u2018Erfgoed: educatie en sensibilisatie met het oog op energiezuinig erfgoed\u2019, klimaatmaatregelen Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en de uitbreiding van het Relanceprogramma 'energetische renovaties bij de publieke sector\u2019.",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2022-12-02T09:00:00Z",
+        "meetingId": "6384C97F86124BBA170625C7",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6385DB9B86124BBA17062A5B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6385DB9B86124BBA17062A5B"
+    }
+}

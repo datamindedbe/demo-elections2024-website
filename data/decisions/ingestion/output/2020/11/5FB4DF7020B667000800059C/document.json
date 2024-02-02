@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FB4DF7020B667000800059C",
+    "attributes": {
+        "title": "E-loket Agentschap Innoveren en Ondernemen: uitvoeringsbesluit",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van artikel II.7 van het Bestuursdecreet en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen",
+        "htmlContent": "De Vlaamse Regering keurt principieel het besluit goed dat zorgt voor de uitvoering van de bepaling in het bestuursdecreet waarbij <strong>het Agentschap Innoveren en Ondernemen (VLAIO)&nbsp;</strong>wordt belast met het <strong>regelen van de toegang tot de gegevens over ondernemingen</strong>. Hiermee wordt een <strong>overkoepelend digitaal platform opgericht, het e-loket,</strong> dat ondernemingen toelaat om hun overheidsdossiers vanop een centraal platform op te starten en/of op te volgen bij de deelnemende Vlaamse agentschappen en lokale besturen. De Vlaamse minister bevoegd voor economie zal hierover het advies inwinnen van de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens.&nbsp;",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2020-11-20T09:00:00Z",
+        "meetingId": "5FB37EEA20B66700080003F0",
+        "meetingTypePosition": 4,
+        "themeId": "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+        "agendaitemType": "Nota",
+        "uuid": "5FB4DF7020B667000800059C",
+        "uri": "http://themis.vlaanderen.be/id/resource/bcb16510-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 56
+TOPIC_NAME: 8_—_Fusie_van_entiteiten_–_bijlage_bij_het__regeerakkoord_-_8.1_De_Vlaamse_Milieuholding_wordt_ontbonden.

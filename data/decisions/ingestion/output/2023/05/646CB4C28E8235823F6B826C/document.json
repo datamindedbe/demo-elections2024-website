@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "646CB4C28E8235823F6B826C",
+    "attributes": {
+        "title": "Schrappingsdecreet onderwijs",
+        "alternativeTitle": "Voorontwerp van decreet tot opheffing van meerdere onderwijsbepalingen",
+        "htmlContent": "<p data-indentation-level=\"0\">Met het oog op een <strong>vereenvoudiging van de onderwijsregelgeving</strong> hecht de Vlaamse Regering, na advies van de VLOR en van de SERV en na onderhandelingen met de sociale partners, opnieuw haar principi\u00eble goedkeuring aan het <strong>voorontwerp van decreet dat een aantal onderwijsbepalingen opheft in meerdere bestaande niveau- en themadecreten</strong>. Het wordt nu voor advies voorgelegd aan de Raad van State.</p>",
+        "position": 22,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-05-26T08:00:00Z",
+        "meetingId": "646B73088E8235823F6B7D3C",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "646CB4C28E8235823F6B826C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/646CB4C28E8235823F6B826C"
+    }
+}

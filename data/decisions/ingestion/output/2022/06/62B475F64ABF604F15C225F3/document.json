@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "62B475F64ABF604F15C225F3",
+    "attributes": {
+        "title": "Aanpak stikstofprobleem: Regels oproep vrijwillig stopzetten varkensstallen",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering betreffende de vrijwillige stopzetting van varkensstallen",
+        "htmlContent": "\u200bOp 23 februari 2022 werd binnen de Vlaamse Regering een akkoord bereikt over de&nbsp;<strong>aanpak van het stikstofprobleem</strong>. In dat akkoord zijn verschillende maatregelen opgenomen. De Vlaamse Regering besliste onder meer dat<strong>&nbsp;in 2022 een oproep tot vrijwillige stopzetting</strong>&nbsp;georganiseerd wordt&nbsp;<strong>voor alle exploitaties waar varkens gehouden worden met een impactscore hoger dan 0,5%</strong>. De Vlaamse Regering keurt nu principieel een besluit goed dat de&nbsp;<strong>regels</strong>&nbsp;bepaalt met betrekking tot de&nbsp;<strong>oproep tot vrijwillige stopzetting</strong>. Het&nbsp;<strong>verlenen van stopzettings- en sloopvergoedingen</strong>&nbsp;moet de exploitanten en eigenaars aanzetten om over te gaan tot een vrijwillige stopzetting. Dat moet bijdragen aan de inspanningen om&nbsp;<strong>tegen 2030 30% minder varkens in Vlaanderen</strong>&nbsp;te hebben en op deze wijze de&nbsp;<strong>ammoniakuitstoot</strong>&nbsp;afkomstig van varkensstallen aanzienlijk te&nbsp;<strong>reduceren</strong>. Over dit besluit wordt het advies ingewonnen van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens en van de Raad van State. Het besluit wordt ook aangemeld bij de Europese Commissie.",
+        "position": 21,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2022-06-24T08:00:00Z",
+        "meetingId": "62B06BEF4ABF604F15C22172",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62B475F64ABF604F15C225F3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62B475F64ABF604F15C225F3"
+    }
+}

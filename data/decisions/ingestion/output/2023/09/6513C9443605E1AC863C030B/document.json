@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6513C9443605E1AC863C030B",
+    "attributes": {
+        "title": "Herverdeling Fonds voor Innoveren en Ondernemen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>beslist tot herverdeling van een bedrag van 200.000 euro</strong> voor VLAIO, voor het vergoeden van de personeelskost voor de dossierbehandelaars van de overbruggingsleningen. </p>",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-09-29T08:00:00Z",
+        "meetingId": "65118DC63605E1AC863BFF56",
+        "meetingTypePosition": 4,
+        "themeId": "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+        "agendaitemType": "Nota",
+        "uuid": "6513C9443605E1AC863C030B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6513C9443605E1AC863C030B"
+    }
+}

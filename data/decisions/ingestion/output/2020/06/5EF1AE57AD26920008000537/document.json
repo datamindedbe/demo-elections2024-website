@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5EF1AE57AD26920008000537",
+    "attributes": {
+        "title": "Strategisch plan Stuurorgaan Vlaams Informatie- en ICT-beleid",
+        "alternativeTitle": null,
+        "htmlContent": "                                                        <!---->\n\n De Vlaamse Regering <strong>keurt de nieuwe visie, missie en organisatie goed van het Stuurorgaan Vlaams Informatie- en ICT-beleid.</strong> Ze keurt tegelijk de prioriteiten goed van het <strong>strategisch plan </strong>en de prioriteiten van het <strong>Vlaanderen Radicaal Digitaal 2-programma.</strong> Het strategisch plan legt de prioriteiten vast voor het informatie- en ICT-beleid voor de Vlaamse administratie en lokale overheden voor de periode 2020-2024. Het geeft ook uitvoering aan het Vlaanderen Radicaal Digitaal 2-investeringsprogramma, conform het Regeerakkoord, dat vanaf 2021 wordt ingezet om de doelstellingen van het strategisch plan te realiseren.&nbsp;Het Stuurorgaan Vlaams Informatie- en ICT-beleid zal de aansturing en opvolging van het strategisch plan verzorgen.<!-- components -->\n<!---->\n<!-- components -->\n<!---->",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-06-26T08:00:00Z",
+        "meetingId": "5EF1A213AD269200080003B6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5EF1AE57AD26920008000537",
+        "uri": "http://themis.vlaanderen.be/id/resource/ca264d30-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

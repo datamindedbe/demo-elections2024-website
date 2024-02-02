@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "646C6B7F8E8235823F6B819F",
+    "attributes": {
+        "title": "Monitoring Nieuwe Omkadering Gewoon Basisonderwijs",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 68,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Ben",
+        "mandateeFamilyNames": "Weyts",
+        "mandateeIds": "d283fd40-f781-4300-a913-60658e2aec85",
+        "mandateeTitles": "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+        "meetingDate": "2023-05-26T08:00:00Z",
+        "meetingId": "646B73088E8235823F6B7D3C",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "646C6B7F8E8235823F6B819F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/646C6B7F8E8235823F6B819F"
+    }
+}

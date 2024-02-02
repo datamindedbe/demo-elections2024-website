@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64B0ECC80592342F299DBE3D",
+    "attributes": {
+        "title": "Operationalisering 'Samenwerkingsakkoord tot invoeren van een mechanisme voor de screening van buitenlandse directe investeringen'",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">In het kader van de <strong>de operationalisering van de Vlaamse deelname aan het Samenwerkingsakkoord tot het invoeren van een mechanisme voor de screening van buitenlandse directe investeringen</strong>, beslist de Vlaamse Regering over de <strong>bevoegde ministers, de vertegenwoordiging in de interfederale screeningscommissie, de oprichting en werking van de Vlaamse investeringsscreeningscommissie, de betrokken entiteiten</strong>, alsook over de <strong>besluitvorming</strong> en voorziet daartoe de nodige <strong>mensen en middelen</strong>. De operationalisering van het akkoord gebeurt onder co\u00f6rdinatie van het Departement Kanselarij en Buitenlandse Zaken. Het samenwerkingsakkoord beoogt de invoering van een screeningsmechanisme dat de overheden die partij zijn bij het akkoord, in staat stelt om enerzijds de nationale veiligheid en openbare orde en hun strategische belangen te vrijwaren, en anderzijds de mogelijkheid biedt om een beter overzicht van de inkomende buitenlandse investeringsstromen te bekomen. Het mechanisme biedt de opportuniteit om de Vlaamse strategische belangen te bewaken tegen een achtergrond van wijzigende machtsverhoudingen en de opkomst van 'geo-economie' en 'geo-technologie' in de geopolitieke relaties.</p>",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64B0ECC80592342F299DBE3D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64B0ECC80592342F299DBE3D"
+    }
+}

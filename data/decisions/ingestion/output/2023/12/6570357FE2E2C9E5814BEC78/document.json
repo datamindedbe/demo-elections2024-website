@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6570357FE2E2C9E5814BEC78",
+    "attributes": {
+        "title": "Subsidie lokale besturen voor werknemers lokale diensteneconomie (LDE) en sociale inschakelingseconomie (SINE)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende toekenning van een subsidie aan lokale besturen voor het behoud van de tewerkstelling van de LDE-SINE werknemers",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering wil de <strong>lokale diensteneconomie</strong> (LDE) bevorderen door individueel maatwerk mogelijk te maken. Dit houdt in dat lokale besturen extra financiering kunnen ontvangen voor tewerkstellingsinitiatieven die personen met een arbeidsbeperking inzetten om aanvullende lokale diensten te leveren. De financi\u00eble middelen hiervoor komen voort uit stopgezette SINE-voordelen (Sociale inschakelingseconomie), die nu worden herverdeeld naar lokale besturen en Vlaamse beleidsdomeinen. Tijdens de overgangsperiode (2023-2025) is het doel om de bestaande dienstverlening te behouden en de werking van individuele lokale diensteneconomiebedrijven te waarborgen na het stopzetten van SINE-subsidies. De Vlaamse Regering kent nu voor deze overgangsperiode een <strong>aanvullende tijdelijke degressieve subsidie van in totaal 689.584 euro toe aan een aantal lokale besturen om de tewerkstelling van zittende LDE-werknemers te waarborgen.</strong> Het gaat om de lokale besturen die naar aanleiding van de stopzetting van de SINE-subsidi\u00ebring mogelijk onvoldoende middelen kregen toegewezen om de tewerkstelling binnen het aanvullend lokaal dienstenaanbod te kunnen blijven garanderen.</p>",
+        "position": 56,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-12-08T09:00:00Z",
+        "meetingId": "656DDE11E2E2C9E5814BE3E7",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6570357FE2E2C9E5814BEC78",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6570357FE2E2C9E5814BEC78"
+    }
+}

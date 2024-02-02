@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61A5D9F6364ED900080004CB",
+    "attributes": {
+        "title": "Vlaams internationaal cultuurbeleid: strategisch kader 2021-2025",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 43,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-12-03T09:00:00Z",
+        "meetingId": "61A4F9E6364ED90008000220",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61A5D9F6364ED900080004CB",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61A5D9F6364ED900080004CB"
+    }
+}

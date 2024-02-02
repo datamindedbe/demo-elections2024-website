@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6422A4D38A5434FEB5656F9C",
+    "attributes": {
+        "title": "Voorontwerp van decreet over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest",
+        "alternativeTitle": "Voorontwerp van decreet over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest",
+        "htmlContent": "<p>De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring</strong> aan het <strong>voorontwerp van decreet over het vervoer van koolstofdioxide via pijpleidingen</strong> in het Vlaamse Gewest. Over dit voorontwerp van decreet wordt het advies ingewonnen van de SERV, de Minaraad en de VREG.</p>",
+        "position": 18,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-03-31T08:00:00Z",
+        "meetingId": "6421A81A3335D329E25EDD30",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6422A4D38A5434FEB5656F9C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6422A4D38A5434FEB5656F9C"
+    }
+}

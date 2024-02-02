@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60E3FD5D364ED90008000409",
+    "attributes": {
+        "title": "Cultureel-erfgoeddecreet: ondersteuning van cultureel-erfgoedwerking",
+        "alternativeTitle": "Voorontwerp van decreet houdende de ondersteuning van cultureel-erfgoedwerking",
+        "htmlContent": "De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring aan&nbsp;het&nbsp;voorontwerp van decreet over de ondersteuning van cultureel-erfgoedwerking</strong>. Het nieuwe decreet wijzigt het voorgaande uit 2017.&nbsp;De wijzigingen betreffen een <strong>optimalisatie van het bestaande kader</strong>: het bijschaven van de procedures, het verminderen van de plan- en werklast en de afstemming met de andere cultuurdecreten.&nbsp;Via het Cultureel-erfgoeddecreet wordt cultureel-erfgoedwerking ondersteund waardoor het kan doorgegeven worden aan toekomstige generaties&nbsp;en waardoor&nbsp;dit erfgoed kan gevaloriseerd worden om positieve&nbsp;maatschappelijke effecten te genereren voor huidige generaties.&nbsp;Over dit voorontwerp van decreet wordt nu het advies ingewonnen van de Raad van State.",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E3FD5D364ED90008000409",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E3FD5D364ED90008000409"
+    }
+}

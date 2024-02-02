@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64AD128B0592342F299DB828",
+    "attributes": {
+        "title": "Regels thematische oproep onderzoeksprojecten voor landbouw en voedsel bij het Fonds Wetenschappelijk Onderzoek \u2013 Vlaanderen (FWO)",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de regels voor de thematische oproep voor onderzoeksprojecten bij het Fonds Wetenschappelijk Onderzoek \u2013 Vlaanderen (FWO)",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering stelt principieel de <strong>regels</strong> vast <strong>voor de thematische oproep voor onderzoeksprojecten over landbouw en voedsel bij het Fonds Wetenschappelijk Onderzoek \u2013 Vlaanderen (FWO)</strong>. Uit dit wetenschappelijk onderzoek moeten onderbouwde beleidsondersteuning en praktische oplossingen voor de samenleving voortvloeien die de transitie naar een duurzame landbouw en voedselproductie kunnen faciliteren. Er wordt een jaarlijks budget van 5 miljoen euro voorzien waardoor een totaalbudget van 10 miljoen ter beschikking zal zijn voor een eerste tweejaarlijkse oproep (2023-2024). Over dit besluit wordt het advies ingewonnen van het FWO en van de Raad van State.</p>",
+        "position": 128,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AD128B0592342F299DB828",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AD128B0592342F299DB828"
+    }
+}

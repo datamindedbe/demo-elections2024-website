@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "644913AFCA1CB15B58CF5204",
+    "attributes": {
+        "title": "Subsidiereglement projectoproep investeringsprogramma Levend Water voor lokale waterbeheerders",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>keurt het subsidiereglement goed voor de projectoproep voor de lancering van een investeringsprogramma Levend Water voor lokale waterbeheerders.</strong> Het programma is <strong>gericht op het herstel van de hydromorfologie van de waterloop</strong>, om waterlopen opnieuw hun natuurlijk karakter te geven en knelpunten die een goede waterkwaliteit in de weg staan weg te werken. Ook projecten die ruimer gaan dan het herstel van de hydromorfologie kunnen een steunaanvraag indienen. De oproep is gericht naar lokale waterbeheerders die initiatiefnemer zijn op vlak van hydromorfologisch herstel, maar ook aan andere lokale organisaties. Voor deze oproep is een budget voorzien van <strong>7,7 miljoen euro</strong>.</p>",
+        "position": 30,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-04-28T08:00:00Z",
+        "meetingId": "644686DCCA1CB15B58CF4D21",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "644913AFCA1CB15B58CF5204",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/644913AFCA1CB15B58CF5204"
+    }
+}

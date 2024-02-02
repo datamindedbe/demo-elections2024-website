@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "656DF2AFE2E2C9E5814BE44A",
+    "attributes": {
+        "title": "Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin (WVG): vervanging leden",
+        "alternativeTitle": null,
+        "htmlContent": "Ontwerp van ministerieel besluit tot wijziging van het ministerieel besluit van 10 februari 2023 tot benoeming van de leden van de kamers van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin voor de periode 2023-2026 en tot opheffing van het ministerieel besluit van 1 februari 2019 tot benoeming van de leden van de kamers van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, wat betreft de vervanging van een effectief lid in de intersectorale kamer en een effectief lid in de sectorale kamer Beleid Vlaamse Sociale Bescherming en Personen met een Handicap",
+        "position": 72,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "a006282b-ce31-4b69-8ba2-ad010a644bc9",
+            "85e6f060-c8c5-4780-a399-e8b9b2d7d069"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin"
+        ],
+        "meetingDate": "2023-12-08T09:00:00Z",
+        "meetingId": "656DDE11E2E2C9E5814BE3E7",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "656DF2AFE2E2C9E5814BE44A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/656DF2AFE2E2C9E5814BE44A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64A2F2F22D77B42474D4F1A3",
+    "attributes": {
+        "title": "Voortgangsrapportering vrijwillige samenvoeging van gemeenten",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 92,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "64A2F2F22D77B42474D4F1A3",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F2F22D77B42474D4F1A3"
+    }
+}

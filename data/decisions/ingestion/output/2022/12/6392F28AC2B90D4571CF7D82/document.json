@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "6392F28AC2B90D4571CF7D82",
+    "attributes": {
+        "title": "Vlaanderen helpt Oekra\u00efne: actualisering opvangstrategie",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering bepaalde op 29 juni 2022 een <strong data-__set-by=\"rdfa-editor\">opvangstrategie voor Oekra\u00efense ontheemden</strong>, met een globaal capaciteitsdoel van 30.000 slaapplekken. Begin december werden cumulatief meer dan 35.000 plekken gecre\u00eberd. Het aanbod is niet statisch, en de laatste periode komen er signalen dat de opvang van ontheemde Oekra\u00efeners moeilijker verloopt. Door dit <strong data-__set-by=\"rdfa-editor\">afnemend aanbod aan beschikbare plaatsen en een blijvende vraag naar opvangplekken</strong>, <strong data-__set-by=\"rdfa-editor\">beslist de Vlaamse Regering de opvangstrategie te actualiseren en extra maatregelen te nemen binnen de huidige opvangstrategie</strong>. De maatregelen richten zich in eerste instantie op het<strong data-__set-by=\"rdfa-editor\"> cre\u00ebren van bijkomend aanbod tijdens de komende wintermaanden</strong>. De taskforce Oekra\u00efne zal ook een wijzigingsbesluit opmaken dat de verhoging van de financi\u00eble steun laat ingaan vanaf 1 januari 2023 en dat nieuwe te cre\u00ebren C1 publieke en C2 plaatsen garandeert tussen 1 januari en 31 maart 2023.",
+        "position": 76,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-12-09T09:00:00Z",
+        "meetingId": "638DD5DDC2B90D4571CF6BBF",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+            "fa4e010f-84e9-4d65-9675-1604ad41de56"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6392F28AC2B90D4571CF7D82",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6392F28AC2B90D4571CF7D82"
+    }
+}

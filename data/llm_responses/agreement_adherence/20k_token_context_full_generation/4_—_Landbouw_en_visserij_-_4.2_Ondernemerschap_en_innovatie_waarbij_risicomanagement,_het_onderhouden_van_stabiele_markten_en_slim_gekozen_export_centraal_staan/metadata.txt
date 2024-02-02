@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 48
+TOPIC_NAME: 4_—_Landbouw_en_visserij_-_4.2_Ondernemerschap_en_innovatie_waarbij_risicomanagement,_het_onderhouden_van_stabiele_markten_en_slim_gekozen_export_centraal_staan

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "65709072E2E2C9E5814BEDF7",
+    "attributes": {
+        "title": "Regeling cofinanciering Programma Innovatieve Overheidsopdrachten (PIO)",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot regeling van de cofinanciering van onderzoek, ontwikkeling en innovatie in het kader van overheidsopdrachten",
+        "htmlContent": "<p data-indentation-level=\"0\">Het <strong>Programma Innovatieve Overheidsopdrachten</strong> (PIO) stimuleert de publieke sector in Vlaanderen om zijn koopkracht en zijn overheidsopdrachten meer strategisch in te zetten voor innovatie. Het PIO heeft nu nog een tijdelijk karakter, maar zal vanaf 1 januari 2024 ingebed worden als regulier beleidsinstrument voor innovatie binnen het Vlaams Agentschap Innoveren &amp; Ondernemen (VLAIO). De Vlaamse Regering <strong>keurt nu principieel het besluit goed dat de cofinanciering regelt van VLAIO aan overheidsopdrachten gericht op onderzoek-, ontwikkeling- en innovatieactiviteiten voor en door de publieke sector in Vlaanderen vanaf 2024</strong>. Over dit besluit wordt het advies ingewonnen van het Beslissingscomit\u00e9 van het Fonds Innoveren en Ondernemen, en daarna van de Raad van State. </p>",
+        "position": 61,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "384269c5-542a-4c95-aec6-c6b250fca93e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-12-08T09:00:00Z",
+        "meetingId": "656DDE11E2E2C9E5814BE3E7",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "65709072E2E2C9E5814BEDF7",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65709072E2E2C9E5814BEDF7"
+    }
+}

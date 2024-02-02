@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "65780C0BE2E2C9E5814BFFBD",
+    "attributes": {
+        "title": "Visienota Level Up Vlaanderen: tussentijdse rapportering",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 133,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "a006282b-ce31-4b69-8ba2-ad010a644bc9",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+        "meetingDate": "2023-12-15T09:00:00Z",
+        "meetingId": "6576C08BE2E2C9E5814BF538",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "65780C0BE2E2C9E5814BFFBD",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65780C0BE2E2C9E5814BFFBD"
+    }
+}

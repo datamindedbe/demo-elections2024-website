@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "60F12519364ED90008001793",
+    "attributes": {
+        "title": "Wijziging uitvoeringsbesluit bij decreet dat bepaalde aspecten van alternerende opleidingen regelt",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 20 november 2020 houdende de uitvoering van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen",
+        "htmlContent": "De Vlaamse Regering <strong>wijzigt principieel het uitvoeringsbesluit bij het decreet dat bepaalde aspecten van alternerende opleidingen regelt</strong>. Dit wijzigingsbesluit <strong>regelt dat de opdrachten van het Vlaams Partnerschap Duaal Leren die niet door de sectorale partnerschappen worden opgenomen</strong> (ttz. voor sectoren waar (nog) geen sectoraal partnerschap actief is of voor bedrijvenclusters die te klein zijn om een sectoraal partnerschap op te richten) <strong>niet langer toegewezen worden aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB) maar aan het Departement Werk en Sociale Economie.</strong> Deze wijziging zorgt voor een ge\u00efntegreerde werking van alternerend leren (waaronder duaal leren),&nbsp;en duidelijkheid voor de begunstigden van alternerend leren: de ondernemingen, scholen en leerlingen. Over dit wijzigingsbesluit wordt het advies ingewonnen van de SERV, de VLOR, het Vlaams Partnerschap Duaal Leren, en daarna de Raad van State.",
+        "position": 33,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60F12519364ED90008001793",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60F12519364ED90008001793"
+    }
+}

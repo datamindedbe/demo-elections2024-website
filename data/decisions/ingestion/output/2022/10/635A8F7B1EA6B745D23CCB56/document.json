@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "635A8F7B1EA6B745D23CCB56",
+    "attributes": {
+        "title": "Naar een kader voor het Vlaams kennisveiligheidsbeleid",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jan",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Jambon",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-10-28T08:00:00Z",
+        "meetingId": "63569AA21EA6B745D23CC476",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "635A8F7B1EA6B745D23CCB56",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/635A8F7B1EA6B745D23CCB56"
+    }
+}

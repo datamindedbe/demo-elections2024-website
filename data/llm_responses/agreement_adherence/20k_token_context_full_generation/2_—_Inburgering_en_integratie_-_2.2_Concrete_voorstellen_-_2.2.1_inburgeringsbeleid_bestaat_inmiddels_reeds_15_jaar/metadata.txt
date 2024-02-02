@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 48
+TOPIC_NAME: 2_—_Inburgering_en_integratie_-_2.2_Concrete_voorstellen_-_2.2.1_inburgeringsbeleid_bestaat_inmiddels_reeds_15_jaar

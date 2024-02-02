@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6051B4483391400008000238",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: regeling subsidies aan gemeenten in het kader van veilige schoolroutes op gemeentewegen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolroutes op gemeentewegen",
+        "htmlContent": "Na advies van de Raad van State <strong>voert </strong>de Vlaamse Regering <strong>definitief</strong><strong>&nbsp;een subsidieregeling in voor projecten die gericht zijn op de beveiliging van schoolroutes door infrastructurele ingrepen langs gemeentewegen</strong>. Het gaat om projecten die gevaarlijke punten voor kwetsbare weggebruikers langs de routes wegwerken, en zo zwakke of onveilige schakels doen verdwijnen op de woon-schoolroute. De regeling vormt een aanvulling op de subsidieregeling voor veilige schoolomgevingen, die uitgebreid wordt naar schoolroutes langs gemeentewegen. Voor deze subsidieregeling wordt <strong>15 miljoen euro</strong> voorzien.",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Lydia",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Peeters",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a071c",
+            "5fed907ee6670526694a0710"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2021-03-19T09:00:00Z",
+        "meetingId": "605065E13391400008000185",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6051B4483391400008000238",
+        "uri": "http://themis.vlaanderen.be/id/resource/a3916d70-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

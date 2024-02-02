@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "63A171ABDBF1CAE811022045",
+    "attributes": {
+        "title": "Eigen Vermogen Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO): subsidie bouw en installatie Feed Pilot",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een investeringssubsidie aan het Eigen Vermogen ILVO voor de bouw en installatie van de Feed Pilot",
+        "htmlContent": "De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">kent een investeringssubsidie van 3,5 miljoen euro toe aan het Eigen Vermogen van het Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO) voor de bouw en installatie van de Feed Pilot</strong>. Het gaat om een <strong data-__set-by=\"rdfa-editor\">precisie-proefvoederinstallatie</strong> op de Scheldeweg in Melle, ter vervanging van twee bestaande proefvoederinstallaties. Een precisie-proefvoederinstallatie is van belang om het onderzoek naar het gebruik van reststromen in de voeding en voeders van dieren een extra impuls te geven. Door de snelle eiwittransitie en de toegenomen vraag naar het sluiten van kringlopen, hebben bedrijven en onderzoeksinstellingen nood aan mogelijkheden om te onderzoeken hoe ze nieuwe producten in voeders kunnen incorporeren en om een optimaal gebruik van die voeders te verkennen, om voedsel- en voederverliezen bij mens en dier te vermijden en om op die manier de sector te helpen de klimaat- en milieudoelstellingen (methaan- en stikstofreductie) te halen.",
+        "position": 93,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2022-12-23T09:00:00Z",
+        "meetingId": "63A041CADBF1CAE8110217E9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63A171ABDBF1CAE811022045",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A171ABDBF1CAE811022045"
+    }
+}

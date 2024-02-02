@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63906CF5C2B90D4571CF76F4",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: investeringssubsidie VUB voor bouw vechtsporthal",
+        "alternativeTitle": "Vrije Universiteit Brussel: investeringssubsidie bouw vechtsporthal\nOntwerpbesluit van de Vlaamse Regering tot toekenning van een investeringssubsidie aan de Vrije Universiteit Brussel",
+        "htmlContent": "In het kader van het Plan Vlaamse Veerkracht \u2013 Gemeenschapsinfrastructuur in Brussel kent de Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">700.000 euro subsidie </strong>toe <strong data-__set-by=\"rdfa-editor\">aan de Vrije Universiteit Brussel (VUB) voor het bouwen van een vechtsporthal voor de oprichting van een Vechtsportexpertisecentrum (VEC).</strong> De kerndoelstelling van het VEC is het faciliteren en versterken van de werking van Nederlandstalige sociaal-sportieve vechtsportpraktijken in Brussel. Doel is een grote diversiteit aan vechtsportorganisaties te bereiken, zowel zij die meer \u2018traditionele\u2019 Oosterse vechtsporten aanbieden (zoals judo, karate, taekwondo, \u2026), als diegenen die zich richten op andere varianten (zoals boksen, kick- en thaiboksen, Brazilian Jiu-Jitsu, Capoeira, \u2026). De vechtsporthal zal aansluiten op de bestaande VUB-sportinfrastructuur.  Het VEC zal verder gebruik maken van de bestaande faciliteiten zoals parking, douches, kleedkamers, ingang en balie.",
+        "position": 25,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "8dcdc330-348d-4f69-b10c-02f584adb9af",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+        "meetingDate": "2022-12-09T09:00:00Z",
+        "meetingId": "638DD5FEC2B90D4571CF6BCD",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "c99b383e-edfb-420b-b6fb-b4eb742f2899",
+            "a1fe00b2-9c52-40c1-8c37-3b68a78f4318"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63906CF5C2B90D4571CF76F4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63906CF5C2B90D4571CF76F4"
+    }
+}

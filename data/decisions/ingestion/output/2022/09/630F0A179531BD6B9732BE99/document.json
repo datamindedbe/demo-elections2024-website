@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "630F0A179531BD6B9732BE99",
+    "attributes": {
+        "title": "Opzegging van het samenwerkingsakkoord voor de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering&nbsp;<strong data-__set-by=\"rdfa-editor\">beslist om het samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de Gewesten en de Gemeenschappen over de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van racisme en discriminatie (Unia) op te zeggen</strong>. De opzegging is gekoppeld aan de ontbindende voorwaarde dat er ten laatste op 1 maart 2023 een instelling is opgericht die het mandaat van Unia overneemt voor de bevoegdheden van het Vlaamse Gewest en de Vlaamse Gemeenschap, in casu het geplande Vlaams Mensenrechteninstituut. De Vlaamse minister van Binnenlands Bestuur, Inburgering en Gelijke Kansen zal de notificatiebrief over de opzegging namens de Vlaamse Regering versturen naar alle parlementsvoorzitters van de overige partijen bij het samenwerkingsakkoord. ",
+        "position": 17,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-09-02T08:00:00Z",
+        "meetingId": "630C9ABB9531BD6B9732BA03",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "630F0A179531BD6B9732BE99",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/630F0A179531BD6B9732BE99"
+    }
+}

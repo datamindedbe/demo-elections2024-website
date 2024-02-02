@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6453BF8C878C11494CF54331",
+    "attributes": {
+        "title": "Decreet Leersteun",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet over leersteun, aangenomen door het Vlaams Parlement op 3 mei 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging</strong> van<strong> het decreet over leersteun</strong> <strong>voor leerlingen met specifieke onderwijsbehoeften en hun leerkrachten in scholen voor gewoon onderwijs en voor buitengewoon onderwijs</strong>. Het vervangt het huidige M-decreet, <strong>met als doelstelling dat elke leerling in Vlaanderen de juiste ondersteuning krijgt, vanuit het adagium 'gewoon onderwijs als het kan en buitengewoon onderwijs als het nodig is'. </strong>Het mikt op onderwijskwaliteit, maximale leerwinst en een optimale ontwikkeling voor alle leerlingen, met een model dat doenbaar en haalbaar blijft voor de schoolteams en alle andere betrokkenen. Het decreet werd op 3 mei 2023 aangenomen door het Vlaams Parlement.</p>",
+        "position": 37,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-05-05T08:00:00Z",
+        "meetingId": "644BD119CA1CB15B58CF5640",
+        "meetingTypePosition": 4,
+        "themeId": "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+        "agendaitemType": "Nota",
+        "uuid": "6453BF8C878C11494CF54331",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6453BF8C878C11494CF54331"
+    }
+}

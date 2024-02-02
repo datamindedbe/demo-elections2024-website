@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "621785D16BB7B593CFC17F52",
+    "attributes": {
+        "title": "Oprichtingsdecreet DAB Vervoersautoriteit",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet betreffende de Vervoersautoriteit, aangenomen door het Vlaams Parlement op 23 februari 2022",
+        "htmlContent": "De\u200b<strong>&nbsp;</strong>Vlaamse Regering beslist tot&nbsp;<strong>bekrachtiging en afkondiging van het decreet dat de Vervoersautoriteit opricht bij het departement Mobiliteit en Openbare Werken (MOW)</strong>. Het decreet voorziet in de mogelijkheid voor het departement MOW om personeelsleden van De Lijn over te nemen in het kader van de werking van de Vervoersautoriteit. De Vervoersautoriteit zal <strong>regietaken opnemen die verband houden met het vervoer op maat en het lijngebonden openbaar vervoer</strong>. Dit decreet is aangenomen door het Vlaams Parlement op 23 februari 2022.",
+        "position": 23,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2022-02-25T09:00:00Z",
+        "meetingId": "6213A9166BB7B593CFC17CAA",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "621785D16BB7B593CFC17F52",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/621785D16BB7B593CFC17F52"
+    }
+}

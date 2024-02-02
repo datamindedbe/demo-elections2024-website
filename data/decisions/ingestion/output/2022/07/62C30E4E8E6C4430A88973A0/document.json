@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "62C30E4E8E6C4430A88973A0",
+    "attributes": {
+        "title": "Rapportering over de werking van de werk- en zorgtrajecten",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 86,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2022-07-08T08:00:00Z",
+        "meetingId": "62C2FE0A8E6C4430A88972D2",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "62C30E4E8E6C4430A88973A0",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62C30E4E8E6C4430A88973A0"
+    }
+}

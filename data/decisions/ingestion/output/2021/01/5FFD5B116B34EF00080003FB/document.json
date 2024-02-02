@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FFD5B116B34EF00080003FB",
+    "attributes": {
+        "title": "Schriftelijke vraag van 6 januari 2021 van de heer Peter Van Rompuy, gesteld aan alle Vlaamse ministers, betreffende \"Vlaamse overheid - Uitbestede taken\"",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 21,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-01-15T09:00:00Z",
+        "meetingId": "5FFD4FA96B34EF00080002B1",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FFD5B116B34EF00080003FB",
+        "uri": "http://themis.vlaanderen.be/id/resource/773bd430-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

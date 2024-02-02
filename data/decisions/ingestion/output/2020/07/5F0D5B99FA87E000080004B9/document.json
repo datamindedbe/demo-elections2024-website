@@ -1,0 +1,43 @@
+{
+    "type": "news-item",
+    "id": "5F0D5B99FA87E000080004B9",
+    "attributes": {
+        "title": "Overdracht opdrachten rekrutering en selectie VLM en OE naar Ago",
+        "alternativeTitle": "Overdracht van een vacature en budget van de Vlaamse Landmaatschappij (VLM) en Onroerend Erfgoed (OE) naar het Agentschap Overheidspersoneel (AgO) door de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra",
+        "htmlContent": "                                          <!---->\n\nIn het kader van de rationalisatie van de managementondersteunende functies zijn bij de Vlaamse overheid drie gemeenschappelijke dienstencentra opgericht.&nbsp;Sinds 1 mei 2015 is het Agentschap Overheidspersoneel bevoegd voor rekrutering, selectie en herplaatsing. <strong>De Vlaamse Landmaatschappij (VLM) en Onroerend Erfgoed (OE) willen nu hun opdrachten rond rekrutering en selectie overdragen aan het Dienstencentrum Talent, Selectiecentrum van het Agentschap Overheidspersoneel (AgO).</strong> <strong>VLM en OE dragen daarvoor een vacature en budget over aan AgO.</strong> De Vlaamse Regering keurt nu deze personeelsoverdracht goed, met inwerkingtreding op 1 september 2020.\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 53,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Matthias",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Diependaele",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0710",
+            "5fed907ee6670526694a071b"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2020-07-17T08:00:00Z",
+        "meetingId": "5F0CA175FA87E00008000182",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5F0D5B99FA87E000080004B9",
+        "uri": "http://themis.vlaanderen.be/id/resource/d42046c0-4927-11ec-94bb-99a9d1e168fe"
+    }
+}

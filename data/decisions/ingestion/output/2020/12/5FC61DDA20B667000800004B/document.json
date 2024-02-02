@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FC61DDA20B667000800004B",
+    "attributes": {
+        "title": "Conceptnota: \u201cVlaamse havenstrategie\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2020-12-04T09:00:00Z",
+        "meetingId": "5FC5F96520B6670008000562",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FC61DDA20B667000800004B",
+        "uri": "http://themis.vlaanderen.be/id/resource/66150040-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

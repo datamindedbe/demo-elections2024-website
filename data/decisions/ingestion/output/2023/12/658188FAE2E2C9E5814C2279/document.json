@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "658188FAE2E2C9E5814C2279",
+    "attributes": {
+        "title": "Vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest: uitvoeringsbesluit",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering hecht haar <strong>principi\u00eble goedkeuring aan het besluit dat uitvoering geeft aan het decreet over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest</strong>. Zo worden de aanwijzingsvoorwaarden en de -procedures voor beheerders van lokale clusters en het vervoersnetwerk uitgewerkt, evenals de procedure voor het indienen van een ontwikkelingsplan. Daarnaast wordt het Europese Emissiehandelssysteem (Emissions Trading System, EU ETS)-regime voor de vervoersinstallaties verder uitgewerkt. Over dit uitvoeringsbesluit wordt het advies ingewonnen van de VREG, de SERV en de Minaraad.</p>",
+        "position": 86,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "658188FAE2E2C9E5814C2279",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/658188FAE2E2C9E5814C2279"
+    }
+}

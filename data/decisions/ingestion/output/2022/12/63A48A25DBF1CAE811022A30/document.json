@@ -1,0 +1,62 @@
+{
+    "type": "news-item",
+    "id": "63A48A25DBF1CAE811022A30",
+    "attributes": {
+        "title": "Aansluiting entiteiten bij selectiecentrum Agentschap Overheidspersoneel (AgO)",
+        "alternativeTitle": "A.\tOntwerpbesluit van de Vlaamse Regering tot overdracht van \n         personeelsleden van het agentschap Opgroeien Regie, Sport Vlaanderen en \n         de Vlaamse Belastingdienst aan het Agentschap Overheidspersoneel in het \n         kader van de uitbreiding van de gemeenschappelijke HR-dienstverlening\nB.\tOntwerpbesluit van de Vlaamse Regering tot herverdeling van kredieten \n         over programma\u2019s van de uitgavenbegroting van de Vlaamse Gemeenschap \n         voor het begrotingsjaar 2022",
+        "htmlContent": "Het regeerakkoord 2019-2024 bepaalt dat de <strong data-__set-by=\"rdfa-editor\">Vlaamse overheid</strong> als een holding zal functioneren, en dat versnippering wordt aangepakt door ondersteunende taken samen te brengen bij een gespecialiseerde dienst. Daarvoor wordt de <strong data-__set-by=\"rdfa-editor\">gemeenschappelijke HR-dienstverlening door het Agentschap Overheidspersoneel (AgO) uitgebreid</strong>. AgO wordt zo bevoegd voor alle statutaire en contractuele selecties bij de diensten van de Vlaamse overheid, met uitzondering van de Openbare Psychiatrische Ziekenhuizen Geel en Rekem en voor de selecties van functies waarvoor de lijnmanager zelf kan optreden als selector. In dat kader besliste de Vlaamse Regering al eerder tot overdracht van vacatures en budget van entiteiten die sinds 1 maart 2022 hun taken rond rekrutering en selectie ovehevelden naar het Agentschap Overheidspersoneel. De Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">keurt nu het besluit goed dat de overdracht regelt van personeelsleden van het Agentschap Opgroeien Regie, van Sport Vlaanderen, van de Vlaamse Belastingdienst en van de Vlaamse Maatschappij voor Sociaal Wonen naar het Agentschap Overheidspersoneel. </strong>Omdat de<strong data-__set-by=\"rdfa-editor\"> overdracht van deze budgetten en vacatures</strong> op verschillende tijdstippen doorheen het lopende jaar plaatsvond, keurt de Vlaamse Regering voor de bedragen die specifiek betrekking hebben op het begrotingsjaar 2022 eenmalig een <strong data-__set-by=\"rdfa-editor\">herverdelingsbesluit </strong>goed.",
+        "position": 26,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Ben",
+            "Matthias",
+            "Bart",
+            "Benjamin",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Weyts",
+            "Diependaele",
+            "Somers",
+            "Dalle",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "6ace9621-2236-4023-b77d-f4cb8dec1565",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-12-23T09:00:00Z",
+        "meetingId": "63A041CADBF1CAE8110217E9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "fa4e010f-84e9-4d65-9675-1604ad41de56",
+            "a1fe00b2-9c52-40c1-8c37-3b68a78f4318",
+            "872c910d-dd86-46b4-a3b0-0ff45df32702",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63A48A25DBF1CAE811022A30",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A48A25DBF1CAE811022A30"
+    }
+}

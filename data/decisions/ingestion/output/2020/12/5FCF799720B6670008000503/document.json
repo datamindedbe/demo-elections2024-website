@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FCF799720B6670008000503",
+    "attributes": {
+        "title": "Statistiek Vlaanderen: Vlaams Statistisch Programma 2021",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong data-editor-position-level=\"0\">keurt het Vlaams Statistisch Programma 2021 goed en verlengt het doelstellingenkader voor Statistiek Vlaanderen 2018-2020 met een jaar</strong>. De minister-president zal het Vlaams Statistisch Programma 2021 verder co\u00f6rdineren, opvolgen en evalueren. Het Vlaams&nbsp;Statistisch Programma 2021 is opgemaakt volgens de bepalingen voorzien in het Bestuursdecreet, en&nbsp;omvat de planning voor en uitvoering van de Lijst Vlaamse openbare statistieken, inclusief de horizonscan; de ontwikkeling en goedkeuring van het protocol Kwaliteitsstandaarden en het protocol rond Gegevensbescherming en -uitwisseling; de lijst met samenwerkingsaanvragen en de evaluatie van het kwaliteitsbeleid.&nbsp;",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-12-11T09:00:00Z",
+        "meetingId": "5FCE5AF620B66700080001AD",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "5FCF799720B6670008000503",
+        "uri": "http://themis.vlaanderen.be/id/resource/29d91440-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

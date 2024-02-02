@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "627BB1811C4A193816C31137",
+    "attributes": {
+        "title": "Groenblauwe infrastructuur in de bebouwde omgeving: 10 subsidiebesluiten",
+        "alternativeTitle": "Groenblauwe infrastructuur - bebouwde omgeving\n10 ontwerpbesluiten van de Vlaamse Regering tot toekenning van een subsidie",
+        "htmlContent": "\u200bIn het kader van de Blue Deal en het Vlaamse Veerkracht-programma organiseerde de Vlaamse Regering een&nbsp;<strong>subsidieoproep 'Groenblauwe dooradering in de bebouwde ruimte</strong>'. De subsidieoproep beoogt de meest ambitieuze steden en gemeenten te selecteren in Vlaanderen die een  voorbeeld  willen  zijn  voor  het  onthardings-  en  vergroeningsbeleid via  concrete  projecten,  beleidsverankering en het opnemen van een ambassadeursrol.  In dit kader&nbsp;<strong>kent ze nu een subsidie toe aan Antwerpen, Boutersem, Genk, Geraardsbergen, Harelbeke, Izegem, Kontich, Landen, Menen en Vorselaar</strong>, voor een totaal bedrag van&nbsp;<strong>9,73 miljoen euro</strong>. ",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2022-05-13T08:00:00Z",
+        "meetingId": "6278F8291C4A193816C30BDD",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "627BB1811C4A193816C31137",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/627BB1811C4A193816C31137"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "633BDBD8EB2A31D34EEC5E49",
+    "attributes": {
+        "title": "Protocol inzake het engagement van de ondertekenende partijen betreffende het personeel van de sociale huisvestingsmaatschappijen en de sociale verhuurkantoren in het Vlaamse Gewest",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 28,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "6ace9621-2236-4023-b77d-f4cb8dec1565",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2022-10-07T08:00:00Z",
+        "meetingId": "633BCDD5EB2A31D34EEC5D22",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "633BDBD8EB2A31D34EEC5E49",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633BDBD8EB2A31D34EEC5E49"
+    }
+}

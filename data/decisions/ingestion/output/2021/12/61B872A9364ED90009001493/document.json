@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B872A9364ED90009001493",
+    "attributes": {
+        "title": "1 miljoen euro strategische ecologiesteun aan Vandersanden Steenfabrieken nv in Bilzen",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering kent<strong>&nbsp;</strong><strong>1 miljoen euro strategische ecologiesteun</strong> toe&nbsp;<strong>aan Vandersanden Steenfabrieken nv in Bilzen</strong>.&nbsp;Vandersanden nv plant een <strong>investering om duurzamere, circulaire en CO2-arme gevelstenen</strong> <strong>te&nbsp;produceren</strong>. In een uniek&nbsp;productieproces worden&nbsp;gerecycleerde&nbsp;grondstoffen&nbsp;gebruikt, derivaten&nbsp;van een reststroom uit de staalindustrie. Vervolgens wordt door middel van carbonatatie-technologie CO2&nbsp;opgeslagen in het eindproduct.&nbsp;Het resultaat van het nieuwe productieproces zou leiden tot een reductie in broeikasgasemissies met 97% ten opzichte van klassieke baksteenproductie.",
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B872A9364ED90009001493",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B872A9364ED90009001493"
+    }
+}

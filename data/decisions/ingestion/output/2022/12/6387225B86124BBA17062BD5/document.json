@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "6387225B86124BBA17062BD5",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Herverdeling relanceprovisie naar begroting VRT voor het strategisch project 'VRTRN 2030: Een slagkrachtige, wendbare en effici\u00ebnte VRT in het nieuwe medialandschap'",
+        "alternativeTitle": "Herverdeling relanceprovisie naar de begroting van VRT naar aanleiding van de realisatie van het strategisch project VRTRN 2030: \u201cEen slagkrachtige, wendbare en effici\u00ebnte VRT in het nieuwe medialandschap\u201d",
+        "htmlContent": "In het kader van de digitale transformatie en innovatie van de Vlaamse mediasector herverdeelt de Vlaamse Regering <strong data-__set-by=\"rdfa-editor\">2 miljoen euro</strong> vanuit de relanceprovisie <strong data-__set-by=\"rdfa-editor\">naar de begroting van de VRT voor het realiseren van opleidingen in het kader van het project 'VRTRN 2030: Een slagkrachtige, wendbare en effici\u00ebnte VRT in het nieuwe medialandschap</strong>'. Met het project wil de VRT een antwoord bieden op snel wijzigende en nieuwe kijkpatronen die worden gekenmerkt door de integratie van digitale technologie met traditioneel lineair schermgebruik. Het strategisch plan VRTRN 2030 impliceert de <strong data-__set-by=\"rdfa-editor\">transformatie naar een 'digital first data-gedreven organisatie'</strong> maar binnen de grenzen en het kader van een publieke omroep: iedereen in de samenleving moet blijven bereikt worden.",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Benjamin",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Dalle",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding"
+        ],
+        "meetingDate": "2022-12-02T09:00:00Z",
+        "meetingId": "6385B8A686124BBA17062714",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "12f19487-9fc6-4c02-afc3-0015b1127144",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6387225B86124BBA17062BD5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6387225B86124BBA17062BD5"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6051B1093391400008000235",
+    "attributes": {
+        "title": "Aanpak en financiering voor de verdere ontwikkeling van een digitaal uitwisselingsplatform voor onteigeningen",
+        "alternativeTitle": null,
+        "htmlContent": "In uitvoering van het Vlaams Onteigeningsdecreet wordt in opdracht van de Vlaamse Regering werk gemaakt van de ontwikkeling van een <strong>Digitaal Platform Onteigenen</strong> (DUO). In een interbestuurlijke projectstructuur (met Vlaamse administraties, provincies, intercommunales en lokale besturen) werden alle bouwstenen uitgewerkt om tot de ontwikkeling van het DUO over te gaan. In dit kader keurt de Vlaamse Regering de <strong>verdere ontwikkeling</strong> van het DUO goed <strong>volgens de vooropgestelde scope en het verder vervolgtraject</strong>. De Vlaamse Regering legt het gebruik van het dossierbeheersysteem onteigeningen op als standaardtoepassing aan alle onteigenende instanties die gevat worden door artikels 6,1\u00b0en 6,2\u00b0 van het onteigeningsdecreet.",
+        "position": 36,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-03-19T09:00:00Z",
+        "meetingId": "604FB7DF3391400008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6051B1093391400008000235",
+        "uri": "http://themis.vlaanderen.be/id/resource/8df58190-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

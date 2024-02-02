@@ -1,0 +1,28 @@
+{
+    "type": "news-item",
+    "id": "64AE5A970592342F299DB9D2",
+    "attributes": {
+        "title": "Traject Weerbaar Water+Land+Schap",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering neemt kennis van de <strong>opstart en ontwikkeling van het project Weerbaar Water+Land+Schap</strong> en duidt de doelstellingen, de gebieden en het te doorlopen proces van het traject Weerbaar Water+Land+Schap. Het project zet de aanbevelingen vanuit het expertenadvies Weerbaar Waterland om in de praktijk en schaalt zo de principes van Water+Land+Schap op. Dit draagt bij aan de noodzakelijke transitie tot robuuste meanderende ecoystemen die water maximaal vasthouden alvorens het af te voeren, een duurzame voedselproductie en een aantrekkelijk en biodivers landschap. Voor dit traject is <strong>5 miljoen euro</strong> voorzien binnen het Vlaams Klimaatadaptatieplan.</p>",
+        "position": [
+            81,
+            82
+        ],
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AE5A970592342F299DB9D2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE5A970592342F299DB9D2"
+    }
+}

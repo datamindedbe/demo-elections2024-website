@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 57
+TOPIC_NAME: 2_—_Omgeving_-_2.3_Biodiversiteit_-_2.3.5_Nationale_parken,_regionale_landschappen_en_bosgroepen

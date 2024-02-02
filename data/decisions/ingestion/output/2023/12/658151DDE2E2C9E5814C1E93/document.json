@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "658151DDE2E2C9E5814C1E93",
+    "attributes": {
+        "title": "Besteding middelen Vlaams Klimaatfonds (VKF) voor de vrijwillige stopzetting van varkensstallen",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\"><span lang=\"NL-NL\" __rdfaid=\"d0d8c34b-03dd-4a64-8437-4e22505cdb77\" __tag=\"span\">De Vlaamse Regering </span><span lang=\"NL-NL\" __rdfaid=\"c6b051ce-a012-4828-8b65-cada37b648aa\" __tag=\"span\"><strong>keurt de reservering goed van 38 miljoen euro cofinancieringsmiddelen uit het Vlaams Klimaatfonds voor de steunregeling \u2018vrijwillige stopzetting van varkensstallen</strong></span><span lang=\"NL-NL\" __rdfaid=\"4fec8e22-176e-49d9-948e-f949a711506a\" __tag=\"span\">\u2019. De maatregel moet bijdragen aan de inspanningen om tegen 2030 30% minder varkens te hebben in Vlaanderen, en zo de ammoniakuitstoot van varkensstallen aanzienlijk te reduceren, zodat de depositie van stikstof op de Europees beschermde natuurgebieden daalt en de vooropgestelde natuurdoelstellingen gehaald kunnen worden. De regeling draagt ook bij tot de inspanningen om de doelstellingen van het Mestdecreet te bereiken, en het stopzetten van varkensstallen zal ook een positieve invloed hebben op het klimaat, door de daling van de uitstoot van broeikasgassen. </span> </p>",
+        "position": 68,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": "758c3c7d-5b60-4eff-9320-2431a3120d19",
+        "agendaitemType": "Nota",
+        "uuid": "658151DDE2E2C9E5814C1E93",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/658151DDE2E2C9E5814C1E93"
+    }
+}

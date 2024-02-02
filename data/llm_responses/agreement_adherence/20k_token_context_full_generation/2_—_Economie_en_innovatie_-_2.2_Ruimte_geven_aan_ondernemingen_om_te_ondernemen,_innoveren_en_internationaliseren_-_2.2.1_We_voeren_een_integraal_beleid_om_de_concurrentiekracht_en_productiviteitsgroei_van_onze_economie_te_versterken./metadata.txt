@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 59
+TOPIC_NAME: 2_—_Economie_en_innovatie_-_2.2_Ruimte_geven_aan_ondernemingen_om_te_ondernemen,_innoveren_en_internationaliseren_-_2.2.1_We_voeren_een_integraal_beleid_om_de_concurrentiekracht_en_productiviteitsgroei_van_onze_economie_te_versterken.

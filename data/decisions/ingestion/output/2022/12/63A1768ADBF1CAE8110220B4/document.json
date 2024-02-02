@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "63A1768ADBF1CAE8110220B4",
+    "attributes": {
+        "title": "Versterking juridisch kader digitalisering dienstverlening Vlaamse instanties: wijzigingsdecreet",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, het Bestuursdecreet van 7 december 2018 en het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap ter versterking van het kader voor digitale gegevensuitwisselingen",
+        "htmlContent": "De Vlaamse Regering hecht haar <strong data-__set-by=\"rdfa-editor\">principi\u00eble goedkeuring aan het voorontwerp van decreet dat enkele decreten rond digitale gegevensuitwisseling wijzigt</strong>. Het wijzigingsdecreet moet een <strong data-__set-by=\"rdfa-editor\">sterker juridisch kader cre\u00ebren voor de digitalisering van de dienstverlening door Vlaamse instanties</strong>. De digitalisering is bedoeld om het leven van burgers te vergemakkelijken, en de werking van de Vlaamse instanties te verbeteren. Over dit voorontwerp van wijzigingsdecreet wordt het advies ingewonnen van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens. ",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-12-23T09:00:00Z",
+        "meetingId": "63A041CADBF1CAE8110217E9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63A1768ADBF1CAE8110220B4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A1768ADBF1CAE8110220B4"
+    }
+}

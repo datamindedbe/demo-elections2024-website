@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60C84D47364ED900080002A4",
+    "attributes": {
+        "title": "Rapportering over de uitvoering van de beheersovereenkomst met de VRT over de activiteiten van het jaar 2020",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 64,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "d89222e1-eb8a-411f-8889-b1c1b688ab90",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd en Media",
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C8442F364ED9000800017D",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60C84D47364ED900080002A4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C84D47364ED900080002A4"
+    }
+}

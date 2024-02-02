@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63A17465DBF1CAE81102207D",
+    "attributes": {
+        "title": "Projectsubsidie gemeente Puurs-Sint-Amands met het oog op aankoop van te bebossen gronden - project Steenbossen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan de gemeente Puurs-Sint-Amands met het oog op aankoop van te bebossen gronden, gelegen te Puurs-Sint-Amands, Steenbossen",
+        "htmlContent": "De Vlaamse Regering kent <strong data-__set-by=\"rdfa-editor\">255.000 euro subsidie</strong> toe a<strong data-__set-by=\"rdfa-editor\">an de gemeente Puurs-Sint-Amands met het oog op de aankoop van te bebossen gronden in Puurs Sint-Amands, project Steenbossen</strong>. Het project kadert in de realisatie van bosuitbreiding in Vlaanderen.",
+        "position": 62,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2022-12-23T09:00:00Z",
+        "meetingId": "63A041CADBF1CAE8110217E9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63A17465DBF1CAE81102207D",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A17465DBF1CAE81102207D"
+    }
+}

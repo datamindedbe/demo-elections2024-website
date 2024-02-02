@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60C895EE364ED900080003D2",
+    "attributes": {
+        "title": "Uitbreiding toepassingsgebied zorgwonen met bijgebouwen en mobiele units: wijzigingsdecreet Vlaamse Codex Ruimtelijke Ordening",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat betreft zorgwonen, aangenomen door het Vlaams Parlement op 9 juni 2021",
+        "htmlContent": "<div data-loaded=\"true\" data-page-number=\"2\" data-editor-position-level=\"2\"><div data-editor-position-level=\"1\"><span data-editor-position-level=\"0\">De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening</strong>, over&nbsp;het zorgwonen.&nbsp;Steeds&nbsp;</span><span>meer Vlamingen met zorgbeh</span><span>oeften willen&nbsp;zo lang mogelijk in hun eigen thuisomgeving</span><span>&nbsp;blijven wonen en </span><span>thuis</span><span>zorg moet&nbsp;</span><span>bereikbaarder en betaalbaarder worden voor meer </span><span>mensen. Daarom beslist de Vlaamse Regering het&nbsp;<strong>toepassingsgebied van </strong></span><strong><span>zorgwonen op basis van </span></strong><strong><span>de </span></strong><span><strong>meldingsplicht uit te breiden,&nbsp;</strong><strong>zodat ook bestaande bijgebouwen en mobiele units voor zorgwonen gebruikt kunnen worden</strong>. Dit wijzigingsdecreet werd aangenomen door het Vlaams Parlement op 9 juni 2021.</span></div></div>",
+        "position": 51,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C8442F364ED9000800017D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60C895EE364ED900080003D2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C895EE364ED900080003D2"
+    }
+}

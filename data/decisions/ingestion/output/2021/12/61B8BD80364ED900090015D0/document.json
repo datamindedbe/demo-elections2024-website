@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B8BD80364ED900090015D0",
+    "attributes": {
+        "title": "Vlaamse havenstrategie",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering hecht haar definitieve goedkeuring aan de<strong> Vlaamse havenstrategie</strong>.&nbsp;Met de&nbsp;Vlaamse&nbsp;havenstrategie zet de Vlaamse overheid in op een verbreding en verdieping van het havenbeleid. Deze strategie beslaat een periode van tien jaar en bespreekt <strong>drie&nbsp;globale doelstellingen:&nbsp;</strong><span><strong>de concurrentiepositie versterken, duurzame groei en ontwikkeling realiseren, en de toegevoegde waarde verhogen</strong></span>.",
+        "position": 163,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B8BD80364ED900090015D0",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8BD80364ED900090015D0"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63C5790617E4B551F4BD0509",
+    "attributes": {
+        "title": "Rapportage actieplan ter preventie van gewelddadige radicalisering, extremisme, terrorisme en polarisatie",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 45,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-01-20T09:00:00Z",
+        "meetingId": "63C56A6C17E4B551F4BD0440",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "63C5790617E4B551F4BD0509",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63C5790617E4B551F4BD0509"
+    }
+}

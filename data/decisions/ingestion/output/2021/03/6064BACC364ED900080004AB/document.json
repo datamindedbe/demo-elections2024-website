@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6064BACC364ED900080004AB",
+    "attributes": {
+        "title": "Strategische Visienota Cultureel Erfgoed",
+        "alternativeTitle": null,
+        "htmlContent": "\n  \n          <!---->\n        \n De Vlaamse Regering <strong>hecht haar goedkeuring aan de Strategische Visienota Cultureel Erfgoed</strong>. De visienota wil&nbsp;drie doelstellingen bereiken: de dynamiek, eigenheid en uitstraling van het Vlaamse cultureel-erfgoedveld en de cultureel-erfgoedwerking waarborgen en stimuleren; de digitale transformatie aanmoedigen en versterken; en de huidige en toekomstige generatie warm maken voor het rijke en diverse erfgoed in Vlaanderen. De nota concretiseert het cultureel-erfgoedbeleid door prioriteiten en aandachtspunten mee te geven voor de volgende beleidsperiode, in hoofdzaak gericht op de uitvoering van het Cultureelerfgoeddecreet.&nbsp;Deze nota houdt verder&nbsp;geen enkel financieel of budgettair engagement in.&nbsp;\n",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-03-31T15:00:00Z",
+        "meetingId": "6064AD93364ED90008000498",
+        "meetingTypePosition": 3,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6064BACC364ED900080004AB",
+        "uri": "http://themis.vlaanderen.be/id/resource/79c77d90-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

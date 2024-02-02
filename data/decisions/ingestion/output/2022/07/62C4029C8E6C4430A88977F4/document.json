@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "62C4029C8E6C4430A88977F4",
+    "attributes": {
+        "title": "Uitvoeringsbesluit Cultuurerfgoeddecreet",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot uitvoering van het Cultureelerfgoeddecreet van 23 december 2021",
+        "htmlContent": "\u200bHet Cultureelerfgoeddecreet is het belangrijkste instrument ter ondersteuning van cultureel-erfgoedorganisaties in Vlaanderen en Brussel. Op basis van een evaluatie van de uitvoering van dit decreet werd een&nbsp;<strong data-__set-by=\"rdfa-editor\">optimalisatietraject&nbsp;</strong>opgestart in overleg met de cultureelerfgoedsector. Dit resulteerde in een&nbsp;<strong data-__set-by=\"rdfa-editor\">vernieuwd Cultureelerfgoeddecreet&nbsp;</strong>dat op 23 december 2021 werd bekrachtigd. Na advies van de Raad van State keurt de Vlaamse Regering definitief het&nbsp;<strong data-__set-by=\"rdfa-editor\">uitvoeringsbesluit</strong>&nbsp;goed waarin de criteria en de&nbsp;<strong data-__set-by=\"rdfa-editor\">procedures</strong>&nbsp;uitgewerkt zijn&nbsp;<strong data-__set-by=\"rdfa-editor\">om de verschillende instrumenten van het decreet in de praktijk te brengen</strong>. ",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "43c129cc-ba12-4457-b93e-737b7370c46e",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-07-08T08:00:00Z",
+        "meetingId": "62C2FE0A8E6C4430A88972D2",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62C4029C8E6C4430A88977F4",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62C4029C8E6C4430A88977F4"
+    }
+}

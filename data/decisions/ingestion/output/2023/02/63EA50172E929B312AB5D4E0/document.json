@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "63EA50172E929B312AB5D4E0",
+    "attributes": {
+        "title": "Conceptnota voor een ge\u00efntegreerd gezins- en jeugdhulpbeleid: \u201cVroeg & Nabij\u201d",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 38,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "bb2e174a-374e-447d-ad0c-002204b4561f",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+        "meetingDate": "2023-02-17T09:00:00Z",
+        "meetingId": "63EA4C692E929B312AB5D4AE",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "63EA50172E929B312AB5D4E0",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63EA50172E929B312AB5D4E0"
+    }
+}

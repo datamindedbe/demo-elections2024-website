@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 56
+TOPIC_NAME: 3_—_Werk_en_sociale_economie_-_3.2_Concrete_voorstellen_-_3.2.2_Werf_2_-_Loopbaanzekerheid_voor_iedereen_-_3.2.2.1_Dienstverlening_op_maat_van_een_performante_en_klantgerichte_overheid

@@ -1,0 +1,42 @@
+{
+    "type": "news-item",
+    "id": "64267C818A5434FEB565740F",
+    "attributes": {
+        "title": "Taaktoewijzing structurele opvolging Lokaal Energie- en Klimaatpact: tijdelijke personeelsversterking bij het Agentschap Binnenlands Bestuur",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap \u201cAgentschap Binnenlands Bestuur\u201d",
+        "htmlContent": "<p>Het veranderende klimaat stelt alle bestuursniveaus voor grote uitdagingen, en ook de lokale besturen nemen hierin hun rol op. Vlaanderen en de lokale besturen hebben de handen in elkaar geslagen om samen de nodige transitie in het energie- en klimaatbeleid waar te maken. In deze context werd het Lokaal Energie- en Klimaatpact opgestart. De Vlaamse Regering <strong>wijst de structurele opvolging van het lokaal energie- en klimaatpact met de lokale besturen toe aan het Agentschap Binnenlands Bestuur (ABB)</strong>. Ze keurt meteen ook de <strong>structurele en tijdelijke personeelsversterking</strong> binnen ABB hiervoor goed. Deze structurele en tijdelijke personeelsversterking valt buiten de lopende personeelsbesparingen bij de Vlaamse overheid.</p>",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Bart",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Somers",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "d283fd40-f781-4300-a913-60658e2aec85",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-03-31T08:00:00Z",
+        "meetingId": "6421A81A3335D329E25EDD30",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "45cfa0c9-82db-4487-8ad4-ca21fa6655ab"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64267C818A5434FEB565740F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64267C818A5434FEB565740F"
+    }
+}

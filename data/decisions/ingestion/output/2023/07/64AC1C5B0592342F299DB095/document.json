@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "64AC1C5B0592342F299DB095",
+    "attributes": {
+        "title": "Voortgangsrapportering regiovorming",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 164,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "64AC1C5B0592342F299DB095",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AC1C5B0592342F299DB095"
+    }
+}

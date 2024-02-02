@@ -1,0 +1,28 @@
+{
+    "type": "news-item",
+    "id": "64AE4E020592342F299DB997",
+    "attributes": {
+        "title": "Voorlopige aanduiding watergevoelig openruimtegebied \u2018Winkelveld\u2019 in Puurs-Sint-Amands",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de voorlopige aanduiding van het watergevoelig openruimtegebied \u2018Winkelveld\u2019 in Puurs-Sint-Amands",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering beslist tot <strong>voorlopige aanduiding van het gebied \u2018Winkelveld\u2019 in Puurs-Sint-Amands als watergevoelig openruimtegebied</strong> (WORG). Het aan te duiden gebied \u2018Winkelveld\u2019 is onbebouwd en bestaat uit tuinen, bossen en grasland. Het gebied is volgens het gewestplan gelegen in woonuitbreidingsgebied. Verder bebouwen van gebieden met een waterproblematiek kan leiden tot grotere overstromingsrisico's op andere plaatsen. De procedure om WORG's aan te duiden is daarom ingeschreven in de Vlaamse Codex Ruimtelijke Ordening, om de belangen van het watersysteem te beschermen. Daarbij zijn de stedenbouwkundige voorschriften bepaald die garanderen dat het gebied onbebouwd kan blijven en kan functioneren als onderdeel van het watersysteem. De Vlaamse minister, bevoegd voor Omgeving, zal hierover een openbaar onderzoek organiseren en een individuele kennisgeving sturen naar de eigenaars van percelen die geheel of gedeeltelijk binnen deze voorlopige aanduiding liggen. Getroffen eigenaars kunnen in aanmerking komen voor een compenserende vergoeding.</p>",
+        "position": [
+            67,
+            68
+        ],
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AE4E020592342F299DB997",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE4E020592342F299DB997"
+    }
+}

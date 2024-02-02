@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "62849C5F479218B0ED55BB14",
+    "attributes": {
+        "title": "Bevoegdheidsbesluit",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 2 oktober 2019 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+        "htmlContent": "\u200bDe Vlaamse Regering&nbsp;<strong>wijzigt het bevoegdheidsbesluit naar aanleiding van het ontslag van Wouter Beke en de daaropvolgende eedaflegging van Jo Brouns in het Vlaams Parlement</strong>.&nbsp;<strong>Hilde Crevits</strong>, viceminister-president van de Vlaamse Regering,&nbsp;<strong>wordt bevoegd voor het beleidsdomein Welzijn, Volksgezondheid en Gezin</strong>, met uitzondering van de bevoegdheid voor&nbsp;<strong>a</strong><strong>rmoedebeleid</strong>&nbsp;die wordt toegewezen aan&nbsp;<strong>Benjamin Dalle</strong>, en voor de&nbsp;<strong>zeevisserij</strong>.&nbsp;<strong>Jo Brouns</strong>&nbsp;wordt bevoegd voor de&nbsp;<strong>beleidsdomeinen Economie, Wetenschap en Innovatie, Werk en Sociale Economie, en Landbouw</strong>, met uitzondering van de bevoegdheid voor zeevisserij.\u200b",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2022-05-18T12:15:00Z",
+        "meetingId": "6283D619479218B0ED55BAF8",
+        "meetingTypePosition": 2,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "62849C5F479218B0ED55BB14",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62849C5F479218B0ED55BB14"
+    }
+}

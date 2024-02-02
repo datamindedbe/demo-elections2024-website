@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60ED3E0C364ED90008001323",
+    "attributes": {
+        "title": "Ondersteuning van de werking 'ondernemersvorming' bij Syntra",
+        "alternativeTitle": "A.\tStrategie Syntra-netwerk\nB.\tDrie ontwerpbesluiten van de Vlaamse Regering",
+        "htmlContent": "In de loop van 2020 werd de werking 'ondernemersvorming' van Syntra ondergebracht bij VLAIO. Tussen VLAIO en Syntra werd een vernieuwde strategie afgesproken voor de ondernemerschapstrajecten, en werd de gesloten oproep ondernemerschapstrajecten gelanceerd. De Vlaamse Regering <strong>stelt nu het kader vast waarbinnen Syntra de komende vijf jaar&nbsp;de ondernemerschapstrajecten uitrolt&nbsp;en keurt het concrete pakket ondernemerschapstrajecten voor het komende cursusjaar goed</strong>. Ze <strong>keurt tegelijk alle financieringsaspecten voor Syntra voor 2021 goed:</strong>&nbsp;het strategische kader voor Syntra binnen de gesloten oproep in de periode van 1 september 2021 tot 31 augustus 2026; de werkingssubsidie voor 1 september 2021 tot 31 augustus 2022; de werkingssubsidie voor de Brexit-gerelateerde werking en een compensatie voor de coronagerelateerde kosten tussen 1 januari 2021 en 30 juni 2021.",
+        "position": 23,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60ED3E0C364ED90008001323",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED3E0C364ED90008001323"
+    }
+}

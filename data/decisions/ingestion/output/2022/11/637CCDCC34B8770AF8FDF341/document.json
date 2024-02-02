@@ -1,0 +1,43 @@
+{
+    "type": "news-item",
+    "id": "637CCDCC34B8770AF8FDF341",
+    "attributes": {
+        "title": "Voorontwerp van decreet over verwerking van persoonsgegevens in het kader van multidisciplinaire samenwerking bij deelname aan casusoverleg",
+        "alternativeTitle": "Voorontwerp van decreet over de verwerking van de persoonsgegevens in het kader van een multidisciplinaire samenwerking bij deelname aan een casusoverleg op basis van artikel 458ter van het Strafwetboek",
+        "htmlContent": "<strong data-__set-by=\"rdfa-editor\">Politie, justitie en hulpverlening kunnen samen overleggen</strong>. Artikel 458ter van het Strafwetboek biedt een <strong data-__set-by=\"rdfa-editor\">wettelijk kader voor </strong>zo'n <strong data-__set-by=\"rdfa-editor\">casusoverleg</strong>. De Vlaamse Regering hecht nu haar principi\u00eble goedkeuring aan het <strong data-__set-by=\"rdfa-editor\">voorontwerp van decreet over de verwerking van persoonsgegevens in het kader van multidisciplinaire samenwerking bij deelname aan casusoverleg </strong>door organisaties die vallen onder de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest. Artikel 458ter voorziet in de mogelijkheid tot het <strong data-__set-by=\"rdfa-editor\">doorbreken van het beroepsgeheim en informatie-uitwisseling</strong> op een casusoverleg, maar een <strong data-__set-by=\"rdfa-editor\">rechtsgrond voor de verwerking van persoonsgegevens</strong> ontbreekt daarbij. Dit decreet komt daaraan tegemoet. Over dit voorontwerp van decreet wordt het advies ingewonnen van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens.",
+        "position": 20,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Zuhal",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Demir",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2022-11-25T11:00:00Z",
+        "meetingId": "637B67FA34B8770AF8FDEE67",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "637CCDCC34B8770AF8FDF341",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/637CCDCC34B8770AF8FDF341"
+    }
+}

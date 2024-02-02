@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6092A857364ED90008000023",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: dossier 171",
+        "alternativeTitle": "Kapitaalsverhoging van FIDIMEC nv in het kader van de participatie in het Imec.xpand II investeringsfonds",
+        "htmlContent": "In 2017 werd het Imec.xpand-fonds gelanceerd. De Vlaamse overheid participeerde mee in dit fonds, via een kapitaalsverhoging in FIDIMEC nv. De investeringsperiode van Imec.xpand loopt tot februari 2022. Daarna kan het fonds enkel bijkomend investeren in bedrijven die op dat ogenblik al in de portefeuille zitten. Om de continu\u00efteit van de investeringen te garanderen, is beslist om een nieuw Imec-xpand-fonds op te zetten. In het kader van het <strong data-editor-position-level=\"0\">project Vlaamse Veerkracht VV171&nbsp;'Vlaanderen chiplab van de wereld'</strong> <strong>gaat </strong>de&nbsp;Vlaamse Regering <strong>nu akkoord met een kapitaalsverhoging van FIDIMEC nv voor een bedrag van 30 miljoen euro, voor participatie in het Imec.xpand II fonds.&nbsp;</strong>",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-05-07T08:00:00Z",
+        "meetingId": "609116D6364ED90008000DCC",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6092A857364ED90008000023",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6092A857364ED90008000023"
+    }
+}

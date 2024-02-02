@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "6012CDCF6B34EF0009000227",
+    "attributes": {
+        "title": "Voorwaarden schuldovername vrijwillige samenvoeging gemeenten",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de voorwaarden voor de schuldovername in het kader van een vrijwillige samenvoeging van gemeenten op 1 januari 2025",
+        "htmlContent": "De Vlaamse Regering wil<strong> fusies van gemeenten</strong> <strong>stimuleren</strong>. Ze werkt daarvoor een<strong> financieel ondersteuningspakket </strong>uit, voor fusieoperaties van een bepaalde minimale schaalgrootte en die ingaan vanaf de nieuwe lokale bestuursperiode op 1 januari 2025. De financi\u00eble ondersteuning (schuldovername) wordt gedifferentieerd naargelang de bereikte schaalgrootte. Gemeenten kunnen tot uiterlijk 31 december 2023 een gezamenlijk voorstel indienen tot samenvoeging per 1 januari 2025 om te kunnen genieten van een overname van (een deel van) hun schulden door de Vlaamse overheid.&nbsp;De Vlaamse Regering <strong>keurt nu, na advies van de Raad van State, definitief&nbsp;het besluit goed dat de voorwaarden vastlegt voor deze schuldovername.</strong>\u200b",
+        "position": 15,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Matthias",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Diependaele",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0710",
+            "5fed907ee6670526694a071b"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+            "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed"
+        ],
+        "meetingDate": "2021-01-29T09:00:00Z",
+        "meetingId": "600FC1BE6B34EF0009000006",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6012CDCF6B34EF0009000227",
+        "uri": "http://themis.vlaanderen.be/id/resource/43d6c910-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

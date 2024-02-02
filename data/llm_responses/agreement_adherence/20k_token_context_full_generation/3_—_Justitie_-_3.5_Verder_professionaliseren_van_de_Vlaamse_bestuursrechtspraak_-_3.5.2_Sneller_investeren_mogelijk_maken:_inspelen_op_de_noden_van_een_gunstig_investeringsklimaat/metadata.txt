@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 50
+TOPIC_NAME: 3_—_Justitie_-_3.5_Verder_professionaliseren_van_de_Vlaamse_bestuursrechtspraak_-_3.5.2_Sneller_investeren_mogelijk_maken:_inspelen_op_de_noden_van_een_gunstig_investeringsklimaat

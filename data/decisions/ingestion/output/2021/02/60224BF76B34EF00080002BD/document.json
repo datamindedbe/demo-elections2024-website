@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60224BF76B34EF00080002BD",
+    "attributes": {
+        "title": "Aanpak Tijdelijk Werklozen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 38,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "5fed907ee6670526694a070d",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-02-12T09:00:00Z",
+        "meetingId": "602231C76B34EF00080000CD",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60224BF76B34EF00080002BD",
+        "uri": "http://themis.vlaanderen.be/id/resource/0a01a3e0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

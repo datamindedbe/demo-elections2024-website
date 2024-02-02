@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6268F32C1C4A193816C2FB61",
+    "attributes": {
+        "title": "Regierol gemeenten op vlak van sociale economie en werk",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot bepaling van de lokale regierol van de gemeenten op het vlak van sociale economie en werk",
+        "htmlContent": "De Vlaamse Regering wil <strong>op het vlak van werk en sociale economie sterker samenwerken met de lokale besturen</strong>, om zo <strong>meer maatwerk</strong> te leveren i<strong>n een breder activeringsbeleid, inspelend op de eigenheid van de subregio of stad en haar werkzoekenden, leefloners en niet-beroepsactieven</strong>. Na adviezen van de SERV, van de VVSG en van de Raad van State<strong>&nbsp;keurt ze&nbsp;</strong>daarom&nbsp;<strong>definitief het besluit goed dat de regierol van de gemeenten op het vlak van sociale economie verbreedt tot een lokale regierol op het vlak van sociale economie en werk</strong>. ",
+        "position": 9,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2022-04-29T08:00:00Z",
+        "meetingId": "62669B821C4A193816C2F868",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6268F32C1C4A193816C2FB61",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6268F32C1C4A193816C2FB61"
+    }
+}

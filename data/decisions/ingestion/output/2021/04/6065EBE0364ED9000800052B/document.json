@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "6065EBE0364ED9000800052B",
+    "attributes": {
+        "title": "Relanceplan voor de toeristische sector",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 64,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2021-04-02T08:00:00Z",
+        "meetingId": "60621A12364ED9000800000A",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "6065EBE0364ED9000800052B",
+        "uri": "http://themis.vlaanderen.be/id/resource/5d62d050-4924-11ec-94bb-99a9d1e168fe"
+    }
+}

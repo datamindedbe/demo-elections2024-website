@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FD8974B6B34EF0008000A08",
+    "attributes": {
+        "title": "Vlaamse toeleidingscommissie bij het Vlaams Agentschap voor Personen met een Handicap  (VAPH): benoeming leden en voorzitters",
+        "alternativeTitle": null,
+        "htmlContent": "Ontwerp van ministerieel besluit tot benoeming van de leden en voorzitters van de Vlaamse toeleidingscommissie bij het Vlaams Agentschap voor Personen met een Handicap",
+        "position": 149,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "5fed907ee6670526694a0719",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FD8974B6B34EF0008000A08",
+        "uri": "http://themis.vlaanderen.be/id/resource/ad0694b0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

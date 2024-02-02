@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B8C1B3364ED900090015EA",
+    "attributes": {
+        "title": "Programma ESF+ Vlaanderen 2021-2027 (Europees Sociaal Fonds)",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong>keurt het Vlaamse&nbsp;ESF+programma 2021-2027 (Europees Sociaal Fonds)&nbsp;in het kader van de Europese Structuurfondsen goed, met het oog op de indiening bij de Europese Commissie voor beoordeling en goedkeuring.</strong>&nbsp;<span data-editor-position-level=\"0\">Het Vlaamse ESF+programma 2021-2027 wil de toegang tot de arbeidsmarkt versterken, sociale inclusie en&nbsp;levenslang leren bevorderen, investeren in werkbare jobs en een inclusieve arbeidsmarkt, en sociale innovatie verhogen.&nbsp;</span>De Vlaamse minister bevoegd voor Werk en Sociale Economie zal zorgen voor de indiening bij de Europese Commissie en voor de vastlegging van de Vlaamse cofinanciering aan de Technische Bijstand.&nbsp;&nbsp;",
+        "position": 52,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B8C1B3364ED900090015EA",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8C1B3364ED900090015EA"
+    }
+}

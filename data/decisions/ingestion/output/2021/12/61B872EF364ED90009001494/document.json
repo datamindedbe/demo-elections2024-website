@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61B872EF364ED90009001494",
+    "attributes": {
+        "title": "Statistiek Vlaanderen: Vlaams Statistisch Programma 2022-2024",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering <strong>keurt het Vlaams Statistisch Programma 2022-2024 goed.</strong> In het programma is voor het eerst een meerjarenplanning uitgewerkt voor de Vlaamse Statistische Autoriteit (VSA) en voor het netwerk Statistiek Vlaanderen. De planning omvat de strategische en operationele doelstellingen 2022-2024 en de statistiekbehoeften van de gebruikers. Het luik evaluatie blikt terug op de uitvoering van het doelstellingenkader tijdens de periode 2018-2021.&nbsp;De Vlaamse minister-president zal het Vlaams Statistisch Programma verder co\u00f6rdineren, opvolgen en evalueren.&nbsp;",
+        "position": 5,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-12-17T09:00:00Z",
+        "meetingId": "61B760B9364ED900090008A6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61B872EF364ED90009001494",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61B872EF364ED90009001494"
+    }
+}

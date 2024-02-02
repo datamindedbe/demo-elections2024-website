@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FCF8D7A20B6670008000513",
+    "attributes": {
+        "title": "Vaststelling verkeersverordening havenvoertuigen in de haven van Antwerpen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de verordening voor het verkeer van havenvoertuigen in de haven van Antwerpen",
+        "htmlContent": "<span>Na advies&nbsp;van de Raad van State&nbsp;stelt d</span>e Vlaamse Regering&nbsp;definitief&nbsp;de <strong>verordening</strong> vast&nbsp;<strong>voor het verkeer van havenvoertuigen in de haven van Antwerpen</strong>. Met dit besluit wordt een <strong>reglementair kader</strong> gecre\u00eberd waarmee havenvoertuigen in het havengebied Antwerpen op basis van technische eisen passend bij de eigenheid van deze voertuigen, kunnen worden ingezet met garandering van de verkeersveiligheid en de integriteit van de wegen en structuren in het havengebied.",
+        "position": 57,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2020-12-11T09:00:00Z",
+        "meetingId": "5FCE5AF620B66700080001AD",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FCF8D7A20B6670008000513",
+        "uri": "http://themis.vlaanderen.be/id/resource/2b4cef90-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

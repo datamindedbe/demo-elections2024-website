@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61C1D88D364ED9000800063A",
+    "attributes": {
+        "title": "Raad van bestuur Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB): aanstelling nieuwe voorzitter",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende aanstelling van een nieuwe voorzitter van de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+        "htmlContent": "De voorzitter van de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)&nbsp;wordt benoemd door de Vlaamse Regering voor een hernieuwbare termijn van vijf jaar. De Vlaamse Regering <strong>stelt nu Elke Jeurissen aan als nieuwe voorzitter van de raad van bestuur van VDAB</strong>, ter vervanging van Luc Cortebeeck.",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-12-21T13:00:00Z",
+        "meetingId": "61C1D154364ED90008000619",
+        "meetingTypePosition": 3,
+        "themeId": "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+        "agendaitemType": "Nota",
+        "uuid": "61C1D88D364ED9000800063A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61C1D88D364ED9000800063A"
+    }
+}

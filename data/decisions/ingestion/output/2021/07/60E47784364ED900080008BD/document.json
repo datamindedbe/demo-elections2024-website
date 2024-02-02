@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60E47784364ED900080008BD",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: 1,2 miljoen euro steun aan het initiatief om bedrijven te verenigen in het kader van Slimme Regio Vlaanderen",
+        "alternativeTitle": "Subsidie aanbodvereniging Slimme Regio Vlaanderen\nOntwerpbesluit van de Vlaamse Regering tot toekenning van steun aan het initiatief om de bedrijven te verenigen in het kader van Slimme Regio Vlaanderen",
+        "htmlContent": "In het kader van het Relanceplan 'Vlaamse Veerkracht' kent de Vlaamse Regering <strong>1,2 miljoen euro steun</strong> toe <strong>a</strong><strong>an het initiatief om bedrijven te verenigen in het kader van Slimme Regio Vlaanderen</strong>. Het is de bedoeling om het bedrijfsleven de volgende vier jaar de kans te geven hun krachten te bundelen om <strong>innovaties te realiseren en te vermarkten</strong>.",
+        "position": 8,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E41FB4364ED90008000724",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E47784364ED900080008BD",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E47784364ED900080008BD"
+    }
+}

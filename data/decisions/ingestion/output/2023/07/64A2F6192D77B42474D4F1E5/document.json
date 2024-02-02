@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64A2F6192D77B42474D4F1E5",
+    "attributes": {
+        "title": "Vlaamse Radio- en Televisieomroep (VRT): subsidie VRTRN-project digitale inclusie",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan de Vlaamse Radio- en Televisieomroep (VRT) voor het VRTRN-project digitale inclusie",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>kent </strong>voor de periode van 1 juni 2023 tot 31 mei 2024<strong> een projectsubsidie van 2,055 miljoen euro toe aan de VRT voor het VRTRN-project digitale inclusie</strong>. Concreet zal de VRT 10 projecten opzetten met de focus op digitale inclusie en mediawijsheid die door de verschillende VRT-merken uitgewerkt zullen worden. Het project zet op grote schaal in op vaardigheden, kennis en bewustzijn rond digitale inclusie bij de Vlaming en op het stimuleren van ondersteuningsnetwerken van mensen die andere mensen helpen met digitale vragen. Het geeft daarmee uitvoering aan de maatschappelijke doelstelling rond het verkleinen van de digitale kloof <span lang=\"NL\" __rdfaid=\"90f9c484-d3c0-4772-b630-b54d120d4465\" __tag=\"span\">en komt bovenop de reguliere publieke opdracht van de VRT</span>.</p>",
+        "position": 32,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "8dcdc330-348d-4f69-b10c-02f584adb9af",
+            "38e5e0e9-52c7-4f7d-b92b-16eee0edd193"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "12f19487-9fc6-4c02-afc3-0015b1127144"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64A2F6192D77B42474D4F1E5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A2F6192D77B42474D4F1E5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "news-item",
+    "id": "6425801D8A5434FEB565729F",
+    "attributes": {
+        "title": "Verzameldecreet MOW III: diverse bepalingen gemeenschappelijk vervoer, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet over diverse bepalingen over het gemeenschappelijk vervoer, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid, \naangenomen door het Vlaams Parlement op 30 maart 2023",
+        "htmlContent": "<p>De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging</strong> van het <strong>decreet met diverse bepalingen over het gemeenschappelijk vervoer, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid</strong>. Dit verzameldecreet werd op 29 maart 2023 aangenomen door het Vlaams Parlement.</p>",
+        "position": 52,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-03-31T08:00:00Z",
+        "meetingId": "6421A81A3335D329E25EDD30",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "97028dc8-9a4a-466f-a9b9-244bae08221e",
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6425801D8A5434FEB565729F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6425801D8A5434FEB565729F"
+    }
+}

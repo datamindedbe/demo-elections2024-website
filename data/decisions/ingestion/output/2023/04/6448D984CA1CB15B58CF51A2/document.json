@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "6448D984CA1CB15B58CF51A2",
+    "attributes": {
+        "title": "Wolfwerende maatregelen: wijziging bevoegdheid toekenning subsidies",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 26 november 2021 tot vaststelling van de regels voor de subsidi\u00ebring van wolfwerende maatregelen",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>wijzigt principieel haar besluit over de regels voor het subsidi\u00ebren van wolfwerende maatregelen</strong>. De wijziging maakt het mogelijk dat <strong>de bevoegdheid om een subsidie toe te kennen</strong> voor wolfwerende maatregelen, <strong>bij het hoofd van het Agentschap Natuur en Bos</strong> komt te liggen. Dit moet zorgen voor een snellere en meer effici\u00ebnte dienstverlening voor de burger. De subsidie beoogt een tegemoetkoming in de extra kosten die gemaakt worden door niet-professionele veehouders voor het aanpassen van hun omheiningen om wolfaanvallen op vee tegen te gaan. Over dit besluit wordt nog het advies ingewonnen van de Raad van State.</p>",
+        "position": 20,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "aa642a1e-7cc4-44da-9a6b-bce625761c5f",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-04-28T08:00:00Z",
+        "meetingId": "644686DCCA1CB15B58CF4D21",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "6448D984CA1CB15B58CF51A2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/6448D984CA1CB15B58CF51A2"
+    }
+}

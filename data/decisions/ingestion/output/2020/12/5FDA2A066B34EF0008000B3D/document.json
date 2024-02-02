@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "5FDA2A066B34EF0008000B3D",
+    "attributes": {
+        "title": "Havens: havenkapiteindiensten en sluizen",
+        "alternativeTitle": "Acht ontwerpen van overeenkomst",
+        "htmlContent": "De Vlaamse Regering <strong>keurt de overeenkomsten goed over de financi\u00eble tegemoetkomingen van het Vlaams Gewest voor de havenkapiteinsdienst 2020</strong> en over de <strong>vergoeding van het Vlaams Gewest voor de instandhouding, het onderhoud en de exploitatie van de binnen het havengebied gelegen zeesluizen voor de havens van Antwerpen, Oostende en Zeebrugge en voor de kanaaldokken en zwaaikommen in de haven van Antwerpen.</strong> De bevoegde minister zal zorgen voor de uitvoering van deze overeenkomsten en voor de subsidies per havenbedrijf.",
+        "position": 130,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "5fed907ee6670526694a071c",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "da98cfcb-f30f-46ef-a7a6-c8aeb7bf4af7",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FDA2A066B34EF0008000B3D",
+        "uri": "http://themis.vlaanderen.be/id/resource/aca16a40-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

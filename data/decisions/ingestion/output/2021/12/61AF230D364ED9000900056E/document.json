@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "61AF230D364ED9000900056E",
+    "attributes": {
+        "title": "Deelname van Vlaams minister-president Jan Jambon aan de Vlaamse week op Expo 2020 te Dubai (23-28 oktober 2021): verslag",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 75,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-12-10T09:00:00Z",
+        "meetingId": "61AE2A82364ED9000900011A",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "61AF230D364ED9000900056E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF230D364ED9000900056E"
+    }
+}

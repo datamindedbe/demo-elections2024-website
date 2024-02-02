@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 63
+TOPIC_NAME: 2_—_Omgeving_-_2.4_Circulaire_samenleving_-_2.4.2_Concrete_maatregelen_-_2.4.2.1_Economie

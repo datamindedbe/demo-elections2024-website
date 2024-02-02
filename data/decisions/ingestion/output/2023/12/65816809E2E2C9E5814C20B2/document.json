@@ -1,0 +1,28 @@
+{
+    "type": "news-item",
+    "id": "65816809E2E2C9E5814C20B2",
+    "attributes": {
+        "title": "Fusie Departement Economie, Wetenschap en Innovatie (EWI) en Departement Werk en Sociale Economie (WSE): waarnemend secretaris-generaal",
+        "alternativeTitle": "A.\tTwee ontwerpbesluiten van de Vlaamse Regering\nB.\tAanstelling transitiecomit\u00e9",
+        "htmlContent": "<p data-indentation-level=\"0\">Op 31 maart 2024 eindigt het mandaat van <strong>Dirk Vanderpoorten, secretaris-generaal van het Departement Werk en Sociale Economie</strong>. De Vlaamse Regering verleent hem <strong>eervol ontslag met ingang van 1 april 2024</strong>. In navolging van de afspraken in het Vlaams Regeerakkoord 2019-2024 wordt het Departement Werk en Sociale Economie op 1 januari 2025 ingekanteld in het Departement Economie, Wetenschap en Innovatie, dat dan een nieuwe naam krijgt. Voor de <strong>transitieperiode van 1 april 2024 tot en met 31 december 2024</strong> stelt de Vlaamse Regering <strong>Ann Van den Cruyce</strong> aan als <strong>waarnemend secretaris-generaal voor het Departement Werk en Sociale Economie</strong>. Daarnaast wordt een <strong>transitiecomit\u00e9</strong> opgericht om de inkanteling in goede banen te leiden. <strong>Johan Hanssens</strong> wordt aangeduid als voorzitter/<strong>transitiemanager</strong>.</p>",
+        "position": 141,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "384269c5-542a-4c95-aec6-c6b250fca93e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "fd6c39f5-cf5c-4a74-aff2-2eb5b4999a51",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47",
+            "8fe54f8f-c83a-436d-8234-e683fccae582"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "65816809E2E2C9E5814C20B2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65816809E2E2C9E5814C20B2"
+    }
+}

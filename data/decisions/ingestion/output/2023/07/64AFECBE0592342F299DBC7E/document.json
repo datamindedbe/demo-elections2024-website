@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64AFECBE0592342F299DBC7E",
+    "attributes": {
+        "title": "Uitbreiding bevoegdheid Raad voor Vergunningsbetwistingen: wijzigingsdecreet",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges en het decreet van 25 april 2014 betreffende complexe projecten, wat betreft de uitbreiding van de rechtsmacht van de Raad voor Vergunningsbetwistingen, aangenomen door het Vlaams Parlement op 12 juli 2023",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging</strong> van het <strong>decreet dat de Vlaamse Codex Ruimtelijke Ordening, het decreet over de Vlaamse bestuursrechtscolleges en het decreet over complexe projecten wijzigt</strong>. Het wijzigingsdecreet zorgt ervoor dat de <strong>Raad voor Vergunningsbetwistingen bevoegd </strong>wordt <strong>voor de behandeling van beroepen tegen besluiten tot definitieve vaststelling van ruimtelijke uitvoeringsplannen en stedenbouwkundige verordeningen, en van beroepen tegen definitieve voorkeursbesluiten en projectbesluiten rond complexe projecten</strong>. Het wijzigingsdecreet werd op 12 juli 2023 aangenomen door het Vlaams Parlement.</p>",
+        "position": 148,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "91b7d388-3260-4444-90ca-9b08f612dfe4"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64AFECBE0592342F299DBC7E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64AFECBE0592342F299DBC7E"
+    }
+}

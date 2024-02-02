@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "5E4B9930A19C1A0008000144",
+    "attributes": {
+        "title": "Overdracht personeelsleden dienstencentra",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot overdracht van personeelsleden binnen de diensten van de Vlaamse overheid door de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra",
+        "htmlContent": "                                          <!---->\n\n De Vlaamse Regering <strong>keurt het besluit goed dat de overdracht regelt van 6 statutaire en 3 contractuele personeelsleden van Opgroeien Regie naar het Agentschap Overheidspersoneel </strong>in het kader van de aansluiting van Opgroeien Regie op de gemeenschappelijke dienstverlening van het Agentschap Overheidspersoneel. De overdracht kadert in de rationalisatie&nbsp;van managementondersteunende  functies en de oprichting van drie gemeenschappelijke dienstencentra voor de Vlaamse overheid.\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 11,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Bart",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Somers",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0719",
+            "5fed907ee6670526694a0710"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2020-02-21T09:00:00Z",
+        "meetingId": "5E4B9376A19C1A0008000099",
+        "meetingTypePosition": 4,
+        "themeId": "abebd345-3650-400c-b317-9a8da2760f21",
+        "agendaitemType": "Nota",
+        "uuid": "5E4B9930A19C1A0008000144",
+        "uri": "http://themis.vlaanderen.be/id/resource/9f658f50-492a-11ec-94bb-99a9d1e168fe"
+    }
+}

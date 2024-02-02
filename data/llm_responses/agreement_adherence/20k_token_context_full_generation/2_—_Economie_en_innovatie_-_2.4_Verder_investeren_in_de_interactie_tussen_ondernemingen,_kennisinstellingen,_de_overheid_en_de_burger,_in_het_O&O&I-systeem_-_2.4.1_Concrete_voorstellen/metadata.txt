@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 51
+TOPIC_NAME: 2_—_Economie_en_innovatie_-_2.4_Verder_investeren_in_de_interactie_tussen_ondernemingen,_kennisinstellingen,_de_overheid_en_de_burger,_in_het_O&O&I-systeem_-_2.4.1_Concrete_voorstellen

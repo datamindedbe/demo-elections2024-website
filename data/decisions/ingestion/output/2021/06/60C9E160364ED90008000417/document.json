@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60C9E160364ED90008000417",
+    "attributes": {
+        "title": "Plan Vlaamse Veerkracht: Blended care jeugdhulp",
+        "alternativeTitle": "Blended care jeugdhulp",
+        "htmlContent": "In het kader van het relanceplan Vlaamse Veerkracht<strong> </strong><strong>keurt de Vlaamse Regering het plan van aanpak&nbsp;goed om&nbsp;blended care en digitalisering in de sector van de jeugdhulp duurzaam&nbsp;</strong><strong>te stimuleren en te versterken</strong>. Het plan zet in op 4 pijlers: veilig digitaal communiceren&nbsp;voorzien voor jongeren, ouders en&nbsp;hulpverleners; blended-care tools selecteren en ontsluiten; een Jongerenprofiel voorzien zodat jongeren hun eigen informatie en verslagen rond jeugdhulp veilig en eenvoudig&nbsp;kunnen raadplegen en delen; en gedeelde digitale werkruimtes voorzien voor veilige en eenvoudige&nbsp;samenwerking tussen verschillende actoren.&nbsp;Voor dit plan is in totaal&nbsp;5 miljoen euro vrijgemaakt. Agentschap Opgroeien zal zorgen voor de uitvoering van de eerste fase.&nbsp;",
+        "position": 7,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C84FC9364ED9000800031A",
+        "meetingTypePosition": 1,
+        "themeId": [
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60C9E160364ED90008000417",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9E160364ED90008000417"
+    }
+}

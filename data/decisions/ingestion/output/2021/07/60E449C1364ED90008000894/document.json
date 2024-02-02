@@ -1,0 +1,27 @@
+{
+    "type": "news-item",
+    "id": "60E449C1364ED90008000894",
+    "attributes": {
+        "title": "Visienota 'Internationaal beurzenprogramma'",
+        "alternativeTitle": null,
+        "htmlContent": "De Vlaamse Regering hecht haar goedkeuring aan de<strong>&nbsp;</strong><strong>Visienota 'Internationaal beurzenprogramma'</strong>.&nbsp;Om Vlaanderen als innovatieve topregio nog meer op de kaart te zetten, wordt er een nieuw beurzenprogramma opgezet <strong>waarin jaarlijks de beste studenten een kans krijgen om hun academisch traject met een jaar te verlengen aan de in hun vakgebied beste kenniscentra in de wereld</strong>.&nbsp;De kost van dergelijke studies vormt vaak een barri\u00e8re. Het beurzenprogramma wil deze barri\u00e8re wegnemen om de meest talentvolle Vlaamse studenten de kans te bieden te excelleren in hun vakgebied.&nbsp;Door het genereren van een internationaal netwerk van Vlaamse topstudenten en -alumni, wil dit beurzenprogramma bijdragen tot het&nbsp;verder versterken van de zichtbaarheid en slagkracht van Vlaanderen in het buitenland.",
+        "position": 6,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E449C1364ED90008000894",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E449C1364ED90008000894"
+    }
+}

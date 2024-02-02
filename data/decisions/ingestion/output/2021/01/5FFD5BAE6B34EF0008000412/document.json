@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FFD5BAE6B34EF0008000412",
+    "attributes": {
+        "title": "Knelpuntfuncties binnen de Vlaamse overheid",
+        "alternativeTitle": null,
+        "htmlContent": "Ministerieel besluit tot vaststelling van de knelpuntfuncties binnen de diensten van de Vlaamse overheid",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "5fed907ee6670526694a0710",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-01-15T09:00:00Z",
+        "meetingId": "5FFD4FA96B34EF00080002B1",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FFD5BAE6B34EF0008000412",
+        "uri": "http://themis.vlaanderen.be/id/resource/785e0d10-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

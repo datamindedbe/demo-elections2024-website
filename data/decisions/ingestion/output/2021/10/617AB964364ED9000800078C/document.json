@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "617AB964364ED9000800078C",
+    "attributes": {
+        "title": "Zending van Vlaams minister Lydia Peeters naar Parijs (5 november 2021): programma",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Lydia",
+        "mandateeFamilyNames": "Peeters",
+        "mandateeIds": "3dc729d9-94b7-41f7-8c91-cc30951d6a56",
+        "mandateeTitles": "Vlaams minister van Mobiliteit en Openbare Werken",
+        "meetingDate": "2021-10-29T09:15:00Z",
+        "meetingId": "6176740D364ED90008000389",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "617AB964364ED9000800078C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/617AB964364ED9000800078C"
+    }
+}

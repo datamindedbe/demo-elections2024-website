@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 58
+TOPIC_NAME: 7_—_Onroerend_erfgoed_-_7.2_Concrete_voorstellen_-_7.2.3_Het_agentschap_en_onze_prioritaire_partners

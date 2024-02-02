@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 45
+TOPIC_NAME: 1_—_Welzijn_-_1.2_Concrete_voorstellen_-_1.2.2_Werf_2:_Geïntegreerde_en_kwaliteitsvolle_zorg_en_ondersteuning

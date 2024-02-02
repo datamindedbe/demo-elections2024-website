@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5EF45539AD269200080005FC",
+    "attributes": {
+        "title": "Decreet aanpassing uitgavenbegroting Vlaamse Gemeenschap begrotingsjaar 2020",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020, aangenomen door het Vlaams Parlement op \n24 juni 2020",
+        "htmlContent": "              <!---->\n\n De Vlaamse Regering beslist tot <strong>bekrachtiging en afkondiging van het decreet over de aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020</strong>. Dit decreet werd op 24 juni 2020 aangenomen door het Vlaams Parlement.\n\n<!-- components -->\n<!---->",
+        "position": 39,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2020-06-26T08:00:00Z",
+        "meetingId": "5EF1A213AD269200080003B6",
+        "meetingTypePosition": 4,
+        "themeId": "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+        "agendaitemType": "Nota",
+        "uuid": "5EF45539AD269200080005FC",
+        "uri": "http://themis.vlaanderen.be/id/resource/cb891180-4928-11ec-94bb-99a9d1e168fe"
+    }
+}

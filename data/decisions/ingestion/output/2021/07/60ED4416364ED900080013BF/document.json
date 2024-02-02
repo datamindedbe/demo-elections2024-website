@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60ED4416364ED900080013BF",
+    "attributes": {
+        "title": "Opmaak van een nieuw besluit rechtspositieregeling voor personeelsleden van lokale en provinciale besturen",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 120,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "1e207740-3834-4e98-8431-5a2c08704516",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60ED4416364ED900080013BF",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED4416364ED900080013BF"
+    }
+}

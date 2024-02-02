@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "65814F33E2E2C9E5814C1DA2",
+    "attributes": {
+        "title": "Tussentijds verslag over de tenuitvoerlegging van het nationaal actieplan ter bestrijding van gendergerelateerd geweld 2021-2025",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 168,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "d9fc118c-4c2f-4c11-a622-6f9854df940b",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "65814F33E2E2C9E5814C1DA2",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65814F33E2E2C9E5814C1DA2"
+    }
+}

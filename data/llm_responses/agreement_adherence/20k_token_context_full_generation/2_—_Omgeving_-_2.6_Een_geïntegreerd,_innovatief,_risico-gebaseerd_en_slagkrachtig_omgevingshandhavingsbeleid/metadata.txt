@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 61
+TOPIC_NAME: 2_—_Omgeving_-_2.6_Een_geïntegreerd,_innovatief,_risico-gebaseerd_en_slagkrachtig_omgevingshandhavingsbeleid

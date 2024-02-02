@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "612DF033364ED9000800025B",
+    "attributes": {
+        "title": "Eindrapport expertenpanel interlandelijke adoptie",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 34,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Wouter",
+        "mandateeFamilyNames": "Beke",
+        "mandateeIds": "74cf5db5-8b6c-442e-baf4-97fbc896f986",
+        "mandateeTitles": "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding",
+        "meetingDate": "2021-09-03T10:00:00Z",
+        "meetingId": "612CE303364ED90008000049",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "612DF033364ED9000800025B",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/612DF033364ED9000800025B"
+    }
+}

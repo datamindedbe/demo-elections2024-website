@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "64A41B2E2D77B42474D4F8CF",
+    "attributes": {
+        "title": "Steun 8 projecten binnen EFRO-oproepen onderzoeks- en innovatiecapaciteit en ontwikkelen van vaardigheden rond slimme specialisatie",
+        "alternativeTitle": "Acht ontwerpbesluiten van de Vlaamse Regering",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>kent vanuit het Fonds voor Innoveren &amp; Ondernemen steun toe aan 8 projecten binnen de EFRO-oproepen rond onderzoeks- en innovatiecapaciteit</strong> <strong>en rond het ontwikkelen van vaardigheden rond slimme specialisatie</strong>. Het gaat om volgende projecten: 'Bio Base Advance' van Bio Base Europe Pilot Plant (518.000 euro); 'Uitbouw infrastructuur voor innovatie in de medische technologie' van ORSI Services cvba (2,75 miljoen euro); 'BlueChem XL' van BlueChem nv (630.000 euro); 'GAINS' van Universiteit Gent (6,48 miljoen euro); 'Innovation Cradle Leuven' van Innovation Cradle Leuven (1 miljoen euro); 'Entertainment Technology Cluster' van Lab of Tomorrow (2,76 miljoen euro); 'Realisatie biomedisch gebouwencomplex op Health Campus Limburg' van Universiteit Hasselt (3 miljoen euro) en 'PXL BusinessHUB' van PXL Hogeschool (2,75 miljoen euro).</p>",
+        "position": 74,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64A41B2E2D77B42474D4F8CF",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A41B2E2D77B42474D4F8CF"
+    }
+}

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 57
+TOPIC_NAME: 2_—_Omgeving_-_2.3_Biodiversiteit_-_2.3.1_Instandhoudingsdoelstellingen_en_Natura_2000-beleid

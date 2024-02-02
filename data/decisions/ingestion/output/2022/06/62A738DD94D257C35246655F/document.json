@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "62A738DD94D257C35246655F",
+    "attributes": {
+        "title": "Rapportering over de toepassing van het Bestuursdecreet - Hoofdstuk deugdelijk bestuur",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 38,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-06-17T09:00:00Z",
+        "meetingId": "62A736CB94D257C35246653F",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "62A738DD94D257C35246655F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62A738DD94D257C35246655F"
+    }
+}

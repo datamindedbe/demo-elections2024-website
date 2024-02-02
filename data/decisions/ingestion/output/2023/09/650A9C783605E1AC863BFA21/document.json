@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "650A9C783605E1AC863BFA21",
+    "attributes": {
+        "title": "Subsidies Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor project 'Ondersteuning van lokale besturen in het kader van  samenleven in diversiteit: Plan Samenleven'",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot de verdeling en toekenning van projectsubsidies aan de Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor het project Plan Samenleven 2",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>bepaalt de voorwaarden voor de verdeling van de middelen aan de Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie in het kader van de projectoproep 'Ondersteuning van lokale besturen in het kader van  samenleven in diversiteit: Plan Samenleven.'</strong> Met deze projectoproep kunnen steden en gemeenten hun lokale regiefunctie versterken door acties uit te rollen om van samenleven in diversiteit een succes te maken. In totaal wordt een bedrag van <strong>16,9 miljoen euro</strong> verdeeld, voor de periode van 1 oktober 2023 tot en met 30 september 2024. </p>",
+        "position": 7,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2023-09-22T08:00:00Z",
+        "meetingId": "650935BD3605E1AC863BF6B6",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "34394a01-5c8c-44c9-aade-59087026f266"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "650A9C783605E1AC863BFA21",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/650A9C783605E1AC863BFA21"
+    }
+}

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 51
+TOPIC_NAME: 4_—_Landbouw_en_visserij_-_4.4_Aandacht_voor_welzijn,_een_leefbaar_platteland_en_open_ruimte

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "60227EBC6B34EF00080002D3",
+    "attributes": {
+        "title": "Versterking lokale democratie: wijzigingsdecreet",
+        "alternativeTitle": "Voorontwerp van decreet tot wijziging van diverse decreten, wat betreft versterking van de lokale democratie",
+        "htmlContent": "Na advies van d<span>e&nbsp;VVSG,&nbsp;van de Vlaamse Toezichtcommissie&nbsp;voor de verwerking van persoonsgegevens en&nbsp;van de&nbsp;SAR CJSM, en na onderhandelingen&nbsp;</span><span>in het bevoegde sectorcomit\u00e9, <strong>hecht</strong>&nbsp;</span>de Vlaamse Regering <strong>opnieuw haar principi\u00eble goedkeuring aan het voorontwerp van decreet dat diverse decreten wijzigt over de versterking van de lokale democratie.</strong> Het nieuwe decreet <strong>moderniseert en versterkt de regels van de lokale democratie, </strong>door onder andere de opkomstplicht voor gemeenteraads- en provincieraadsverkiezingen af te schaffen; maatregelen in te voeren tegen het ronselen van stem-volmachten; de invloed van de lijststem op het aanwijzen van gemeenteraadszetels af te schaffen; te regelen dat de verkozene voor de gemeenteraad met de meeste stemmen van de grootste fractie van de coalitie de burgemeester wordt; een aantal onverenigbaarheden te regelen en de vrijwillige samenvoeging van gemeenten te faciliteren.&nbsp;Het voorontwerp van wijzigingsdecreet wordt nu voor advies voorgelegd aan&nbsp;de Raad van State.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+        "position": 15,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Bart"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Somers"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0710"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen"
+        ],
+        "meetingDate": "2021-02-12T09:00:00Z",
+        "meetingId": "602231C76B34EF00080000CD",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60227EBC6B34EF00080002D3",
+        "uri": "http://themis.vlaanderen.be/id/resource/098213a0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

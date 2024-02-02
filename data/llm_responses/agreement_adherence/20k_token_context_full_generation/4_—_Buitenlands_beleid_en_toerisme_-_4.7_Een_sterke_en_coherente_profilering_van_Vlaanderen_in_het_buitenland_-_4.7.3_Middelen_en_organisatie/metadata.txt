@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 74
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.7_Een_sterke_en_coherente_profilering_van_Vlaanderen_in_het_buitenland_-_4.7.3_Middelen_en_organisatie

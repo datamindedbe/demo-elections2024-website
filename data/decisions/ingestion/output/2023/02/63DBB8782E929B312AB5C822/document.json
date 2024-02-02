@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "63DBB8782E929B312AB5C822",
+    "attributes": {
+        "title": "Decreet regiovorming en wijziging decreet lokaal bestuur: referentieregio's",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet over regiovorming en tot wijziging van het decreet van 22 december 2017 over het lokaal bestuur, aangenomen door het Vlaams Parlement op 1 februari 2023",
+        "htmlContent": "De Vlaamse Regering beslist tot <strong data-__set-by=\"rdfa-editor\">bekrachtiging en afkondiging van het decreet over regiovorming en de wijziging van het decreet over het lokaal bestuur</strong>. \u200bDit decreet behandelt de <strong data-__set-by=\"rdfa-editor\">regiovorming via referentieregio\u2019s: gebiedsafbakeningen die het afstemmingsniveau en de referentie worden voor alle vormen van intergemeentelijke en bovenlokale samenwerking</strong>. Het bevat de afbakening van referentieregio\u2019s en definieert daarnaast het concept, het toepassingsgebied, de principes en de elementen van regiovorming. Bedoeling is het afstemmen van de samenwerkingsverbanden qua werkingsgebied op vaste regio\u2019s, de referentieregio\u2019s. Het bevat ook de timing waarop de regioconforme samenwerking bereikt moet zijn. Dit decreet werd op 1 februari 2023 aangenomen door het Vlaams Parlement.",
+        "position": 27,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-02-03T09:00:00Z",
+        "meetingId": "63D7D13E2E929B312AB5C34B",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "63DBB8782E929B312AB5C822",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/63DBB8782E929B312AB5C822"
+    }
+}

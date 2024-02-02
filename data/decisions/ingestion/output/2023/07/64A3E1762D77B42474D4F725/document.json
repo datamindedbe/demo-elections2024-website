@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "64A3E1762D77B42474D4F725",
+    "attributes": {
+        "title": "Oprichting Agentschap Landbouw en Zeevisserij",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot oprichting van een intern verzelfstandigd agentschap \u201cLandbouw en Zeevisserij\u201d",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>keurt principieel het besluit goed dat de oprichting regelt van het Intern Verzelfstandigd Agentschap Landbouw en Zeevisserij</strong>. Daarmee wordt het huidige departement omgevormd naar een intern verzelfstandigd agentschap binnen het nieuwe beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie. De taken en personeelsleden van het huidige departement worden integraal overgenomen door het agentschap. Over dit besluit wordt het advies ingewonnen van de Raad van State. </p>",
+        "position": 24,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "bb2e174a-374e-447d-ad0c-002204b4561f",
+            "f7fe3320-7c15-4322-b907-02571d3dfe6e"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin",
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw"
+        ],
+        "meetingDate": "2023-07-07T09:00:00Z",
+        "meetingId": "64A2DFCF2D77B42474D4F019",
+        "meetingTypePosition": 4,
+        "themeId": "872c910d-dd86-46b4-a3b0-0ff45df32702",
+        "agendaitemType": "Nota",
+        "uuid": "64A3E1762D77B42474D4F725",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64A3E1762D77B42474D4F725"
+    }
+}

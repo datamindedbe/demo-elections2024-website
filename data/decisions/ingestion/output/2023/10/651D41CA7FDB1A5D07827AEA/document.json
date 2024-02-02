@@ -1,0 +1,39 @@
+{
+    "type": "news-item",
+    "id": "651D41CA7FDB1A5D07827AEA",
+    "attributes": {
+        "title": "Voorlopige vaststelling ontwerp van gewestelijk ruimtelijk uitvoeringsplan (GRUP) Ringpark Zuid",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering houdende de voorlopige vaststelling van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan \u2018Ringpark Zuid\u2019",
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering <strong>beslist tot voorlopige vaststelling van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan (GRUP) 'Ringpark Zuid'</strong> en van de bijbehorende bijlagen. Het GRUP Ringpark Zuid kadert in de visie om de leefbaarheid op en rond de Antwerpse ring te verbeteren en focust op de ruimtelijke herinrichting van Knoop Zuid van de R1 en zijn omgeving. Die herinrichting moet voor een compactere, heldere en veilige verkeersstructuur zorgen die een ontsluiting biedt aan de omliggende ontwikkelingen en stadswijken. Het plan wil ook de landschappelijke en ecologische waarde verhogen en de leefkwaliteit van de omgeving verbeteren. Bovendien wil het kansen bieden voor duurzame stadsontwikkelingen en de ontwikkeling van het station Antwerpen-Zuid tot een multimodaal knooppunt. De  Vlaamse minister bevoegd voor ruimtelijke ordening zal het ontwerp-GRUP nu laten onderwerpen aan een openbaar onderzoek.</p>",
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-10-06T08:00:00Z",
+        "meetingId": "651AC01D51A2D987E57E2FDA",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "63aa8960-a301-40b4-9bba-7cfed45f0494",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "651D41CA7FDB1A5D07827AEA",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/651D41CA7FDB1A5D07827AEA"
+    }
+}

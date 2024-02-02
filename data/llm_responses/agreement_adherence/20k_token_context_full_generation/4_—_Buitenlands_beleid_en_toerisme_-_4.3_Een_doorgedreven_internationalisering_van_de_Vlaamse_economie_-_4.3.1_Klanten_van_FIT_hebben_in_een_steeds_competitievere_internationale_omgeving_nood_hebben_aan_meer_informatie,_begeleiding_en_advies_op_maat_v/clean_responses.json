@@ -1,0 +1,209 @@
+{
+    "heading": "",
+    "body": "# Uitvoering Regeerakkoord: Beoordeling van FIT-besluiten\n\nIn het regeerakkoord staat beschreven dat er een nood is aan meer ge\u00efndividualiseerde begeleiding van FIT-klanten om te concurreren op internationale markten. Hierbij zijn nieuwe markten met maximale toegang en bescherming voor exporterende bedrijven en de ondersteuning in landen met handelsbeperkende maatregelen belangrijk. Het regeerakkoord benadrukt ook het belang van investeringen in Artifici\u00eble Intelligentie en big dataprojecten, alsmede het versterken van het FIT-netwerk en het stellen van gerichte budgetten voor bedrijven om nieuwe markten aan te boren [Regeerakkoord].\n\nDe beslissingen van de regering geven blijk van een reeks initiatieven die aansluiten bij deze doelstellingen:\n\n1. Met het \"Plan Vlaamse Veerkracht\" \\[0\\] erkent de regering de noodzaak van digitale transformatie en data-gedreven organisatie voor FIT, aangezien het een project goedkeurt dat beoogt de Vlaamse ondernemer te ondersteunen bij de internationale relance na COVID-19. Dit sluit aan bij de roep om investeringen in digitalisering uit het regeerakkoord.\n\n2. Het \"FIT Corona Exit-plan\" \\[1\\]\\[2\\]\\[3\\]\\[4\\] stelt voor om extra subsidies te verstrekken voor Bijzondere Exportsteun en Starterspakketten Internationalisering, om Vlaamse bedrijven te helpen herstellen van de gevolgen van de pandemie. Dit duidt op extra ondersteuning voor Vlaamse exporteurs die nieuwe markten willen verkennen.\n\n3. Aanpassingen in het Agentschapsspecifieke Besluit \\[5\\] en de strategische transformatie van FIT \\[6\\], samen met het \"One FIT\" plan, suggereren dat er aanpassingen worden gemaakt om FIT flexibeler en sterker te maken, in lijn met de doelstellingen voor verbeterde klantenondersteuning.\n\n4. Maatregelen in het kader van het Relanceplan Vlaamse Veerkracht om de impact van Brexit te counteren \\[7\\]\\[8\\]\\[9\\], wijzen op een proactieve benadering om Vlaamse bedrijven te ondersteunen bij nieuwe handelsbarri\u00e8res.\n\n5. Het ondersteunen van Flanders Technology & Innovation (FTI) \\[10\\]\\[11\\]\\[12\\]\\[13\\]\\[14\\] en de kwaliteitsverbetering van de gegevensbronnen die betrekking hebben op vastgoedinformatie \\[15\\], kunnen worden gezien als investeringen in technologie en data-infrastructuur, wat eveneens overeenkomt met de ambities van het regeerakkoord.\n\n6. De \"Visienota 'Internationaal beurzenprogramma'\" \\[16\\] en het \"Flanders Trainee Programma (FTP)\" \\[17\\]\\[18\\], samen met de inzet op het aantrekken van start-ups en innovatief talent \\[19\\], steunen de internationale samenwerking en netwerkvorming die van belang zijn voor de positionering van Vlaanderen.\n\n7. De verschillende benoemingen en aanstellingen \\[20\\]\\[21\\]\\[22\\]\\[23\\]\\[24\\]\\[25\\]\\[26\\]\\[27\\]\\[28\\], geven aan dat personen met specifieke competenties en expertises worden geplaatst waar zij het FIT-model en de beoogde doelstellingen kunnen ondersteunen en uitbreiden.\n\nDe implementatie van de beslissingen lijkt over het algemeen in overeenstemming te zijn met de beloften uit het regeerakkoord. De genomen maatregelen weerspiegelen een commitment aan het verstrekken van meer op maat gemaakte ondersteuning aan de Vlaamse bedrijven en het faciliteren van hun toegang tot nieuwe markten, evenals het proactief aanpakken van uitdagingen zoals Brexit. Bovendien tonen de investeringen in digitale transformatie en het innoveren van het FIT-netwerk aan dat de regering stappen neemt om de technologische capaciteit van deze agentschappen voor internationaal ondernemen te vergroten.",
+    "references": {
+        "19": {
+            "s3_filename_clean": "clean/2020/07/2020-07-10-nota-5F041C2DFA87E00008000438.txt",
+            "s3_clean_content": "Visienota 'Vlaanderen als aantrekkingspool voor start-ups en innovatief ondernemend talent'   De wet van 19 februari 1965 over de uitoefening van zelfstandige beroepsactiviteiten door vreemdelingen regelt het kader waaraan een buitenlandse zelfstandige moet voldoen opdat hij een zelfstandige activiteit kan starten in Vlaanderen. Deze regelgeving voldoet niet langer aan de noden van de Vlaamse competitieve kenniseconomie. Daarom keurt de Vlaamse Regering een visienota goed die de de krijtlijnen uitzet voor de herziening van het economisch migratiebeleid van buitenlandse zelfstandige ondernemers waarbij Vlaanderen een aantrekkingspool wordt voor start-ups en innovatief ondernemend talent.  Over deze visienota wordt het advies ingewonnen van het Vlaams Economisch Sociaal Overlegcomit\u00e9 (VESOC), de SERV, daarna wordt hij ingediend bij het Vlaams Parlement.",
+            "date": "2020-07-10",
+            "s3_filename_ingested": "ingestion/output/2020/07/5F041C2DFA87E00008000438/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/58142f00-4928-11ec-94bb-99a9d1e168fe"
+        },
+        "23": {
+            "s3_filename_clean": "clean/2021/11/2021-11-26-nota-619CB5BA364ED9000800026D.txt",
+            "s3_clean_content": "Benoeming directeur-generaal Vlaams Agentschap voor Internationaal Ondernemen (FIT) Ontwerpbesluit van de Vlaamse Regering tot benoeming in de graad van directeur-generaal  De Vlaamse Regering benoemt Claire Tillekaerts   in de graad van directeur-generaal bij het  Vlaams Agentschap voor Internationaal Ondernemen (FIT).",
+            "date": "2021-11-26",
+            "s3_filename_ingested": "ingestion/output/2021/11/619CB5BA364ED9000800026D/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/619CB5BA364ED9000800026D"
+        },
+        "21": {
+            "s3_filename_clean": "clean/2019/12/2019-12-13-nota-5DEF53BA5084E700080002D6.txt",
+            "s3_clean_content": "Vlaams Agentschap voor Internationaal Ondernemen (FIT): aanstelling van een bedrijfsrevisor Ontwerpbesluit van de Vlaamse Regering houdende aanstelling van een bedrijfsrevisor bij het Vlaams Agentschap voor Internationaal Ondernemen (FIT)  De Vlaamse Regering stelt een bedrijfsrevisor aan bij het Vlaams Agentschap voor Internationaal Ondernemen voor de boekjaren 2019-2021.",
+            "date": "2019-12-13",
+            "s3_filename_ingested": "ingestion/output/2019/12/5DEF53BA5084E700080002D6/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/95db6e90-492b-11ec-94bb-99a9d1e168fe"
+        },
+        "26": {
+            "s3_filename_clean": "clean/2020/10/2020-10-30-nota-5F97D8A65B1AD200080002E6.txt",
+            "s3_clean_content": "Raad van bestuur Vlaams Agentschap voor Internationaal Ondernemen (FIT): benoeming onafhankelijke leden Ontwerpbesluit van de Vlaamse Regering tot benoeming van de leden in de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen  De Vlaamse Regering stelt  Hanan Challouki,   Boris Bogaert ,  Jan Van Hove en   Eri k   Moniquet aan als onafhankelijke bestuurders in de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen.",
+            "date": "2020-10-30",
+            "s3_filename_ingested": "ingestion/output/2020/10/5F97D8A65B1AD200080002E6/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/d4210620-8a7a-11ec-b92e-970acd8c80b9"
+        },
+        "22": {
+            "s3_filename_clean": "clean/2020/05/2020-05-29-nota-5ED0C867FE23BF000800039C.txt",
+            "s3_clean_content": "Raad van bestuur Vlaams Agentschap voor Internationaal Ondernemen (FIT): benoeming leden Ontwerpbesluit van de Vlaamse Regering tot benoeming van de leden in de raad van bestuur van en regeringscommissaris bij het Vlaams Agentschap voor Internationaal Ondernemen  De Vlaamse Regering benoemt  de leden van de raad van bestuur en een regeringscommissaris bij het Vlaams Agentschap voor Internationaal Ondernemen (FIT) voor een hernieuwbare termijn van vijf jaar.",
+            "date": "2020-05-29",
+            "s3_filename_ingested": "ingestion/output/2020/05/5ED0C867FE23BF000800039C/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/3708e7a0-4929-11ec-94bb-99a9d1e168fe"
+        },
+        "28": {
+            "s3_filename_clean": "clean/2021/11/2021-11-26-nota-61A09709364ED9000800013F.txt",
+            "s3_clean_content": "Eervol ontslag leidend ambtenaar Flanders Investment & Trade (FIT) en vacantverklaring functie A. Ontwerpbesluit van de Vlaamse Regering tot eervol ontslag van Claire Tillekaerts, gedelegeerd bestuurder van het Vlaams Agentschap voor Internationaal Ondernemen, Flanders Investment & Trade (FIT) na uitstel van de opruststelling B. Vacantverklaring van de functie van gedelegeerd bestuurder bij FIT  De Vlaamse Regering verleent eervol ontslag aan Claire Tillekaerts\u200b,   gedelegeerd bestuurder bij het Vlaams Agentschap voor Internationaal Ondernemen , Flanders Investment & Trade (FIT), na uitstel van de opruststelling. Ze verklaart de functie vacant met ingang van 1 juli 2022 en keurt meteen de functiebeschrijving, de selectieprocedure en de aanduiding van het selectiebureau dat bij deze werving zal optreden goed.",
+            "date": "2021-11-26",
+            "s3_filename_ingested": "ingestion/output/2021/11/61A09709364ED9000800013F/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61A09709364ED9000800013F"
+        },
+        "5": {
+            "s3_filename_clean": "clean/2023/10/2023-10-27-nota-6538FED79DAB6626D11E54B2.txt",
+            "s3_clean_content": "Wijziging Agentschapsspecifiek Besluit Vlaams Agentschap voor Internationaal Ondernemen (FIT) Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Agentschapsspecifiek Besluit Vlaams Agentschap voor Internationaal Ondernemen van 28 februari 2014  De Vlaamse Regering wijzigt principieel het Agentschapsspecifiek Besluit Vlaams Agentschap voor Internationaal Ondernemen/ Flanders Investment & Trade (FIT). Het gaat om een beperkte wijziging in het kader van de transformatieplannen van dit Agentschap. Het voorziet in de mogelijkheid dat de gedelegeerd bestuurder van FIT het buitenlands netwerk opdeelt in geografische regio's en per regio een managementfunctie openstelt voor het beheer van die betreffende regio. Daarnaast wordt een materi\u00eble fout gecorrigeerd. Het besluit wordt nu voor onderhandelingen geagendeerd bij de sociale partners en gaat daarna voor advies naar de Raad van State.",
+            "date": "2023-10-27",
+            "s3_filename_ingested": "ingestion/output/2023/10/6538FED79DAB6626D11E54B2/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/6538FED79DAB6626D11E54B2"
+        },
+        "10": {
+            "s3_filename_clean": "clean/2022/11/2022-11-25-nota-63806FE534B8770AF8FDF685.txt",
+            "s3_clean_content": "Oprichting van Flanders Technology & Innovation BV (FTI)   De Vlaamse Regering herlanceert het merk FTI, Flanders Technology & Innovation, als een wervend project rond technologie en innovatie, over alle beleidsdomeinen heen. In dat kader beslissen het Vlaamse Gewest en de Vlaamse Gemeenschap om, samen met private partners, een besloten vennootschap op te richten met de naam 'Flanders Technology & Innovation' (FTI), die tot doel heeft een platform te cre\u00ebren waar data, know how en innovatieve idee\u00ebn worden samengebracht zodat het een katalysator kan worden voor investeringen in technologische oplossingen voor maatschappelijke uitdagingen. De Vlaamse Regering hecht haar goedkeuring aan het principe van de mede-oprichting van FTI als besloten vennootschap. Ze wil potenti\u00eble private investeerders de kans geven om de vennootschap mee op te richten en zal daartoe een brede oproep aan de private markt organiseren.",
+            "date": "2022-11-25",
+            "s3_filename_ingested": "ingestion/output/2022/11/63806FE534B8770AF8FDF685/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63806FE534B8770AF8FDF685"
+        },
+        "14": {
+            "s3_filename_clean": "clean/2023/10/2023-10-06-mededeling-651BE2247FDB1A5D07827937.txt",
+            "s3_clean_content": "Flanders Technology & Innovation (FTI): governancemodel voor de verankering van de event-entertainmentsector in Vlaanderen gekoppeld aan een reconversie van de Rupelregio",
+            "date": "2023-10-06",
+            "s3_filename_ingested": "ingestion/output/2023/10/651BE2247FDB1A5D07827937/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/651BE2247FDB1A5D07827937"
+        },
+        "8": {
+            "s3_filename_clean": "clean/2020/12/2020-12-18-nota-5FDC689C6B34EF0008000DBE.txt",
+            "s3_clean_content": "(Steun)maatregelen voor door Brexit ge\u00efmpacteerde bedrijven   Voorlopig is de finale uitkomst van de Brexit (deal of no-deal) nog onduidelijk. Vlaanderen neemt echter wel al maatregelen om de impact van de Brexit zoveel mogelijk te counteren. De Vlaamse Regering voorziet 83 miljoen euro extra steun voor bedrijven die getroffen worden door de gevolgen van de Brexit. Daarvan is 30 miljoen euro voorzien voor het Vlaams Agentschap voor Internationaal Ondernemen (FIT), 50 miljoen euro voor het Agentschap Innoveren & Ondernemen (VLAIO), en 3 miljoen euro voor het Vlaams Centrum voor Agro- en Visserijmarketing (VLAM). Door de coronacrisis zijn veel bedrijven nu al genoodzaakt hun operationeel model op zijn minst tijdelijk te herzien. Bedrijven die handel voeren met en/of opereren in het Verenigd Koninkrijk hebben er alle belang bij ook de mogelijke gevolgen van Brexit te betrekken in die oefening. In dit kader keurt de Vlaamse Regering nu de noodzakelijke steunmaatregelen goed voor de betrokken doelgroepen binnen het voor VLAIO vooropgestelde budget van 50 miljoen euro. Ze keurt tegelijk de aanwerving goed van 8 VTE voor een periode van 1 jaar bij het Agentschap Innoveren en Ondernemen (VLAIO), om dossiers van de kmo Brexit veerkrachtsubsidie te verwerken en te zorgen voor de ondersteuning van de Brexit helpdesk. Ze voorziet hiervoor de overheveling van de nodige kredieten aan de personeelskredieten van VLAIO.",
+            "date": "2020-12-18",
+            "s3_filename_ingested": "ingestion/output/2020/12/5FDC689C6B34EF0008000DBE/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/a9b5e310-4925-11ec-94bb-99a9d1e168fe"
+        },
+        "6": {
+            "s3_filename_clean": "clean/2023/10/2023-10-27-mededeling-6536851F9DAB6626D11E50B3.txt",
+            "s3_clean_content": "One FIT: strategische transformatie van Flanders Investment & Trade",
+            "date": "2023-10-27",
+            "s3_filename_ingested": "ingestion/output/2023/10/6536851F9DAB6626D11E50B3/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/6536851F9DAB6626D11E50B3"
+        },
+        "7": {
+            "s3_filename_clean": "clean/2020/12/2020-12-18-nota-5FDC61446B34EF0008000DA4.txt",
+            "s3_clean_content": "Maatregelen internationaal ondernemen voor de door de brexit ge\u00efmpacteerde bedrijven in het kader van het Relanceplan Vlaamse Veerkracht: 30 miljoen euro voor FIT   De (uitkomst van de) brexit impacteert Vlaanderen en Vlaamse bedrijven. Vlaanderen neemt daarom maatregelen om de impact van de brexit zoveel mogelijk te counteren. In dit kader stemt de Vlaamse Regering in met de maatregelen rond het internationaal ondernemen voor de door de brexit ge\u00efmpacteerde bedrijven. Ze maakt tevens een bedrag van 30 miljoen euro vrij vanuit de relanceprovisie voor het uitvoerend agentschap Vlaams Agentschap voor Internationaal Ondernemen/Flanders Investment & Trade. De Vlaamse minister bevoegd voor het internationaal ondernemen zal zorgen voor de verdere uitwerking van de maatregelen.",
+            "date": "2020-12-18",
+            "s3_filename_ingested": "ingestion/output/2020/12/5FDC61446B34EF0008000DA4/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/a7f2af40-4925-11ec-94bb-99a9d1e168fe"
+        },
+        "15": {
+            "s3_filename_clean": "clean/2021/03/2021-03-19-nota-6051B2A33391400008000236.txt",
+            "s3_clean_content": "Plan Vlaamse Veerkracht: ontwikkeling, uitrol en beheer en exploitatie van het Vlaams Vastgoed Informatie Platform De ontwikkeling, de uitrol en het beheer en de exploitatie van het Vlaams Vastgoed Informatie Platform en de kwaliteitsverbetering van de aan het vastgoedplatform gerelateerde gegevensbronnen  Het relanceplan Vlaamse Veerkracht kiest duidelijk voor digitalisering als een speerpunt in innovatie. Zo wil de Vlaamse Regering de toegenomen mobiliteit op de Vlaamse vastgoedmarkt verder ondersteunen via doorgedreven digitalisering. Burgers en bedrijven verwerven en verkopen steeds vaker onroerend goed en verwachten daarbij dat de verschillende overheden sneller en laagdrempeliger dan vandaag relevante \u00e9n correcte informatie over dat vastgoed kunnen verschaffen. Om de baten voor alle actoren binnen bereik te brengen, moet in het domein van vastgoedinformatie een datasnelweg worden aangelegd. In dit kader keurt de Vlaamse Regering de gemotiveerde voordracht van het Stuurorgaan Vlaams Informatie- en ICT-beleid goed over de invulling van het relanceproject  vastgoedinformatieplatform voor de uitvoeringsperiode 2021\u20132023. Het projectvoorstel omvat twee trajecten. Het eerste traject beoogt de ontwikkeling, de  uitrol en het beheer en de exploitatie van het vastgoedinformatieplatform waarbij een nieuwe informatiesnelweg in het domein van vastgoedinformatie wordt aangelegd. Het tweede traject zet in op het digitaliseren en doelgericht verbeteren van de kwaliteit van de  aan het vastgoedinformatieplatform gerelateerde gegevensbronnen. De Vlaamse Regering beslist voor het begrotingsjaar 2021 een projectsubsidie van maximaal 108.000 euro, voor het begrotingsjaar 2022 een projectsubsidie van maximaal 103.500 euro en voor het begrotingsjaar 2023 een projectsubsidie van maximaal 41.250 euro toe te kennen aan de Vereniging van Vlaamse Steden en Gemeenten vzw in het kader van het opnemen van het relatiebeheer voor het relanceproject.",
+            "date": "2021-03-19",
+            "s3_filename_ingested": "ingestion/output/2021/03/6051B2A33391400008000236/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/a39bcdb0-4924-11ec-94bb-99a9d1e168fe"
+        },
+        "20": {
+            "s3_filename_clean": "clean/2021/10/2021-10-22-nota-616E8D93364ED900080001FF.txt",
+            "s3_clean_content": "Vlaams Agentschap voor Internationaal Ondernemen (FIT): benoeming lid raad van bestuur Ontwerpbesluit van de Vlaamse Regering tot benoeming van een lid in de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen  De Vlaamse Regering beslist tot  aanstelling van een  onafhankelijke bestuurder in de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen (FIT).",
+            "date": "2021-10-22",
+            "s3_filename_ingested": "ingestion/output/2021/10/616E8D93364ED900080001FF/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/616E8D93364ED900080001FF"
+        },
+        "2": {
+            "s3_filename_clean": "clean/2020/09/2020-09-04-nota-5F4D0F1E0379AD0008000031.txt",
+            "s3_clean_content": "FIT Corona Exit-plan: extra subsidies voor Bijzondere Exportsteun en voor Starterspakketten Internationalisering Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de voorwaarden en de regels voor de toekenning van subsidies in de vorm van bijzondere exportsteun en starterspakketten internationalisering voor activiteiten ter bevordering van het internationaal ondernemen  Flanders Investment & Trade (FIT), het Vlaams Agentschap voor Internationaal Ondernemen , heeft een Corona Exit-plan ontwikkeld dat een antwoord biedt op de vele uitdagingen die de coronapandemie op het vlak van internationaal ondernemen met zich meebrengt. Het is cruciaal om de Vlaamse bedrijven maximaal te ondersteunen zodra de wereldeconomie herneemt en de vraag in het buitenland weer groeit. Daarom kent de Vlaamse Regering, na advies van de Raad van State, definitief  3 miljoen euro toe aan FIT voor extra steunmaatregelen voor Vlaamse exporteurs, onder de vorm van Bijzondere Exportsteun en Starterspakketten Internationalisering. Het besluit regelt de voorwaarden waaraan ondernemingen moeten voldoen, de wijze van indiening van de steunaanvragen, de samenstelling van het dossier, het beslissings- en beoordelingsproces en de beroepsprocedure.",
+            "date": "2020-09-04",
+            "s3_filename_ingested": "ingestion/output/2020/09/5F4D0F1E0379AD0008000031/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/a91fd2b0-4927-11ec-94bb-99a9d1e168fe"
+        },
+        "27": {
+            "s3_filename_clean": "clean/2022/09/2022-09-16-nota-63203FDB5CD4B179BD870993.txt",
+            "s3_clean_content": "Raad van bestuur Agentschap voor Internationaal Ondernemen (FIT): vervanging lid Ontwerpbesluit van de Vlaamse Regering tot benoeming van een lid in de raad van bestuur bij het Vlaams Agentschap voor Internationaal Ondernemen  Op voordracht van de betrokken representatieve werkgevers- en middenstandsorganisaties die in de Sociaal-Economische Raad van Vlaanderen (SERV) zitting hebben, stelt de Vlaamse Regering  Thomas Pirard , attach\u00e9 Europa & internationaal bij Unizo, aan als  lid van de raad van bestuur van het Vlaams Agentschap voor Internationaal Ondernemen. Aan Koen De Ridder wordt eervol ontslag verleend.",
+            "date": "2022-09-16",
+            "s3_filename_ingested": "ingestion/output/2022/09/63203FDB5CD4B179BD870993/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63203FDB5CD4B179BD870993"
+        },
+        "24": {
+            "s3_filename_clean": "clean/2021/03/2021-03-19-nota-6051BC7F3391400008000242.txt",
+            "s3_clean_content": "Vlaams Agentschap voor Internationaal Ondernemen (FIT): benoeming regeringscommissaris Ontwerpbesluit van de Vlaamse Regering tot benoeming van een regeringscommissaris bij het Vlaams Agentschap voor Internationaal Ondernemen  De Vlaamse Regering stelt Thomas Moens aan als regeringscommissaris bij het Vlaams Agentschap voor Internationaal Ondernemen.  Karl-Filip Smet krijgt eervol ontslag.",
+            "date": "2021-03-19",
+            "s3_filename_ingested": "ingestion/output/2021/03/6051BC7F3391400008000242/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/8dda0a50-4924-11ec-94bb-99a9d1e168fe"
+        },
+        "9": {
+            "s3_filename_clean": "clean/2022/03/2022-03-18-nota-62319DDA6BB7B593CFC189C9.txt",
+            "s3_clean_content": "Plan Vlaamse Veerkracht: Maatregelen met betrekking tot het internationaal ondernemen ten behoeve van de door de Brexit ge\u00efmpacteerde bedrijven Maatregelen met betrekking tot het internationaal ondernemen ten behoeve van de door de Brexit ge\u00efmpacteerde bedrijven gefinancierd uit de Brexit Adjustment Reserve  \u200bDe Vlaamse Regering keurde op 18 december 2020 een plan van 30 miljoen euro goed, gefinancierd uit de Brexit Adjustment Reserve (BAR). Na de omschrijving door de Europese Commissie van de voorwaarden voor projecten gefinancierd binnen de BAR, blijkt een aanpassing nodig. De Vlaamse Regering  stemt daarom nu in met de maatregelen rond het internationaal ondernemen voor de bedrijven die door de Brexit ge\u00efmpacteerd zijn, gefinancierd uit de Brexit Adjustment Reserve.  Ze bestendigt ook het bedrag van  30 miljoen euro als vrijgemaakt voor het uitvoerend agentschap Vlaams Agentschap voor Internationaal Ondernemen/Flanders Investment & Trade. De Vlaamse minister bevoegd voor internationaal ondernemen zal zorgen voor de verdere uitwerking van de maatregelen.",
+            "date": "2022-03-18",
+            "s3_filename_ingested": "ingestion/output/2022/03/62319DDA6BB7B593CFC189C9/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62319DDA6BB7B593CFC189C9"
+        },
+        "18": {
+            "s3_filename_clean": "clean/2022/09/2022-09-09-nota-6316F4ED9531BD6B9732C4C9.txt",
+            "s3_clean_content": "Flanders Trainee Programma (FTP): wijzigingsbesluit subsidi\u00ebring van stages bij multilaterale organisaties Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 9 december 2016 betreffende de subsidi\u00ebring van stages bij multilaterale organisaties  Na advies van de Raad van State  wijzigt  de Vlaamse Regering definitief het besluit over de subsidi\u00ebring van stages bij multilaterale organisaties. Via het   Flanders Trainee Programme (FTP) wil de Vlaamse Regering Vlamingen ondersteunen die hun loopbaan internationaal willen ori\u00ebnteren, vanuit de strategische doelstelling rond een sterke en coherente profilering van Vlaanderen in het buitenland. Het besluit voorziet zowel  technische aanpassingen als effici\u00ebntiewinsten, die FTP nog gerichter inschakelen voor de beleidsdoelstellingen van de Vlaamse Regering.",
+            "date": "2022-09-09",
+            "s3_filename_ingested": "ingestion/output/2022/09/6316F4ED9531BD6B9732C4C9/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6316F4ED9531BD6B9732C4C9"
+        },
+        "0": {
+            "s3_filename_clean": "clean/2021/06/2021-06-18-nota-60C9F6B7364ED9000800041D.txt",
+            "s3_clean_content": "Plan Vlaamse Veerkracht: FIT \u2013 Datagedreven organisatie & Digitalisering dienstverlening FIT \u2013 Datagedreven organisatie & Digitalisering dienstverlening  In uitvoering van het luik digitale transformatie van het relanceplan Vlaamse Veerkracht keurt de Vlaamse Regering het project FIT- Datagedreven organisatie & Digitalisering dienstverlening goed. Het project moet de Vlaamse ondernemer ondersteunen bij zijn relancering op het internationale terrein. Flanders Investment & Trade (FIT), het Vlaams Agentschap voor Internationaal Ondernemen, heeft hiervoor een roadmap ontwikkeld. FIT wil dit realiseren door versneld in te zetten op digitalisering om zijn dienstverlening nog doelgerichter te maken, om de impact van prospectie te verhogen en om matching tussen Vlaamse bedrijven en buitenlandse zakenpartners te faciliteren.",
+            "date": "2021-06-18",
+            "s3_filename_ingested": "ingestion/output/2021/06/60C9F6B7364ED9000800041D/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9F6B7364ED9000800041D"
+        },
+        "1": {
+            "s3_filename_clean": "clean/2020/07/2020-07-17-nota-5F1094C0FA87E0000800091F.txt",
+            "s3_clean_content": "FIT Corona Exit-plan: extra subsidies voor Bijzondere Exportsteun en voor Starterspakketten Internationalisering Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de voorwaarden en de regels voor de toekenning van subsidies in de vorm van bijzondere exportsteun en starterspakketten internationalisering voor activiteiten ter bevordering van het internationaal ondernemen  Flanders Investment & Trade (FIT), het Vlaams Agentschap voor Internationaal Ondernemen , heeft een Corona Exit-plan ontwikkeld dat een antwoord biedt op de vele uitdagingen die de coronapandemie op het vlak van internationaal ondernemen met zich meebrengt. Het is cruciaal om de Vlaamse bedrijven maximaal te ondersteunen zodra de wereldeconomie herneemt en de vraag in het buitenland terug groeit. Daarom kent de Vlaamse Regering principieel 3 miljoen euro toe aan FIT voor extra steunmaatregelen voor Vlaamse exporteurs, onder de vorm van Bijzondere Exportsteun en Starterspakketten Internationalisering. Het besluit regelt de voorwaarden waaraan ondernemingen moeten voldoen, de wijze van indiening van de steunaanvragen, de samenstelling van het dossier, het beslissings- en beoordelingsproces en de beroepsprocedure. Dit besluit wordt nog voor advies voorgelegd aan de Raad van State.",
+            "date": "2020-07-17",
+            "s3_filename_ingested": "ingestion/output/2020/07/5F1094C0FA87E0000800091F/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/d6bac7c0-4927-11ec-94bb-99a9d1e168fe"
+        },
+        "16": {
+            "s3_filename_clean": "clean/2021/07/2021-07-09-nota-60E449C1364ED90008000894.txt",
+            "s3_clean_content": "Visienota 'Internationaal beurzenprogramma'   De Vlaamse Regering hecht haar goedkeuring aan de   Visienota 'Internationaal beurzenprogramma'. Om Vlaanderen als innovatieve topregio nog meer op de kaart te zetten, wordt er een nieuw beurzenprogramma opgezet waarin jaarlijks de beste studenten een kans krijgen om hun academisch traject met een jaar te verlengen aan de in hun vakgebied beste kenniscentra in de wereld. De kost van dergelijke studies vormt vaak een barri\u00e8re. Het beurzenprogramma wil deze barri\u00e8re wegnemen om de meest talentvolle Vlaamse studenten de kans te bieden te excelleren in hun vakgebied. Door het genereren van een internationaal netwerk van Vlaamse topstudenten en -alumni, wil dit beurzenprogramma bijdragen tot het verder versterken van de zichtbaarheid en slagkracht van Vlaanderen in het buitenland.",
+            "date": "2021-07-09",
+            "s3_filename_ingested": "ingestion/output/2021/07/60E449C1364ED90008000894/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E449C1364ED90008000894"
+        },
+        "17": {
+            "s3_filename_clean": "clean/2022/07/2022-07-08-nota-62C3F3FA8E6C4430A889779C.txt",
+            "s3_clean_content": "Flanders Trainee Programma (FTP): wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 9 december 2016 betreffende de subsidi\u00ebring van stages bij multilaterale organisaties  De Vlaamse Regering  wijzigt principieel het besluit over de subsidi\u00ebring van stages bij multilaterale organisaties. Via het   Flanders Trainee Programme (FTP) wil de Vlaamse Regering Vlamingen ondersteunen die hun loopbaan internationaal willen ori\u00ebnteren, vanuit de strategische doelstelling rond een sterke en coherente profilering van Vlaanderen in het buitenland. Het besluit voorziet zowel   technische aanpassingen als effici\u00ebntiewinsten, die FTP nog gerichter inschakelen voor de beleidsdoelstellingen van de Vlaamse Regering. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
+            "date": "2022-07-08",
+            "s3_filename_ingested": "ingestion/output/2022/07/62C3F3FA8E6C4430A889779C/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62C3F3FA8E6C4430A889779C"
+        },
+        "13": {
+            "s3_filename_clean": "clean/2023/12/2023-12-22-nota-65814EEBE2E2C9E5814C1D84.txt",
+            "s3_clean_content": "Convenant 2024-2028 Flanders Technology International vzw Ontwerp van convenant tussen de Vlaamse Gemeenschap en Flanders Technology International vzw 2024-2028  Het huidige convenant 2019-2023 tussen de Vlaamse overheid en Flanders Technology International vzw (F.T.I) loopt af op 31 december 2023. In het voorjaar van 2023 werd dit convenant en het geplande beleid van F.T.I vzw voor de volgende jaren ge\u00ebvalueerd. Gebaseerd op de conclusies en aanbevelingen van deze evaluatie beslist de Vlaamse Regering om de subsidi\u00ebring van F.T.I vzw voor de uitvoering van haar missie op vlak van wetenschapscommunicatie de volgende 5 jaar verder te zetten. Deze missie bestaat erin jongeren en burgers te fascineren voor wetenschappen, technologie en innovatie en hen te stimuleren tot een keuze voor STEM-studies en -beroepen. Om de missie waar te maken, organiseert F.T.I/Technopolis diverse activiteiten om wetenschap en technologie te populariseren voor het grote publiek (met speciale aandacht voor jongeren van 4 tot 18 jaar), scholen en bedrijven. Voor het convenant 2024-2028 wordt een jaarlijkse subsidie voorzien van 5 miljoen euro.",
+            "date": "2023-12-22",
+            "s3_filename_ingested": "ingestion/output/2023/12/65814EEBE2E2C9E5814C1D84/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65814EEBE2E2C9E5814C1D84"
+        },
+        "4": {
+            "s3_filename_clean": "clean/2022/10/2022-10-28-nota-6357A7991EA6B745D23CC834.txt",
+            "s3_clean_content": "Regels toekenning subsidies bijzondere crisissteun internationalisering en starterspakketten internationalisering voor activiteiten ter bevordering van internationaal ondernemen Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de voorwaarden en de regels voor de toekenning van subsidies in de vorm van bijzondere crisissteun internationalisering en starterspak-ketten internationalisering voor activiteiten ter bevordering van het internationaal ondernemen  De Vlaamse Regering stelt de voorwaarden en de regels vast voor de toekenning van subsidies in de vorm van bijzondere crisissteun internationalisering en starterspakketten internationalisering voor activiteiten ter bevordering van het internationaal ondernemen. Het gaat om de   wijziging van de modaliteiten voor het toekennen van Brexit- en startersubsidies door Flanders Investment & Trade (FIT).",
+            "date": "2022-10-28",
+            "s3_filename_ingested": "ingestion/output/2022/10/6357A7991EA6B745D23CC834/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6357A7991EA6B745D23CC834"
+        },
+        "11": {
+            "s3_filename_clean": "clean/2022/12/2022-12-23-nota-63A16FE4DBF1CAE81102201A.txt",
+            "s3_clean_content": "Flanders Technology International vzw (F.T.I vzw), Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO), Instituut voor Tropische Geneeskunde (ITG) en SYNTRA-opleidingscentra: subsidie compensatie energiekosten Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie houdende de compensatie van de energiekosten voor FTI, ILVO, ITG en de SYNTRA  De laatste maanden is er op de groothandelsmarkten een felle stijging van de prijzen voor elektriciteit en aardgas. De stijgende energieprijzen laten zich niet enkel voelen bij particulieren, maar treffen ook bedrijven, bezoekerscentra en onderzoek- en opleidingsinstellingen, waaronder FTI vzw, ILVO, het Instituut voor Tropisch Geneeskunde (ITG) en de SYNTRA- opleidingscentra. De Vlaamse Regering keurt nu principieel een besluit goed dat een compensatieregeling uitwerkt voor deze instellingen , door \u00e9\u00e9nmalig extra middelen te voorzien als gedeeltelijke compensatie voor de stijgende energieprijzen in 2022 en 2023. Ze voorziet daarvoor een totaal budget van 7 miljoen euro binnen het Fonds voor Innoveren en Ondernemen.",
+            "date": "2022-12-23",
+            "s3_filename_ingested": "ingestion/output/2022/12/63A16FE4DBF1CAE81102201A/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A16FE4DBF1CAE81102201A"
+        },
+        "25": {
+            "s3_filename_clean": "clean/2023/10/2023-10-20-nota-652E3B0F7FDB1A5D07829377.txt",
+            "s3_clean_content": "Flanders Investment & Trade (FIT): benoeming directeur-generaal Ontwerpbesluit van de Vlaamse Regering tot benoeming in de graad van directeur-generaal  De Vlaamse Regering heeft op 22 april 2022 beslist om Leo Joy Donn\u00e9 met ingang van 1 juli 2022 toe te laten tot de proeftijd in de graad van directeur-generaal en aan te stellen als gedelegeerd bestuurder van het Vlaams Agentschap voor Internationaal ondernemen, Flanders Investment & Trade (FIT). Na een gunstige evaluatie van de proeftijd wordt hij, met ingang van 26 juli 2023, benoemd in de graad van directeur-generaal.",
+            "date": "2023-10-20",
+            "s3_filename_ingested": "ingestion/output/2023/10/652E3B0F7FDB1A5D07829377/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/652E3B0F7FDB1A5D07829377"
+        },
+        "3": {
+            "s3_filename_clean": "clean/2020/06/2020-06-05-nota-5ED91687FE23BF000800067E.txt",
+            "s3_clean_content": "FIT Corona Exit-plan en VLAM Corona Exit-plan   Flanders Investment & Trade (FIT), het Vlaams Agentschap voor Internationaal Ondernemen en VLAM, het Vlaams Centrum voor Agro- en Visserijmarketing, hebben een corona-exitplan ontwikkeld dat een antwoord biedt op de vele uitdagingen die de coronapandemie op het vlak van internationaal ondernemen met zich meebrengt. Het plan bevat de acties die zij vanaf het najaar van 2020 tot eind 2021 zullen implementeren om bedrijven met internationaliseringsplannen door de coronacrisis te loodsen en snel en doelgericht te ondersteunen. De Vlaamse Regering stemt nu in met de voorgestelde acties in het FIT corona -exitplan en het VLAM corona-exitplan voor 2020. De Vlaamse ministers bevoegd voor het buitenlands beleid en voor economie, werk, innovatie, sociale economie en landbouw zullen zorgen voor de verdere uitwerking van de plannen.",
+            "date": "2020-06-05",
+            "s3_filename_ingested": "ingestion/output/2020/06/5ED91687FE23BF000800067E/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/resource/a7e21410-8a79-11ec-b92e-970acd8c80b9"
+        },
+        "12": {
+            "s3_filename_clean": "clean/2023/06/2023-06-16-nota-648C03CC2D77B42474D4D1F6.txt",
+            "s3_clean_content": "Flanders Technology & Innovation (FTI): verankering van de event- entertainmentsector in Vlaanderen gekoppeld aan een reconversie van de Rupelregio   De Vlaamse Regering herlanceert het merk Flanders Technology & Innovation (FTI), als een wervend project rond technologie en innovatie, over alle beleidsdomeinen heen. E\u00e9n van de pijlers binnen FTI is Entertainment Tech, met gaming-technologie als een trekkende rol. In dit kader beslist de Vlaamse Regering om de Event-Entertainmentsector te verankeren en dit te koppelen aan een reconversie van de Rupelregio. In een gefaseerde aanpak wordt een totaalconcept uitgewerkt met in totaal 6 werven en 30 projecten die elkaar versterken. De Vlaamse Regering wil prioritair een governance hiervoor opzetten in samenwerking met private spelers en regionale, provinciale en lokale besturen. Ze keurt dan ook de voorliggende fasering van de realisaties van het traject goed en de overzichtstabel met uitwerking, beslissing en realisatie. Het uit te voeren beleidsvoorbereidende werk zal de Vlaamse Regering in een volgende legislatuur in staat stellen om te beslissen over mogelijke investeringsbeslissingen voor de komende jaren.",
+            "date": "2023-06-16",
+            "s3_filename_ingested": "ingestion/output/2023/06/648C03CC2D77B42474D4D1F6/document.json",
+            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/648C03CC2D77B42474D4D1F6"
+        }
+    }
+}

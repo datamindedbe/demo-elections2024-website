@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61A72EA4364ED9000800058F",
+    "attributes": {
+        "title": "Subsidie leerlingen cursus Nederlands als tweede taal (NT2) in Brussel",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie voor de vrijstelling van het inschrijvingsgeld voor cursisten die gedomicilieerd zijn in het tweetalige gebied Brussel-Hoofdstad en die de opleiding NT2 richtgraad 1 of richtgraad 2 volgen in een lesplaats gelegen in het tweetalige gebied Brussel-Hoofdstad",
+        "htmlContent": "In het kader van de versterking van de positie van het Nederlands in de hoofdstad&nbsp;maakt de Vlaamse Regering een budget van <strong>633.000 euro</strong> vrij <strong>voor de drie Vlaamse centra voor volwassenenonderwijs in het tweetalige gebied Brussel-Hoofdstad</strong> (CVO Semper, CVO Lethas Brussel en GO! CVO Brussel). De middelen zijn bestemd <strong>voor de vrijstelling van het inschrijvingsgeld voor wie in Brussel woont, er een cursus Nederlands als tweede taal (NT2) richtgraad 1 of 2 volgt en niet kan rekenen op een andere vrijstelling</strong>.",
+        "position": 41,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "d89222e1-eb8a-411f-8889-b1c1b688ab90",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd en Media",
+        "meetingDate": "2021-12-03T09:00:00Z",
+        "meetingId": "61A4F9E6364ED90008000220",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "c99b383e-edfb-420b-b6fb-b4eb742f2899",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61A72EA4364ED9000800058F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61A72EA4364ED9000800058F"
+    }
+}

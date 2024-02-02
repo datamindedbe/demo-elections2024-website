@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "60E401B1364ED900080004A1",
+    "attributes": {
+        "title": "Werkingssubsidie cultureel-erfgoedconvenant 2021-2025 Vlaamse Gemeenschapscommissie",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering betreffende de toekenning van een werkingssubsidies aan de Vlaamse Gemeenschapscommissie, voor een dienstverlenende rol op regionaal niveau voor de beleidsperiode 2021-2025",
+        "htmlContent": "Op basis van het <strong>Cultureel-erfgoeddecreet</strong> kan de <strong>Vlaamse Gemeenschapscommissie (VGC) een werkingssubsidie aanvragen voor de&nbsp;ondersteuning van het (boven)lokale cultureel-erfgoedbeleid</strong>. De Vlaamse Regering kent nu een&nbsp;werkingssubsidie toe van <strong>495.000 euro per jaar voor de uitvoering van een dienstverlenende rol op regionaal niveau voor de beleidsperiode 2021-2025</strong>. Met deze werkingssubsidie wordt er een erfgoedcel gefinancierd die een ondersteunende rol opneemt naar cultureel-erfgoedactoren op het grondgebied. De Vlaamse Regering machtigt de Vlaamse minister van Cultuur om te onderhandelen over de inhoud van het cultureel-erfgoedconvenant ter zake,&nbsp;het daarna te ondertekenen en de jaarlijkse werkingssubsidie bij ministerieel besluit uit te betalen.",
+        "position": 4,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2021-07-09T08:00:00Z",
+        "meetingId": "60E32466364ED90008000008",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "64b1d7a3-be0a-4f7e-8768-674182756c9e"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60E401B1364ED900080004A1",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60E401B1364ED900080004A1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "61FA5A22D5F0FAFA87AFA989",
+    "attributes": {
+        "title": "Dubbele waarborg en erkenning erkende kredietmaatschappijen: wijziging besluit Vlaamse Codex Wonen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de stopzetting van de dubbele waarborg die het Vlaamse Gewest verstrekt aan de erkende kredietmaatschappijen en tot bepaling van de aanvullende erkenningsvoorwaarden",
+        "htmlContent": "Om de aangroei van de gewaarborgde schuld te stoppen, en in uitvoering van het regeerakkoord, <strong>beslist de Vlaamse Regering na advies van de Raad van State definitief om het systeem van de dubbele waarborgen van de erkende kredietmaatschappijen te be\u00ebindigen</strong>. Ze bepaalt tegelijk aanvullende erkenningsvoorwaarden, om de risico\u2019s verbonden aan de reeds verleende waarborgen te kunnen beperken. Hypothecaire leningen en fundingleningen zullen niet langer gewaarborgd blijven vanuit het Vlaamse Gewest vanaf 1 januari 2022. Lopende leningen blijven wel gewaarborgd. ",
+        "position": 36,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2022-02-04T09:00:00Z",
+        "meetingId": "61F80B44D5F0FAFA87AFA68F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+            "fa4e010f-84e9-4d65-9675-1604ad41de56"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61FA5A22D5F0FAFA87AFA989",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61FA5A22D5F0FAFA87AFA989"
+    }
+}

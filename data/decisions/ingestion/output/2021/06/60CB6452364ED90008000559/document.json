@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60CB6452364ED90008000559",
+    "attributes": {
+        "title": "Geweld en discriminatie tegen lgbtqi+-personen",
+        "alternativeTitle": null,
+        "htmlContent": "Resolutie over geweld en discriminatie tegen lgbtqi+-personen, aangenomen door het Vlaams Parlement op 16 juni 2021",
+        "position": 76,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2021-06-18T08:00:00Z",
+        "meetingId": "60C8442F364ED9000800017D",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60CB6452364ED90008000559",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60CB6452364ED90008000559"
+    }
+}

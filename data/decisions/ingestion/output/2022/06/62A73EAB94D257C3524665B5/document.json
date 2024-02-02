@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "62A73EAB94D257C3524665B5",
+    "attributes": {
+        "title": "Algemene vergadering en de raad van bestuur van de vzw Sociale Dienst voor het Vlaamse overheidspersoneel: vervanging lid van de overheidsdelegatie",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 43,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "38e5e0e9-52c7-4f7d-b92b-16eee0edd193",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2022-06-17T09:00:00Z",
+        "meetingId": "62A736CB94D257C35246653F",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "62A73EAB94D257C3524665B5",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62A73EAB94D257C3524665B5"
+    }
+}

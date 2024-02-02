@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 59
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.8_De_toeristische_troeven_die_Vlaanderen_onderscheidt.

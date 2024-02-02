@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "60ED3ECC364ED9000800134C",
+    "attributes": {
+        "title": "Verplichte controle uittreksel strafregister 'goed en zedelijk gedrag' voor nieuwe medewerkers in bepaalde jeugdsectoren",
+        "alternativeTitle": "Voorontwerp van decreet houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers",
+        "htmlContent": "In het kader van de aanpak van seksueel&nbsp;grensoverschrijdend gedrag <strong>keurt</strong> de&nbsp;Vlaamse Regering <strong>principieel het voorontwerp van decreet goed dat aan bepaalde organisaties de verplichting oplegt om aan de hand van een uittreksel uit het strafregister het goed en zedelijk gedrag van&nbsp;nieuwe medewerkers, dat minstens een onberispelijk gedrag in de omgang met minderjarigen inhoudt, te controleren.</strong> Het gaat daarbij om <strong>organisaties die een activiteit aanbieden die valt onder opvoeding, psycho-medisch-sociale begeleiding, hulpverlening aan de jeugd, kinderbescherming, animatie of begeleiding aan minderjarigen</strong>. Over dit voorontwerp van decreet wordt het advies ingewonnen van de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens, de VLOR, de Vlaamse Raad WVG, de SARC,&nbsp;de Vlaamse Jeugdraad en het Horizontaal Overleg Vrijwilligerswerk (met consultatie van de Verenigde Verenigingen en Steunpunt Vrijwilligerswerk).",
+        "position": 55,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-07-16T06:00:00Z",
+        "meetingId": "60EC849F364ED90008000BE0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "a1fe00b2-9c52-40c1-8c37-3b68a78f4318"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "60ED3ECC364ED9000800134C",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED3ECC364ED9000800134C"
+    }
+}

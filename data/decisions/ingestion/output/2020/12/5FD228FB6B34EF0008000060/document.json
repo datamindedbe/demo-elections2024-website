@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FD228FB6B34EF0008000060",
+    "attributes": {
+        "title": "Beheersovereenkomst 2021-2025 VRT",
+        "alternativeTitle": "Ontwerp van beheersovereenkomst 2021-2025 tussen de Vlaamse Gemeenschap en VRT",
+        "htmlContent": "Conform artikel 16 van het Mediadecreet wordt tussen de Vlaamse Regering en de VRT een&nbsp;beheersovereenkomst afgesloten. De Vlaamse Regering keurt in dit kader&nbsp;de <strong>nieuwe beheersovereenkomst met de VRT</strong> goed,&nbsp;<strong>die loopt van 1 januari 2021 tot en met 31 december 2025</strong>.",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Benjamin",
+        "mandateeFamilyNames": "Dalle",
+        "mandateeIds": "5fed907ee6670526694a071e",
+        "mandateeTitles": "Vlaams minister van Brussel, Jeugd en Media",
+        "meetingDate": "2020-12-10T13:00:00Z",
+        "meetingId": "5FD2183D6B34EF000800002B",
+        "meetingTypePosition": 3,
+        "themeId": "12f19487-9fc6-4c02-afc3-0015b1127144",
+        "agendaitemType": "Nota",
+        "uuid": "5FD228FB6B34EF0008000060",
+        "uri": "http://themis.vlaanderen.be/id/resource/623443a0-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "615D6901364ED900090001BF",
+    "attributes": {
+        "title": "Projectsubsidies voor het uitvoeren van een groenproject in het kader van het Vlaams Strategisch Gebied Brussel",
+        "alternativeTitle": "Vier ontwerpbesluiten van de Vlaamse Regering tot toekenning van een projectsubsidie voor het uitvoeren van een groenproject in het kader van Vlaams Strategisch Gebied Brussel",
+        "htmlContent": "In het kader van het beleid open ruimte in het Vlaams Strategisch Gebied Brussel (VSGB) <strong>kent de Vlaamse Regering projectsubsidies toe voor het uitvoeren van groenprojecten aan de gemeenten Zaventem (Zavelbos), Hoeilaart (Het Koldampark), Vilvoorde (park De Molens) en Dilbeek (Mullebos).</strong>&nbsp;",
+        "position": 12,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Ben"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Weyts"
+        ],
+        "mandateeIds": [
+            "5678ff3c-ef96-4d19-b5a9-b383adcc69aa",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2021-10-08T08:00:00Z",
+        "meetingId": "615AFDEC364ED90009000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "6b4bf676-b4ef-474e-b650-1115ebd23376",
+            "758c3c7d-5b60-4eff-9320-2431a3120d19"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "615D6901364ED900090001BF",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/615D6901364ED900090001BF"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "news-item",
+    "id": "649D7DD42D77B42474D4EACD",
+    "attributes": {
+        "title": "Decreet over verwerking van persoonsgegevens in het kader van multidisciplinaire samenwerking bij deelname aan casusoverleg",
+        "alternativeTitle": "Bekrachtiging en afkondiging van het decreet over de verwerking van de persoonsgegevens in het kader van een multidisciplinaire samenwerking bij deelname aan een casusoverleg op basis van artikel 458ter van het Strafwetboek, aangenomen door het Vlaams Parlement op 28 juni 2023",
+        "htmlContent": "<p data-indentation-level=\"0\"><strong>Politie, justitie en hulpverlening kunnen samen overleggen over bepaalde dossiers</strong>. Artikel 458ter van het Strafwetboek biedt een <strong>wettelijk kader voor </strong>zo'n <strong>casusoverleg</strong>. De Vlaamse Regering beslist nu tot <strong>bekrachtiging en afkondiging</strong> van het <strong>decreet over de verwerking van persoonsgegevens in het kader van multidisciplinaire samenwerking bij deelname aan casusoverleg </strong>door organisaties die vallen onder de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest. Artikel 458ter voorziet in de mogelijkheid tot het <strong>doorbreken van het beroepsgeheim en informatie-uitwisseling</strong> op een casusoverleg, maar een <strong>rechtsgrond voor de verwerking van persoonsgegevens</strong> ontbreekt daarbij. Dit decreet komt daaraan tegemoet. Het decreet werd op 28 juni 2023 aangenomen door het Vlaams Parlement.</p>",
+        "position": 53,
+        "mandateeNames": null,
+        "mandateeFirstNames": null,
+        "mandateeFamilyNames": null,
+        "mandateeIds": null,
+        "mandateeTitles": null,
+        "meetingDate": "2023-06-30T08:00:00Z",
+        "meetingId": "649998A72D77B42474D4E38E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "2ef1a01c-861b-449a-9c7b-e0efd324a7d2",
+            "0cc58cdc-dcf4-4d6c-bc9e-27ea721baf25",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "649D7DD42D77B42474D4EACD",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/649D7DD42D77B42474D4EACD"
+    }
+}

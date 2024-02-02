@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "650178A73605E1AC863BF01A",
+    "attributes": {
+        "title": "Regeling toekenning investeringssubsidies strategische cultuur- en jeugdinfrastructuur",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering over de regeling voor de toekenning van investeringssubsidies voor strategische cultuur- en jeugdinfrastructuur",
+        "htmlContent": "<p data-indentation-level=\"0\">Na adviezen van de GBA en van de Raad van State keurt de Vlaamse Regering definitief het besluit goed met de <strong>regeling</strong> over het toekennen van <strong>investeringssubsidies </strong>voor strategische cultuur- en jeugdinfrastructuur. De Vlaamse Gemeenschap verleent <strong>via het Departement Cultuur, Jeugd en Media</strong> investeringssubsidies <strong>voor het bouwen, uitbreiden, verbouwen of aankopen van cultuur- en jeugdinfrastructuur met bovenlokaal belang</strong>. Het nieuwe subsidiereglement zorgt voor de actualisering en optimalisering van de terminologie, methodologie en beoordelingstools. Het beschrijft de subsidievoorwaarden, de procedure voor aanvraag, beoordeling en uitbetaling van de investeringssubsidie, en het toezicht na toekenning van de subsidie.</p>",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Jan",
+            "Benjamin"
+        ],
+        "mandateeFamilyNames": [
+            "Jambon",
+            "Dalle"
+        ],
+        "mandateeIds": [
+            "43c129cc-ba12-4457-b93e-737b7370c46e",
+            "8dcdc330-348d-4f69-b10c-02f584adb9af"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Brussel, Jeugd, Media en Armoedebestrijding"
+        ],
+        "meetingDate": "2023-09-15T08:00:00Z",
+        "meetingId": "64FF2B7C3605E1AC863BECC9",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "5ae2b345-3a34-422c-9ee5-a90927fd2158",
+            "34654906-74bd-4a69-9f93-0971f263cca3"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "650178A73605E1AC863BF01A",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/650178A73605E1AC863BF01A"
+    }
+}

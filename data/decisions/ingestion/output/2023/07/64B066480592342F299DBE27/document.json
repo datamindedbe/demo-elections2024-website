@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "64B066480592342F299DBE27",
+    "attributes": {
+        "title": "Startbeslissing complex project \u2018optimalisatie van de verbinding Ieper-Veurne tussen Vleteren en Noorderring (N38)\u2019",
+        "alternativeTitle": null,
+        "htmlContent": "<p data-indentation-level=\"0\">De Vlaamse Regering beslist om een <strong>complex project op te starten voor de optimalisatie van de wegverbinding Ieper-Veurne</strong>, met een focus op het verbeteren van de verkeersveiligheid en verkeersleefbaarheid op het traject <strong>tussen de Kruisboomstraat in Vleteren zuidwaarts tot en met het kruispunt N38/N8</strong>. Daarbij wordt ook flankerend beleid voorzien. Ze keurt daarvoor de <strong>startbeslissing en bijhorende procesnota goed voor het complex project 'optimalisatie van de verbinding Ieper-Veurne tussen Vleteren en Noorderring (N38)'</strong>. Ze spreekt ook haar engagement uit voor de verdere uitvoering van de goedgekeurde projecten voor de herinrichting van de zones 1, 2, 3 en 5. De Vlaamse ministers bevoegd voor Omgeving en voor Mobiliteit zullen zorgen voor de verdere uitvoering van deze beslissing.</p>",
+        "position": 96,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Lydia"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Peeters"
+        ],
+        "mandateeIds": [
+            "758e0782-fa7e-4740-a5fa-032e4c0d04ca",
+            "aa642a1e-7cc4-44da-9a6b-bce625761c5f"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Mobiliteit en Openbare Werken",
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme"
+        ],
+        "meetingDate": "2023-07-14T08:00:00Z",
+        "meetingId": "64AC015B0592342F299DAE0F",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "91b7d388-3260-4444-90ca-9b08f612dfe4",
+            "17ddaff0-b2e3-4f02-9157-76a1cf593a5b"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "64B066480592342F299DBE27",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/64B066480592342F299DBE27"
+    }
+}

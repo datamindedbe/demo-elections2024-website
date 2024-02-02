@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 60
+TOPIC_NAME: 2_—_Inburgering_en_integratie_-_2.2_Concrete_voorstellen_-_2.2.3_Jaarlijkse_monitoring_van_inburgering_en_integratie

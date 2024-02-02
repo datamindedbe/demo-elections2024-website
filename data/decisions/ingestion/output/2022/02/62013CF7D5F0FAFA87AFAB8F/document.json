@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "62013CF7D5F0FAFA87AFAB8F",
+    "attributes": {
+        "title": "Subsidie AI-plan onderzoeksluik",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering over de toekenning van een subsidie voor het onderzoeksprogramma Artifici\u00eble Intelligentie (periode januari-december 2022)",
+        "htmlContent": "Op 22 maart 2019 keurde de Vlaamse regering het \u2018Vlaams beleidsplan voor Artifici\u00eble Intelligentie\u2019 goed. Dat bestaat uit drie complementaire delen: uitvoeren en strategisch basisonderzoek; focus op de implementatie van AI-toepassingen in het bedrijfsleven; en een sterk flankerend beleid waarin gewerkt wordt aan opleidingsnoden, ethische uitdagingen en outreach naar het brede publiek. De Vlaamse Regering&nbsp;<strong>kent nu een subsidie toe aan het onderzoeksprogramma Artifici\u00eble Intelligentie van 12,185 miljoen euro, voor de werkingsperiode van 1 januari 2022 tot en met 31 december 2022.</strong>",
+        "position": 3,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Hilde",
+        "mandateeFamilyNames": "Crevits",
+        "mandateeIds": "dc66d32b-be05-43b8-ac18-0d91fdf8c6ec",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale economie en Landbouw",
+        "meetingDate": "2022-02-11T09:00:00Z",
+        "meetingId": "6201389ED5F0FAFA87AFAB57",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "62013CF7D5F0FAFA87AFAB8F",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62013CF7D5F0FAFA87AFAB8F"
+    }
+}

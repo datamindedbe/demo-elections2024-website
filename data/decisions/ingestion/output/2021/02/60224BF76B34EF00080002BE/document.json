@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "60224BF76B34EF00080002BE",
+    "attributes": {
+        "title": "Strategische Planning Waterbevoorrading (SPW): drinkwaterbevoorrading via openbare waterdistributie",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 39,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Zuhal",
+        "mandateeFamilyNames": "Demir",
+        "mandateeIds": "5fed907ee6670526694a0715",
+        "mandateeTitles": "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+        "meetingDate": "2021-02-12T09:00:00Z",
+        "meetingId": "602231C76B34EF00080000CD",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "60224BF76B34EF00080002BE",
+        "uri": "http://themis.vlaanderen.be/id/resource/0a3adc50-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

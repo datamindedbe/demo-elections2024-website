@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "5FD899F56B34EF0008000A3A",
+    "attributes": {
+        "title": "Eindrapport Centraal Expertencomit\u00e9 \u2018Monitoring Discriminatie\u2019",
+        "alternativeTitle": null,
+        "htmlContent": null,
+        "position": 161,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Bart",
+        "mandateeFamilyNames": "Somers",
+        "mandateeIds": "5fed907ee6670526694a0710",
+        "mandateeTitles": "Vlaams minister van Binnenlands Bestuur, Bestuurszaken, Inburgering en Gelijke Kansen",
+        "meetingDate": "2020-12-18T09:00:00Z",
+        "meetingId": "5FD7A4CF6B34EF0008000224",
+        "meetingTypePosition": 4,
+        "themeId": null,
+        "agendaitemType": "Mededeling",
+        "uuid": "5FD899F56B34EF0008000A3A",
+        "uri": "http://themis.vlaanderen.be/id/resource/ad6185f0-4925-11ec-94bb-99a9d1e168fe"
+    }
+}

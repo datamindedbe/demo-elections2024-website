@@ -1,0 +1,26 @@
+{
+    "type": "news-item",
+    "id": "649BEA172D77B42474D4E920",
+    "attributes": {
+        "title": "Vaststelling regels thematische oproep voor circulaire economie bij het Fonds Wetenschappelijk Onderzoek (FWO)",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de regels voor de thematische oproep voor circulaire economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO)",
+        "htmlContent": "<p data-indentation-level=\"0\">Na advies van het Fonds Wetenschappelijk Onderzoek - Vlaanderen en van de Raad van State keurt de Vlaamse Regering definitief het besluit goed met de <strong>thematische oproep rond circulaire economie bij het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO)</strong>. Het besluit cre\u00ebert het wettelijke reglementaire kader voor de organisatie van deze oproep, die zal open staan voor projecten strategisch basisonderzoek binnen de 6 werkagenda's van Vlaanderen Circulair (circulair bouwen, chemie/kunststoffen, circulaire maakindustrie, waterkringlopen, bio-economie en voedselketen). Er wordt een totaal budget van 3 miljoen euro voorzien voor deze tweejaarlijkse oproep (dus jaarlijks 1,5 miljoen euro).</p>",
+        "position": 49,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jo",
+        "mandateeFamilyNames": "Brouns",
+        "mandateeIds": "f7fe3320-7c15-4322-b907-02571d3dfe6e",
+        "mandateeTitles": "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+        "meetingDate": "2023-06-30T08:00:00Z",
+        "meetingId": "649998A72D77B42474D4E38E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "faf802ff-bca7-4419-acc0-d84937e5bcd4",
+            "c8a94efe-10a8-4f5f-a77a-2ca188dc7b51",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "649BEA172D77B42474D4E920",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/649BEA172D77B42474D4E920"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "news-item",
+    "id": "65814F9FE2E2C9E5814C1DBC",
+    "attributes": {
+        "title": "Strategische Adviesraad voor Landbouw en Visserij (SALV): vervanging leden",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 1, 1\u00b0 en 13\u00b0 en artikel 2, 13\u00b0 van het besluit van de Vlaamse Regering van 4 september 2020 tot het opnieuw samenstellen van de Strategische Adviesraad voor Landbouw en Visserij",
+        "htmlContent": "<p data-indentation-level=\"0\">Op voordracht van de Boerenbond en het landbouwonderwijs <strong>vervangt</strong> de Vlaamse Regering <strong>Lode Ceyssens en Patricia Sieuw door respectievelijk Loes Lysens en Wim Vanderschueren als effectieve leden van de Strategische Adviesraad voor Landbouw en Visserij</strong>.</p>",
+        "position": 38,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Hilde",
+            "Jo"
+        ],
+        "mandateeFamilyNames": [
+            "Crevits",
+            "Brouns"
+        ],
+        "mandateeIds": [
+            "384269c5-542a-4c95-aec6-c6b250fca93e",
+            "85e6f060-c8c5-4780-a399-e8b9b2d7d069"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Economie, Innovatie, Werk, Sociale Economie en Landbouw",
+            "Vlaams minister van Welzijn, Volksgezondheid en Gezin"
+        ],
+        "meetingDate": "2023-12-22T09:00:00Z",
+        "meetingId": "658067A3E2E2C9E5814C146D",
+        "meetingTypePosition": 4,
+        "themeId": "872c910d-dd86-46b4-a3b0-0ff45df32702",
+        "agendaitemType": "Nota",
+        "uuid": "65814F9FE2E2C9E5814C1DBC",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbericht/65814F9FE2E2C9E5814C1DBC"
+    }
+}

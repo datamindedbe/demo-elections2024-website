@@ -1,0 +1,37 @@
+{
+    "type": "news-item",
+    "id": "5E26D35E9B663900080001A8",
+    "attributes": {
+        "title": "Aanwijzing dienst belast met de operationalisering van de sociale kaart",
+        "alternativeTitle": "Voorontwerp van besluit van de Vlaamse Regering tot aanwijzing van de dienst die belast is met de operationalisering van de sociale kaart\n\n",
+        "htmlContent": "                                                        <!----> Na advies van de Raad van State wijst de Vlaamse Regering het <strong>Departement Welzijn, Volksgezondheid en Gezin</strong> (WVG) definitief&nbsp;aan als de <strong>dienst die belast is met de operationalisering van de sociale kaart</strong>.&nbsp;De sociale kaart bevat een<strong> up-to-date&nbsp;overzicht van zorgvoorzieningen en zorgverstrekkers in Vlaanderen en Brussel&nbsp;</strong>en is voor iedereen online consulteerbaar. &nbsp; &nbsp;<!-- components -->\n<!---->\n\n&nbsp;\n\n<!-- components -->\n<!---->",
+        "position": 35,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Zuhal",
+            "Wouter"
+        ],
+        "mandateeFamilyNames": [
+            "Demir",
+            "Beke"
+        ],
+        "mandateeIds": [
+            "5fed907ee6670526694a0715",
+            "5fed907ee6670526694a0719"
+        ],
+        "mandateeTitles": [
+            "Vlaams minister van Justitie en Handhaving, Omgeving, Energie en Toerisme",
+            "Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding"
+        ],
+        "meetingDate": "2020-01-24T09:00:00Z",
+        "meetingId": "5E26B05C9B66390008000001",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "4dfb835d-ded2-4298-85bb-ff41f3563193",
+            "4a0bb077-a416-4e4d-96ce-b2e89cec0a47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5E26D35E9B663900080001A8",
+        "uri": "http://themis.vlaanderen.be/id/resource/ff99db10-492a-11ec-94bb-99a9d1e168fe"
+    }
+}

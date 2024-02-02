@@ -1,0 +1,25 @@
+{
+    "type": "news-item",
+    "id": "5FB4DA9A20B6670008000598",
+    "attributes": {
+        "title": "Herverdeling provisioneel krediet: zero emissie-voertuigen",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2020",
+        "htmlContent": "De Vlaamse Regering beslist tot <strong>herverdeling </strong>van begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2020&nbsp;voor een bedrag van<strong> 275.000 euro</strong>. Het bedrag is bedoeld om&nbsp;de entiteiten van de Vlaamse overheid te ondersteunen bij het behalen van hun klimaatdoelstellingen, door die <strong>entiteiten&nbsp;die een zero emissie-voertuig hebben verworven in 2017, 2018 of 2019, een premie</strong> te geven <strong>van 5.000 euro per voertuig</strong>.",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Jan",
+        "mandateeFamilyNames": "Jambon",
+        "mandateeIds": "5fed907ee6670526694a070c",
+        "mandateeTitles": "Minister-president van de Vlaamse Regering",
+        "meetingDate": "2020-11-20T09:00:00Z",
+        "meetingId": "5FB37EEA20B66700080003F0",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "758c3c7d-5b60-4eff-9320-2431a3120d19",
+            "abebd345-3650-400c-b317-9a8da2760f21"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "5FB4DA9A20B6670008000598",
+        "uri": "http://themis.vlaanderen.be/id/resource/bcea4f60-4926-11ec-94bb-99a9d1e168fe"
+    }
+}

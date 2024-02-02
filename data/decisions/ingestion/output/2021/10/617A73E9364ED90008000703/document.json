@@ -1,0 +1,22 @@
+{
+    "type": "news-item",
+    "id": "617A73E9364ED90008000703",
+    "attributes": {
+        "title": "Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022",
+        "alternativeTitle": "Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2022",
+        "htmlContent": "<span style=\"font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;\">Na adviezen&nbsp;van de SERV, de VLOR, de&nbsp;Vlaamse Raad WVG, de SAR CJSM, de SALV, de MORA, de Minaraad,&nbsp;de SARO en de Raad van State,&nbsp; hecht de Vlaamse Regering</span>&nbsp;haar <strong>definitieve&nbsp;goedkeuring</strong> aan het&nbsp;<strong>ontwerp van Programmadecreet met de bepalingen tot begeleiding van de begroting 2022</strong>. Het ontwerp van Programmadecreet wordt nu ingediend bij het Vlaams Parlement.",
+        "position": 1,
+        "mandateeNames": null,
+        "mandateeFirstNames": "Matthias",
+        "mandateeFamilyNames": "Diependaele",
+        "mandateeIds": "dc380cfb-3987-42bb-afc6-8e079e64ff63",
+        "mandateeTitles": "Vlaams minister van Financi\u00ebn en Begroting, Wonen en Onroerend Erfgoed",
+        "meetingDate": "2021-10-28T09:15:00Z",
+        "meetingId": "617A400D364ED9000800063E",
+        "meetingTypePosition": 3,
+        "themeId": "6053f77e-09d3-4d08-8b1e-1fc5f34f3667",
+        "agendaitemType": "Nota",
+        "uuid": "617A73E9364ED90008000703",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/617A73E9364ED90008000703"
+    }
+}

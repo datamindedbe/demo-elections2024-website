@@ -1,0 +1,38 @@
+{
+    "type": "news-item",
+    "id": "61F1526AD5F0FAFA87AFA58E",
+    "attributes": {
+        "title": "Internationale beurzenprogramma voor topstudenten",
+        "alternativeTitle": "Ontwerpbesluit van de Vlaamse Regering over het Vlaamse internationale beurzenprogramma voor topstudenten",
+        "htmlContent": "\u200bIn het Regeerakkoord 2019-2024 formuleerde de Vlaamse Regering de ambitie om een programma op te zetten waarin&nbsp;jaarlijks de beste studenten hun academische carri\u00e8re kunnen verlengen bij de beste universiteiten ter wereld, en zo een netwerk op te bouwen met de belangrijkste kenniscentra in de wereld. De Vlaamse Regering&nbsp;<strong>keurt nu, na advies van de Raad van State,&nbsp;definitief&nbsp;het besluit goed met het&nbsp;uitvoerende juridische kader&nbsp;voor de toekenning van deze&nbsp;beurzen voor topstudenten.&nbsp;</strong>",
+        "position": 2,
+        "mandateeNames": null,
+        "mandateeFirstNames": [
+            "Ben",
+            "Jan"
+        ],
+        "mandateeFamilyNames": [
+            "Weyts",
+            "Jambon"
+        ],
+        "mandateeIds": [
+            "81e6ca1b-97c1-4572-ae79-fba4ccb91e91",
+            "d437d986-09de-4b46-8fce-f6ca4389f492"
+        ],
+        "mandateeTitles": [
+            "Minister-president van de Vlaamse Regering",
+            "Vlaams minister van Onderwijs, Sport, Dierenwelzijn en Vlaamse Rand"
+        ],
+        "meetingDate": "2022-01-28T09:00:00Z",
+        "meetingId": "61EEC131D5F0FAFA87AFA35E",
+        "meetingTypePosition": 4,
+        "themeId": [
+            "9d82e85b-a02c-4bf0-b324-1eb0b5e81042",
+            "ee9bda4a-f54a-41d5-be2f-9d45781623be",
+            "ca626cb0-7f48-4e2f-8c09-2c77d34bef47"
+        ],
+        "agendaitemType": "Nota",
+        "uuid": "61F1526AD5F0FAFA87AFA58E",
+        "uri": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61F1526AD5F0FAFA87AFA58E"
+    }
+}
