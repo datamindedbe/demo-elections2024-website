@@ -1,0 +1,64 @@
+# Evaluatie van de Uitvoering van het Regeerakkoord: Geestelijke Gezondheidszorg
+
+De plannen van de regering op het gebied van geestelijke gezondheidszorg zijn vastgelegd in het regeerakkoord, met de nadruk op toegankelijkheid, proactiviteit, betaalbaarheid en nabijheid. De beslissingen die in de jaren daarna zijn genomen, weerspiegelen inspanningen op deze gebieden, met een bijzondere focus op jongeren, perinatale zorg en suïcidepreventie [1.2.3.3].
+
+<details>
+        <summary>Regeerakkoord Sectie </summary>
+        <p>1.2.3.3 Geestelijke gezondheid De versnippering in de geestelijke gezond-heidszorg is na de zesde staatshervorming zeker niet verminderd. De hervorming van de eerstelijnszorg maakt dat we ook binnen dit veld verder kunnen stroom-lijnen. Een kwalitatieve geestelijke gezond-heidszorg is toegankelijk, proactief, betaalbaar en nabij. Voor het psychisch welzijn van de bevolking verhogen we het aanbod in de geestelijke gezondheidszorg zodat we ook hier de wachtlijsten verder kunnen terugdringen en sneller tegemoet kunnen komen aan de zorgvraag, met prioriteit voor kinderen, jongeren en de perinatale geestelijke gezondheidszorg. Vlaanderen scoort slecht op vlak van suïcide. We starten onmiddellijk met de evaluatie van het huidige Actieplan Suïcidepreventie met het oog op het opstellen van een Derde Vlaams Actieplan Suïcidepreventie waarvoor we de internationale tendens ‘Zero Suicide’ als doelstelling nemen. We maken werk van een kwalitatief preventiebeleid binnen geestelijke gezond-heid met bijzondere aandacht voor kinderen, jongeren en ouderen. Daarbij onderzoeken we de mogelijkheid om een gericht preventiebeleid met outputmeting te voeren. Op basis van wetenschappelijk onderzoek ontwikkelen we een methodiek voor de introductie van stressbeheersing vanaf de kleuterklas. Preventie van GGZ- problemen is ook Health in All Policies. We gaan na hoe we maatregelen kunnen nemen om op verschillende levensdomeinen (werk, onderwijs, …) in te grijpen met het oog op het voorkomen van psychische problematiek. Voor zover nodig wordt dit afgestemd op een IMC. Ook m-health en onlinehulp bouwen we verder uit, zoals de tweedelijns-chatfunctie bij de centra voor geestelijke gezondheids-zorg (CGG’s). We zetten in op destigmatise-ring van geestelijke gezondheidsproblemen en op drempelverlaging om ondersteuning te zoeken. We rollen eerste hulp bij psychi-sche problemen verder uit waardoor meer mensen psychische problemen kunnen herkennen en weten hoe en waar ze voor die persoon hulp kunnen vinden. We onderzoeken nieuwe laagdrempelige en huiselijke opvangvormen voor kinderen en volwassenen met een dubbeldiagnose. We voeren het decreet over de organisatie en ondersteuning van het geestelijke gezondheidsaanbod uit en brengen over-tollige structuren/overlegorganen in kaart om verder te verminderen. Aangezien de federale overheid nog een belangrijk bevoegdheidspakket heeft op vlak van geestelijke gezondheidszorg, gaan we met hen in dialoog om het aanbod op elkaar af te stemmen, toegankelijk en betaalbaar te maken en de financiering volgens de bevoegdheden af te bakenen. De eerstelijnspsychologische functie, waarbij de huisarts het eerste aanspreek-punt is, is belangrijk voor Vlaanderen omdat mensen op die manier snel en laagdrempelig ondersteuning kunnen krijgen binnen de basiszorg. We dringen bij de federale over-heid aan op een uitbreiding van de terug-betaling van psychologische zorg naar minderjarigen en personen boven 65 jaar. Zo verlagen we de druk op de tweedelijnsvoor-zieningen zoals de CGG’s en wordt een beroep op het intensiever zorgaanbod zoveel als mogelijk vermeden en beschikbaar voor mensen die er echt nood aan hebben. We aligneren de werking van de CGG’s meer op de regionale zorgzones, waarbij we prioritair inzetten op jongeren en ouderen. We maken werk van een eerlijke verdeling van de middelen voor alle CGG-werkingsgebieden en alle burgers door het rechttrekken van historische tekorten via programmering. We maken werk van een betere monitoring van het aantal wachtenden binnen de CGG’s. Zo vermijden we een aanmeldingsstop bij deze centra. We rationaliseren de CGG’s en CAR’s tot één enkele soort organisatie. Om meer evidence based practices te ontwikkelen binnen de geestelijke gezond-heidszorg en tegelijk de cliënt/patiënt centraal te stellen, is het van belang te weten welke gebruiker met welke zorg-noden en -vragen op welk moment welke zorg bij de verschillende sectoren en voorzieningen heeft gekregen. Een betrouwbare en intersectorale registratie in de geestelijke gezondheidszorg moet daaraan tegemoet komen. We zetten bijkomende middelen in om de verslavingsproblematiek aan te pakken (tabak, drugs, alcohol, gokverslaving, gaming, enz.). Het huidige drugsbeleid gebaseerd op 3 pijlers (preventie, repressie en hulpverle-ning) zetten we verder. We besteden de nodige aandacht aan nazorg en zetten hier vooral in op online methodieken. We werken een bijkomend aanbod forensi-sche zorg uit voor geïnterneerden zowel tijdens als na detentie. We hebben aandacht voor een vlotte doorstroming van categorale naar reguliere zorg volgens het principe ‘regulier waar kan, forensisch waar nodig’. Hiertoe werken we nauw samen met de minister bevoegd voor justitie en met het federale niveau en dit om tot een integraal beleid te kunnen komen. </p>
+        </details> 
+
+Toegankelijkheid en Proactiviteit
+- Het ‘Connect’-programma voor vroegdetectie is ondersteund en uitgebreid, waarmee de regering laat zien dat er prioriteit wordt gegeven aan het proactief en toegankelijk maken van diensten voor jongeren \[0\]\[1\]\[2\]\[3\].
+- Er zijn investeringen gedaan in online hulpverlening, waardoor laagdrempeligere en rechtstreeks toegankelijke online ondersteuning voor jongeren wordt geboden \[4\]\[5\].
+
+## Betaalbaarheid
+- De regering heeft een versterking van de basiswerking van de Centra voor Geestelijke Gezondheidszorg (CGG’s) gefinancierd voor alle leeftijdsgroepen, ook in reactie op de COVID-19 pandemie, wat de financiële toegankelijkheid van diensten verbeterd zal hebben \[6\].
+
+## Nabijheid en Deskundigheid
+- Inzet op het vroegtijdig interveniëren bij psychische en psychiatrische problematiek draagt bij aan de nabijheid en deskundigheid van de zorg \[1\]\[2\]\[3\].
+- Specifieke toewijzing van subsidies voor gespecialiseerde geestelijke gezondheidszorg aan vluchtelingen uit Oekraïne laat zien dat de regering zich inspant om de CGG-diensten aan te passen aan de behoeften van specifieke bevolkingsgroepen \[7\]\[8\].
+
+## Overige Relevant Beslissingen
+- De regering heeft werk gemaakt van verbeteringen in de infrastructuur en kwaliteitsverhoging van de zorg door financiële middelen beschikbaar te stellen en de organisatie van de CGG’s af te stemmen op regionale zorgzones \[9\]\[10\]\[11\]\[12\]\[13\].
+- Ook is er aandacht besteed aan de mentale gezondheid van zorgverleners via mobiele support teams \[14\]\[15\].
+- Met de hervorming van de zorgraden en de financiering van de eerstelijnszorgaanbieders wordt de structuur van de geestelijke gezondheidszorg verder verbeterd \[16\]\[11\].
+
+De besluiten wijzen op een consistent beleid om de beloften uit het regeerakkoord na te komen, met nadruk op het verhogen van de beschikbaarheid en kwaliteit van de geestelijke gezondheidszorg en het aanpassen van het aanbod aan de huidige maatschappelijke uitdagingen. Er is specifieke actie ondernomen op het gebied van toegankelijkheid voor kinderen en jongeren, wat een afspiegeling is van de prioriteiten die in het regeerakkoord zijn gesteld.
+
+<details>
+        <summary> Referenties</summary>
+        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbericht/652E6FA07FDB1A5D07829387)** : **(2023-10-20)** Uitvoering programma 'Vroegdetectie en -interventie' in netwerken geestelijke gezondheid voor kinderen en jongeren: subsidieovereenkomsten en financiering bijkomend aanbod gespecialiseerde ambulante d... 
+
+**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62A0887994D257C3524660DA)** : **(2022-06-10)** Subsidie programma vroegdetectie en vroeginterventie Zes ontwerpbesluiten van de Vlaamse Regering voor de financiering van het programma vroegdetectie en vroeginterventie in de netwerken geestelijke g... 
+
+**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/638F35CDC2B90D4571CF757F)** : **(2022-12-09)** Subsidie programma 'Vroegdetectie en vroeginterventie' in de netwerken geestelijke gezondheidszorg voor kinderen en jongeren Zes ontwerpbesluiten Vlaamse Regering voor de financiering van het programm... 
+
+**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DB04B2364ED9000800035B)** : **(2021-07-02)** Subsidie vroegdetectie en -interventie in de netwerken geestelijke gezondheidszorg voor kinderen en jongeren Zes ontwerpbesluiten van de Vlaamse Regering voor de financiering van het programma Vroegde... 
+
+**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/629771442071A7D754F183F4)** : **(2022-06-03)** Project online hulpverlening in de geestelijke gezondheidszorg Ontwerp van overeenkomst betreffende de subsidiering van CGG Kempen voor het project online hulpverlening in de geestelijke gezondheidszo... 
+
+**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DB0568364ED9000800035C)** : **(2021-07-02)** CGG Kempen: subsidie online hulpverlening in de geestelijke gezondheidszorg Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan CGG Kempen voor het project online hulpverlening ... 
+
+**[\[6\]](http://themis.vlaanderen.be/id/resource/ab525500-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** Centra voor Geestelijke Gezondheidszorg: subsidie versterken basiswerking voor de leeftijdsdoelgroepen kinderen en jongeren, volwassenen en ouderen Ontwerpbesluit van de Vlaamse Regering tot toekennin... 
+
+**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbericht/641079AF3335D329E25ECCC2)** : **(2023-03-17)** Aanbieden gespecialiseerde geestelijke gezondheidszorg aan vluchtelingen uit Oekraïne: wijziging subsidiebesluit Centra voor Geestelijke Gezondheidszorg Ontwerpbesluit van de Vlaamse Regering tot wijz... 
+
+**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/626162191C4A193816C2F52D)** : **(2022-04-22)** Centra voor Geestelijke Gezondheidszorg: subsidie voor het aanbieden van gespecialiseerde geestelijke gezondheidszorg aan vluchtelingen uit Oekraïne Ontwerpbesluit van de Vlaamse Regering tot toekenni... 
+
+**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbericht/65704536E2E2C9E5814BECCB)** : **(2023-12-08)** Eén gemeenschappelijk overheidskader voor Centra voor ambulante revalidatie (CAR) en Centra voor geestelijke gezondheidszorg (CGG): uitvoeringsbesluit A. Voorontwerp van besluit van de Vlaamse Regerin... 
+
+**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbericht/650AA52A3605E1AC863BFA2F)** : **(2023-09-22)** Financiering functieclassificatie in centra voor geestelijke gezondheidszorg: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het Besluit van de Vlaamse Regering van 7 decem... 
+
+**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbericht/654A3A569DAB6626D11E6176)** : **(2023-11-10)** Organisatie eerstelijnszorg voor persoon met een zorg- en ondersteuningsnood Voorontwerp van besluit van de Vlaamse Regering over de organisatie van de eerstelijnszorg voor de persoon met een zorg- en... 
+
+**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbericht/6448CD69CA1CB15B58CF5168)** : **(2023-04-28)** Nieuw kader investeringssubsidiëring revalidatieovereenkomsten Voorontwerp van besluit van de Vlaamse Regering over investeringssubsidies voor de revalidatieovereenkomsten  De Vlaamse Regering keurt p... 
+
+**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbericht/649A9FC32D77B42474D4E7C7)** : **(2023-06-30)** Nieuw kader investeringssubsidiëring psychosociale revalidatievoorzieningen voor volwassenen, kinderen en jongeren en verslavingszorgcentra Ontwerpbesluit van de Vlaamse Regering over investeringssubs... 
+
+**[\[14\]](http://themis.vlaanderen.be/id/resource/f0a22380-4928-11ec-94bb-99a9d1e168fe)** : **(2020-06-19)** Subsidies hulpprogramma geestelijke gezondheidszorg jeugdhulp en mobiele support Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de Centra voor Geestelijke Gezondheidszorg v... 
+
+**[\[15\]](http://themis.vlaanderen.be/id/resource/ac2cd680-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** COVID-19: subsidie Centra Geestelijke Gezondheidszorg voor mobiele support teams aan medewerkers in zorg en welzijn Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse ... 
+
+**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbericht/645B4AC28E8235823F6B74DD)** : **(2023-05-12)** Decreet over organisatie van eerstelijnszorg voor personen met een zorg- en ondersteuningsnood Voorontwerp van decreet over de organisatie van de eerstelijnszorg voor de persoon met een zorg- en onder... 
+        </details> 
+
