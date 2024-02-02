@@ -32,20 +32,20 @@ De Vlaamse Regering heeft concrete stappen ondernomen die overeenkomen met de do
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ADF2D8364ED900080001F1)** : **(2021-05-28)** Ontwikkelingssamenwerking Mozambique Ontwerp van vierde Landenstrategienota voor de ontwikkelingssamenwerking met Mozambique, 2021-2025  De Vlaamse Regering keurt het ontwerp goed van Vierde Landenstr... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwikkelingssamenwerking%20Mozambique&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Ontwikkelingssamenwerking Mozambique 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/8d01d2c0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Heroriëntatie van de samenwerking met Zuid‐Afrika van een ontwikkelings‐ naar een sterke politieke, economische en diplomatieke samenwerking   Sinds de afschaffing van het apartheidsregime in 1994 hee... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herori%C3%ABntatie%20van%20de%20samenwerking%20met%20Zuid%E2%80%90Afrika%20van%20een%20ontwikkelings%E2%80%90%20naar%20een%20sterke%20politieke%2C%20economische%20en%20diplomatieke%20samenwerking&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Heroriëntatie van de samenwerking met Zuid‐Afrika van een ontwikkelings‐ naar een sterke politieke, economische en diplomatieke samenwerking 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/619CB3FD364ED9000800026C)** : **(2021-11-26)** Vlaamse Strategie Duurzame Ontwikkeling IV Ontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het gecoördineerd Vlaams beleid duurzame... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-11-26T09%3A00%3A00Z&endDate=2021-11-26T09%3A00%3A00Z)** : **(2021-11-26)** Vlaamse Strategie Duurzame Ontwikkeling IV 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1AD3B364ED900080002F1)** : **(2021-06-25)** Vlaamse Strategie Duurzame Ontwikkeling IV Voorontwerp van vierde Vlaamse Strategie Duurzame Ontwikkeling  Het decreet Duurzame Ontwikkeling bepaalt het kader voor het gecoördineerd Vlaams beleid duur... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Strategie%20Duurzame%20Ontwikkeling%20IV&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Vlaamse Strategie Duurzame Ontwikkeling IV 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/4874d050-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-02)** Vervolledigen van ‘Vizier 2030 – een 2030-doelstellingenkader voor Vlaanderen’   Vizier 2030 is het 2030-doelstellingkader voor Vlaanderen. Het werd samen met een indicatorenset door de Vlaamse Regeri... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vervolledigen%20van%20%E2%80%98Vizier%202030%20%E2%80%93%20een%202030-doelstellingenkader%20voor%20Vlaanderen%E2%80%99&dateOption=select&startDate=2020-10-02T08%3A00%3A00Z&endDate=2020-10-02T08%3A00%3A00Z)** : **(2020-10-02)** Vervolledigen van ‘Vizier 2030 – een 2030-doelstellingenkader voor Vlaanderen’ 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B5E17B364ED900080005F2)** : **(2021-06-04)** Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko   In haar Regeerakkoord heeft de Vlaamse Regering aangegeven dat zij een nieuwe samenwerking wenst op t... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Nieuwe%20samenwerking%20met%20de%20regio%20Noord-%20en/of%20Oost-Afrika%3A%20intentie%20tot%20samenwerking%20met%20Marokko&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Nieuwe samenwerking met de regio Noord- en/of Oost-Afrika: intentie tot samenwerking met Marokko 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/650A99DD3605E1AC863BFA1E)** : **(2023-09-22)** Landenstrategienota voor de internationale samenwerking tussen Vlaanderen en Malawi voor de periode 2024-2028   De Vlaamse Regering hecht haar goedkeuring aan de 'Landenstrategienota voor internationa... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Landenstrategienota%20voor%20de%20internationale%20samenwerking%20tussen%20Vlaanderen%20en%20Malawi%20voor%20de%20periode%202024-2028&dateOption=select&startDate=2023-09-22T08%3A00%3A00Z&endDate=2023-09-22T08%3A00%3A00Z)** : **(2023-09-22)** Landenstrategienota voor de internationale samenwerking tussen Vlaanderen en Malawi voor de periode 2024-2028 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61938192364ED90008000162)** : **(2021-11-19)** Subsidie projecten kleinschalige landbouwers Malawi Vier ontwerpbesluiten van de Vlaamse Regering  In het kader van de  Landenstrategienota 2019-2023  tussen Vlaanderen en Malawi kent de Vlaamse Reger... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20projecten%20kleinschalige%20landbouwers%20Malawi&dateOption=select&startDate=2021-11-19T09%3A00%3A00Z&endDate=2021-11-19T09%3A00%3A00Z)** : **(2021-11-19)** Subsidie projecten kleinschalige landbouwers Malawi 
         </details> 
 

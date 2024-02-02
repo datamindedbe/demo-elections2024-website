@@ -7,28 +7,32 @@
             "s3_clean_content": "Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten Versterking mentaal welzijn: zorgzame buurten  \u200bOp 30 april 2021 keurde de Vlaamse Regering de uitwerking van het beleid zorgzame buurten goed. Daarmee besliste ze om twee projectoproepen zorgzame buurten te lanceren, \u00e9\u00e9n in Vlaanderen en \u00e9\u00e9n in Brussel, en om deze projecten te ondersteunen met een consortium geco\u00f6rdineerd door de Koning Boudewijnstichting (KBS). In uitvoering hiervan beslist de Vlaamse Regering nu over de verdere invulling en duiding van de   opschaling van het aantal zorgzame buurten, voorziet ze  extra budget voor de Vlaamse projectoproep  zodat alle goedgekeurde projecten na jurering kunnen starten, voorziet ze  extra budget voor de Brusselse projectoproep  zodat \u00e9\u00e9n extra goedgekeurd project kan starten en voorziet ze voldoende  begeleiding en ondersteuning van deze projecten door het consortium geco\u00f6rdineerd door de KBS.  Hiervoor wordt zo'n  2,4 miljoen euro  voorzien vanuit de relanceprovisie.",
             "date": "2022-03-18",
             "s3_filename_ingested": "ingestion/output/2022/03/6230A0C66BB7B593CFC189BA/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6230A0C66BB7B593CFC189BA"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Versterking%20mentaal%20welzijn%20door%20zorgzame%20buurten&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten"
         },
         "2": {
             "s3_filename_clean": "clean/2020/09/2020-09-25-nota-5F69B47B0379AD0008000990.txt",
             "s3_clean_content": "Vlaams Actieplan Armoedebestrijding 2020-2024   De Vlaamse Regering keurt het Vlaams Actieplan Armoedebestrijding 2020-2024 goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregelen op het vlak van het voorkomen en bestrijden van armoede, en dat op korte en lange termijn, samen met de modaliteiten van evaluatie van het gevoerde beleid. De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal het plan overzenden naar het Vlaams Parlement.",
             "date": "2020-09-25",
             "s3_filename_ingested": "ingestion/output/2020/09/5F69B47B0379AD0008000990/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/6351cc20-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2020-09-25T08%3A00%3A00Z&endDate=2020-09-25T08%3A00%3A00Z",
+            "source_title": "Vlaams Actieplan Armoedebestrijding 2020-2024"
         },
         "9": {
             "s3_filename_clean": "clean/2021/07/2021-07-02-nota-60DC343E364ED90008000382.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: subsidie Vlaamse Gemeenschapscommissie voor uitvoering projectoproep 'zorgzame buurten' Vlaamse Gemeenschapscommissie: subsidie zorgzame buurten Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de Vlaamse Gemeenschapscommissie voor het uitvoeren van de overeenkomst tussen de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie inzake zorgzame buurten (VV project 144)  In het kader van het relanceplan Vlaamse Veerkracht enerzijds en het regeerakkoord en het engagement in de beleidsnota Welzijn, Volksgezondheid, Gezin en Armoedebestrijding anderzijds, keurde de Vlaamse Regering eind april de acties goed om 'Zorgzame Buurten' te realiseren. Een 'zorgzame buurt' is een buurt waar jong en oud samen leven, waar mensen zich goed en geborgen voelen, waar levenskwaliteit centraal staat, waar bewoners elkaar kennen en helpen, waar personen en gezinnen met grote en kleine ondersteuningsnoden ondersteuning krijgen en waar diensten en voorzieningen toegankelijk en beschikbaar zijn. De Vlaamse Regering wil samen met de lokale besturen investeren in zorgzame buurten om hiermee het mentaal welbevinden van de Vlamingen en de sociale cohesie in de samenleving te versterken. In dit kader kent ze nu een subsidie van een half miljoen euro toe aan de Vlaamse Gemeenschapscommissie om de projectoproep 'zorgzame buurten' in het tweetalig gebied Brussel-Hoofdstad te lanceren.",
             "date": "2021-07-02",
             "s3_filename_ingested": "ingestion/output/2021/07/60DC343E364ED90008000382/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60DC343E364ED90008000382"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20Vlaamse%20Gemeenschapscommissie%20voor%20uitvoering%20projectoproep%20%27zorgzame%20buurten%27&dateOption=select&startDate=2021-07-02T08%3A00%3A00Z&endDate=2021-07-02T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: subsidie Vlaamse Gemeenschapscommissie voor uitvoering projectoproep 'zorgzame buurten'"
         },
         "0": {
             "s3_filename_clean": "clean/2021/12/2021-12-10-nota-61AF126C364ED9000900043D.txt",
             "s3_clean_content": "Visienota 'Energiearmoede 2025'   In Vlaanderen heeft ongeveer 15% van de gezinnen te kampen met energiearmoede. Bovendien zijn de energieprijzen de laatste tijd sterk gestegen. Het Regeerakkoord 2019-2014 bevat de doelstelling om deze legislatuur extra in te zetten op een daling van de energiearmoede. De Vlaamse Regering stemt daarom in met de acties uit de Visienota 'Energiearmoede 2025',  die de krijtlijnen uittekent van het sociaal energiebeleid voor de komende jaren. De focus ligt op preventieve acties die de energie- effici\u00ebntie van woningen verhogen en op die manier zorgen voor een lagere energiefactuur, door een combinatie van financi\u00eble en ontzorgende instrumenten. Daarnaast zorgen curatieve acties voor tijdige hulpverlening wanneer huishoudens toch energieschulden opbouwen, om afsluiting te voorkomen.",
             "date": "2021-12-10",
             "s3_filename_ingested": "ingestion/output/2021/12/61AF126C364ED9000900043D/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF126C364ED9000900043D"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Energiearmoede%202025%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z",
+            "source_title": "Visienota 'Energiearmoede 2025'"
         },
         "1": {
             "s3_filename_clean": "clean/2020/03/2020-03-20-mededeling-e33ad000-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -41,63 +45,72 @@
             "s3_clean_content": "Oproep \u2018Lokaal Activeringspact\u2019 leefloongerechtigden   In het kader van de conceptnota 'Flankerende activeringsaanpak voor de verplichte inschrijving van leefloongerechtigden' keurt de Vlaamse Regering de oproep 'Lokaal activeringspact' goed. De oproep wil lokale besturen resultaatgericht stimuleren om meer leefloongerechtigden te activeren , en geeft middelen voor acties die hierop zijn gericht. De oproep vraagt lokale besturen om zich ertoe te engageren een hoger duurzaam uitstroomresultaat te behalen dan het Vlaamse gemiddelde van 24%. De oproep zal tweemaal opengesteld worden, telkens voor een bedrag van 10 miljoen euro, voor projecten met een looptijd van een jaar. De Vlaamse minister, bevoegd voor de sociale economie, en de Vlaamse minister, bevoegd voor binnenlands bestuur, zullen zorgen voor de lancering en uitvoering van de eerste oproep 'Lokaal activeringspact' en voor de toekenning van de middelen aan de begunstigden.",
             "date": "2023-07-14",
             "s3_filename_ingested": "ingestion/output/2023/07/64AE7A650592342F299DBA40/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64AE7A650592342F299DBA40"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Oproep%20%E2%80%98Lokaal%20Activeringspact%E2%80%99%20leefloongerechtigden&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z",
+            "source_title": "Oproep \u2018Lokaal Activeringspact\u2019 leefloongerechtigden"
         },
         "5": {
             "s3_filename_clean": "clean/2021/04/2021-04-30-nota-608A6D03364ED90008000A1F.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' Versterking mentaal welzijn: zorgzame buurten  In het kader van het relanceplan Vlaamse Veerkracht enerzijds en het regeerakkoord en het engagement in de beleidsnota Welzijn, Volksgezondheid, Gezin en Armoedebestrijding anderzijds, keurt de Vlaamse Regering de acties goed om 'Zorgzame Buurten ' te realiseren. De Vlaamse Regering wil samen met de lokale besturen investeren in zorgzame buurten om hiermee het mentaal welbevinden van de Vlamingen en de sociale cohesie in de samenleving te  versterken. Dit pakt ze aan via twee beleidspaden: de ontwikkeling, begeleiding en het op de kaart zetten van minstens 100 zorgzame buurten als motor voor de ontwikkeling van zorgzame buurten in heel Vlaanderen en Brussel; en het administratief in kaart brengen van stimulansen en weg te werken hinderpalen.",
             "date": "2021-04-30",
             "s3_filename_ingested": "ingestion/output/2021/04/608A6D03364ED90008000A1F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/608A6D03364ED90008000A1F"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20versterking%20mentaal%20welzijn%20via%20acties%20%27Zorgzame%20Buurten%27&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten'"
         },
         "13": {
             "s3_filename_clean": "clean/2022/03/2022-03-11-nota-6228675A6BB7B593CFC18473.txt",
             "s3_clean_content": "Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wat betreft het maximale aantal te erkennen verenigingen waar armen het woord nemen  Na advies van de Raad van State  wijzigt  de Vlaamse Regering definitief het besluit over de armoedebestrijding, om het maximaal aantal te erkennen verenigingen waar armen het woord nemen te verhogen van 52 naar 58. Dit maakt het mogelijk om participatieprocessen van mensen in armoede op meer plaatsen te ondersteunen en bij te dragen aan de strijd tegen eenzaamheid bij mensen in armoede.",
             "date": "2022-03-11",
             "s3_filename_ingested": "ingestion/output/2022/03/6228675A6BB7B593CFC18473/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6228675A6BB7B593CFC18473"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z",
+            "source_title": "Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit"
         },
         "4": {
             "s3_filename_clean": "clean/2021/01/2021-01-22-nota-6007E44C6B34EF0008000232.txt",
             "s3_clean_content": "Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie   De Vlaamse Regering keurt het voorstel goed met de  prioritaire maatschappelijke uitdagingen in het kader van de projectsubsidieregeling binnen het sociaal-cultureel volwassenenwerk voor de indienronde van 2021. Concreet wordt er ingezet op het ondersteunen van e-inclusie projecten met het oog op het bevorderen van participatie aan onze samenleving. Deze projecten richten zich op specifieke groepen met een lage digitale geletterdheid waaronder ouderen, kortgeschoolden en mensen in armoede.",
             "date": "2021-01-22",
             "s3_filename_ingested": "ingestion/output/2021/01/6007E44C6B34EF0008000232/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/5e5a8150-4925-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Maatschappelijke%20uitdagingen%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk%3A%20e-inclusie&dateOption=select&startDate=2021-01-22T09%3A00%3A00Z&endDate=2021-01-22T09%3A00%3A00Z",
+            "source_title": "Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie"
         },
         "11": {
             "s3_filename_clean": "clean/2020/10/2020-10-16-nota-5F85519B0379AD00080000AE.txt",
             "s3_clean_content": "Sociale economie: activeringstrajecten en arbeidsmatige activiteiten Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen en het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten  De Vlaamse Regering wijzigt principieel haar uitvoeringsbesluiten bij het decreet over sociale werkplaatsen en bij het decreet over de werk- en zorgtrajecten, voor  wat de activeringstrajecten en de arbeidsmatige activiteiten betreft. De drie subsidievormen van arbeidszorg in de sociale economie worden ge\u00efntegreerd in \u00e9\u00e9n regelgevend kader voor arbeidsmatige activiteiten in de sociale economie. De doelgroep zijn personen die omwille van medische, mentale, psychische, psychiatrische en/of sociale problematieken niet betaald aan de slag kunnen, maar wel in staat zijn om 12u in de week deel te nemen, dit aantal uren gradueel op te bouwen en door deelname in de sociale economie drempels kunnen afbouwen om zo stappen naar betaald werk te zetten. Als arbeidsmarktregisseur zal VDAB instaan voor de toeleiding van deelnemers naar deze vorm van arbeidsmatige activiteiten binnen de sociale economie. Voor de begeleiding wordt een beroep gedaan op de maatwerkbedrijven en samenwerkingsverbanden met een maatwerkbedrijf. Over dit wijzigingsbesluit wordt het advies ingewonnen van de SERV en daarna van de Raad van State.",
             "date": "2020-10-16",
             "s3_filename_ingested": "ingestion/output/2020/10/5F85519B0379AD00080000AE/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/19aad120-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Sociale%20economie%3A%20activeringstrajecten%20en%20arbeidsmatige%20activiteiten&dateOption=select&startDate=2020-10-16T07%3A00%3A00Z&endDate=2020-10-16T07%3A00%3A00Z",
+            "source_title": "Sociale economie: activeringstrajecten en arbeidsmatige activiteiten"
         },
         "8": {
             "s3_filename_clean": "clean/2022/06/2022-06-03-nota-6298815A2071A7D754F18460.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Zorgzame buurten Zorgzame buurten A. Twee ontwerpbesluiten van de Vlaamse Regering tot toekenning van een bijkomende subsidie B. Twee ontwerpen van addendum bij de overeenkomst over zorgzame buurten  \u200bIn de vervolgnota  zorgzame buurten , in het kader van het relanceplan Vlaamse Veerkracht (project VV 144) besliste de Vlaamse Regering onder meer om extra budget toe te kennen aan de Vlaamse Gemeenschapscommissie zodat er \u00e9\u00e9n extra Brussels project kan starten en extra budget te voorzien aan het consortium van universiteiten, hogescholen en middenveldorganisaties, geco\u00f6rdineerd door de Koning Boudewijnstichting, voor extra begeleiding en ondersteuning van de projecten. In uitvoering hiervan   keurt ze nu de besluiten goed die een bijkomende subsidie toekennen aan de Vlaamse Gemeenschapscommissie en aan de Koning Boudewijnstichting voor zorgzame buurten, en  keurt ze de addenda van overeenkomst hierover goed tussen de Vlaamse Gemeenschap en respectievelijk de Vlaamse Gemeenschapscommissie en de Koning Boudewijnstichting. De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid en Gezin zal deze addenda ondertekenen.",
             "date": "2022-06-03",
             "s3_filename_ingested": "ingestion/output/2022/06/6298815A2071A7D754F18460/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6298815A2071A7D754F18460"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Zorgzame%20buurten&dateOption=select&startDate=2022-06-03T08%3A00%3A00Z&endDate=2022-06-03T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Zorgzame buurten"
         },
         "3": {
             "s3_filename_clean": "clean/2022/01/2022-01-21-nota-61E7C648364ED9000800020D.txt",
             "s3_clean_content": "Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk   De Vlaamse Regering wil binnen de projectregeling van het decreet sociaal- cultureel volwassenenwerk inzetten op het ondersteunen van e-inclusie projecten met het oog op het bevorderen van participatie aan onze samenleving. Of iemand digitaal uitgesloten is, wordt bepaald door vele socio-economische factoren en digitale factoren, en hoe deze zich tot elkaar verhouden. Bedoeling is met de beschikbare middelen keuzes te maken en in te zetten op e-inclusie projecten die zich richten op specifieke groepen met een lage digitale geletterdheid waaronder ouderen, kortgeschoolden en mensen in armoede. De Vlaamse Regering legt  deze uitdaging als prioritaire maatschappelijke uitdaging vast voor de beoordeling van de sociaal-culturele projectsubsidies voor 2022.",
             "date": "2022-01-21",
             "s3_filename_ingested": "ingestion/output/2022/01/61E7C648364ED9000800020D/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7C648364ED9000800020D"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vastleggen%20maatschappelijke%20uitdagingen%20in%20het%20kader%20van%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z",
+            "source_title": "Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk"
         },
         "12": {
             "s3_filename_clean": "clean/2022/01/2022-01-21-nota-61E7CEAD364ED90008000217.txt",
             "s3_clean_content": "Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wat betreft het maximale aantal te erkennen verenigingen waar armen het woord nemen  De Vlaamse Regering wijzigt principieel het besluit over de armoedebestrijding, om het maximaal aantal te erkennen verenigingen waar armen het woord nemen te verhogen van 52 naar 58. Dit maakt het mogelijk om participatieprocessen van mensen in armoede op meer plaatsen te ondersteunen en bij te dragen aan de strijd tegen eenzaamheid bij mensen in armoede. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2022-01-21",
             "s3_filename_ingested": "ingestion/output/2022/01/61E7CEAD364ED90008000217/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7CEAD364ED90008000217"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z",
+            "source_title": "Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit"
         },
         "6": {
             "s3_filename_clean": "clean/2021/12/2021-12-10-nota-61AF8335364ED90009000648.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten' Zorgzame buurten A. Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de Koning Boudewijnstichting voor zorgzame buurten B. Ontwerp van overeenkomst tussen de Vlaamse Gemeenschap en de Koning Boudewijnstichting inzake zorgzame buurten  In het kader van het project \u2018Zorgzame buurten\u2019 uit het relanceplan Vlaamse Veerkracht kent de Vlaamse Regering een subsidie van maximaal 1,5 miljoen euro toe aan de Koning Boudewijnstichting als penhouder-co\u00f6rdinator van het consortium dat de projecten zorgzame buurten zal ondersteunen op het vlak van kennisdeling, methodiekuitwisseling, intervisie en procesbegeleiding. In een zorgzame buurt zijn de voorwaarden vervuld opdat mensen, ongeacht leeftijd en grote of kleine ondersteuningsbehoeften op meerdere levensdomeinen, comfortabel in hun huis of vertrouwde buurt kunnen (blijven) wonen. Het is een buurt waar jong en oud samenleven, waar mensen zich goed en geborgen voelen, waar levenskwaliteit centraal staat, waar bewoners elkaar kennen en helpen, waar personen en gezinnen met grote en kleine ondersteuningsnoden, ondersteuning krijgen en waar diensten en voorzieningen toegankelijk en beschikbaar zijn. De Vlaamse minister bevoegd voor Welzijn, Volksgezondheid, Gezin en Armoedebestrijding zal de overeenkomst met de Koning Boudewijnstichting ondertekenen.",
             "date": "2021-12-10",
             "s3_filename_ingested": "ingestion/output/2021/12/61AF8335364ED90009000648/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF8335364ED90009000648"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20Koning%20Boudewijnstichting%20voor%20project%20%27zorgzame%20buurten%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten'"
         }
     }
 }

@@ -30,28 +30,28 @@ De beslissingen van de Vlaamse Regering \[0\]\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]]** : **(2020-07-10)** Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
+        **[\[0\]]** : **(2020-07-10)**  
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62B078624ABF604F15C221F0)** : **(2022-06-24)** Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Co%C3%B6rdinatieplatform%20Stand%20van%20de%20Rand%3A%20projectmonitoringsfiches&dateOption=select&startDate=2022-06-24T08%3A00%3A00Z&endDate=2022-06-24T08%3A00%3A00Z)** : **(2022-06-24)** Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E4214D364ED90008000782)** : **(2021-07-09)** Het Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Het%20Co%C3%B6rdinatieplatform%20Stand%20van%20de%20Rand%3A%20projectmonitoringsfiches&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Het Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A2F3D72D77B42474D4F1C2)** : **(2023-07-07)** Het Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Het%20Co%C3%B6rdinatieplatform%20Stand%20van%20de%20Rand%3A%20projectmonitoringsfiches&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Het Coördinatieplatform Stand van de Rand: projectmonitoringsfiches 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E46CC7364ED900080008AF)** : **(2021-07-09)** Actualisatienota planprogramma Vlaamse Rand: evaluatie en opstart fase 2   Drie lopende landinrichtingsprojecten en de groeiende vraag naar bescherming en versterking van de open ruimte in de Vlaamse ... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Actualisatienota%20planprogramma%20Vlaamse%20Rand%3A%20evaluatie%20en%20opstart%20fase%202&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Actualisatienota planprogramma Vlaamse Rand: evaluatie en opstart fase 2 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/558dd240-4928-11ec-94bb-99a9d1e168fe)** : **(2020-07-10)** Samenwerkingsovereenkomst 2020-2025 tussen Vlaamse Gemeenschap, provincie Vlaams-Brabant en vzw ‘de Rand’ Ontwerp van samenwerkingsovereenkomst tussen de Vlaamse Gemeenschap, de provincie Vlaams-Braba... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Samenwerkingsovereenkomst%202020-2025%20tussen%20Vlaamse%20Gemeenschap%2C%20provincie%20Vlaams-Brabant%20en%20vzw%20%E2%80%98de%20Rand%E2%80%99&dateOption=select&startDate=2020-07-10T08%3A00%3A00Z&endDate=2020-07-10T08%3A00%3A00Z)** : **(2020-07-10)** Samenwerkingsovereenkomst 2020-2025 tussen Vlaamse Gemeenschap, provincie Vlaams-Brabant en vzw ‘de Rand’ 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/650A9C783605E1AC863BFA21)** : **(2023-09-22)** Subsidies Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor project 'Ondersteuning van lokale besturen in het kader van samenleven in diversiteit: Plan Samenleven' Ontwerpb... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20Vlaamse%20lokale%20besturen%2C%20vzw%20de%20Rand%20en%20de%20Vlaamse%20Gemeenschapscommissie%20voor%20project%20%27Ondersteuning%20van%20lokale%20besturen%20in%20het%20kader%20van%20%20samenleven%20in%20diversiteit%3A%20Plan%20Samenleven%27&dateOption=select&startDate=2023-09-22T08%3A00%3A00Z&endDate=2023-09-22T08%3A00%3A00Z)** : **(2023-09-22)** Subsidies Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor project 'Ondersteuning van lokale besturen in het kader van  samenleven in diversiteit: Plan Samenleven' 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/632977815CD4B179BD8710E3)** : **(2022-09-23)** Subsidies Vlaamse lokale besturen, vzw de Rand en Vlaamse Gemeenschapscommissie voor Plan Samenleven Ontwerpbesluit van de Vlaamse Regering tot de verdeling en toekenning van projectsubsidies aan de V... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20Vlaamse%20lokale%20besturen%2C%20vzw%20de%20Rand%20en%20Vlaamse%20Gemeenschapscommissie%20voor%20Plan%20Samenleven&dateOption=select&startDate=2022-09-23T08%3A00%3A00Z&endDate=2022-09-23T08%3A00%3A00Z)** : **(2022-09-23)** Subsidies Vlaamse lokale besturen, vzw de Rand en Vlaamse Gemeenschapscommissie voor Plan Samenleven 
 
-**[\[8\]](http://themis.vlaanderen.be/id/resource/c9a84390-4928-11ec-94bb-99a9d1e168fe)** : **(2020-06-26)** vzw de Rand: wijziging omvormingsdecreet Voorontwerp van decreet tot wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. “de Rand” tot een privaatrechtelijk vormgegeven extern ve... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=vzw%20de%20Rand%3A%20wijziging%20omvormingsdecreet&dateOption=select&startDate=2020-06-26T08%3A00%3A00Z&endDate=2020-06-26T08%3A00%3A00Z)** : **(2020-06-26)** vzw de Rand: wijziging omvormingsdecreet 
 
-**[\[9\]](http://themis.vlaanderen.be/id/resource/a9a0e990-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-04)** vzw de Rand: wijziging omvormingsdecreet Voorontwerp van decreet tot wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. “de Rand” tot een privaatrechtelijk vormgegeven extern ve... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=vzw%20de%20Rand%3A%20wijziging%20omvormingsdecreet&dateOption=select&startDate=2020-09-04T08%3A00%3A00Z&endDate=2020-09-04T08%3A00%3A00Z)** : **(2020-09-04)** vzw de Rand: wijziging omvormingsdecreet 
 
-**[\[10\]](http://themis.vlaanderen.be/id/resource/d50d3ae0-8a7a-11ec-b92e-970acd8c80b9)** : **(2020-10-30)** Omvorming vzw de Rand Ontwerpdecreet tot wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. “de Rand” tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en ... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Omvorming%20vzw%20de%20Rand&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z)** : **(2020-10-30)** Omvorming vzw de Rand 
 
-**[\[11\]](http://themis.vlaanderen.be/id/resource/d6c27040-4924-11ec-94bb-99a9d1e168fe)** : **(2021-02-26)** Wijzigingsdecreet omvorming vzw de Rand tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Bekrachtiging en afkondiging van het decreet tot wijziging van het decreet van 7 mei 200... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20omvorming%20vzw%20de%20Rand%20tot%20een%20privaatrechtelijk%20vormgegeven%20extern%20verzelfstandigd%20agentschap&dateOption=select&startDate=2021-02-26T09%3A00%3A00Z&endDate=2021-02-26T09%3A00%3A00Z)** : **(2021-02-26)** Wijzigingsdecreet omvorming vzw de Rand tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap 
         </details> 
 

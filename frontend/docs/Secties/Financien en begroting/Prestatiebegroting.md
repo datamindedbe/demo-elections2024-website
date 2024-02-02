@@ -27,148 +27,151 @@ Samenvattend lijkt het erop dat de Vlaamse regering actief heeft gewerkt aan de 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63BD1B3AD6588B87B5E5CC01)** : **(2023-01-13)** Instructies opmaak beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202022&dateOption=select&startDate=2023-01-13T09%3A00%3A00Z&endDate=2023-01-13T09%3A00%3A00Z)** : **(2023-01-13)** Instructies opmaak beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbericht/6418768A3335D329E25ED3D3)** : **(2023-03-24)** Instructie beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2024 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructie%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202024&dateOption=select&startDate=2023-03-24T09%3A00%3A00Z&endDate=2023-03-24T09%3A00%3A00Z)** : **(2023-03-24)** Instructie beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2024 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbericht/653A30509DAB6626D11E55CE)** : **(2023-10-27)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2024 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z)** : **(2023-10-27)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2024 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62865D0500408C01F2054576)** : **(2022-05-20)** Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2021 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202021&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z)** : **(2022-05-20)** Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2021 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/fd07bb50-4926-11ec-94bb-99a9d1e168fe)** : **(2020-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2021 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202021&dateOption=select&startDate=2020-10-28T14%3A30%3A00Z&endDate=2020-10-28T14%3A30%3A00Z)** : **(2020-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2021 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/43b6e500-4925-11ec-94bb-99a9d1e168fe)** : **(2021-01-29)** Instructies opmaak Beleids- en Begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2020 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20Beleids-%20en%20Begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202020&dateOption=select&startDate=2021-01-29T09%3A00%3A00Z&endDate=2021-01-29T09%3A00%3A00Z)** : **(2021-01-29)** Instructies opmaak Beleids- en Begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2020 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/629EFA9494D257C352465ECA)** : **(2022-06-10)** Instructies met betrekking tot de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2023 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20met%20betrekking%20tot%20de%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202023&dateOption=select&startDate=2022-06-10T08%3A00%3A00Z&endDate=2022-06-10T08%3A00%3A00Z)** : **(2022-06-10)** Instructies met betrekking tot de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2023 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60A67571364ED90008000470)** : **(2021-05-21)** Beleids- en begrotingstoelichtingen (BBT) naar aanleiding van de begrotingsuitvoering 2020 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichtingen%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202020&dateOption=select&startDate=2021-05-21T08%3A00%3A00Z&endDate=2021-05-21T08%3A00%3A00Z)** : **(2021-05-21)** Beleids- en begrotingstoelichtingen (BBT) naar aanleiding van de begrotingsuitvoering 2020 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED429E364ED900080013A4)** : **(2021-07-16)** Instructies m.b.t. de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2022 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20m.b.t.%20de%20beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsopmaak%202022&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Instructies m.b.t. de beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsopmaak 2022 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/635A8F181EA6B745D23CCB45)** : **(2022-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2023 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202023&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2023 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/617A41FD364ED90008000679)** : **(2021-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2022 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20bij%20de%20begrotingsopmaak%202022&dateOption=select&startDate=2021-10-28T09%3A15%3A00Z&endDate=2021-10-28T09%3A15%3A00Z)** : **(2021-10-28)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2022 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbericht/645CB5528E8235823F6B75F9)** : **(2023-05-12)** Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20begrotingstoelichting%20%28BBT%29%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202022&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z)** : **(2023-05-12)** Beleids- en begrotingstoelichting (BBT) naar aanleiding van de begrotingsuitvoering 2022 
 
-**[\[12\]]** : **(2020-05-04)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsaanpassing 2020 
+**[\[12\]]** : **(2020-05-04)**  
 
-**[\[13\]]** : **(2019-11-08)** Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2020   Beleids- en begrotingstoelichting (BBT) bij de begrotingsopmaak 2020 
+**[\[13\]]** : **(2019-11-08)**  
 
-**[\[14\]]** : **(2019-10-18)** Begrotingsinstructies begrotingsopmaak 2020: luik opmaak beleids- en begrotingstoelichting 
+**[\[14\]]** : **(2019-10-18)**  
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61DD477E364ED9000800098D)** : **(2022-01-14)** Instructies opmaak beleids- en begrotingstoelichting naar aanleiding van de begrotingsuitvoering 2021 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instructies%20opmaak%20beleids-%20en%20begrotingstoelichting%20naar%20aanleiding%20van%20de%20begrotingsuitvoering%202021&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z)** : **(2022-01-14)** Instructies opmaak beleids- en begrotingstoelichting naar aanleiding van de begrotingsuitvoering 2021 
 
-**[\[16\]]** : **(2020-07-17)** Instructies m.b.t. de beleids- en begrotingstoelichting naar aanleiding van de begrotingsopmaak 2021 
+**[\[16\]]** : **(2020-07-17)**  
 
-**[\[17\]](http://themis.vlaanderen.be/id/nieuwsbericht/645B7B488E8235823F6B7530)** : **(2023-05-12)** Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 maart 201... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20lokale%20en%20provinciale%20besturen%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z)** : **(2023-05-12)** Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit 
 
-**[\[18\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AE7B7B0592342F299DBA41)** : **(2023-07-14)** Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2018 over de... 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20lokale%20en%20provinciale%20besturen%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Beleids- en beheerscyclus (BBC) lokale en provinciale besturen: wijzigingsbesluit 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbericht/645A508D8E8235823F6B744B)** : **(2023-05-12)** Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 decem... 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20Vlaamse%20Gemeenschapscommissie%20%28VGC%29%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z)** : **(2023-05-12)** Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit 
 
-**[\[20\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AE70ED0592342F299DBA14)** : **(2023-07-14)** Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 4 december 2020 ... 
+**[\[20\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beleids-%20en%20beheerscyclus%20%28BBC%29%20Vlaamse%20Gemeenschapscommissie%20%28VGC%29%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Beleids- en beheerscyclus (BBC) Vlaamse Gemeenschapscommissie (VGC): wijzigingsbesluit 
 
-**[\[21\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A2F82C2D77B42474D4F22B)** : **(2023-07-07)** Plan Vlaamse Veerkracht: Uitgaventoetsing financiering Hoger Onderwijs Uitgaventoetsing financiering Hoger Onderwijs  De Vlaamse Brede Heroverweging (VBH) beoogt een grondige doorlichting van alle uit... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Uitgaventoetsing%20financiering%20Hoger%20Onderwijs&dateOption=select&startDate=2023-07-07T08%3A00%3A00Z&endDate=2023-07-07T08%3A00%3A00Z)** : **(2023-07-07)** Plan Vlaamse Veerkracht: Uitgaventoetsing financiering Hoger Onderwijs 
 
-**[\[22\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639048ACC2B90D4571CF7663)** : **(2022-12-09)** Plan Vlaamse Veerkracht: uitgaventoetsing ‘Duurzaam watergebruik en de organisatie van het waterlandschap’ Uitgaventoetsing water  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën ged... 
+**[\[22\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20%E2%80%98Duurzaam%20watergebruik%20en%20de%20organisatie%20van%20het%20waterlandschap%E2%80%99&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Plan Vlaamse Veerkracht: uitgaventoetsing ‘Duurzaam watergebruik en de organisatie van het waterlandschap’ 
 
-**[\[23\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639C2083C2B90D4571CF90B2)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming Uitgaventoetsing Vlaamse sociale bescherming  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën gedefinieerd als '... 
+**[\[23\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Vlaamse%20sociale%20bescherming&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming 
 
-**[\[24\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6377A78534B8770AF8FDEDF9)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Onderzoek optimalisering organisatiestructuur Vlaamse overheid Vlaamse Brede Heroverweging / Spending review: organisatiestructuur van de Vlaamse overheid Uitvoeren van een on... 
+**[\[24\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Onderzoek%20optimalisering%20organisatiestructuur%20Vlaamse%20overheid%20&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Onderzoek optimalisering organisatiestructuur Vlaamse overheid  
 
-**[\[25\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/620D1ED5D5F0FAFA87AFB022)** : **(2022-02-18)** Vlaamse Codex Overheidsfinanciën (VCO) Voorontwerp van decreet tot wijziging van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019  ​De Vlaamse Regering  wijzigt principieel de Vlaamse Codex Overh... 
+**[\[25\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-02-18T09%3A00%3A00Z&endDate=2022-02-18T09%3A00%3A00Z)** : **(2022-02-18)** Vlaamse Codex Overheidsfinanciën (VCO) 
 
-**[\[26\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/622AFF326BB7B593CFC185AD)** : **(2022-03-11)** Wijzigingsdecreet Vlaamse Codex Overheidsfinanciën (VCO) Voorontwerp van decreet tot wijziging van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019  ​Na advies van de SERV  wijzigt  de Vlaamse Re... 
+**[\[26\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z)** : **(2022-03-11)** Wijzigingsdecreet Vlaamse Codex Overheidsfinanciën (VCO) 
 
-**[\[27\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6284F4EF479218B0ED55BC35)** : **(2022-05-20)** Wijzigingsdecreet Vlaamse Codex Overheidsfinanciën (VCO) Ontwerpdecreet tot wijziging van de Vlaamse Codex Overheidsfinanciën van 29 maart 2019  ​Na advies van de Raad van State  wijzigt  de Vlaamse R... 
+**[\[27\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsdecreet%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%20%28VCO%29&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z)** : **(2022-05-20)** Wijzigingsdecreet Vlaamse Codex Overheidsfinanciën (VCO) 
 
-**[\[28\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD3D518E6C4430A88987E7)** : **(2022-07-15)** Delegatieregeling Vlaamse Codex Overheidsfinanciën Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot delegatie van beslissingsb... 
+**[\[28\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Delegatieregeling%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Delegatieregeling Vlaamse Codex Overheidsfinanciën 
 
-**[\[29\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61681E1C364ED900090004DD)** : **(2021-10-14)** Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2022  De Vlaamse Regering he... 
+**[\[29\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begroting%202022&dateOption=select&startDate=2021-10-14T12%3A00%3A00Z&endDate=2021-10-14T12%3A00%3A00Z)** : **(2021-10-14)** Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 
 
-**[\[30\]](http://themis.vlaanderen.be/id/nieuwsbericht/651FFAAE7FDB1A5D07827FBC)** : **(2023-10-06)** Voorontwerp van Programmadecreet begrotingsopmaak 2024 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsopmaak 2024  De Vlaamse Regering hecht haar principiële goe... 
+**[\[30\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-06T08%3A00%3A00Z&endDate=2023-10-06T08%3A00%3A00Z)** : **(2023-10-06)** Voorontwerp van Programmadecreet begrotingsopmaak 2024 
 
-**[\[31\]](http://themis.vlaanderen.be/id/resource/b3e5ee80-4929-11ec-94bb-99a9d1e168fe)** : **(2020-05-04)** Begrotingscontrole 2020: ontwerp programmadecreet bij de aanpassing van de begroting 2020 Voorontwerp van programmadecreet bij de aanpassing van de begroting 2020  Na adviezen van de Raad van State en... 
+**[\[31\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Begrotingscontrole%202020%3A%20ontwerp%20programmadecreet%20bij%20de%20aanpassing%20van%20de%20begroting%202020&dateOption=select&startDate=2020-05-04T09%3A00%3A00Z&endDate=2020-05-04T09%3A00%3A00Z)** : **(2020-05-04)** Begrotingscontrole 2020: ontwerp programmadecreet bij de aanpassing van de begroting 2020 
 
-**[\[32\]](http://themis.vlaanderen.be/id/nieuwsbericht/64423445CA1CB15B58CF4921)** : **(2023-04-21)** Voorontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 Voorontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023  ... 
+**[\[32\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begrotingsaanpassing%202023&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z)** : **(2023-04-21)** Voorontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 
 
-**[\[33\]](http://themis.vlaanderen.be/id/nieuwsbericht/645DE27C8E8235823F6B779F)** : **(2023-05-12)** Ontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023  Na advie... 
+**[\[33\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerp%20van%20programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begrotingsaanpassing%202023&dateOption=select&startDate=2023-05-12T08%3A00%3A00Z&endDate=2023-05-12T08%3A00%3A00Z)** : **(2023-05-12)** Ontwerp van programmadecreet met bepalingen tot begeleiding van de begrotingsaanpassing 2023 
 
-**[\[34\]](http://themis.vlaanderen.be/id/resource/4e757f60-492a-11ec-94bb-99a9d1e168fe)** : **(2020-03-20)** Verdeling overgedragen provinciale investeringsmiddelen A. Geactualiseerde meerjarenplan verdeling provinciale investeringsmiddelen 2018 tot en met 2024 B. Ontwerpbesluit van de Vlaamse Regering houde... 
+**[\[34\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verdeling%20overgedragen%20provinciale%20investeringsmiddelen&dateOption=select&startDate=2020-03-20T09%3A00%3A00Z&endDate=2020-03-20T09%3A00%3A00Z)** : **(2020-03-20)** Verdeling overgedragen provinciale investeringsmiddelen 
 
-**[\[35\]](http://themis.vlaanderen.be/id/resource/e90d9130-4929-11ec-94bb-99a9d1e168fe)** : **(2020-04-17)** Begrotingscontrole 2020 Voorontwerp van programmadecreet bij de aanpassing van de begroting 2020  De Vlaamse Regering hecht haar principiële goedkeuring aan het voorontwerp van programmadecreet bij  d... 
+**[\[35\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Begrotingscontrole%202020&dateOption=select&startDate=2020-04-17T08%3A00%3A00Z&endDate=2020-04-17T08%3A00%3A00Z)** : **(2020-04-17)** Begrotingscontrole 2020 
 
-**[\[36\]](http://themis.vlaanderen.be/id/nieuwsbericht/658153A4E2E2C9E5814C1EEB)** : **(2023-12-22)** Herverdeling provisioneel krediet: communicatiestrategie voor het 5-sporenbeleid Ontwerpbesluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap v... 
+**[\[36\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%3A%20communicatiestrategie%20voor%20het%205-sporenbeleid&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Herverdeling provisioneel krediet: communicatiestrategie voor het 5-sporenbeleid 
 
-**[\[37\]](http://themis.vlaanderen.be/id/resource/0f002860-492c-11ec-94bb-99a9d1e168fe)** : **(2019-11-08)** Programmadecreet begrotingsaanpassing 2019 Voorontwerp van decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2019  Na advies van de SERV, de VARIO, de VLOR en de Raad van ... 
+**[\[37\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsaanpassing%202019&dateOption=select&startDate=2019-11-08T09%3A00%3A00Z&endDate=2019-11-08T09%3A00%3A00Z)** : **(2019-11-08)** Programmadecreet begrotingsaanpassing 2019 
 
-**[\[38\]](http://themis.vlaanderen.be/id/resource/412894d0-492c-11ec-94bb-99a9d1e168fe)** : **(2019-10-18)** Programmadecreet begrotingsopmaak 2020 Voorontwerp van decreet houdende bepalingen tot begeleiding van de begroting 2020  De Vlaamse Regering hecht haar principiële goedkeuring aan het voorontwerp van... 
+**[\[38\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsopmaak%202020&dateOption=select&startDate=2019-10-18T08%3A00%3A00Z&endDate=2019-10-18T08%3A00%3A00Z)** : **(2019-10-18)** Programmadecreet begrotingsopmaak 2020 
 
-**[\[39\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E47894364ED900080008C0)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Herverdeling uit relanceprovisie in het kader van de Vlaamse Brede Heroverweging Vlaamse Brede Heroverweging (VBH)  De Vlaamse Brede Heroverweging (VBH) heeft als doel alle ui... 
+**[\[39\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Herverdeling%20uit%20relanceprovisie%20in%20het%20kader%20van%20de%20Vlaamse%20Brede%20Heroverweging&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Herverdeling uit relanceprovisie in het kader van de Vlaamse Brede Heroverweging 
 
-**[\[40\]](http://themis.vlaanderen.be/id/nieuwsbericht/653B5EC99DAB6626D11E5808)** : **(2023-10-27)** Ontwerp van Programmadecreet begrotingsopmaak 2024 Ontwerp van programmadecreet 2024  Na onderhandelingen en na adviezen van de SERV, de VLOR, de SAR WVG, de SARC, de SALV, de MORA, de Minaraad, de SA... 
+**[\[40\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerp%20van%20Programmadecreet%20begrotingsopmaak%202024&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z)** : **(2023-10-27)** Ontwerp van Programmadecreet begrotingsopmaak 2024 
 
-**[\[41\]](http://themis.vlaanderen.be/id/nieuwsbericht/643F950CCA1CB15B58CF46BE)** : **(2023-04-21)** Ontwerpdecreet tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen Ontwerpdecreet tot structurele subsidiëring van kernorganisaties om de ... 
+**[\[41\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ontwerpdecreet%20tot%20structurele%20subsidi%C3%ABring%20van%20kernorganisaties%20om%20de%20digitale%20transformatie%20van%20de%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z)** : **(2023-04-21)** Ontwerpdecreet tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen 
 
-**[\[42\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639847DDC2B90D4571CF89CE)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer Uitgaventoetsing Modal Shift Goederenvervoer  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën gedefinieerd als '... 
+**[\[42\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Modal%20Shift%20Goederenvervoer&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer 
 
-**[\[43\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63773DD534B8770AF8FDEC17)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' Uitgaventoetsing gezinsfiscaliteit en gezinsbijslag Bestek nr. VO/FB/DEP/2022/008/BOBFO  De Vlaamse Reg... 
+**[\[43\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Bestek%20onderzoek%20%27uitgaventoetsing%3A%20gezinsfiscaliteit%20en%20gezinsbijslag%27&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' 
 
-**[\[44\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E476D3364ED900080008BB)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken Integratie erfgoeddatabanken  In het kader van het relanceplan 'Vlaamse Veerkracht' hecht de Vlaamse Regering haar goedkeuring ... 
+**[\[44\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Operationalisering%20integratie%20erfgoeddatabanken&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Operationalisering integratie erfgoeddatabanken 
 
-**[\[45\]](http://themis.vlaanderen.be/id/nieuwsbericht/63D922AC2E929B312AB5C567)** : **(2023-02-03)** Voorontwerp van decreet tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen Voorontwerp van decreet tot structurele subsidiëring van kerno... 
+**[\[45\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20decreet%20tot%20structurele%20subsidi%C3%ABring%20van%20kernorganisaties%20om%20de%20digitale%20transformatie%20van%20de%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z)** : **(2023-02-03)** Voorontwerp van decreet tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen 
 
-**[\[46\]]** : **(2020-04-03)** Instructie beleids- en begrotingstoelichting naar aanleiding van de begrotingsaanpassing 2020 
+**[\[46\]]** : **(2020-04-03)**  
 
-**[\[47\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6201471ED5F0FAFA87AFAC3F)** : **(2022-02-11)** Institutionele hervormingen: oprichting interfederale ambtelijke thematische werkgroepen   In uitvoering van de beslissingen van het Overlegcomité van 8 september en van 24 november 2021  wil de Vlaam... 
+**[\[47\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Institutionele%20hervormingen%3A%20oprichting%20interfederale%20ambtelijke%20thematische%20werkgroepen&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z)** : **(2022-02-11)** Institutionele hervormingen: oprichting interfederale ambtelijke thematische werkgroepen 
 
-**[\[48\]]** : **(2020-04-24)** Voorstel dienstverlening gecoördineerde aanpak economische speerpuntprojecten binnen de Vlaamse overheid 
+**[\[48\]]** : **(2020-04-24)**  
 
-**[\[49\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63985439C2B90D4571CF8A0F)** : **(2022-12-16)** Herverdeling provisioneel krediet VIA-5 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2022  In u... 
+**[\[49\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA-5&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Herverdeling provisioneel krediet VIA-5 
 
-**[\[50\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/635B7D8D1EA6B745D23CCC5F)** : **(2022-10-28)** Programmadecreet 2023 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2023  Na onderhandelingen met de sociale partners en na adviezen van de SERV, de VLOR, de Vlaams... 
+**[\[50\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%202023&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Programmadecreet 2023 
 
-**[\[51\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/616E79DD364ED900080001F3)** : **(2021-10-22)** Geactualiseerd meerjarenplan verdeling provinciale investeringsmiddelen 2018-2024   De Vlaamse Regering keurt het  geactualiseerde meerjarenplan 2018-2024 goed, dat de verdeling omvat van de overgedra... 
+**[\[51\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Geactualiseerd%20meerjarenplan%20verdeling%20provinciale%20investeringsmiddelen%202018-2024&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Geactualiseerd meerjarenplan verdeling provinciale investeringsmiddelen 2018-2024 
 
-**[\[52\]](http://themis.vlaanderen.be/id/nieuwsbericht/64F82D6E3605E1AC863BE454)** : **(2023-09-08)** Uitvoering decreet subsidiëring kernorganisaties om digitale transformatie cultuursector aan te sturen Ontwerpbesluit van de Vlaamse Regering tot uitvoering van het decreet van 23 juni 2023 tot struct... 
+**[\[52\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoering%20decreet%20subsidi%C3%ABring%20kernorganisaties%20om%20digitale%20transformatie%20cultuursector%20aan%20te%20sturen&dateOption=select&startDate=2023-09-08T08%3A00%3A00Z&endDate=2023-09-08T08%3A00%3A00Z)** : **(2023-09-08)** Uitvoering decreet subsidiëring kernorganisaties om digitale transformatie cultuursector aan te sturen 
 
-**[\[53\]](http://themis.vlaanderen.be/id/resource/d573ebf0-8a7a-11ec-b92e-970acd8c80b9)** : **(2020-10-30)** Geïntegreerde economische boekhouding en budgettaire rapportering gemeenschapsonderwijs: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 33, 34 en bijlage 1... 
+**[\[53\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ge%C3%AFntegreerde%20economische%20boekhouding%20en%20budgettaire%20rapportering%20gemeenschapsonderwijs%3A%20wijzigingsbesluit&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z)** : **(2020-10-30)** Geïntegreerde economische boekhouding en budgettaire rapportering gemeenschapsonderwijs: wijzigingsbesluit 
 
-**[\[54\]](http://themis.vlaanderen.be/id/resource/d43a8190-8a7a-11ec-b92e-970acd8c80b9)** : **(2020-10-30)** Vernieuwd werkingskader Dienstencentrum Boekhouding bij de Vlaamse overheid   De Vlaamse Regering keurt het vernieuwde werkingskader goed van het Dienstencentrum Boekhouding bij de diensten  van de Vl... 
+**[\[54\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vernieuwd%20werkingskader%20Dienstencentrum%20Boekhouding%20bij%20de%20Vlaamse%20overheid&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z)** : **(2020-10-30)** Vernieuwd werkingskader Dienstencentrum Boekhouding bij de Vlaamse overheid 
 
-**[\[55\]](http://themis.vlaanderen.be/id/resource/e5ac2bd0-492b-11ec-94bb-99a9d1e168fe)** : **(2019-11-29)** Programmadecreet begrotingsopmaak 2020: regeringsamendementen Ontwerpen van regeringsamendement op het ontwerpdecreet houdende bepalingen tot begeleiding van de begroting 2020  Na adviezen van de SAR ... 
+**[\[55\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%20begrotingsopmaak%202020%3A%20regeringsamendementen%0A&dateOption=select&startDate=2019-11-29T09%3A00%3A00Z&endDate=2019-11-29T09%3A00%3A00Z)** : **(2019-11-29)** Programmadecreet begrotingsopmaak 2020: regeringsamendementen
+ 
 
-**[\[56\]](http://themis.vlaanderen.be/id/resource/44b1d810-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Monitoring begrotingsuitvoering: herverdeling provisie Ontwerpbesluit van de Vlaamse Regering houdende de herverdeling van begrotingsartikel CB0-1CBG2AB-PR van de algemene uitgavenbegroting van de Vla... 
+**[\[56\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Monitoring%20begrotingsuitvoering%3A%20herverdeling%20provisie%0A%0A&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Monitoring begrotingsuitvoering: herverdeling provisie
 
-**[\[57\]](http://themis.vlaanderen.be/id/nieuwsbericht/648821642D77B42474D4CDB2)** : **(2023-06-16)** Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget 
+ 
 
-**[\[58\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/633D3378EB2A31D34EEC5FEC)** : **(2022-10-07)** Kredietherschikking energie-efficiëntiemaatregelen Ontwerpbesluit van de Vlaamse Regering houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0-1CBX2AC-PR van ... 
+**[\[57\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereenvoudiging%20van%20de%20toeleidingsprocedure%20naar%20een%20persoonsvolgend%20budget&dateOption=select&startDate=2023-06-16T08%3A00%3A00Z&endDate=2023-06-16T08%3A00%3A00Z)** : **(2023-06-16)** Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget 
 
-**[\[59\]](http://themis.vlaanderen.be/id/nieuwsbericht/65709072E2E2C9E5814BEDF7)** : **(2023-12-08)** Regeling cofinanciering Programma Innovatieve Overheidsopdrachten (PIO) Voorontwerp van besluit van de Vlaamse Regering tot regeling van de cofinanciering van onderzoek, ontwikkeling en innovatie in h... 
+**[\[58\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kredietherschikking%20energie-effici%C3%ABntiemaatregelen&dateOption=select&startDate=2022-10-07T08%3A00%3A00Z&endDate=2022-10-07T08%3A00%3A00Z)** : **(2022-10-07)** Kredietherschikking energie-efficiëntiemaatregelen 
 
-**[\[60\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF5E72364ED9000900063C)** : **(2021-12-10)** Herverdeling provisioneel krediet VIA-5 voor koopkrachtmaatregelen in de socio-culturele en de publieke sector Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1... 
+**[\[59\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Regeling%20cofinanciering%20Programma%20Innovatieve%20Overheidsopdrachten%20%28PIO%29&dateOption=select&startDate=2023-12-08T09%3A00%3A00Z&endDate=2023-12-08T09%3A00%3A00Z)** : **(2023-12-08)** Regeling cofinanciering Programma Innovatieve Overheidsopdrachten (PIO) 
 
-**[\[61\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/617A73E9364ED90008000703)** : **(2021-10-28)** Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 Ontwerp van programmadecreet houdende bepalingen tot begeleiding van de begroting 2022  Na adviezen van de SERV, d... 
+**[\[60\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20%20provisioneel%20krediet%20VIA-5%20voor%20koopkrachtmaatregelen%20in%20de%20socio-culturele%20en%20de%20publieke%20sector&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Herverdeling  provisioneel krediet VIA-5 voor koopkrachtmaatregelen in de socio-culturele en de publieke sector 
 
-**[\[62\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63185D0B9531BD6B9732C5FC)** : **(2022-09-09)** Delegatieregeling beslissingsbevoegdheid Vlaamse Codex Overheidsfinanciën: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 2... 
+**[\[61\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20Programmadecreet%20met%20bepalingen%20tot%20begeleiding%20van%20de%20begroting%202022&dateOption=select&startDate=2021-10-28T09%3A15%3A00Z&endDate=2021-10-28T09%3A15%3A00Z)** : **(2021-10-28)** Voorontwerp van Programmadecreet met bepalingen tot begeleiding van de begroting 2022 
 
-**[\[63\]](http://themis.vlaanderen.be/id/resource/da8479f0-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** Herverdeling provisioneel krediet VIA-5 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit provisioneel krediet GB0-1GBF2FA-PR van de Vlaamse Gemeenschap voor het begrotingsjaar 2020  De V... 
+**[\[62\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Delegatieregeling%20beslissingsbevoegdheid%20Vlaamse%20Codex%20Overheidsfinanci%C3%ABn%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-09-09T08%3A00%3A00Z&endDate=2022-09-09T08%3A00%3A00Z)** : **(2022-09-09)** Delegatieregeling beslissingsbevoegdheid Vlaamse Codex Overheidsfinanciën: wijzigingsbesluit 
 
-**[\[64\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CEBDC58E6C4430A889897B)** : **(2022-07-15)** Bestek uitgaventoetsing Culturele Bovenbouw Uitgaventoetsing Culturele Bovenbouw Bestek nr. 2022/CJM/KO/EV  De Vlaamse Regering beslist haar goedkeuring te hechten aan het  plan van aanpak/bestek voor... 
+**[\[63\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA-5&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** Herverdeling provisioneel krediet VIA-5 
 
-**[\[65\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD6E648E6C4430A8898880)** : **(2022-07-15)** Herverdeling provisioneel krediet VIA6-budget Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2022  De Vlaams... 
+**[\[64\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bestek%20uitgaventoetsing%20Culturele%20Bovenbouw&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Bestek uitgaventoetsing Culturele Bovenbouw 
 
-**[\[66\]](http://themis.vlaanderen.be/id/nieuwsbericht/63E375732E929B312AB5D0C0)** : **(2023-02-10)** Nota aan het Overlegcomité: 'De opmaak van een samenwerkingsakkoord voor de oprichting van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen'   Zowel de Vlaamse als de federale r... 
+**[\[65\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%20VIA6-budget&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Herverdeling provisioneel krediet VIA6-budget 
 
-**[\[67\]](http://themis.vlaanderen.be/id/nieuwsbericht/655386E48265E66451D4C9DD)** : **(2023-11-17)** Programmadecreet 2024: regeringsamendement onderwijs en vorming Ontwerp van amendement bij het decreet houdende bepalingen tot begeleiding van de begrotingsopmaak 2024  Na advies van de Raad van State... 
+**[\[66\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Nota%20aan%20het%20Overlegcomit%C3%A9%3A%20%27De%20opmaak%20van%20een%20samenwerkingsakkoord%20voor%20de%20oprichting%20van%20een%20interfederale%20Dienst%20Integriteitsbeoordeling%20voor%20Openbare%20Besturen%27&dateOption=select&startDate=2023-02-10T09%3A00%3A00Z&endDate=2023-02-10T09%3A00%3A00Z)** : **(2023-02-10)** Nota aan het Overlegcomité: 'De opmaak van een samenwerkingsakkoord voor de oprichting van een interfederale Dienst Integriteitsbeoordeling voor Openbare Besturen' 
 
-**[\[68\]](http://themis.vlaanderen.be/id/resource/8d802a80-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Kredietherschikking relanceprovisie Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2021  De Vlaamse Regering... 
+**[\[67\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Programmadecreet%202024%3A%20regeringsamendement%20onderwijs%20en%20vorming&dateOption=select&startDate=2023-11-17T09%3A00%3A00Z&endDate=2023-11-17T09%3A00%3A00Z)** : **(2023-11-17)** Programmadecreet 2024: regeringsamendement onderwijs en vorming 
 
-**[\[69\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/608913F6364ED900080009E9)** : **(2021-04-30)** Terugbetaalbare voorschotten als modaliteit voor innovatie- en economische ondersteuning: aanpassing steunbesluiten VLAIO Ontwerpbesluit van de Vlaamse Regering tot wijziging van besluiten van de Vlaa... 
+**[\[68\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Kredietherschikking%20relanceprovisie&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Kredietherschikking relanceprovisie 
 
-**[\[70\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A2F4572D77B42474D4F1CF)** : **(2023-07-07)** EU-voorzitterschap in 2024: eerste herverdelingsbesluit 2023 Ontwerpbesluit van de Vlaamse Regering tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar ... 
+**[\[69\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Terugbetaalbare%20voorschotten%20als%20modaliteit%20voor%20innovatie-%20en%20economische%20ondersteuning%3A%20aanpassing%20steunbesluiten%20VLAIO&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z)** : **(2021-04-30)** Terugbetaalbare voorschotten als modaliteit voor innovatie- en economische ondersteuning: aanpassing steunbesluiten VLAIO 
 
-**[\[71\]](http://themis.vlaanderen.be/id/nieuwsbericht/65815393E2E2C9E5814C1EEA)** : **(2023-12-22)** Herverdeling provisioneel krediet: ondersteuning leidinggevenden en teams in kader van vernieuwingen 5-sporenbeleid Ontwerpbesluit van de Vlaamse Regering tot de herverdeling vanuit een provisioneel k... 
+**[\[70\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=EU-voorzitterschap%20in%202024%3A%20eerste%20herverdelingsbesluit%202023&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** EU-voorzitterschap in 2024: eerste herverdelingsbesluit 2023 
+
+**[\[71\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Herverdeling%20provisioneel%20krediet%3A%20ondersteuning%20leidinggevenden%20en%20teams%20in%20kader%20van%20vernieuwingen%205-sporenbeleid&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Herverdeling provisioneel krediet: ondersteuning leidinggevenden en teams in kader van vernieuwingen 5-sporenbeleid 
         </details> 
 

@@ -32,34 +32,34 @@ Al met al kan worden gesteld dat de Vlaamse Regering verschillende initiatieven 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6239D21E6BB7B593CFC18D9F)** : **(2022-03-25)** Visienota 'Vlaams Gamebeleid 2022-2025'   De Vlaamse Regering keurt de  ​visienota 'Vlaams Gamebeleid 2022-2025' goed. De visienota vormt het startpunt voor het Vlaams gamebeleid van de komende vier j... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaams%20Gamebeleid%202022-2025%27&dateOption=select&startDate=2022-03-25T09%3A00%3A00Z&endDate=2022-03-25T09%3A00%3A00Z)** : **(2022-03-25)** Visienota 'Vlaams Gamebeleid 2022-2025' 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/58142f00-4928-11ec-94bb-99a9d1e168fe)** : **(2020-07-10)** Visienota 'Vlaanderen als aantrekkingspool voor start-ups en innovatief ondernemend talent'   De wet van 19 februari 1965 over de uitoefening van zelfstandige beroepsactiviteiten door vreemdelingen re... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20als%20aantrekkingspool%20voor%20start-ups%20en%20innovatief%20ondernemend%20talent%27&dateOption=select&startDate=2020-07-10T08%3A00%3A00Z&endDate=2020-07-10T08%3A00%3A00Z)** : **(2020-07-10)** Visienota 'Vlaanderen als aantrekkingspool voor start-ups en innovatief ondernemend talent' 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B768D8364ED90008000645)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen Uitbouw Slimme Regio Vlaand... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Uitbouw%20Slimme%20Regio%20Vlaanderen%20door%20samenbrengen%20innovatiecapaciteit%20ondernemingen%20en%20stimuleren%20implementatie%20en%20kennisopbouw%20bij%20lokale%20besturen&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Plan Vlaamse Veerkracht: Uitbouw Slimme Regio Vlaanderen door samenbrengen innovatiecapaciteit ondernemingen en stimuleren implementatie en kennisopbouw bij lokale besturen 
 
-**[\[3\]]** : **(2020-07-17)** Uitbouw van Slimme Regio Vlaanderen 
+**[\[3\]]** : **(2020-07-17)**  
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63A0861DDBF1CAE8110218F4)** : **(2022-12-23)** Verderzetting van het Programma Innovatieve Overheidsopdrachten als regulier innovatie-instrument binnen de VLAIO-werking 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verderzetting%20van%20het%20Programma%20Innovatieve%20Overheidsopdrachten%20als%20regulier%20innovatie-instrument%20binnen%20de%20VLAIO-werking&dateOption=select&startDate=2022-12-23T09%3A00%3A00Z&endDate=2022-12-23T09%3A00%3A00Z)** : **(2022-12-23)** Verderzetting van het Programma Innovatieve Overheidsopdrachten als regulier innovatie-instrument binnen de VLAIO-werking 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/d89bb230-4926-11ec-94bb-99a9d1e168fe)** : **(2020-11-13)** Vlaamse Waterstofvisie “Europese koploper via duurzame innovatie” 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20Waterstofvisie%20%E2%80%9CEuropese%20koploper%20via%20duurzame%20innovatie%E2%80%9D&dateOption=select&startDate=2020-11-13T09%3A00%3A00Z&endDate=2020-11-13T09%3A00%3A00Z)** : **(2020-11-13)** Vlaamse Waterstofvisie “Europese koploper via duurzame innovatie” 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61855E51364ED900080008BC)** : **(2021-11-05)** Visienota 'Bijkomende maatregelen Klimaat'   Al in het najaar van 2019 heeft de Vlaamse Regering een Vlaams Energie- en Klimaatplan 2021-2030 opgesteld, met een ambitie van -35% reductie van broeikasg... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Bijkomende%20maatregelen%20Klimaat%27&dateOption=select&startDate=2021-11-05T15%3A30%3A00Z&endDate=2021-11-05T15%3A30%3A00Z)** : **(2021-11-05)** Visienota 'Bijkomende maatregelen Klimaat' 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6230A3676BB7B593CFC189BC)** : **(2022-03-18)** Bekrachtiging Vlaamse datastrategie   ​Voor een goede en efficiënte werking heeft de Vlaamse overheid nood aan een goed onderbouwde datastrategie. Data speelt namelijk een belangrijke ondersteunende r... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bekrachtiging%20Vlaamse%20datastrategie&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z)** : **(2022-03-18)** Bekrachtiging Vlaamse datastrategie 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60C9DF1F364ED90008000416)** : **(2021-06-18)** Plan Vlaamse Veerkracht: Impulsprogramma - Innovatie in gezondheid en zorg Visienota ‘‘Vlaanderen sterk in onderzoek en innovatie voor gezondheid en zorg”  De Vlaamse Regering keurt de implementatie v... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Impulsprogramma%20-%20Innovatie%20in%20gezondheid%20en%20zorg&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z)** : **(2021-06-18)** Plan Vlaamse Veerkracht: Impulsprogramma - Innovatie in gezondheid en zorg 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E559B6364ED900080008C6)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Investeringsimpuls in O&O;&I-infrastructuur; (Onderzoek, ontwikkeling en innovatie) in Vlaanderen Investeringsimpuls in O&O;&I-infrastructuur; in Vlaanderen Veertien ontwerpbe... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Investeringsimpuls%20in%20O%26O%26I-infrastructuur%20%28Onderzoek%2C%20ontwikkeling%20en%20innovatie%29%20in%20Vlaanderen&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Plan Vlaamse Veerkracht: Investeringsimpuls in O&O&I-infrastructuur (Onderzoek, ontwikkeling en innovatie) in Vlaanderen 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62693E061C4A193816C2FCAD)** : **(2022-04-29)** Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie Volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie  ​De  beleidsnota Economie, Wet... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20volgende%20stappen%20en%20uitbreiding%20van%20het%20Vlaams%20beleidsplan%20bio-economie&dateOption=select&startDate=2022-04-29T08%3A00%3A00Z&endDate=2022-04-29T08%3A00%3A00Z)** : **(2022-04-29)** Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbericht/63D900E82E929B312AB5C55B)** : **(2023-02-03)** Visienota ‘Naar een versterkte concurrentiekracht van de Europese Industrie’   Een nieuwe Europese strategie voor de concurrentiekracht is in opbouw. Deze strategie moet onderbouwd worden door een ste... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%E2%80%98Naar%20een%20versterkte%20concurrentiekracht%20van%20de%20Europese%20Industrie%E2%80%99&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z)** : **(2023-02-03)** Visienota ‘Naar een versterkte concurrentiekracht van de Europese Industrie’ 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/8de5ca20-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden'   In haar Regeerakkoord 2019-2024 richt de Vlaamse Regering nadrukkelijk de blik op het Noorden. In dit kader   beslist ze de samenwerking met de landen van het N... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Noorden%27&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden' 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627536081C4A193816C30A65)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk'   ​De Vlaamse Regering hecht haar goedkeuring aan de  visienota 'Vlaanderen en het Verenigd Koninkrijk'. Deze visienota licht toe waarom een blijvende... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Verenigd%20Koninkrijk%27&dateOption=select&startDate=2022-05-06T08%3A00%3A00Z&endDate=2022-05-06T08%3A00%3A00Z)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk' 
 
-**[\[14\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B095B9364ED900080002EA)** : **(2021-05-28)** Plan Vlaamse Veerkracht: dossiernummer 16 Oproep Strategische Transformatie sociale economie ondernemingen Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de regels voor de toeken... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossiernummer%2016&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Plan Vlaamse Veerkracht: dossiernummer 16 
         </details> 
 

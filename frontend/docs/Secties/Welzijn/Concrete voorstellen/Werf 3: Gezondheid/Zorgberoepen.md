@@ -36,30 +36,30 @@ De beschikbare documenten suggereren dat de Vlaamse regering stappen heeft onder
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/resource/bc9810b0-4926-11ec-94bb-99a9d1e168fe)** : **(2020-11-20)** VDAB-opleiding verzorgende en zorgkundige: financiering Voorontwerp van besluit van de Vlaamse Regering over de mandatering en steunmodaliteiten voor de organisatie van de VDAB-opleiding tot verzorgen... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VDAB-opleiding%20verzorgende%20en%20zorgkundige%3A%20financiering&dateOption=select&startDate=2020-11-20T09%3A00%3A00Z&endDate=2020-11-20T09%3A00%3A00Z)** : **(2020-11-20)** VDAB-opleiding verzorgende en zorgkundige: financiering 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/7c2320d0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-26)** Nieuw financieel kader VDAB-opleiding verzorgende en zorgkundige Ontwerpbesluit van de Vlaamse Regering over de mandatering en steunmodaliteiten voor de organisatie van de VDAB-opleiding tot verzorgen... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Nieuw%20financieel%20kader%20VDAB-opleiding%20verzorgende%20en%20zorgkundige&dateOption=select&startDate=2021-03-26T09%3A00%3A00Z&endDate=2021-03-26T09%3A00%3A00Z)** : **(2021-03-26)** Nieuw financieel kader VDAB-opleiding verzorgende en zorgkundige 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbericht/65814B2CE2E2C9E5814C1C80)** : **(2023-12-22)** Personeelsuitbreiding met 28 VTE bij het Departement Zorg met het oog op een efficiënte en kwalitatieve uitvoering van bijkomende opdrachten   Met het oog op een efficiënte en kwalitatieve uitvoering ... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Personeelsuitbreiding%20met%2028%20VTE%20bij%20het%20Departement%20Zorg%20met%20het%20oog%20op%20een%20effici%C3%ABnte%20en%20kwalitatieve%20uitvoering%20van%20bijkomende%20opdrachten&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Personeelsuitbreiding met 28 VTE bij het Departement Zorg met het oog op een efficiënte en kwalitatieve uitvoering van bijkomende opdrachten 
 
-**[\[3\]](http://themis.vlaanderen.be/id/resource/8e96d530-4925-11ec-94bb-99a9d1e168fe)** : **(2021-01-08)** Oprichting taskforce gericht op versterking kwaliteit opleiding Zorgkundige 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%20taskforce%20gericht%20op%20versterking%20kwaliteit%20opleiding%20Zorgkundige&dateOption=select&startDate=2021-01-08T09%3A00%3A00Z&endDate=2021-01-08T09%3A00%3A00Z)** : **(2021-01-08)** Oprichting taskforce gericht op versterking kwaliteit opleiding Zorgkundige 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/74aefce0-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-18)** Erkenning 8 beroepskwalificaties 8 ontwerpbesluiten van de Vlaamse Regering houdende de erkenning van de beroepskwalificaties dierverpleegkundige, begeleider in de sociale economie, polyvalent post- e... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%208%20beroepskwalificaties&dateOption=select&startDate=2020-09-18T08%3A00%3A00Z&endDate=2020-09-18T08%3A00%3A00Z)** : **(2020-09-18)** Erkenning 8 beroepskwalificaties 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/cfa5dad0-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-07)** Erkenning beroepskwalificatie Verzorgende Ontwerpbesluit van de Vlaamse Regering tot erkenning van de beroepskwalificatie verzorgende  Het decreet over de Vlaamse kwalificatiestructuur bepaalt dat de ... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20beroepskwalificatie%20Verzorgende&dateOption=select&startDate=2020-02-07T09%3A00%3A00Z&endDate=2020-02-07T09%3A00%3A00Z)** : **(2020-02-07)** Erkenning beroepskwalificatie Verzorgende 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DDDAA8364ED9000800040F)** : **(2021-07-02)** Functiemodel zorg en verpleegkunde 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Functiemodel%20zorg%20en%20verpleegkunde&dateOption=select&startDate=2021-07-02T08%3A00%3A00Z&endDate=2021-07-02T08%3A00%3A00Z)** : **(2021-07-02)** Functiemodel zorg en verpleegkunde 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbericht/65819205E2E2C9E5814C22B2)** : **(2023-12-22)** Versterking dienstverlening beleidsdomein Onderwijs en Vorming: personeelsuitbreiding met 12 koppen   De Vlaamse Regering kan op gemotiveerde vraag van de bevoegde vakminister en na het doorlopen van ... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Versterking%20dienstverlening%20beleidsdomein%20Onderwijs%20en%20Vorming%3A%20personeelsuitbreiding%20met%2012%20koppen&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Versterking dienstverlening beleidsdomein Onderwijs en Vorming: personeelsuitbreiding met 12 koppen 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF562D364ED90009000633)** : **(2021-12-10)** Uitvoering attractiviteitsplan gezondheidsberoepen: premies titels en bijzondere beroepsbekwaamheden Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 15... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoering%20attractiviteitsplan%20gezondheidsberoepen%3A%20premies%20titels%20en%20bijzondere%20beroepsbekwaamheden&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Uitvoering attractiviteitsplan gezondheidsberoepen: premies titels en bijzondere beroepsbekwaamheden 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61669DE7364ED90009000496)** : **(2021-10-15)** Uitvoering attractiviteitsplan gezondheidsberoepen: premies titels en bijzondere beroepsbekwaamheden Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regeri... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoering%20attractiviteitsplan%20gezondheidsberoepen%3A%20premies%20titels%20en%20bijzondere%20beroepsbekwaamheden&dateOption=select&startDate=2021-10-15T08%3A00%3A00Z&endDate=2021-10-15T08%3A00%3A00Z)** : **(2021-10-15)** Uitvoering attractiviteitsplan gezondheidsberoepen: premies titels en bijzondere beroepsbekwaamheden 
 
-**[\[10\]](http://themis.vlaanderen.be/id/resource/d504af60-8a7a-11ec-b92e-970acd8c80b9)** : **(2020-10-30)** Oprichting, werking, samenstelling en organisatie van de Vlaamse Planningscommissie gezondheidszorgberoepen Ontwerpbesluit van de Vlaamse Regering over de planning van het medisch aanbod  Door de Zesd... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oprichting%2C%20werking%2C%20samenstelling%20en%20organisatie%20van%20de%20Vlaamse%20Planningscommissie%20gezondheidszorgberoepen&dateOption=select&startDate=2020-10-30T09%3A00%3A00Z&endDate=2020-10-30T09%3A00%3A00Z)** : **(2020-10-30)** Oprichting, werking, samenstelling en organisatie van de Vlaamse Planningscommissie gezondheidszorgberoepen 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DAE534364ED90008000352)** : **(2021-07-02)** Beoordelingskader opleiding Verpleegkunde hoger beroepsonderwijs (hbo5) Voorontwerp van besluit van de Vlaamse Regering tot goedkeuring van het beoordelingskader hbo5 voor de opleiding Verpleegkunde v... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beoordelingskader%20opleiding%20Verpleegkunde%20hoger%20beroepsonderwijs%20%28hbo5%29&dateOption=select&startDate=2021-07-02T08%3A00%3A00Z&endDate=2021-07-02T08%3A00%3A00Z)** : **(2021-07-02)** Beoordelingskader opleiding Verpleegkunde hoger beroepsonderwijs (hbo5) 
 
-**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6138B8AE364ED900080001DB)** : **(2021-09-10)** Beoordelingskader opleiding Verpleegkunde hoger beroepsonderwijs (hbo5) Ontwerpbesluit van de Vlaamse Regering tot goedkeuring van het beoordelingskader hbo5 voor de opleiding Verpleegkunde van het ho... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Beoordelingskader%20opleiding%20Verpleegkunde%20hoger%20beroepsonderwijs%20%28hbo5%29&dateOption=select&startDate=2021-09-10T08%3A00%3A00Z&endDate=2021-09-10T08%3A00%3A00Z)** : **(2021-09-10)** Beoordelingskader opleiding Verpleegkunde hoger beroepsonderwijs (hbo5) 
         </details> 
 

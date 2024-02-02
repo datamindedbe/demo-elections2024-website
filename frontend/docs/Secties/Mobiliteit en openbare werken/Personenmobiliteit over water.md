@@ -23,28 +23,28 @@ Op basis van de verstrekte documenten kan geconcludeerd worden dat de regering a
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62286E5C6BB7B593CFC1847B)** : **(2022-03-11)** Modaliteiten organisatie openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse Regering tot bepaling van de modaliteiten voor het organiseren van het openbaar personenvervoer over... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Modaliteiten%20organisatie%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z)** : **(2022-03-11)** Modaliteiten organisatie openbaar personenvervoer over water 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/d8a46f50-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse ... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Agentschap%20voor%20Maritieme%20Dienstverlening%20en%20Kust%20%28MDK%29%3A%20toewijzing%20van%20het%20beheer%2C%20de%20organisatie%20en%20de%20exploitatie%20van%20het%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/1a2f4360-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-16)** Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse ... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Agentschap%20voor%20Maritieme%20Dienstverlening%20en%20Kust%20%28MDK%29%3A%20toewijzing%20van%20het%20beheer%2C%20de%20organisatie%20en%20de%20exploitatie%20van%20het%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2020-10-16T07%3A00%3A00Z&endDate=2020-10-16T07%3A00%3A00Z)** : **(2020-10-16)** Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/630E0E409531BD6B9732BE5E)** : **(2022-09-02)** Modaliteiten organisatie openbaar personenvervoer over water Ontwerpbesluit van de Vlaamse Regering tot bepaling van de modaliteiten voor het organiseren van het openbaar personenvervoer over water  ​... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Modaliteiten%20organisatie%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2022-09-02T08%3A00%3A00Z&endDate=2022-09-02T08%3A00%3A00Z)** : **(2022-09-02)** Modaliteiten organisatie openbaar personenvervoer over water 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6194C901364ED90008000173)** : **(2021-11-19)** Impulsprogramma binnenvaart: subsidieregeling Voorontwerp van besluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2021-11-19T09%3A00%3A00Z&endDate=2021-11-19T09%3A00%3A00Z)** : **(2021-11-19)** Impulsprogramma binnenvaart: subsidieregeling 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61DE981D364ED900080009A4)** : **(2022-01-14)** Impulsprogramma binnenvaart: subsidieregeling Ontwerpbesluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehaven... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z)** : **(2022-01-14)** Impulsprogramma binnenvaart: subsidieregeling 
 
-**[\[6\]]** : **(2020-06-12)** Verdeling over de verschillende vervoersregio’s van de bijkomende middelen voor de vervoerslaag Vervoer op Maat bij Basisbereikbaarheid 
+**[\[6\]]** : **(2020-06-12)**  
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A4166D2D77B42474D4F8C1)** : **(2023-07-07)** Wijziging impulsprogramma binnenvaart Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 14 januari 2022 betreffende een vierjarige subsidieregel... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20impulsprogramma%20binnenvaart&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Wijziging impulsprogramma binnenvaart 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61659454364ED90009000485)** : **(2021-10-15)** Verzameldecreet MOW II Ontwerpdecreet houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verzameldecreet%20MOW%20II&dateOption=select&startDate=2021-10-15T08%3A00%3A00Z&endDate=2021-10-15T08%3A00%3A00Z)** : **(2021-10-15)** Verzameldecreet MOW II 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbericht/64EDCCAC3605E1AC863BD6A2)** : **(2023-08-31)** Wijziging impulsprogramma binnenvaart Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 14 januari 2022 betreffende een vierjarige subsidieregeling ter b... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20impulsprogramma%20binnenvaart&dateOption=select&startDate=2023-08-31T08%3A00%3A00Z&endDate=2023-08-31T08%3A00%3A00Z)** : **(2023-08-31)** Wijziging impulsprogramma binnenvaart 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61A77157364ED90008000004)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit Data Integratiediensten voor Slimme Mobiliteit  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Data Integra... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Data%20Integratiediensten%20voor%20Slimme%20Mobiliteit&dateOption=select&startDate=2021-12-03T09%3A00%3A00Z&endDate=2021-12-03T09%3A00%3A00Z)** : **(2021-12-03)** Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62188C1F6BB7B593CFC17FC3)** : **(2022-02-25)** De Vlaamse Waterweg: tijdelijke uitbreiding van het personeelsbestand   De Vlaamse Regering  keurt de overeenkomst goed met de Vlaamse Waterweg en drie vakorganisaties, over de tijdelijke uitbreiding ... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=De%20Vlaamse%20Waterweg%3A%20tijdelijke%20uitbreiding%20van%20het%20personeelsbestand&dateOption=select&startDate=2022-02-25T09%3A00%3A00Z&endDate=2022-02-25T09%3A00%3A00Z)** : **(2022-02-25)** De Vlaamse Waterweg: tijdelijke uitbreiding van het personeelsbestand 
         </details> 
 

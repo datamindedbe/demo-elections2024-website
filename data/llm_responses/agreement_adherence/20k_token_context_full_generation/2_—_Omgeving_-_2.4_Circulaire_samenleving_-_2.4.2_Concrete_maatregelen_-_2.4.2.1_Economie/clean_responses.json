@@ -7,112 +7,128 @@
             "s3_clean_content": "Plan Vlaamse Veerkracht: Steun aan ondernemingen om materiaalkringlopen te sluiten in kader van tweede oproep 'Recyclagehub' Recyclagehub Resultaten van de tweede call in uitvoering van het besluit van de VR tot vaststelling van de regels voor de toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten (VV125)  In het kader van het Relanceplan 'Vlaamse Veerkracht' werd voorzien in een project voor het uitbouwen van Vlaanderen als recyclagehub. Op 23 mei 2022 keurde de minister van Omgeving het ministerieel besluit goed voor een tweede oproep voor de toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten. Die oproep liep tot en met 22 augustus 2022. Het totale bedrag voor deze tweede oproep bedroeg 15 miljoen euro, net zoals voor de eerste. Ook in de tweede oproep bedraagt het subsidiepercentage 35% van de subsidiabele kosten met een maximum van 3 miljoen euro per project. Er werden 17 projectvoorstellen ontvangen, waarvan 15 dossiers werden toegelaten tot de inhoudelijke jurering. De OVAM maakte een rangschikking op basis van de afzonderlijke externe en interne jurering. Op basis van deze rangschikking beslist de Vlaamse Regering 8 projecten te steunen.",
             "date": "2022-11-25",
             "s3_filename_ingested": "ingestion/output/2022/11/637DDE6C34B8770AF8FDF3A6/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/637DDE6C34B8770AF8FDF3A6"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Steun%20aan%20ondernemingen%20om%20materiaalkringlopen%20te%20sluiten%20in%20kader%20van%20tweede%20oproep%20%27Recyclagehub%27&dateOption=select&startDate=2022-11-25T11%3A00%3A00Z&endDate=2022-11-25T11%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Steun aan ondernemingen om materiaalkringlopen te sluiten in kader van tweede oproep 'Recyclagehub'"
         },
         "15": {
             "s3_filename_clean": "clean/2021/05/2021-05-28-nota-60AE5139364ED90008000209.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: dossiernummer 124 Steunmaatregelen ten behoeve van Circulaire Maakindustrie  De Vlaamse Regering voorziet in het relanceplan Vlaamse Veerkracht 15 miljoen euro die door VLAIO kan worden ingezet  om de circulaire maakindustrie te ondersteunen (project VV124). Ze keurt nu de aanpak goed voor de subsidi\u00ebring van projecten in de circulaire maakindustrie , en maakt 15 miljoen euro vrij vanuit de relanceprovisie voor het Fonds voor Innoveren en Ondernemen (begrotingsfonds van VLAIO). De Vlaamse minister bevoegd voor economie zal zorgen voor de verdere organisatie en behandeling van de oproepen en het toewijzen van de subsidie aan de goedgekeurde aanvragen.",
             "date": "2021-05-28",
             "s3_filename_ingested": "ingestion/output/2021/05/60AE5139364ED90008000209/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE5139364ED90008000209"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossiernummer%20124&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: dossiernummer 124"
         },
         "2": {
             "s3_filename_clean": "clean/2022/04/2022-04-29-nota-62693E061C4A193816C2FCAD.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie Volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie  \u200bDe  beleidsnota Economie, Wetenschapsbeleid en Innovatie 2019-2024 voorziet een belangrijke rol voor bio-economie bij de omschakeling naar een circulaire economie. In een bio-economie worden hernieuwbare grondstoffen, biogas en biomassa duurzaam geproduceerd en (her)gebruikt voor een waaier aan toepassingen. Het  beleidsplan bio-economie  bouwt op een samenwerking tussen het beleidsdomein Economie, Wetenschap en Innovatie en het beleidsdomein Landbouw en Visserij. Om het brede domein van de bio-economie beter te kunnen ondersteunen, wordt deze werking uitgebreid met meer thema's en overeenkomstige complementaire steunmaatregelen. De Vlaamse Regering keurt nu de uitbreiding van inhoud en instrumenten goed binnen het Vlaams beleidsplan bio-economie, en stelt daarbij 10 miljoen euro ter beschikking uit de relanceprovisie.  De Vlaamse minister bevoegd voor Economie zal zorgen voor de verdere uitwerking en een voortgangsrapportage aan de Vlaamse Regering.",
             "date": "2022-04-29",
             "s3_filename_ingested": "ingestion/output/2022/04/62693E061C4A193816C2FCAD/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62693E061C4A193816C2FCAD"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20volgende%20stappen%20en%20uitbreiding%20van%20het%20Vlaams%20beleidsplan%20bio-economie&dateOption=select&startDate=2022-04-29T08%3A00%3A00Z&endDate=2022-04-29T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: volgende stappen en uitbreiding van het Vlaams beleidsplan bio-economie"
         },
         "9": {
             "s3_filename_clean": "clean/2022/11/2022-11-18-nota-6374C11F34B8770AF8FDE929.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Subsidie innovatieve projecten Circulair Watergebruik in kader van Blue Deal Blue Deal: subsidi\u00ebring projecten hergebruik hemelwater Vijf ontwerpbesluiten van de Vlaamse Regering tot toekenning van een subsidie  In het kader van de Blue Deal werd in het voorjaar de projectoproep 'circulair water hergebruik hemelwater' gelanceerd, als onderdeel van het programma VV32 'Innovatieve Projecten Circulair Watergebruik en uitrol slimme meetnetten' van het Relanceplan Vlaamse Veerkracht. 21 projecten krijgen nu steun van de Vlaamse overheid, waarvan 16 via ministerieel besluit worden verleend. De Vlaamse Regering kent in dit kader ook subsidies toe aan vijf projecten: provincie Antwerpen voor het project 'PITO Stabroek'; Stad Roeselare voor het project 'Collectieve Waterbank'; de gemeente Sint-Genesius-rode voor het project 'Water voor Rode'; Pidpa cv voor het project 'Markt Vorselaar' en de gemeente Aalter voor het project 'Afkoppeling site gemeentehuis en hergebruik regenwater'.",
             "date": "2022-11-18",
             "s3_filename_ingested": "ingestion/output/2022/11/6374C11F34B8770AF8FDE929/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6374C11F34B8770AF8FDE929"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Subsidie%20innovatieve%20projecten%20Circulair%20Watergebruik%20in%20kader%20van%20Blue%20Deal&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Subsidie innovatieve projecten Circulair Watergebruik in kader van Blue Deal"
         },
         "0": {
             "s3_filename_clean": "clean/2022/11/2022-11-10-nota-636A680D34B8770AF8FDE23D.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Steun aan projecten binnen de oproep Living Labs Circulaire Economie Toekenning van steun aan projecten binnen de oproep Living Labs Circulaire Economie  De Vlaamse Regering voorziet in het plan Vlaamse Veerkracht 15 miljoen euro die door het  Agentschap Innoveren & Ondernemen (VLAIO) kan worden ingezet om de circulaire maakindustrie te ondersteunen, en 10 miljoen euro om circulair bouwen te ondersteunen. Begin 2022 werd een  oproep Living Labs Circulaire Economie - Circulair bouwen en circulaire maakindustrie gelanceerd door VLAIO. Binnen deze oproep werd ingezet op het initi\u00ebren van transformaties binnen een waardeketen of een ecosysteem. Het is gericht op partnerschappen die gezamenlijk een uitdaging of knelpunt met betrekking tot de omslag naar een circulaire economie op niveau van een waardeketen of ecosysteem aanpakken. In dit kader kent de Vlaamse Regering nu  11 miljoen euro  toe aan   13 projecten Living Labs circulaire maakindustrie, en  7,3 miljoen euro aan  9 projecten Living Labs circulair  bouwen. De resterende relancemiddelen worden ingezet voor de positief ge\u00ebvalueerde aanvragen kmo-groeisubsidie. Het saldo zal vervolgens aangewend worden voor de lancering van een overheidsopdracht voor de aanstelling van een extern bureau dat mee zal instaan voor de uitbouw van een lerend netwerk voor minstens de gesteunde projecten binnen de oproepen Living Labs Circulaire economie en de Gerichte Oproep Circulaire Maakindustrie: Levensduurverlenging; en individuele begeleiding van gesteunde projecten.",
             "date": "2022-11-10",
             "s3_filename_ingested": "ingestion/output/2022/11/636A680D34B8770AF8FDE23D/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/636A680D34B8770AF8FDE23D"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Steun%20aan%20projecten%20binnen%20de%20oproep%20Living%20Labs%20Circulaire%20Economie&dateOption=select&startDate=2022-11-10T07%3A00%3A00Z&endDate=2022-11-10T07%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Steun aan projecten binnen de oproep Living Labs Circulaire Economie"
         },
         "1": {
             "s3_filename_clean": "clean/2020/12/2020-12-18-nota-5FD8CEA06B34EF0008000A85.txt",
             "s3_clean_content": "Vlaams beleidsplan bio-economie   De Vlaamse Regering keurt het Vlaams beleidsplan bio-economie goed. Het bevat een reeks acties rond stimulering van onderzoek en innovatie, begeleiding van nieuwe samenwerkingen tussen industrie en landbouw, en flankerende beleidsmaatregelen. Bio\u2010economie omvat alle economische activiteiten die gebruik maken van organisch materiaal of van biologische processen. In  een bio-economie worden hernieuwbare grondstoffen, biogas en biomassa duurzaam geproduceerd en gebruikt voor een waaier aan toepassingen. Het vormt een belangrijke schakel in de transitie om de Vlaamse economie koolstofneutraal te maken, door nieuwe waardeketens op te bouwen die zorgen voor een gesloten koolstofcyclus.",
             "date": "2020-12-18",
             "s3_filename_ingested": "ingestion/output/2020/12/5FD8CEA06B34EF0008000A85/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/a9f5ab30-4925-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20beleidsplan%20bio-economie&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z",
+            "source_title": "Vlaams beleidsplan bio-economie"
         },
         "16": {
             "s3_filename_clean": "clean/2023/07/2023-07-07-nota-64A410652D77B42474D4F8B0.txt",
             "s3_clean_content": "Voorontwerp van decreet over de ondersteuning van sociale economie en maatschappelijk verantwoord ondernemen Voorontwerp van decreet over de ondersteuning van sociale economie, maatschappelijk verantwoord ondernemen en duurzaam en werkbaar werk  In het relanceplan Vlaamse Veerkracht (2020) bevestigt de Vlaamse Regering haar engagement om een transitie te maken naar een duurzame economie en samenleving. Ondernemingen en organisaties kunnen via sociaal ondernemerschap en maatschappelijk verantwoord ondernemen een belangrijke bijdrage leveren aan de ambitie van de Vlaamse Regering om de arbeidsmarkt en de economie te verduurzamen. Vlaanderen wil ondernemingen en organisaties blijven ondersteunen bij het zoeken naar antwoorden op deze uitdagingen, met bijzondere aandacht voor menselijk kapitaal en om hen te mobiliseren om samen stappen vooruit te zetten naar een duurzame economie in een duurzame samenleving. Vlaanderen zal daarom uiteenlopende ondersteuningsinstrumenten (onder andere financi\u00eble ondersteuning, adviesverlening en infokanalen op maat van startende, groeiende en gevestigde ondernemingen en organisaties) aanbieden, ge\u00ebnt op de specifieke noden van de doelgroepen en complementair met het bestaande ondersteuningsaanbod. In dit kader hecht de Vlaamse Regering haar principi\u00eble goedkeuring aan het voorontwerp van decreet dat moet zorgen voor een aangepast ondersteuningskader om ondernemingen en organisaties bij deze transities zo goed mogelijk te blijven ondersteunen. Het voorontwerp van kaderdecreet treedt in werking op 1 januari 2024. Over dit voorontwerp van decreet wordt nu het advies ingewonnen van de SERV, de GBA, de VTC en daarna de Raad van State.",
             "date": "2023-07-07",
             "s3_filename_ingested": "ingestion/output/2023/07/64A410652D77B42474D4F8B0/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64A410652D77B42474D4F8B0"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Voorontwerp%20van%20decreet%20over%20de%20ondersteuning%20van%20sociale%20economie%20en%20maatschappelijk%20verantwoord%20ondernemen&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z",
+            "source_title": "Voorontwerp van decreet over de ondersteuning van sociale economie en maatschappelijk verantwoord ondernemen"
         },
         "5": {
             "s3_filename_clean": "clean/2022/04/2022-04-29-nota-626901671C4A193816C2FBB8.txt",
             "s3_clean_content": "Vlaams beleidsprogramma 'Op weg naar circulair bouwen 2022-2030'   De  Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)  heeft een beleidsprogramma  uitgewerkt  dat tot 2030 de transitie naar een circulaire bouweconomie moet begeleiden. \u200bHet programma bevat actiepaden, projecten en andere inspanningen die geclusterd in werven de uitdagingen aanpakken die deze transitie in de weg staan. De focus ligt op de uitdagingen om de milieu-impact en het materialengebruik van de bouwsector in de volgende jaren aan te pakken en te beheersen. Het programma schrijft zich in de beleidsvisie van de Vlaamse Regering in en houdt rekening met ontwikkelingen op Europese en andere beleidsniveaus. De Vlaamse Regering  keurt nu dit beleidsprogramma 'Op weg naar circulair bouwen 2022-2030' goed.",
             "date": "2022-04-29",
             "s3_filename_ingested": "ingestion/output/2022/04/626901671C4A193816C2FBB8/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/626901671C4A193816C2FBB8"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20beleidsprogramma%20%27Op%20weg%20naar%20circulair%20bouwen%202022-2030%27&dateOption=select&startDate=2022-04-29T08%3A00%3A00Z&endDate=2022-04-29T08%3A00%3A00Z",
+            "source_title": "Vlaams beleidsprogramma 'Op weg naar circulair bouwen 2022-2030'"
         },
         "10": {
             "s3_filename_clean": "clean/2021/07/2021-07-16-nota-60EE90C0364ED900080014D5.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: bestedingskader middelen projectoproep 'Hergebruik Restwater' Projectoproep \u201cHergebruik Restwater\u201d  Vlaanderen kent vandaag reeds een hoge graad van droogte en een structureel lage waterbeschikbaarheid. Wetenschappers voorspellen bovendien dat door de klimaatverandering langere droge periodes, afgewisseld met korte periodes van hevige regenval, frequenter zullen voorkomen. Ook voor de Vlaamse land-  en tuinbouw is deze problematiek zeer actueel, want water als productiefactor is onmisbaar. De Vlaamse Regering hecht daarom haar goedkeuring aan de projectoproep 'Hergebruik Restwater'. Deze oproep wil het hergebruik van restwater in de land- en tuinbouwsector stimuleren, en speelt in op de uitdagingen rond toenemende waterbehoefte, dalende waterbeschikbaarheid en de principes van circulaire economie. De projecten moeten bijdragen tot het verhoogd aanwenden van alternatieve waterbronnen in de land- en tuinbouwsector om zo bij te dragen tot duurzaam, circulair watergebruik. Samenwerkingsverbanden tussen landbouwers met een watervraag enerzijds en aanbieders van restwater anderzijds kan leiden tot een win-win situatie. De landbouwsector verhoogt zo de bevoorradingszekerheid voor water, terwijl hergebruik van restwater ook zorgt voor een afname van de druk op kwetsbare waterbronnen. Voor deze oproep wordt 10 miljoen euro vrijgemaakt.",
             "date": "2021-07-16",
             "s3_filename_ingested": "ingestion/output/2021/07/60EE90C0364ED900080014D5/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60EE90C0364ED900080014D5"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20bestedingskader%20middelen%20projectoproep%20%27Hergebruik%20Restwater%27&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: bestedingskader middelen projectoproep 'Hergebruik Restwater'"
         },
         "17": {
             "s3_filename_clean": "clean/2022/12/2022-12-23-nota-63A1B792DBF1CAE811022308.txt",
             "s3_clean_content": "Oproep \u2018Investeringen in een duurzame en groene mobiliteit in de sociale economie\u2019   De Vlaamse Regering hecht haar goedkeuring aan de intentieverklaring en oproep handleiding voor \u2018Investeringen in een duurzame en groene mobiliteit in de sociale economie'. De oproep beoogt erkende maatwerkbedrijven, maatwerkafdelingen, en lokale diensteneconomieondernemingen met een toegekend contingent van minstens 5 VTE aan te moedigen om de omslag te maken naar een duurzame en groene mobiliteit die beter aansluit op de levenskwaliteit en inzetbaarheid van de doelgroepmedewerkers \u00e9n die bijdraagt aan een vermindering van de ecologische voetafdruk van deze ondernemingen. De oproep zal \u00e9\u00e9nmalig opengesteld worden voor projecten met een looptijd van maximaal 18 maanden. Voor deze actie wordt een totaalbudget van maximaal 9,78 miljoen euro voorzien met een maximaal budget per project \u00e9n ondernemingsnummer van 65.000 euro.",
             "date": "2022-12-23",
             "s3_filename_ingested": "ingestion/output/2022/12/63A1B792DBF1CAE811022308/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A1B792DBF1CAE811022308"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Oproep%20%E2%80%98Investeringen%20in%20een%20duurzame%20en%20groene%20mobiliteit%20in%20de%20sociale%20economie%E2%80%99&dateOption=select&startDate=2022-12-23T09%3A00%3A00Z&endDate=2022-12-23T09%3A00%3A00Z",
+            "source_title": "Oproep \u2018Investeringen in een duurzame en groene mobiliteit in de sociale economie\u2019"
         },
         "13": {
             "s3_filename_clean": "clean/2022/07/2022-07-15-nota-62CD5B9E8E6C4430A8898857.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: circulaire economie - asbest sectorprotocollen scholen Asbestprotocol scholen  In het kader van een asbestveilig Vlaanderen in 2040 wil de Vlaamse Regering scholen blijven ondersteunen voor het in kaart brengen van hun asbestpassief en het  asbestveilig maken van  hun  schoolgebouwen. Via de sectorprotocollen scholen zorgt OVAM sinds 2018 voor het ontzorgen en de financi\u00eble ondersteuning voor de verfijning van hun asbestinventaris en asbestverwijdering of risicobeheersmaatregelen waar nodig. De Vlaamse Regering keurt nu de vrijgave van een budget van   2 miljoen euro goed uit de relanceprovisie  voor de verdere uitvoering van het luik asbest sectorprotocol scholen.  Met het budget zullen circa 165 asbestverwijderingen uitgevoerd worden met een financi\u00eble tussenkomst.",
             "date": "2022-07-15",
             "s3_filename_ingested": "ingestion/output/2022/07/62CD5B9E8E6C4430A8898857/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD5B9E8E6C4430A8898857"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20circulaire%20economie%20-%20asbest%20sectorprotocollen%20scholen&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: circulaire economie - asbest sectorprotocollen scholen"
         },
         "14": {
             "s3_filename_clean": "clean/2021/05/2021-05-28-nota-60AE5587364ED9000800020B.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: dossiernummer 123 Steunmaatregelen ten behoeve van Circulair Bouwen  De Vlaamse Regering voorziet in het relanceplan Vlaamse Veerkracht 10 miljoen euro die door VLAIO kan worden ingezet om circulair bouwen te ondersteunen (project VV 123). Ze keurt nu de aanpak goed voor de subsidi\u00ebring van projecten in het thema circulair bouwen. De Vlaamse minister bevoegd voor economie zal zorgen voor de verdere organisatie en behandeling van de oproepen en de subsidie toewijzen aan de goedgekeurde aanvragen. Ze beslist tegelijk om 10 miljoen euro vrij te maken vanuit de relanceprovisie ten gunste van het Fonds voor Innoveren en Ondernemen (begrotingsfonds van VLAIO).",
             "date": "2021-05-28",
             "s3_filename_ingested": "ingestion/output/2021/05/60AE5587364ED9000800020B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE5587364ED9000800020B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossiernummer%20123&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: dossiernummer 123"
         },
         "4": {
             "s3_filename_clean": "clean/2022/10/2022-10-07-nota-633D41BEEB2A31D34EEC6020.txt",
             "s3_clean_content": "Oproep circulaire voedselketen 2022: preventie van voedselverlies en hoogwaardige valorisatie van voedselreststromen Ontwerpbesluit van de Vlaamse Regering tot het toekennen van de subsidies voor de gerichte oproep circulaire voedselketen  De Vlaamse Regering  beslist een gerichte oproep 'Circulaire voedselketen 2022' te lanceren. De oproep is gericht op de  preventie van voedselverlies en hoogwaardige valorisatie van voedselreststromen , zodat de voedselkringloop gesloten kan worden. Dit geldt voor de gehele (agro-)voedingsketen inclusief de consumptiefase. Voor de actie is een totaalbudget van 700.000 euro  voorzien, waarbij organisaties maximaal een subsidie kunnen ontvangen van 80% van hun subsidiabel projectvoorstel, met een maximumbedrag van 100.000 euro. De Vlaamse minister, bevoegd voor Omgeving, zal zorgen voor de uitvoering van de oproep.",
             "date": "2022-10-07",
             "s3_filename_ingested": "ingestion/output/2022/10/633D41BEEB2A31D34EEC6020/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633D41BEEB2A31D34EEC6020"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Oproep%20circulaire%20voedselketen%202022%3A%20%C2%A0preventie%20van%20voedselverlies%20en%20hoogwaardige%20valorisatie%20van%20voedselreststromen&dateOption=select&startDate=2022-10-07T08%3A00%3A00Z&endDate=2022-10-07T08%3A00%3A00Z",
+            "source_title": "Oproep circulaire voedselketen 2022: \u00a0preventie van voedselverlies en hoogwaardige valorisatie van voedselreststromen"
         },
         "11": {
             "s3_filename_clean": "clean/2022/05/2022-05-20-nota-62850251479218B0ED55BC49.txt",
             "s3_clean_content": "Circulaire economie: asbest sectorprotocol landbouw Circulaire economie \u2013 Asbest sectorprotocol landbouw  \u200bIn uitvoering van project 5: ' Asbest sectorprotocol landbouw ' uit het relanceplan Vlaamse Veerkracht,  keurt de Vlaamse Regering de versterkte start goed van het ondertekende sectorprotocol landbouw. De Vlaamse Regering wil de landbouwsector ondersteunen in het afbouwen van het omvangrijke asbestpassief tegen 2034. OVAM begeleidt en informeert deelnemende landbouwers over asbestveilig verwijderen, terwijl landbouworganisaties met vormingen, communicatie en infosessies de ondersteuningsmogelijkheden zo concreet mogelijk maken voor landbouwers. Na de erg succesvolle eerste maanden van het landbouwprotocol besluit de Vlaamse Regering daarom het startjaar te versterken. Hiervoor wordt een bedrag van 1,5 miljoen euro voorzien uit de relanceprovisie.",
             "date": "2022-05-20",
             "s3_filename_ingested": "ingestion/output/2022/05/62850251479218B0ED55BC49/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62850251479218B0ED55BC49"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Circulaire%20economie%3A%20asbest%20sectorprotocol%20landbouw&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z",
+            "source_title": "Circulaire economie: asbest sectorprotocol landbouw"
         },
         "8": {
             "s3_filename_clean": "clean/2022/10/2022-10-21-nota-634FE3381EA6B745D23CC063.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Innovatieve Projecten Circulair Watergebruik Subsidi\u00ebring projecten hergebruik effluent Vijf ontwerpbesluiten van de Vlaamse Regering  In het kader van de Blue Deal is in  project 32, 'Innovatieve Projecten Circulair Watergebruik',  uit het Relanceplan Vlaamse Veerkracht, budget voorzien voor projectoproepen. Deze oproepen willen bedrijven ondersteunen die op een duurzame manier water hergebruiken en in droogteperiodes waterschaarste voorkomen of milderen. Voor de specifieke  oproep om het hergebruik van effluent van een openbare waterzuiveringsinstallatie te bevorderen , door dit  op te zuiveren naar publiek drinkwater of proces- en koelwater voor de industrie , kent de Vlaamse Regering nu   subsidies toe  aan vijf projecten  ( Aalst: Deeper Blue; Antwerps Havengebied: Waterkracht; Langemark-Poelkapelle: Milceaubelissimo; Sint-Truiden: Blue Future Limburg en Ieper en Harelbeke: Water voor morgen ), voor een totaal bedrag van  11,29 miljoen euro.",
             "date": "2022-10-21",
             "s3_filename_ingested": "ingestion/output/2022/10/634FE3381EA6B745D23CC063/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/634FE3381EA6B745D23CC063"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Innovatieve%20Projecten%20Circulair%20Watergebruik&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Innovatieve Projecten Circulair Watergebruik"
         },
         "3": {
             "s3_filename_clean": "clean/2023/07/2023-07-07-nota-64A3CC362D77B42474D4F59D.txt",
             "s3_clean_content": "Subsidies gerichte oproep Circulaire Zorg 2023 om het gebruik van herbruikbaar materiaal in de medische zorg te bevorderen Ontwerpbesluit van de Vlaamse Regering tot het toekennen van de subsidies voor de Gerichte Oproep Circulaire Zorg  De Vlaamse Regering keurt de Gerichte Oproep Circulaire Zorg 2023 goed. Bedoeling is om circulaire businessmodellen in de hele zorgsector breed te ondersteunen door de financiering van een gerichte call naar projecten die mikken op een systemische aanpak om het gebruik van herbruikbaar materiaal in de medische zorg te bevorderen. Voor deze oproep wordt een totaalbudget van 2 miljoen euro voorzien, waarbij organisaties een subsidie kunnen ontvangen tot maximaal 80% van hun subsidiabele projectvoorstel, met een maximumbedrag van 100.000 euro.",
             "date": "2023-07-07",
             "s3_filename_ingested": "ingestion/output/2023/07/64A3CC362D77B42474D4F59D/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64A3CC362D77B42474D4F59D"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20gerichte%20oproep%20Circulaire%20Zorg%202023%20om%20het%20gebruik%20van%20herbruikbaar%20materiaal%20in%20de%20medische%20zorg%20te%20bevorderen&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z",
+            "source_title": "Subsidies gerichte oproep Circulaire Zorg 2023 om het gebruik van herbruikbaar materiaal in de medische zorg te bevorderen"
         },
         "12": {
             "s3_filename_clean": "clean/2020/07/2020-07-10-mededeling-e3b38270-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -125,7 +141,8 @@
             "s3_clean_content": "Plan Vlaamse Veerkracht: Recyclagehub regels voor toekenning steun aan ondernemingen om materiaalkringlopen te sluiten Recyclagehub Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de regels voor de toekenning van steun aan ondernemingen om materiaalkringlopen te sluiten  In het kader van het Relanceplan 'Vlaamse Veerkracht' werd voorzien in een project voor het uitbouwen van Vlaanderen als recyclagehub. Hiervoor werd 30 miljoen euro uitgetrokken. In dit kader keurt de Vlaamse Regering principieel het besluit goed met de algemene principes, voorwaarden, procedures en sancties met betrekking tot de toekenning van subsidies aan ondernemingen  voor het sluiten van materiaalkringlopen. Het besluit bepaalt voor welke recyclage-activiteiten binnen het afval- en materialenbeheer de ondernemingen subsidies kunnen verkrijgen. In een ministerieel besluit worden de procedure voor beoordeling en andere bijbehorende voorwaarden verder concreet ingevuld. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2021-06-18",
             "s3_filename_ingested": "ingestion/output/2021/06/60C89B23364ED900080003DC/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60C89B23364ED900080003DC"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Recyclagehub%20regels%20voor%20toekenning%20steun%20aan%20ondernemingen%20om%20materiaalkringlopen%20te%20sluiten&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Recyclagehub regels voor toekenning steun aan ondernemingen om materiaalkringlopen te sluiten"
         }
     }
 }

@@ -34,28 +34,28 @@ Concluderend lijkt het erop dat de Vlaamse regering diverse inspanningen en inve
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/resource/a7f2af40-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** Maatregelen internationaal ondernemen voor de door de brexit geïmpacteerde bedrijven in het kader van het Relanceplan Vlaamse Veerkracht: 30 miljoen euro voor FIT   De (uitkomst van de) brexit impacte... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Maatregelen%20internationaal%20ondernemen%20voor%20de%20door%20de%20brexit%20ge%C3%AFmpacteerde%20bedrijven%20in%20het%20kader%20van%20het%20Relanceplan%20Vlaamse%20Veerkracht%3A%2030%20miljoen%20euro%20voor%20FIT&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z)** : **(2020-12-18)** Maatregelen internationaal ondernemen voor de door de brexit geïmpacteerde bedrijven in het kader van het Relanceplan Vlaamse Veerkracht: 30 miljoen euro voor FIT 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62319DDA6BB7B593CFC189C9)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Maatregelen met betrekking tot het internationaal ondernemen ten behoeve van de door de Brexit geïmpacteerde bedrijven Maatregelen met betrekking tot het internationaal ondern... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Maatregelen%20met%20betrekking%20tot%20het%20internationaal%20ondernemen%20ten%20behoeve%20van%20de%20door%20de%20Brexit%20ge%C3%AFmpacteerde%20bedrijven&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Maatregelen met betrekking tot het internationaal ondernemen ten behoeve van de door de Brexit geïmpacteerde bedrijven 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/a9b5e310-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** (Steun)maatregelen voor door Brexit geïmpacteerde bedrijven   Voorlopig is de finale uitkomst van de Brexit (deal of no-deal) nog onduidelijk. Vlaanderen neemt echter wel al maatregelen om de impact v... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=%28Steun%29maatregelen%20voor%20door%20Brexit%20ge%C3%AFmpacteerde%20bedrijven&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z)** : **(2020-12-18)** (Steun)maatregelen voor door Brexit geïmpacteerde bedrijven 
 
-**[\[3\]](http://themis.vlaanderen.be/id/resource/d6bac7c0-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** FIT Corona Exit-plan: extra subsidies voor Bijzondere Exportsteun en voor Starterspakketten Internationalisering Voorontwerp van besluit van de Vlaamse Regering tot vaststelling van de voorwaarden en ... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=FIT%20Corona%20Exit-plan%3A%20extra%20subsidies%20voor%20Bijzondere%20Exportsteun%20en%20voor%20Starterspakketten%20Internationalisering&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** FIT Corona Exit-plan: extra subsidies voor Bijzondere Exportsteun en voor Starterspakketten Internationalisering 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/8de5ca20-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden'   In haar Regeerakkoord 2019-2024 richt de Vlaamse Regering nadrukkelijk de blik op het Noorden. In dit kader   beslist ze de samenwerking met de landen van het N... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Noorden%27&dateOption=select&startDate=2021-03-19T09%3A00%3A00Z&endDate=2021-03-19T09%3A00%3A00Z)** : **(2021-03-19)** Visienota 'Vlaanderen en het Noorden' 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627536081C4A193816C30A65)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk'   ​De Vlaamse Regering hecht haar goedkeuring aan de  visienota 'Vlaanderen en het Verenigd Koninkrijk'. Deze visienota licht toe waarom een blijvende... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Vlaanderen%20en%20het%20Verenigd%20Koninkrijk%27&dateOption=select&startDate=2022-05-06T08%3A00%3A00Z&endDate=2022-05-06T08%3A00%3A00Z)** : **(2022-05-06)** Visienota 'Vlaanderen en het Verenigd Koninkrijk' 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CE83038E6C4430A889893D)** : **(2022-07-15)** Bijsturing intern Klimaatplan Vlaamse overheid   De  Vlaamse overheid neemt haar verantwoordelijkheid op om de eigen klimaatimpact zoveel mogelijk te reduceren. De klimaattransitie vraagt van alle sec... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bijsturing%20intern%20Klimaatplan%20Vlaamse%20overheid&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Bijsturing intern Klimaatplan Vlaamse overheid 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6286071A479218B0ED55BD14)** : **(2022-05-20)** Vernieuwd en werkbaar afsprakenkader voor het buitenlands beleid   Resolutie over een vernieuwd en werkbaar afsprakenkader voor het buitenlands beleid, aangenomen door het Vlaams Parlement op 18 mei 2... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vernieuwd%20en%20werkbaar%20afsprakenkader%20voor%20het%20buitenlands%20beleid&dateOption=select&startDate=2022-05-20T08%3A00%3A00Z&endDate=2022-05-20T08%3A00%3A00Z)** : **(2022-05-20)** Vernieuwd en werkbaar afsprakenkader voor het buitenlands beleid 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E449C1364ED90008000894)** : **(2021-07-09)** Visienota 'Internationaal beurzenprogramma'   De Vlaamse Regering hecht haar goedkeuring aan de   Visienota 'Internationaal beurzenprogramma'. Om Vlaanderen als innovatieve topregio nog meer op de kaa... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Internationaal%20beurzenprogramma%27&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Visienota 'Internationaal beurzenprogramma' 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B9A0F2364ED90008000001)** : **(2021-12-17)** Internationale beurzenprogramma voor topstudenten Voorontwerp van besluit van de Vlaamse Regering over het Vlaamse internationale beurzenprogramma voor topstudenten  In het Regeerakkoord 2019-2024 for... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Internationale%20beurzenprogramma%20voor%20topstudenten&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Internationale beurzenprogramma voor topstudenten 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61F1526AD5F0FAFA87AFA58E)** : **(2022-01-28)** Internationale beurzenprogramma voor topstudenten Ontwerpbesluit van de Vlaamse Regering over het Vlaamse internationale beurzenprogramma voor topstudenten  ​In het Regeerakkoord 2019-2024 formuleerde... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Internationale%20beurzenprogramma%20voor%20topstudenten&dateOption=select&startDate=2022-01-28T09%3A00%3A00Z&endDate=2022-01-28T09%3A00%3A00Z)** : **(2022-01-28)** Internationale beurzenprogramma voor topstudenten 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8BD80364ED900090015D0)** : **(2021-12-17)** Vlaamse havenstrategie   De Vlaamse Regering hecht haar definitieve goedkeuring aan de Vlaamse havenstrategie. Met de Vlaamse havenstrategie zet de Vlaamse overheid in op een verbreding en verdieping ... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20havenstrategie&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Vlaamse havenstrategie 
         </details> 
 

@@ -23,30 +23,30 @@ Op basis van deze informatie lijkt het erop dat de Vlaamse regering heeft geprob
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/resource/7bf6b9a0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-26)** COVID-19: projectoproep 'Flanders is a festival' Ontwerpbesluit van de Vlaamse Regering tot vaststelling van de regels voor de projectoproep ‘Flanders is a festival 2021' voor het organiseren van fest... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=COVID-19%3A%20projectoproep%20%27Flanders%20is%20a%20festival%27&dateOption=select&startDate=2021-03-26T09%3A00%3A00Z&endDate=2021-03-26T09%3A00%3A00Z)** : **(2021-03-26)** COVID-19: projectoproep 'Flanders is a festival' 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED87AF364ED90008001496)** : **(2021-07-16)** Topevenementenbeleid Vlaamse Overheid: ondersteuning Triënnale van Brugge en de stadstriënnale Paradise (Kortrijk) Twee ontwerpbesluiten van de Vlaamse Regering  In het kader van het groeitraject met ... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Topevenementenbeleid%20Vlaamse%20Overheid%3A%20ondersteuning%20Tri%C3%ABnnale%20van%20Brugge%20en%20de%20stadstri%C3%ABnnale%20Paradise%20%28Kortrijk%29&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Topevenementenbeleid Vlaamse Overheid: ondersteuning Triënnale van Brugge en de stadstriënnale Paradise (Kortrijk) 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B6061C364ED9000800062F)** : **(2021-06-04)** Topevenementenbeleid Vlaamse Overheid: uitstel World Choir Games naar najaar 2021   Door de coronacrisis besliste de Vlaamse Regering al eerder de World Choir Games uit te stellen, en te laten doorgaa... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Topevenementenbeleid%20Vlaamse%20Overheid%3A%20uitstel%20World%20Choir%20Games%20naar%20najaar%202021&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Topevenementenbeleid Vlaamse Overheid: uitstel World Choir Games naar najaar 2021 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbericht/654A0EFF9DAB6626D11E60BD)** : **(2023-11-10)** Zending van Vlaams minister Matthias Diependaele naar Parijs voor de Algemene Conferentie Unesco (9 november 2023): programma 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister%20Matthias%20Diependaele%20naar%20Parijs%20voor%20de%20Algemene%20Conferentie%20Unesco%20%289%20november%202023%29%3A%20programma&dateOption=select&startDate=2023-11-10T09%3A00%3A00Z&endDate=2023-11-10T09%3A00%3A00Z)** : **(2023-11-10)** Zending van Vlaams minister Matthias Diependaele naar Parijs voor de Algemene Conferentie Unesco (9 november 2023): programma 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/616E6F32364ED900080001DA)** : **(2021-10-22)** Deelname van Vlaams minister-president Jan Jambon aan de Vlaamse week op Expo 2020 te Dubai (23-28 oktober 2021): programma 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Deelname%20van%20Vlaams%20minister-president%20Jan%20Jambon%20aan%20de%20Vlaamse%20week%20op%20Expo%202020%20te%20Dubai%20%2823-28%20oktober%202021%29%3A%20programma&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Deelname van Vlaams minister-president Jan Jambon aan de Vlaamse week op Expo 2020 te Dubai (23-28 oktober 2021): programma 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/613716C7364ED90008000198)** : **(2021-09-10)** Zending van Vlaams minister-president Jan Jambon naar Barcelona (20 juli 2021): verslag 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister-president%20Jan%20Jambon%20naar%20Barcelona%20%2820%20juli%202021%29%3A%20verslag&dateOption=select&startDate=2021-09-10T08%3A00%3A00Z&endDate=2021-09-10T08%3A00%3A00Z)** : **(2021-09-10)** Zending van Vlaams minister-president Jan Jambon naar Barcelona (20 juli 2021): verslag 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/617AB964364ED9000800078C)** : **(2021-10-29)** Zending van Vlaams minister Lydia Peeters naar Parijs (5 november 2021): programma 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister%20Lydia%20Peeters%20naar%20Parijs%20%285%20november%202021%29%3A%20programma&dateOption=select&startDate=2021-10-29T09%3A15%3A00Z&endDate=2021-10-29T09%3A15%3A00Z)** : **(2021-10-29)** Zending van Vlaams minister Lydia Peeters naar Parijs (5 november 2021): programma 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6177ABA6364ED900080005D7)** : **(2021-10-29)** Zending van Vlaams minister-president Jan Jambon naar Berlijn (4-5 november 2021): programma 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister-president%20Jan%20Jambon%20naar%20Berlijn%20%284-5%20november%202021%29%3A%20programma&dateOption=select&startDate=2021-10-29T09%3A15%3A00Z&endDate=2021-10-29T09%3A15%3A00Z)** : **(2021-10-29)** Zending van Vlaams minister-president Jan Jambon naar Berlijn (4-5 november 2021): programma 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF230D364ED9000900056E)** : **(2021-12-10)** Deelname van Vlaams minister-president Jan Jambon aan de Vlaamse week op Expo 2020 te Dubai (23-28 oktober 2021): verslag 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Deelname%20van%20Vlaams%20minister-president%20Jan%20Jambon%20aan%20de%20Vlaamse%20week%20op%20Expo%202020%20te%20Dubai%20%2823-28%20oktober%202021%29%3A%20verslag&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Deelname van Vlaams minister-president Jan Jambon aan de Vlaamse week op Expo 2020 te Dubai (23-28 oktober 2021): verslag 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/618A323E364ED90008000B1D)** : **(2021-11-12)** Zending van Vlaams minister-president Jan Jambon naar Berlijn (4-5 november 2021): verslag 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister-president%20Jan%20Jambon%20naar%20Berlijn%20%284-5%20november%202021%29%3A%20verslag&dateOption=select&startDate=2021-11-12T09%3A00%3A00Z&endDate=2021-11-12T09%3A00%3A00Z)** : **(2021-11-12)** Zending van Vlaams minister-president Jan Jambon naar Berlijn (4-5 november 2021): verslag 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6372936134B8770AF8FDE7E0)** : **(2022-11-18)** Zending van Vlaams minister-president Jan Jambon naar Parijs (23-24 november 2022): programma 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister-president%20Jan%20Jambon%20naar%20Parijs%20%2823-24%20november%202022%29%3A%20programma&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** Zending van Vlaams minister-president Jan Jambon naar Parijs (23-24 november 2022): programma 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/616E6D32364ED900080001B5)** : **(2021-10-22)** Zending van Vlaams minister Lydia Peeters naar Denemarken, Kopenhagen - Odense (25-27 oktober 2021): programma 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Zending%20van%20Vlaams%20minister%20Lydia%20Peeters%20naar%20Denemarken%2C%20Kopenhagen%20-%20Odense%20%2825-27%20oktober%202021%29%3A%20programma&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Zending van Vlaams minister Lydia Peeters naar Denemarken, Kopenhagen - Odense (25-27 oktober 2021): programma 
 
-**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/615D57C1364ED900090001BA)** : **(2021-10-08)** Uitbouw Vlaams topevenementenbeleid: samenwerkingsovereenkomst met de UNWTO voor het 6de World Forum On Gastronomy Tourism in Brugge Ontwerp van samenwerkingsovereenkomst met de UNWTO voor het 6de Wor... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitbouw%20Vlaams%20topevenementenbeleid%3A%20samenwerkingsovereenkomst%20met%20de%20UNWTO%20voor%20het%206de%20World%20Forum%20On%20Gastronomy%20Tourism%20in%20Brugge&dateOption=select&startDate=2021-10-08T08%3A00%3A00Z&endDate=2021-10-08T08%3A00%3A00Z)** : **(2021-10-08)** Uitbouw Vlaams topevenementenbeleid: samenwerkingsovereenkomst met de UNWTO voor het 6de World Forum On Gastronomy Tourism in Brugge 
         </details> 
 

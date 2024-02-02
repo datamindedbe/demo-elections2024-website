@@ -7,70 +7,80 @@
             "s3_clean_content": "Schriftelijke vraag van 18 oktober 2023 van Celia Groothedde, gesteld aan meerdere Vlaamse ministers, betreffende \u201cGelijkere verdeling zorgarbeid tussen mannen en vrouwen \u2013 Beleidsmaatregelen\u201d",
             "date": "2023-10-27",
             "s3_filename_ingested": "ingestion/output/2023/10/65367E2A9DAB6626D11E503B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65367E2A9DAB6626D11E503B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2018%20oktober%202023%20van%20Celia%20Groothedde%2C%20gesteld%20aan%20meerdere%20Vlaamse%20ministers%2C%20betreffende%20%E2%80%9CGelijkere%20verdeling%20zorgarbeid%20tussen%20mannen%20en%20vrouwen%20%E2%80%93%20Beleidsmaatregelen%E2%80%9D&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z",
+            "source_title": "Schriftelijke vraag van 18 oktober 2023 van Celia Groothedde, gesteld aan meerdere Vlaamse ministers, betreffende \u201cGelijkere verdeling zorgarbeid tussen mannen en vrouwen \u2013 Beleidsmaatregelen\u201d"
         },
         "23": {
             "s3_filename_clean": "clean/2020/12/2020-12-18-mededeling-5FD89A516B34EF0008000A42.txt",
             "s3_clean_content": "Aanpak van discriminatie binnen de sectoren",
             "date": "2020-12-18",
             "s3_filename_ingested": "ingestion/output/2020/12/5FD89A516B34EF0008000A42/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/adda5f70-4925-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpak%20van%20discriminatie%20binnen%20de%20sectoren&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z",
+            "source_title": "Aanpak van discriminatie binnen de sectoren"
         },
         "21": {
             "s3_filename_clean": "clean/2022/01/2022-01-14-mededeling-61E03A24364ED90008000A30.txt",
             "s3_clean_content": "Schriftelijke vraag van 10 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Onderzoek aanspreekpunten integriteit (API's) in andere beleidsdomeinen\"",
             "date": "2022-01-14",
             "s3_filename_ingested": "ingestion/output/2022/01/61E03A24364ED90008000A30/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E03A24364ED90008000A30"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2010%20januari%202022%20van%20mevrouw%20An%20Moerenhout%2C%20gesteld%20aan%20meerdere%20Vlaamse%20ministers%2C%20betreffende%20%22Resolutie%20geweld%20en%20discriminatie%20tegen%20lgbtqi%2B-personen%20%E2%80%93%20Onderzoek%20aanspreekpunten%20integriteit%20%28API%27s%29%20in%20andere%20beleidsdomeinen%22&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z",
+            "source_title": "Schriftelijke vraag van 10 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Onderzoek aanspreekpunten integriteit (API's) in andere beleidsdomeinen\""
         },
         "26": {
             "s3_filename_clean": "clean/2021/05/2021-05-21-nota-60A5174D364ED90008000392.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: dossier 138 Opvolging actieplan mentaal welzijn  In het kader van het regeerakkoord, de beleidsnota Welzijn, Volksgezondheid en Gezin en Armoedebestrijding en het relanceplan Vlaamse Veerkracht, meer bepaald project VV138: Versterken mentaal welzijn - Opvolgen actieplan mentaal welzijn , wil de Vlaamse Regering het mentaal welbevinden van alle burgers in de Vlaamse Gemeenschap versterken. Ze keurt daarom de  specifieke acties goed die ze zal ontplooien voor vijf doelgroepen, zoals bepaald in het actieplan mentaal welzijn 'zorgen voor morgen': de brede bevolking; zorgverleners; kinderen, jongeren en gezinnen; mensen in een kwetsbare situatie en na(ast)bestaanden van Covid-19-pati\u00ebnten.",
             "date": "2021-05-21",
             "s3_filename_ingested": "ingestion/output/2021/05/60A5174D364ED90008000392/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60A5174D364ED90008000392"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossier%20138&dateOption=select&startDate=2021-05-21T08%3A00%3A00Z&endDate=2021-05-21T08%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: dossier 138"
         },
         "22": {
             "s3_filename_clean": "clean/2022/01/2022-01-14-mededeling-61E03A75364ED90008000A3B.txt",
             "s3_clean_content": "Schriftelijke vraag van 11 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Melding van geweld of discriminatie",
             "date": "2022-01-14",
             "s3_filename_ingested": "ingestion/output/2022/01/61E03A75364ED90008000A3B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E03A75364ED90008000A3B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2011%20januari%202022%20van%20mevrouw%20An%20Moerenhout%2C%20gesteld%20aan%20meerdere%20Vlaamse%20ministers%2C%20betreffende%20%22Resolutie%20geweld%20en%20discriminatie%20tegen%20lgbtqi%2B-personen%20%E2%80%93%20Melding%20van%20geweld%20of%20discriminatie&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z",
+            "source_title": "Schriftelijke vraag van 11 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Melding van geweld of discriminatie"
         },
         "5": {
             "s3_filename_clean": "clean/2023/02/2023-02-03-mededeling-63D7D62B2E929B312AB5C386.txt",
             "s3_clean_content": "Evaluatie van de resolutie van het Vlaams Parlement van 16 juni 2021 over geweld en discriminatie tegen LGBTQI+-personen",
             "date": "2023-02-03",
             "s3_filename_ingested": "ingestion/output/2023/02/63D7D62B2E929B312AB5C386/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/63D7D62B2E929B312AB5C386"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Evaluatie%20van%20de%20resolutie%20van%20het%20Vlaams%20Parlement%20van%2016%20juni%202021%20over%20geweld%20en%20discriminatie%20tegen%20LGBTQI%2B-personen&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z",
+            "source_title": "Evaluatie van de resolutie van het Vlaams Parlement van 16 juni 2021 over geweld en discriminatie tegen LGBTQI+-personen"
         },
         "10": {
             "s3_filename_clean": "clean/2020/02/2020-02-07-nota-5E3920F352A2B00008000013.txt",
             "s3_clean_content": "Gelijkekansen- en Diversiteitsplan 2020   De Vlaamse Regering keurt het Gelijkekansen- en Diversiteitsplan 2020 van de Vlaamse Diversiteitsambtenaar goed. De Vlaamse overheid wil een 'goede praktijk'-rol opnemen en heeft daarvoor ambitieuze doelstellingen geformuleerd: 10% mensen met een buitenlandse herkomst, 3% mensen met een handicap of chronische ziekte en 40% vrouwen in zowel het top- als het middenkader. De Vlaamse minister bevoegd voor Samenleven en Gelijke Kansen zal instaan voor de uitvoering van het Gelijkekansen- en Diversiteitsplan 2020.",
             "date": "2020-02-07",
             "s3_filename_ingested": "ingestion/output/2020/02/5E3920F352A2B00008000013/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/d0764a30-492a-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Gelijkekansen-%20en%20Diversiteitsplan%202020&dateOption=select&startDate=2020-02-07T09%3A00%3A00Z&endDate=2020-02-07T09%3A00%3A00Z",
+            "source_title": "Gelijkekansen- en Diversiteitsplan 2020"
         },
         "14": {
             "s3_filename_clean": "clean/2023/12/2023-12-22-nota-658153DEE2E2C9E5814C1EF6.txt",
             "s3_clean_content": "Uitvoeringsbesluit Kaderdecreet Vlaamse gelijkekansen- en gelijkebehandelingsbeleid Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid  De Vlaamse Regering hecht haar principi\u00eble goedkeuring aan het uitvoeringsbesluit bij het Gelijkekansendecreet. Het besluit geeft uitvoering aan het gewijzigde gelijkekansendecreet, met bepalingen rond drie thema\u2019s : horizontaal gelijkekansenbeleid; erkenning van partnerorganisaties voor gelijke kansen, voor digitale inclusie en voor het lokale gelijkekansenbeleid; en antidiscriminatiebeleid. Het toezicht op het Gelijkekansendecreet wordt verder uitgewerkt door middel van informatie- uitwisseling van bepaalde inspectiediensten met het Vlaams Mensenrechteninstituut. Over dit besluit wordt het advies ingewonnen van de SERV, van de Vlaamse adviesraad handicap (NOOZO), van de Vlaamse Raad WVG, van het Vlaams Mensenrechteninstituut, van de VTC en van de GBA.",
             "date": "2023-12-22",
             "s3_filename_ingested": "ingestion/output/2023/12/658153DEE2E2C9E5814C1EF6/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/658153DEE2E2C9E5814C1EF6"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoeringsbesluit%20Kaderdecreet%20Vlaamse%20gelijkekansen-%20en%20gelijkebehandelingsbeleid&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z",
+            "source_title": "Uitvoeringsbesluit Kaderdecreet Vlaamse gelijkekansen- en gelijkebehandelingsbeleid"
         },
         "8": {
             "s3_filename_clean": "clean/2022/03/2022-03-18-mededeling-622F77E56BB7B593CFC18748.txt",
             "s3_clean_content": "Schriftelijke vraag van 10 maart 2022 van Celia Groothedde, gesteld aan meerdere Vlaamse ministers, betreffende \"Preventie van en sensibilise-ring rond seksueel geweld \u2013 Reguliere budgetten\"",
             "date": "2022-03-18",
             "s3_filename_ingested": "ingestion/output/2022/03/622F77E56BB7B593CFC18748/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/622F77E56BB7B593CFC18748"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2010%20maart%202022%20van%20Celia%20Groothedde%2C%20gesteld%20aan%20meerdere%20Vlaamse%20ministers%2C%20betreffende%20%22Preventie%20van%20en%20sensibilise-ring%20rond%20seksueel%20geweld%20%E2%80%93%20Reguliere%20budgetten%22&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z",
+            "source_title": "Schriftelijke vraag van 10 maart 2022 van Celia Groothedde, gesteld aan meerdere Vlaamse ministers, betreffende \"Preventie van en sensibilise-ring rond seksueel geweld \u2013 Reguliere budgetten\""
         },
         "6": {
             "s3_filename_clean": "clean/2023/12/2023-12-22-mededeling-65814F33E2E2C9E5814C1DA2.txt",
             "s3_clean_content": "Tussentijds verslag over de tenuitvoerlegging van het nationaal actieplan ter bestrijding van gendergerelateerd geweld 2021-2025",
             "date": "2023-12-22",
             "s3_filename_ingested": "ingestion/output/2023/12/65814F33E2E2C9E5814C1DA2/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65814F33E2E2C9E5814C1DA2"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Tussentijds%20verslag%20over%20de%20tenuitvoerlegging%20van%20het%20nationaal%20actieplan%20ter%20bestrijding%20van%20gendergerelateerd%20geweld%202021-2025&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z",
+            "source_title": "Tussentijds verslag over de tenuitvoerlegging van het nationaal actieplan ter bestrijding van gendergerelateerd geweld 2021-2025"
         },
         "7": {
             "s3_filename_clean": "clean/2020/04/2020-04-30-mededeling-e44e3bd0-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -83,56 +93,64 @@
             "s3_clean_content": "CHAI en ADPP-Mozambique: subsidie projecten seksuele en reproductieve gezondheid en rechten Twee ontwerpbesluiten van de Vlaamse Regering met betrekking tot subsidi\u00ebring van projecten in Mozambique voor \u201cVerbeterde toegang tot seksuele en reproductieve gezondheid en rechten (SRGR) voor alle Mozambikanen, inclusief de gezondheid en rechten van moeders en pasgeborenen, en met specifieke aandacht voor kwetsbare groepen\u201d  De Vlaamse Regering kent aan 2 lokale NGO's in Mozambique een subsidie toe voor projecten voor 'Verbeterde toegang tot seksuele en reproductieve gezondheid en rechten voor alle Mozambikanen, inclusief de gezondheid en rechten van moeders en pasgeborenen, en met specifieke aandacht voor kwetsbare groepen'. Het Clinton Health Access Initiative zet met het project \u2018Protecting Future: Health Program\u2019 in op versterking van de gezondheidsdiensten voor zwangere vrouwen, peuters en zuigelingen. Met het oog op het terugdringen van moedersterfte spoort men via een specifieke tool zwangere vrouwen met een risico op zwangerschapsvergiftiging op. Het project geeft zo aandacht aan abortuszorg en draagt op die manier bij tot minder (onveilige) abortussen en minder ongewenste zwangerschappen. Er is ook ruime aandacht voor voeding voor (aanstaande) moeder en boreling. Het Ajuda de Desenvolvimento de Povo para Povo wil met het project \u2018Tsogolo Tsicana (Go Girl)\u2019 de meervoudige barri\u00e8res opruimen waar adolescente meisjes en jonge vrouwen in Tete tegen aankijken met betrekking tot hun seksuele en reproductieve gezondheidsrechten (SRGR). Het gaat onder meer over de hoge graad van vroeg- en kindhuwelijken, lage onderwijsresultaten, beperkte kennis van SRGR, weinig steun van de gemeenschap om toegang te krijgen tot SRGR- diensten \u2026 Bedoeling is dit om te buigen door een mentaliteitswijziging na te streven ten aanzien van bepaalde sociale normen. Daarvoor zullen acties op individueel, gemeenschaps- en institutioneel niveau worden ingezet, onder meer in scholen, meisjes- en vrouwenclubs, of via gemeenschapsdialogen, huisbezoeken etc. Voor elk project is 1,49 miljoen euro voorzien voor een looptijd van vier jaar.",
             "date": "2023-03-17",
             "s3_filename_ingested": "ingestion/output/2023/03/641063C33335D329E25ECCA1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/641063C33335D329E25ECCA1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=CHAI%20en%20ADPP-Mozambique%3A%20subsidie%20projecten%20seksuele%20en%20reproductieve%20gezondheid%20en%20rechten&dateOption=select&startDate=2023-03-17T09%3A00%3A00Z&endDate=2023-03-17T09%3A00%3A00Z",
+            "source_title": "CHAI en ADPP-Mozambique: subsidie projecten seksuele en reproductieve gezondheid en rechten"
         },
         "20": {
             "s3_filename_clean": "clean/2022/01/2022-01-14-mededeling-61E03B03364ED90008000A46.txt",
             "s3_clean_content": "Schriftelijke vraag van 11 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Beschikbaar stellen informatie slachtoffers geweld en discriminatie lgbtqi+-slachtoffers bij bestaande organisaties\"",
             "date": "2022-01-14",
             "s3_filename_ingested": "ingestion/output/2022/01/61E03B03364ED90008000A46/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61E03B03364ED90008000A46"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2011%20januari%202022%20van%20mevrouw%20An%20Moerenhout%2C%20gesteld%20aan%20meerdere%20Vlaamse%20ministers%2C%20betreffende%20%22Resolutie%20geweld%20en%20discriminatie%20tegen%20lgbtqi%2B-personen%20%E2%80%93%20Beschikbaar%20stellen%20informatie%20slachtoffers%20geweld%20en%20discriminatie%20lgbtqi%2B-slachtoffers%20bij%20bestaande%20organisaties%22&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z",
+            "source_title": "Schriftelijke vraag van 11 januari 2022 van mevrouw An Moerenhout, gesteld aan meerdere Vlaamse ministers, betreffende \"Resolutie geweld en discriminatie tegen lgbtqi+-personen \u2013 Beschikbaar stellen informatie slachtoffers geweld en discriminatie lgbtqi+-slachtoffers bij bestaande organisaties\""
         },
         "2": {
             "s3_filename_clean": "clean/2020/10/2020-10-23-nota-5F8FF9705B1AD2000800024F.txt",
             "s3_clean_content": "Vlaams actieplan ter bestrijding van seksueel geweld   De Vlaamse Regering keurt het Vlaams actieplan ter bestrijding van seksueel geweld goed. Het plan vertrekt vanuit de noden van het slachtoffer en stelt een integrale aanpak centraal. Het plan zorgt voor concrete en afgestemde doelstellingen en maatregelen, om een krachtig horizontaal beleid te kunnen voeren met een meerwaarde voor elke burger. De verschillende betrokken ministers geven met dit plan invulling aan de drie overheidsbrede ge\u00efntegreerde transversale doelstellingen die op 10 juli 2020 door de Vlaamse Regering werden goedgekeurd. De jaarlijkse uitvoering van het plan zal gebeuren binnen de jaarlijks voorziene begrotingskredieten. Het plan wordt overgemaakt aan het Vlaams Parlement.",
             "date": "2020-10-23",
             "s3_filename_ingested": "ingestion/output/2020/10/5F8FF9705B1AD2000800024F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/00a02450-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20actieplan%20ter%20bestrijding%20van%20seksueel%20geweld&dateOption=select&startDate=2020-10-23T08%3A00%3A00Z&endDate=2020-10-23T08%3A00%3A00Z",
+            "source_title": "Vlaams actieplan ter bestrijding van seksueel geweld"
         },
         "27": {
             "s3_filename_clean": "clean/2023/01/2023-01-20-mededeling-63C5790617E4B551F4BD0509.txt",
             "s3_clean_content": "Rapportage actieplan ter preventie van gewelddadige radicalisering, extremisme, terrorisme en polarisatie",
             "date": "2023-01-20",
             "s3_filename_ingested": "ingestion/output/2023/01/63C5790617E4B551F4BD0509/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/63C5790617E4B551F4BD0509"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Rapportage%20actieplan%20ter%20preventie%20van%20gewelddadige%20radicalisering%2C%20extremisme%2C%20terrorisme%20en%20polarisatie&dateOption=select&startDate=2023-01-20T09%3A00%3A00Z&endDate=2023-01-20T09%3A00%3A00Z",
+            "source_title": "Rapportage actieplan ter preventie van gewelddadige radicalisering, extremisme, terrorisme en polarisatie"
         },
         "24": {
             "s3_filename_clean": "clean/2022/11/2022-11-10-nota-636A4F4734B8770AF8FDE16B.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Preventiecampagne Aanpak Intra-Familiaal Geweld Preventiecampagne Aanpak Intra-Familiaal Geweld  In het kader van het thema \u2018Versterken mentaal welzijn - Versterking Aanpak Intra-Familiaal Geweld: Bewustmakingscampagnes\u2019 van het relanceplan Vlaamse Veerkracht hecht de Vlaamse Regering haar goedkeuring aan de besteding van 100.000 euro voor een preventiecampagne rond fysiek en psychisch geweld tegen jonge kinderen. \u200bDe preventiecampagne richt zich op iedereen die voor jonge kinderen zorgt (intra- en extra-familiaal)  met als doel hen mentaal weerbaarder te maken en zo fysiek en psychisch geweld tegen jonge kinderen in opvoedingssituaties te voorkomen. De campagne wordt inhoudelijk verder vorm gegeven door het agentschap Opgroeien in nauwe samenwerking met het Vlaamse Expertisecentrum Kindermishandeling met ondersteuning van de communicatiepartner waarmee het agentschap Opgroeien een raamcontract heeft.",
             "date": "2022-11-10",
             "s3_filename_ingested": "ingestion/output/2022/11/636A4F4734B8770AF8FDE16B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/636A4F4734B8770AF8FDE16B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Preventiecampagne%20Aanpak%20Intra-Familiaal%20Geweld&dateOption=select&startDate=2022-11-10T07%3A00%3A00Z&endDate=2022-11-10T07%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Preventiecampagne Aanpak Intra-Familiaal Geweld"
         },
         "9": {
             "s3_filename_clean": "clean/2023/12/2023-12-22-nota-65818F9EE2E2C9E5814C22AC.txt",
             "s3_clean_content": "Bevordering en ondersteuning Gelijkekansen- en diversiteitsbeleid in de Vlaamse administratie: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 24 december 2004 houdende maatregelen ter bevordering en ondersteuning van het gelijkekansen- en diversiteitsbeleid in de Vlaamse administratie en het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de definitie, het woon-werkverkeer en het verlof wegens deeltijdse prestaties van personen met een handicap of chronische ziekte en andere bepalingen  De Vlaamse Regering wijzigt principieel het besluit over gelijke kansen en diversiteit in de Vlaamse administratie. Het wijzigingsbesluit zorgt ook voor aanpassingen aan het VPS (Vlaams personeelsstatuut). Het toepassingsgebied van het besluit gelijke kansen en diversiteit wordt verruimd , en er komt een actualisering en verruiming van de categorie\u00ebn van personen met een handicap of chronische ziekte , in lijn met de VN-definitie van handicap. Er komt ook een aangepast rechtskader en benaming voor het huidige integratieprotocol. Daarnaast bevat het een rechtsbasis voor monitoring , conform de Algemene Verordening Gegevensbescherming (AVG). Tot slot zijn ook een aantal definities toegevoegd, geactualiseerd en verduidelijkt, en een aantal hefbomen gespecifieerd die een rol kunnen spelen bij het voeren van een gelijkekansen- en diversiteitsbeleid. De gewijzigde begrippen, definities en toepassingsgebied worden ook overgenomen in het VPS. Het integratieprotocol krijgt een andere naam, namelijk inclusieprotocol. Tevens wordt er verwezen naar het inclusieprotocol voor de mogelijkheid van bijkomende maatregelen voor woon-werkverkeer voor personen met ernstige beperkingen. Het besluit wordt nog voor advies voorgelegd aan de Sociaal-Economische Raad van Vlaanderen (SERV), de Vlaamse adviesraad handicap (NOOZO), het Vlaams Mensenrechteninstituut (VMRI), de Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens (VTC), de Gegevensbeschermingsautoriteit (GBA), het Sectorcomit\u00e9 XVIII en de Raad van State.",
             "date": "2023-12-22",
             "s3_filename_ingested": "ingestion/output/2023/12/65818F9EE2E2C9E5814C22AC/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/65818F9EE2E2C9E5814C22AC"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Bevordering%20en%20ondersteuning%20Gelijkekansen-%20en%20diversiteitsbeleid%20in%20de%20Vlaamse%20administratie%3A%20wijzigingsbesluit&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z",
+            "source_title": "Bevordering en ondersteuning Gelijkekansen- en diversiteitsbeleid in de Vlaamse administratie: wijzigingsbesluit"
         },
         "18": {
             "s3_filename_clean": "clean/2022/12/2022-12-02-nota-63870F3E86124BBA17062B93.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Subsidie aan GAMS vzw voor project 'opgroeien zonder vrouwelijke genitale verminking' GAMS vzw: subsidie project opgroeien zonder vrouwelijke genitale verminking Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2022 aan GAMS vzw voor het project \u201copgroeien zonder vrouwelijke genitale verminking\u201d  In het Relanceplan Vlaamse Veerkracht wil de Vlaamse Regering de aanpak van intra-familiaal geweld versterken. Daarom kent ze 200.000 euro subsidie toe aan GAMS Belgi\u00eb vzw (Groep voor de Afschaffing van Vrouwelijke Genitale Verminking) voor het project 'opgroeien zonder vrouwelijke genitale verminking'. Dit project heeft tot doel het voorkomen van besnijdenis bij meisjes die in Belgi\u00eb zijn geboren of op zeer jonge leeftijd in Belgi\u00eb zijn aangekomen. In Belgi\u00eb is vrouwelijke genitale verminking strafbaar sinds 2001. Op 31 december 2020 waren in Belgi\u00eb naar schatting meer dan 35.000 meisjes en vrouwen besneden of liepen zij het risico besneden te worden, waarvan 16.500 in Vlaanderen. De subsidie zal dus mee instaan voor de financiering van het begeleiden van risicosituaties in Vlaanderen. De opleiding en co\u00f6rdinatie van co-bemiddelaars zal de bewustmaking bewerkstelligen van de gemeenschappen die te maken hebben met vrouwelijke genitale verminking. De co-bemiddelaars, die zelf deel uitmaken van de betrokken gemeenschappen, zullen in de vijf Vlaamse provincies en in het Nederlandstalige deel van het Brussels Hoofdstedelijk Gewest, workshops aanbieden en outreachend werken binnen sociaal-culturele verenigingen.",
             "date": "2022-12-02",
             "s3_filename_ingested": "ingestion/output/2022/12/63870F3E86124BBA17062B93/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63870F3E86124BBA17062B93"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Subsidie%20aan%20GAMS%20vzw%20voor%20project%20%27opgroeien%20zonder%20vrouwelijke%20genitale%20verminking%27&dateOption=select&startDate=2022-12-02T09%3A00%3A00Z&endDate=2022-12-02T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Subsidie aan GAMS vzw voor project 'opgroeien zonder vrouwelijke genitale verminking'"
         },
         "0": {
             "s3_filename_clean": "clean/2021/11/2021-11-26-mededeling-619C9DD8364ED900080001B9.txt",
             "s3_clean_content": "Nationaal actieplan in de strijd tegen gendergerelateerd geweld 2021-2025",
             "date": "2021-11-26",
             "s3_filename_ingested": "ingestion/output/2021/11/619C9DD8364ED900080001B9/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/619C9DD8364ED900080001B9"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Nationaal%20actieplan%20in%20de%20strijd%20tegen%20gendergerelateerd%20geweld%202021-2025&dateOption=select&startDate=2021-11-26T09%3A00%3A00Z&endDate=2021-11-26T09%3A00%3A00Z",
+            "source_title": "Nationaal actieplan in de strijd tegen gendergerelateerd geweld 2021-2025"
         },
         "1": {
             "s3_filename_clean": "clean/2020/07/2020-07-10-mededeling-e3b7a120-0fe2-11eb-9a42-a101b41f0404.txt",
@@ -145,56 +163,64 @@
             "s3_clean_content": "Subsidies projecten met betrekking tot seksuele en reproductieve gezondheid en rechten in Mozambique Vier ontwerpbesluiten van de Vlaamse Regering betreffende de toekenning van een projectsubsidie  De Vlaamse Regering kent aan volgende organisaties een subsidie toe voor 4   projecten met focus op seksuele en reproductieve gezondheid en rechten in Mozambique : PCI Media (bijna 1,5 miljoen euro) voor een project van 4 jaar voor jongeren die leven met een beperking;  Doctors for Africa (1,5 miljoen euro)  voor een project van 3 jaar met aandacht voor uitgesloten jongeren, inclusief jongeren die leven met een beperking; Ariel Glaser Foundation Against Pediatric AIDS  (880.000 euro) voor een project van 3 jaar; en Population Services International  (1,5 miljoen euro) voor een project van 3 jaar samen met lokale radio\u2019s, lokale religieuze gemeenschappen en het Provinciale Departement van Gezondheid in Tete.",
             "date": "2019-12-13",
             "s3_filename_ingested": "ingestion/output/2019/12/5DEF55215084E7000800030B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/96271d90-492b-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20projecten%20met%20betrekking%20tot%20seksuele%20en%20reproductieve%20gezondheid%20en%20rechten%20in%20Mozambique&dateOption=select&startDate=2019-12-13T09%3A00%3A00Z&endDate=2019-12-13T09%3A00%3A00Z",
+            "source_title": "Subsidies projecten met betrekking tot seksuele en reproductieve gezondheid en rechten in Mozambique"
         },
         "17": {
             "s3_filename_clean": "clean/2022/10/2022-10-07-mededeling-633BDC2BEB2A31D34EEC5E58.txt",
             "s3_clean_content": "Internationaal Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen: constructieve dialoog met het Comit\u00e9 voor de uitbanning van alle vormen van discriminatie van vrouwen",
             "date": "2022-10-07",
             "s3_filename_ingested": "ingestion/output/2022/10/633BDC2BEB2A31D34EEC5E58/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/633BDC2BEB2A31D34EEC5E58"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Internationaal%20Verdrag%20inzake%20de%20uitbanning%20van%20alle%20vormen%20van%20discriminatie%20van%20vrouwen%3A%20constructieve%20dialoog%20met%20het%20Comit%C3%A9%20voor%20de%20uitbanning%20van%20alle%20vormen%20van%20discriminatie%20van%20vrouwen&dateOption=select&startDate=2022-10-07T08%3A00%3A00Z&endDate=2022-10-07T08%3A00%3A00Z",
+            "source_title": "Internationaal Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen: constructieve dialoog met het Comit\u00e9 voor de uitbanning van alle vormen van discriminatie van vrouwen"
         },
         "13": {
             "s3_filename_clean": "clean/2023/12/2023-12-15-nota-6578585FE2E2C9E5814C0357.txt",
             "s3_clean_content": "Wijziging Gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen Ontwerpdecreet tot wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid  Na advies van de Raad van State wijzigt de Vlaamse Regering definitief het Gelijkekansendecreet in het kader van de volgende vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid van gebouwen. De wijzigingen op het gebied van antidiscriminatiebeleid hebben als doel de transparantie en toepasbaarheid van het decreet te verbeteren en  het in overeenstemming te brengen met het Unierecht. Een nieuwe aanpak van het horizontale beleid rond gelijke kansen beoogt het gelijkekansenbeleid te dynamiseren en alle betrokken domeinen te responsabiliseren en te ondersteunen in het voeren van een gelijkekansenbeleid. Door de aanpassing van het decreet wordt verder voorzien in de mogelijkheid tot erkenning van partnerorganisaties voor digitale inclusie , en kan de Vlaamse Regering een partnerorganisatie erkennen die lokale besturen ondersteunt bij het voeren van een lokaal gelijkekansenbeleid. Om de conformiteit van concrete vergunningsdossiers met de normen van de toegankelijkheidsverordening te garanderen, worden toegankelijkheidsdeskundigen in het leven geroepen. De Vlaamse Regering zal regels bepalen voor de erkenningsvoorwaarden en de procedure voor deze deskundigen, alsook de taken die zij krijgen in specifieke dossiers. De toegankelijkheidsverordening legt een aantal minimale toegankelijkheidseisen op bij het verkrijgen van een stedenbouwkundige vergunning voor (delen van) gebouwen die voor het publiek toegankelijk zijn. Het ontwerp van wijzigingsdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2023-12-15",
             "s3_filename_ingested": "ingestion/output/2023/12/6578585FE2E2C9E5814C0357/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/6578585FE2E2C9E5814C0357"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20Gelijkekansendecreet%20rond%20vier%20thema%27s%3A%20antidiscriminatiebeleid%2C%20horizontaal%20gelijkekansenbeleid%2C%20erkenning%20partnerorganisaties%20en%20toegankelijkheid%20gebouwen&dateOption=select&startDate=2023-12-15T09%3A00%3A00Z&endDate=2023-12-15T09%3A00%3A00Z",
+            "source_title": "Wijziging Gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen"
         },
         "4": {
             "s3_filename_clean": "clean/2021/06/2021-06-18-mededeling-60CB6452364ED90008000559.txt",
             "s3_clean_content": "Geweld en discriminatie tegen lgbtqi+-personen   Resolutie over geweld en discriminatie tegen lgbtqi+-personen, aangenomen door het Vlaams Parlement op 16 juni 2021",
             "date": "2021-06-18",
             "s3_filename_ingested": "ingestion/output/2021/06/60CB6452364ED90008000559/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/60CB6452364ED90008000559"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Geweld%20en%20discriminatie%20tegen%20lgbtqi%2B-personen&dateOption=select&startDate=2021-06-18T08%3A00%3A00Z&endDate=2021-06-18T08%3A00%3A00Z",
+            "source_title": "Geweld en discriminatie tegen lgbtqi+-personen"
         },
         "11": {
             "s3_filename_clean": "clean/2023/10/2023-10-06-nota-651AD51951A2D987E57E30E1.txt",
             "s3_clean_content": "Wijziging Gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen Voorontwerp van decreet tot wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid  Na adviezen van de SERV, de VLOR, de Vlaamse adviesraad handicap (NOOZO), de VTC en de GBA, wijzigt de Vlaamse Regering opnieuw principieel het Gelijkekansendecreet in het kader van de volgende vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid van gebouwen. De wijzigingen op het gebied van antidiscriminatiebeleid hebben als doel de transparantie en toepasbaarheid van het decreet te verbeteren en  het in overeenstemming te brengen met het Unierecht. Een nieuwe aanpak van het horizontale beleid rond gelijke kansen beoogt het gelijkekansenbeleid te dynamiseren en alle betrokken domeinen te responsabiliseren en te ondersteunen in het voeren van een gelijkekansenbeleid. Door de aanpassing van het decreet wordt verder voorzien in de mogelijkheid tot erkenning van partnerorganisaties voor digitale inclusie , en kan de Vlaamse Regering een partnerorganisatie erkennen die lokale besturen ondersteunt bij het voeren van een lokaal gelijkekansenbeleid. Om de conformiteit van concrete vergunningsdossiers met de normen van de toegankelijkheidsverordening te garanderen, worden toegankelijkheidsdeskundigen in het leven geroepen. De Vlaamse Regering zal regels bepalen voor de erkenningsvoorwaarden en de procedure voor deze deskundigen, alsook de taken die zij krijgen in specifieke dossiers. De toegankelijkheidsverordening legt een aantal minimale toegankelijkheidseisen op bij het verkrijgen van een stedenbouwkundige vergunning voor (delen van) gebouwen die voor het publiek toegankelijk zijn. Over dit voorontwerp van wijzigingsdecreet wordt nu het advies ingewonnen van de Raad van State.",
             "date": "2023-10-06",
             "s3_filename_ingested": "ingestion/output/2023/10/651AD51951A2D987E57E30E1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/651AD51951A2D987E57E30E1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20Gelijkekansendecreet%20rond%20vier%20thema%27s%3A%20antidiscriminatiebeleid%2C%20horizontaal%20gelijkekansenbeleid%2C%20erkenning%20partnerorganisaties%20en%20toegankelijkheid%20gebouwen&dateOption=select&startDate=2023-10-06T08%3A00%3A00Z&endDate=2023-10-06T08%3A00%3A00Z",
+            "source_title": "Wijziging Gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen"
         },
         "25": {
             "s3_filename_clean": "clean/2021/12/2021-12-03-nota-61A76F43364ED90008000003.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Versterking mentaal welzijn Versterking mentaal welzijn  In het kader van het project Vlaamse Veerkracht: versterking mentaal welzijn , kent de Vlaamse Regering 3,2 miljoen euro relancemiddelen toe voor de projectmatige versterking van de capaciteit crisisbegeleiding in de crisisnetwerken ; voor het versterken van de ondersteuningscentra jeugdzorg, de sociale diensten jeugdrechtbank en de vertrouwenscentra kindermishandeling; en voor   een  ondersteunende campagne om 'E\u00e9n gezin, \u00e9\u00e9n plan' (1G1P) beter bekend te maken bij het brede publiek en de connectie met de basisvoorzieningen enerzijds, en de meer gespecialiseerde hulp anderzijds te versterken, zodat er na de relance heel wat vragen rond crisis effectief door deze netwerken kunnen opgenomen worden.",
             "date": "2021-12-03",
             "s3_filename_ingested": "ingestion/output/2021/12/61A76F43364ED90008000003/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61A76F43364ED90008000003"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Versterking%20mentaal%20welzijn&dateOption=select&startDate=2021-12-03T09%3A00%3A00Z&endDate=2021-12-03T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Versterking mentaal welzijn"
         },
         "3": {
             "s3_filename_clean": "clean/2022/12/2022-12-23-mededeling-63A09698DBF1CAE811021A96.txt",
             "s3_clean_content": "Tussentijdse evaluatie Vlaams actieplan ter bestrijding van seksueel geweld 2020-2024",
             "date": "2022-12-23",
             "s3_filename_ingested": "ingestion/output/2022/12/63A09698DBF1CAE811021A96/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/63A09698DBF1CAE811021A96"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Tussentijdse%20evaluatie%20Vlaams%20actieplan%20ter%20bestrijding%20van%20seksueel%20geweld%202020-2024&dateOption=select&startDate=2022-12-23T09%3A00%3A00Z&endDate=2022-12-23T09%3A00%3A00Z",
+            "source_title": "Tussentijdse evaluatie Vlaams actieplan ter bestrijding van seksueel geweld 2020-2024"
         },
         "12": {
             "s3_filename_clean": "clean/2023/06/2023-06-23-nota-6492B2662D77B42474D4D9C1.txt",
             "s3_clean_content": "Wijziging gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen Voorontwerp van decreet tot wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt, het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid en het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting  De Vlaamse Regering wijzigt principieel het Gelijkekansendecreet in het kader van de volgende vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid van gebouwen. De wijzigingen op het gebied van antidiscriminatiebeleid hebben als doel de transparantie en toepasbaarheid van het decreet te verbeteren en het in overeenstemming te brengen met het Unierecht. Een nieuwe aanpak van het horizontale beleid rond gelijke kansen beoogt het gelijkekansenbeleid te dynamiseren en alle betrokken domeinen te responsabiliseren en te ondersteunen in het voeren van een gelijkekansenbeleid. Door de aanpassing van het decreet wordt verder voorzien in de mogelijkheid tot erkenning van partnerorganisaties voor digitale inclusie , en kan de Vlaamse Regering een partnerorganisatie erkennen die lokale besturen ondersteunt bij het voeren van een lokaal gelijkekansenbeleid. De toegankelijkheidsverordening legt een aantal minimale toegankelijkheidseisen op bij het verkrijgen van een stedenbouwkundige vergunning voor (delen van) gebouwen die voor het publiek toegankelijk zijn. Om de conformiteit van concrete vergunningsdossiers met de normen van de toegankelijkheidsverordening te garanderen, worden toegankelijkheidsdeskundigen in het leven geroepen. De Vlaamse Regering zal regels bepalen voor de erkenningsvoorwaarden en de procedure voor deze deskundigen, alsook de taken die zij krijgen in specifieke dossiers. Over dit voorontwerp van wijzigingsdecreet wordt nu het advies ingewonnen van de SERV, de VLOR, de Vlaamse adviesraad handicap (NOOZO), de VTC en de GBA.",
             "date": "2023-06-23",
             "s3_filename_ingested": "ingestion/output/2023/06/6492B2662D77B42474D4D9C1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/6492B2662D77B42474D4D9C1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20gelijkekansendecreet%20rond%20vier%20thema%27s%3A%20antidiscriminatiebeleid%2C%20horizontaal%20gelijkekansenbeleid%2C%20erkenning%20partnerorganisaties%20en%20toegankelijkheid%20gebouwen&dateOption=select&startDate=2023-06-23T08%3A00%3A00Z&endDate=2023-06-23T08%3A00%3A00Z",
+            "source_title": "Wijziging gelijkekansendecreet rond vier thema's: antidiscriminatiebeleid, horizontaal gelijkekansenbeleid, erkenning partnerorganisaties en toegankelijkheid gebouwen"
         }
     }
 }

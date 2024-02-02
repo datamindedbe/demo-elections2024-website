@@ -33,158 +33,161 @@ Op basis van bovenstaande punten kan worden vastgesteld dat de Vlaamse Regering 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]]** : **(2020-03-20)** Vlaams Actieplan Armoedebestrijding 2020-2024: doelstellingenkader 
+        **[\[0\]]** : **(2020-03-20)**  
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/6351cc20-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024   De Vlaamse Regering keurt het Vlaams Actieplan Armoedebestrijding 2020-2024 goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregele... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2020-09-25T08%3A00%3A00Z&endDate=2020-09-25T08%3A00%3A00Z)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6356A91C1EA6B745D23CC599)** : **(2022-10-28)** Bijsturing van het Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bijsturing%20van%20het%20Vlaams%20Actieplan%20Armoedebestrijding%20%28VAPA%29%202020-2024&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Bijsturing van het Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024 
 
-**[\[3\]]** : **(2020-01-31)** Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024: traject 
+**[\[3\]]** : **(2020-01-31)**  
 
-**[\[4\]]** : **(2020-01-31)** Schriftelijke vraag van 29 januari 2020 van mevrouw Ann De Martelaer, gesteld aan alle Vlaamse ministers, betreffende "Beleidsdomein Buitenlandse Zaken, Cultuur, ICT en Facilitair Management – Armoede... 
+**[\[4\]]** : **(2020-01-31)**  
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62389AB36BB7B593CFC18C43)** : **(2022-03-25)** Voortgangsrapport van het Vlaams Actieplan Armoedebestrijding 2020-2024 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voortgangsrapport%20van%20het%20Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2022-03-25T09%3A00%3A00Z&endDate=2022-03-25T09%3A00%3A00Z)** : **(2022-03-25)** Voortgangsrapport van het Vlaams Actieplan Armoedebestrijding 2020-2024 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF126C364ED9000900043D)** : **(2021-12-10)** Visienota 'Energiearmoede 2025'   In Vlaanderen heeft ongeveer 15% van de gezinnen te kampen met energiearmoede. Bovendien zijn de energieprijzen de laatste tijd sterk gestegen. Het Regeerakkoord 2019... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Energiearmoede%202025%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Visienota 'Energiearmoede 2025' 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7CEAD364ED90008000217)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 200... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6228675A6BB7B593CFC18473)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreff... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbericht/649AB4D42D77B42474D4E85A)** : **(2023-06-30)** Wijzigingsbesluit armoedebestrijding: procedure erkenning als vormingsorganisatie rond armoede Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 15 mei 2... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsbesluit%20armoedebestrijding%3A%20procedure%20erkenning%20als%20vormingsorganisatie%20rond%20armoede&dateOption=select&startDate=2023-06-30T08%3A00%3A00Z&endDate=2023-06-30T08%3A00%3A00Z)** : **(2023-06-30)** Wijzigingsbesluit armoedebestrijding: procedure erkenning als vormingsorganisatie rond armoede 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbericht/643FF17DCA1CB15B58CF473A)** : **(2023-04-21)** Wijzigingsbesluit armoedebestrijding: procedure erkenning als vormingsorganisatie rond armoede Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsbesluit%20armoedebestrijding%3A%20procedure%20erkenning%20als%20vormingsorganisatie%20rond%20armoede&dateOption=select&startDate=2023-04-21T08%3A00%3A00Z&endDate=2023-04-21T08%3A00%3A00Z)** : **(2023-04-21)** Wijzigingsbesluit armoedebestrijding: procedure erkenning als vormingsorganisatie rond armoede 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639C2083C2B90D4571CF90B2)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming Uitgaventoetsing Vlaamse sociale bescherming  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën gedefinieerd als '... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Vlaamse%20sociale%20bescherming&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Vlaamse sociale bescherming 
 
-**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6358F8451EA6B745D23CC8C4)** : **(2022-10-28)** Plan Vlaamse Veerkracht: subsidie meetmethodiek woonkwaliteit woonzorgcentra Vlaams Instituut voor Kwaliteit van Zorg (VIKZ) en Vlaamse Ouderenraad: subsidie meetmethodiek woonkwaliteit Ontwerpbesluit... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20meetmethodiek%20woonkwaliteit%20woonzorgcentra&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Plan Vlaamse Veerkracht: subsidie meetmethodiek woonkwaliteit woonzorgcentra 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbericht/65854361E2E2C9E5814C2D87)** : **(2023-12-22)** VZW Persoonsvolgend Budgetwijzer: beheer Waarderingstool in het Vlaamse beleidsdomein Welzijn, Volksgezondheid en Gezin Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan VZW P... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VZW%20Persoonsvolgend%20Budgetwijzer%3A%20beheer%20Waarderingstool%20in%20het%20Vlaamse%20beleidsdomein%20Welzijn%2C%20Volksgezondheid%20en%20Gezin&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** VZW Persoonsvolgend Budgetwijzer: beheer Waarderingstool in het Vlaamse beleidsdomein Welzijn, Volksgezondheid en Gezin 
 
-**[\[14\]](http://themis.vlaanderen.be/id/resource/40edf240-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Sciensano: subsidie ontwikkeling en uitvoering preventiebarometer Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan Sciensano voor de ontwikkeling en uitvoering van een onderz... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Sciensano%3A%20subsidie%20ontwikkeling%20en%20uitvoering%20preventiebarometer%0A%0A&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Sciensano: subsidie ontwikkeling en uitvoering preventiebarometer
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A3DB102D77B42474D4F695)** : **(2023-07-07)** Sciensano: subsidie tweede editie Preventiebarometer Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan Sciensano voor de uitvoering van de tweede editie van de Preventiebarome... 
+ 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E428C2364ED9000800086E)** : **(2021-07-09)** Gezond Leven: subsidie voor de uitvoering van de indicatorenbevraging 'preventief gezondheidsbeleid' Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan Gezond Leven voor de uit... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Sciensano%3A%20subsidie%20tweede%20editie%20Preventiebarometer&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Sciensano: subsidie tweede editie Preventiebarometer 
 
-**[\[17\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6386187386124BBA17062B60)** : **(2022-12-02)** Sciensano: wijziging subsidiebesluit onderzoek rond preventie bij de Vlaamse bevolking (preventiebarometer) Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van 20 december 2019 to... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gezond%20Leven%3A%20subsidie%20voor%20de%20uitvoering%20van%20de%20indicatorenbevraging%20%27preventief%20gezondheidsbeleid%27&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Gezond Leven: subsidie voor de uitvoering van de indicatorenbevraging 'preventief gezondheidsbeleid' 
 
-**[\[18\]]** : **(2020-06-26)** Vlaams ouderenbeleidsplan 2020-2025: doelstellingenkader 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Sciensano%3A%20wijziging%20subsidiebesluit%20onderzoek%20rond%20preventie%20bij%20de%20Vlaamse%20bevolking%20%28preventiebarometer%29&dateOption=select&startDate=2022-12-02T09%3A00%3A00Z&endDate=2022-12-02T09%3A00%3A00Z)** : **(2022-12-02)** Sciensano: wijziging subsidiebesluit onderzoek rond preventie bij de Vlaamse bevolking (preventiebarometer) 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60A36D6D364ED90008000344)** : **(2021-05-21)** Schriftelijke vraag van 7 mei 2021 van mevrouw Caroline Gennez, gesteld aan alle Vlaamse ministers, betreffende "Vlaamse overheid – Monitoring werkbaarheid" 
+**[\[18\]]** : **(2020-06-26)**  
 
-**[\[20\]]** : **(2020-07-10)** Conceptnota: “Een beleidskader voor Individueel maatwerk (IMW)” 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%207%20mei%202021%20van%20mevrouw%20Caroline%20Gennez%2C%20gesteld%20aan%20alle%20Vlaamse%20ministers%2C%20betreffende%20%22Vlaamse%20overheid%20%E2%80%93%20Monitoring%20werkbaarheid%22&dateOption=select&startDate=2021-05-21T08%3A00%3A00Z&endDate=2021-05-21T08%3A00%3A00Z)** : **(2021-05-21)** Schriftelijke vraag van 7 mei 2021 van mevrouw Caroline Gennez, gesteld aan alle Vlaamse ministers, betreffende "Vlaamse overheid – Monitoring werkbaarheid" 
 
-**[\[21\]](http://themis.vlaanderen.be/id/resource/d3d42290-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** vzw Welzijnszorg: subsidie Knooppunt Armoede-Onderwijs Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie van maximaal 298.000 euro aan de vzw Welzijnszorg voor het organiseren van... 
+**[\[20\]]** : **(2020-07-10)**  
 
-**[\[22\]](http://themis.vlaanderen.be/id/resource/6c901a00-492a-11ec-94bb-99a9d1e168fe)** : **(2020-03-13)** Wijziging uitvoeringsbesluit decreet Vlaamse Sociale Bescherming: aanpassing verminderingscoëfficiënt ouderenvoorzieningen Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 473 van het ... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=vzw%20Welzijnszorg%3A%20subsidie%20Knooppunt%20Armoede-Onderwijs&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** vzw Welzijnszorg: subsidie Knooppunt Armoede-Onderwijs 
 
-**[\[23\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AE6C740592342F299DBA03)** : **(2023-07-14)** Middelentoets sociale huurwoning: wijziging besluit Vlaamse Codex Wonen 2021 Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft de ... 
+**[\[22\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20uitvoeringsbesluit%20decreet%20Vlaamse%20Sociale%20Bescherming%3A%20aanpassing%20verminderingsco%C3%ABffici%C3%ABnt%20ouderenvoorzieningen&dateOption=select&startDate=2020-03-13T09%3A00%3A00Z&endDate=2020-03-13T09%3A00%3A00Z)** : **(2020-03-13)** Wijziging uitvoeringsbesluit decreet Vlaamse Sociale Bescherming: aanpassing verminderingscoëfficiënt ouderenvoorzieningen 
 
-**[\[24\]](http://themis.vlaanderen.be/id/nieuwsbericht/64F6EB0E3605E1AC863BE362)** : **(2023-09-08)** Uitbreiding vermogenstoets sociale huurwoning: wijziging besluit Vlaamse Codex Wonen 2021 Ontwerpbesluit van de Vlaamse Regering tot wijziging van het Besluit Vlaamse Codex Wonen van 2021, wat betreft... 
+**[\[23\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Middelentoets%20sociale%20huurwoning%3A%20wijziging%20besluit%20Vlaamse%20Codex%20Wonen%202021&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Middelentoets sociale huurwoning: wijziging besluit Vlaamse Codex Wonen 2021 
 
-**[\[25\]](http://themis.vlaanderen.be/id/resource/5dd3e1a0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-04-02)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit Voorontwerp van besluit van de Vlaamse Regering over de tenuitvoerlegging van BelRAI en tot wij... 
+**[\[24\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitbreiding%20vermogenstoets%20sociale%20huurwoning%3A%20wijziging%20besluit%20Vlaamse%20Codex%20Wonen%202021&dateOption=select&startDate=2023-09-08T08%3A00%3A00Z&endDate=2023-09-08T08%3A00%3A00Z)** : **(2023-09-08)** Uitbreiding vermogenstoets sociale huurwoning: wijziging besluit Vlaamse Codex Wonen 2021 
 
-**[\[26\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE15D5364ED90008000201)** : **(2021-05-28)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit Ontwerpbesluit van de Vlaamse Regering over de tenuitvoerlegging van BelRAI en tot wijziging va... 
+**[\[25\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gefaseerde%20invoering%20BelRAI-beoordelingsinstrument%20in%20de%20Vlaamse%20sociale%20bescherming%3A%20uitvoeringsbesluit&dateOption=select&startDate=2021-04-02T08%3A00%3A00Z&endDate=2021-04-02T08%3A00%3A00Z)** : **(2021-04-02)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit 
 
-**[\[27\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62CD37D28E6C4430A88987DD)** : **(2022-07-15)** Experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee Voorontwerp van... 
+**[\[26\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gefaseerde%20invoering%20BelRAI-beoordelingsinstrument%20in%20de%20Vlaamse%20sociale%20bescherming%3A%20uitvoeringsbesluit&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit 
 
-**[\[28\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/632046505CD4B179BD8709E2)** : **(2022-09-16)** Experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee Ontwerpbesluit ... 
+**[\[27\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Experiment%20voor%20de%20gedeeltelijke%20terbeschikkingstelling%20van%20budgetten%20voor%20niet-rechtstreeks%20toegankelijke%20zorg%20en%20ondersteuning%20aan%20personen%20met%20een%20handicap%20in%20prioriteitengroep%20twee&dateOption=select&startDate=2022-07-15T08%3A00%3A00Z&endDate=2022-07-15T08%3A00%3A00Z)** : **(2022-07-15)** Experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee 
 
-**[\[29\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61F3ECEAD5F0FAFA87AFA681)** : **(2022-01-28)** Conceptnota: “onderwijskwaliteit verder monitoren via Vlaamse toetsen” 
+**[\[28\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Experiment%20voor%20de%20gedeeltelijke%20terbeschikkingstelling%20van%20budgetten%20voor%20niet-rechtstreeks%20toegankelijke%20zorg%20en%20ondersteuning%20aan%20personen%20met%20een%20handicap%20in%20prioriteitengroep%20twee&dateOption=select&startDate=2022-09-16T08%3A00%3A00Z&endDate=2022-09-16T08%3A00%3A00Z)** : **(2022-09-16)** Experiment voor de gedeeltelijke terbeschikkingstelling van budgetten voor niet-rechtstreeks toegankelijke zorg en ondersteuning aan personen met een handicap in prioriteitengroep twee 
 
-**[\[30\]](http://themis.vlaanderen.be/id/resource/a9389230-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-12)** Monitoring van de nieuwe omkadering gewoon basisonderwijs 
+**[\[29\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Conceptnota%3A%20%E2%80%9Conderwijskwaliteit%20verder%20monitoren%20via%20Vlaamse%20toetsen%E2%80%9D&dateOption=select&startDate=2022-01-28T09%3A00%3A00Z&endDate=2022-01-28T09%3A00%3A00Z)** : **(2022-01-28)** Conceptnota: “onderwijskwaliteit verder monitoren via Vlaamse toetsen” 
 
-**[\[31\]]** : **(2020-02-21)** Monitoring van de nieuwe omkadering gewoon basisonderwijs 
+**[\[30\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Monitoring%20van%20de%20nieuwe%20omkadering%20gewoon%20basisonderwijs&dateOption=select&startDate=2021-03-12T09%3A00%3A00Z&endDate=2021-03-12T09%3A00%3A00Z)** : **(2021-03-12)** Monitoring van de nieuwe omkadering gewoon basisonderwijs 
 
-**[\[32\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60E42257364ED900080007BF)** : **(2021-07-09)** Taalscreening bij het begin van de leerplicht in het gewoon basisonderwijs: vastlegging instrument en manier van afname 
+**[\[31\]]** : **(2020-02-21)**  
 
-**[\[33\]](http://themis.vlaanderen.be/id/nieuwsbericht/646C6B7F8E8235823F6B819F)** : **(2023-05-26)** Monitoring Nieuwe Omkadering Gewoon Basisonderwijs 
+**[\[32\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Taalscreening%20bij%20het%20begin%20van%20de%20leerplicht%20in%20het%20gewoon%20basisonderwijs%3A%20vastlegging%20instrument%20en%20manier%20van%20afname&dateOption=select&startDate=2021-07-09T08%3A00%3A00Z&endDate=2021-07-09T08%3A00%3A00Z)** : **(2021-07-09)** Taalscreening bij het begin van de leerplicht in het gewoon basisonderwijs: vastlegging instrument en manier van afname 
 
-**[\[34\]](http://themis.vlaanderen.be/id/nieuwsbericht/6538D9F79DAB6626D11E5485)** : **(2023-10-27)** Subsidie beheer waarderingstool in het beleidsdomein Welzijn, Volksgezondheid en Gezin (WVG): herverdelingsbesluit A. Ontwerpbesluit van de Vlaamse Regering over de oproep tot subsidieaanvragen voor h... 
+**[\[33\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Monitoring%20Nieuwe%20Omkadering%20Gewoon%20Basisonderwijs&dateOption=select&startDate=2023-05-26T08%3A00%3A00Z&endDate=2023-05-26T08%3A00%3A00Z)** : **(2023-05-26)** Monitoring Nieuwe Omkadering Gewoon Basisonderwijs 
 
-**[\[35\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D1DC33364ED9000800030A)** : **(2021-06-25)** Gemeenschapsinstellingen: experiment ‘kortverblijf met mobiele begeleiding’ met één jaar verlengd   De Vlaamse Regering keurde op 24 april 2020 een aantal maatregelen goed om de instroommogelijkheden ... 
+**[\[34\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20beheer%20waarderingstool%20in%20het%20beleidsdomein%20Welzijn%2C%20Volksgezondheid%20en%20Gezin%20%28WVG%29%3A%20herverdelingsbesluit&dateOption=select&startDate=2023-10-27T08%3A00%3A00Z&endDate=2023-10-27T08%3A00%3A00Z)** : **(2023-10-27)** Subsidie beheer waarderingstool in het beleidsdomein Welzijn, Volksgezondheid en Gezin (WVG): herverdelingsbesluit 
 
-**[\[36\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639048ACC2B90D4571CF7663)** : **(2022-12-09)** Plan Vlaamse Veerkracht: uitgaventoetsing ‘Duurzaam watergebruik en de organisatie van het waterlandschap’ Uitgaventoetsing water  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën ged... 
+**[\[35\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gemeenschapsinstellingen%3A%20experiment%20%E2%80%98kortverblijf%20met%20mobiele%20begeleiding%E2%80%99%20met%20%C3%A9%C3%A9n%20jaar%20verlengd&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Gemeenschapsinstellingen: experiment ‘kortverblijf met mobiele begeleiding’ met één jaar verlengd 
 
-**[\[37\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7C648364ED9000800020D)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk   De Vlaamse Regering wil binnen de projectregeling van het decreet sociaal- cultureel volwa... 
+**[\[36\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20%E2%80%98Duurzaam%20watergebruik%20en%20de%20organisatie%20van%20het%20waterlandschap%E2%80%99&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Plan Vlaamse Veerkracht: uitgaventoetsing ‘Duurzaam watergebruik en de organisatie van het waterlandschap’ 
 
-**[\[38\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63773DD534B8770AF8FDEC17)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' Uitgaventoetsing gezinsfiscaliteit en gezinsbijslag Bestek nr. VO/FB/DEP/2022/008/BOBFO  De Vlaamse Reg... 
+**[\[37\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vastleggen%20maatschappelijke%20uitdagingen%20in%20het%20kader%20van%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk 
 
-**[\[39\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/608A6D03364ED90008000A1F)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' Versterking mentaal welzijn: zorgzame buurten  In het kader van het relanceplan Vlaamse Veerkracht enerzijds en het r... 
+**[\[38\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Bestek%20onderzoek%20%27uitgaventoetsing%3A%20gezinsfiscaliteit%20en%20gezinsbijslag%27&dateOption=select&startDate=2022-11-18T09%3A00%3A00Z&endDate=2022-11-18T09%3A00%3A00Z)** : **(2022-11-18)** Plan Vlaamse Veerkracht: Bestek onderzoek 'uitgaventoetsing: gezinsfiscaliteit en gezinsbijslag' 
 
-**[\[40\]]** : **(2020-09-18)** Rapportage uitvoeringsgraad meerjarenprogramma van de algemene evaluaties 
+**[\[39\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20versterking%20mentaal%20welzijn%20via%20acties%20%27Zorgzame%20Buurten%27&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' 
 
-**[\[41\]](http://themis.vlaanderen.be/id/nieuwsbericht/63EA50172E929B312AB5D4E0)** : **(2023-02-17)** Conceptnota voor een geïntegreerd gezins- en jeugdhulpbeleid: “Vroeg & Nabij” 
+**[\[40\]]** : **(2020-09-18)**  
 
-**[\[42\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639847DDC2B90D4571CF89CE)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer Uitgaventoetsing Modal Shift Goederenvervoer  Een uitgaventoetsing wordt in de Vlaamse Codex Overheidsfinanciën gedefinieerd als '... 
+**[\[41\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Conceptnota%20voor%20een%20ge%C3%AFntegreerd%20gezins-%20en%20jeugdhulpbeleid%3A%20%E2%80%9CVroeg%20%26%20Nabij%E2%80%9D&dateOption=select&startDate=2023-02-17T09%3A00%3A00Z&endDate=2023-02-17T09%3A00%3A00Z)** : **(2023-02-17)** Conceptnota voor een geïntegreerd gezins- en jeugdhulpbeleid: “Vroeg & Nabij” 
 
-**[\[43\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/634E51E71EA6B745D23CBD8A)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
+**[\[42\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20uitgaventoetsing%20Modal%20Shift%20Goederenvervoer&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Plan Vlaamse Veerkracht: uitgaventoetsing Modal Shift Goederenvervoer 
 
-**[\[44\]](http://themis.vlaanderen.be/id/resource/d7375220-4924-11ec-94bb-99a9d1e168fe)** : **(2021-02-26)** Schriftelijke vraag van 11 februari 2021 van de heer Maxim Veys, gesteld aan alle Vlaamse ministers, betreffende "Verticaal Permanent Armoedeoverleg (VPAO) - Stand van zaken" 
+**[\[43\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20bijdrage%20aan%20het%20tweede%20Vrijwillig%20Nationaal%20Rapport%20over%20de%20voortgang%20van%20Agenda%202030%20en%20de%20duurzame%20ontwikkelingsdoelstellingen&dateOption=select&startDate=2022-10-21T08%3A00%3A00Z&endDate=2022-10-21T08%3A00%3A00Z)** : **(2022-10-21)** Vlaamse bijdrage aan het tweede Vrijwillig Nationaal Rapport over de voortgang van Agenda 2030 en de duurzame ontwikkelingsdoelstellingen 
 
-**[\[45\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6230A0C66BB7B593CFC189BA)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten Versterking mentaal welzijn: zorgzame buurten  ​Op 30 april 2021 keurde de Vlaamse Regering de uitwerking van het beleid zorg... 
+**[\[44\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Schriftelijke%20vraag%20van%2011%20februari%202021%20van%20de%20heer%20Maxim%20Veys%2C%20gesteld%20aan%20alle%20Vlaamse%20ministers%2C%20betreffende%20%22Verticaal%20Permanent%20Armoedeoverleg%20%28VPAO%29%20-%20Stand%20van%20zaken%22&dateOption=select&startDate=2021-02-26T09%3A00%3A00Z&endDate=2021-02-26T09%3A00%3A00Z)** : **(2021-02-26)** Schriftelijke vraag van 11 februari 2021 van de heer Maxim Veys, gesteld aan alle Vlaamse ministers, betreffende "Verticaal Permanent Armoedeoverleg (VPAO) - Stand van zaken" 
 
-**[\[46\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED372F364ED900080012AF)** : **(2021-07-16)** 2 miljoen euro extra voor subsidieoproepen 'Werkbaarheidscheque' en 'verhoging kmo-Portefeuille' voor 2021   De Vlaamse Regering voorziet 2 miljoen euro bijkomende middelen in het kader van de subsidi... 
+**[\[45\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Versterking%20mentaal%20welzijn%20door%20zorgzame%20buurten&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten 
 
-**[\[47\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627B80CA1C4A193816C310A9)** : **(2022-05-13)** Aanpassing grenswaarden BelRAI Screener: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 151 en 153 van het besluit van de Vlaamse Regering van 30 november 2018 houd... 
+**[\[46\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=2%20miljoen%20euro%20extra%20voor%20subsidieoproepen%20%27Werkbaarheidscheque%27%20en%20%27verhoging%20kmo-Portefeuille%27%20voor%202021&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** 2 miljoen euro extra voor subsidieoproepen 'Werkbaarheidscheque' en 'verhoging kmo-Portefeuille' voor 2021 
 
-**[\[48\]](http://themis.vlaanderen.be/id/resource/0abbcc20-4925-11ec-94bb-99a9d1e168fe)** : **(2021-02-12)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit Voorontwerp van besluit van de Vlaamse Regering over de tenuitvoerlegging van BelRAI en tot wij... 
+**[\[47\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpassing%20grenswaarden%20BelRAI%20Screener%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-05-13T08%3A00%3A00Z&endDate=2022-05-13T08%3A00%3A00Z)** : **(2022-05-13)** Aanpassing grenswaarden BelRAI Screener: wijzigingsbesluit 
 
-**[\[49\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62389B0E6BB7B593CFC18C52)** : **(2022-03-25)** Vlaams ouderenbeleidsplan 2020-2025: uitgewerkt actieplan 
+**[\[48\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Gefaseerde%20invoering%20BelRAI-beoordelingsinstrument%20in%20de%20Vlaamse%20sociale%20bescherming%3A%20uitvoeringsbesluit&dateOption=select&startDate=2021-02-12T09%3A00%3A00Z&endDate=2021-02-12T09%3A00%3A00Z)** : **(2021-02-12)** Gefaseerde invoering BelRAI-beoordelingsinstrument in de Vlaamse sociale bescherming: uitvoeringsbesluit 
 
-**[\[50\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60D5817C364ED9000800049F)** : **(2021-06-25)** Vlaams intersectoraal akkoord (VIA6): maatregelen kwaliteit ouderenzorg Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houde... 
+**[\[49\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20ouderenbeleidsplan%202020-2025%3A%20uitgewerkt%20actieplan&dateOption=select&startDate=2022-03-25T09%3A00%3A00Z&endDate=2022-03-25T09%3A00%3A00Z)** : **(2022-03-25)** Vlaams ouderenbeleidsplan 2020-2025: uitgewerkt actieplan 
 
-**[\[51\]](http://themis.vlaanderen.be/id/nieuwsbericht/655F1D4FE2E2C9E5814BD271)** : **(2023-11-23)** Aanpak besteding middelen voor verderzetting onderbouwde aanpak energiebesparing gebouwenpark sector Welzijn, Volksgezondheid en Gezin   De Vlaamse Regering neemt kennis van de verderzetting van de on... 
+**[\[50\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20intersectoraal%20akkoord%20%28VIA6%29%3A%20maatregelen%20kwaliteit%20ouderenzorg&dateOption=select&startDate=2021-06-25T08%3A00%3A00Z&endDate=2021-06-25T08%3A00%3A00Z)** : **(2021-06-25)** Vlaams intersectoraal akkoord (VIA6): maatregelen kwaliteit ouderenzorg 
 
-**[\[52\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A3E28B2D77B42474D4F739)** : **(2023-07-07)** Verlenging projectduur sociale infrastructuurprojecten gericht op terugdringen van (kans)armoede in de stad Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering... 
+**[\[51\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpak%20besteding%20middelen%20voor%20verderzetting%20onderbouwde%20aanpak%20energiebesparing%20gebouwenpark%20sector%20Welzijn%2C%20Volksgezondheid%20en%20Gezin&dateOption=select&startDate=2023-11-23T16%3A00%3A00Z&endDate=2023-11-23T16%3A00%3A00Z)** : **(2023-11-23)** Aanpak besteding middelen voor verderzetting onderbouwde aanpak energiebesparing gebouwenpark sector Welzijn, Volksgezondheid en Gezin 
 
-**[\[53\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6201466BD5F0FAFA87AFAC3D)** : **(2022-02-11)** VIA6: uitvoering maatregelen Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarden en de s... 
+**[\[52\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verlenging%20projectduur%20sociale%20infrastructuurprojecten%20gericht%20op%20terugdringen%20van%20%28kans%29armoede%20in%20de%20stad%20&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Verlenging projectduur sociale infrastructuurprojecten gericht op terugdringen van (kans)armoede in de stad  
 
-**[\[54\]](http://themis.vlaanderen.be/id/resource/b81f8410-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-14)** Generieke besparingsmaatregel beleidsveld Wonen Voorontwerp van besluit van de Vlaamse Regering houdende implementatie van een generieke besparingsmaatregel in de subsidies aan gewezen DAC-werknemers,... 
+**[\[53\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VIA6%3A%20uitvoering%20maatregelen&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z)** : **(2022-02-11)** VIA6: uitvoering maatregelen 
 
-**[\[55\]](http://themis.vlaanderen.be/id/resource/585863f0-4928-11ec-94bb-99a9d1e168fe)** : **(2020-07-10)** COVID-19: Subsidie consumptiebudget kwetsbare doelgroepen Ontwerpbesluit van de Vlaamse Regering tot toekenning van een specifieke subsidie aan de Vlaamse gemeenten, OCMW’s en de Vlaamse Gemeenschapsc... 
+**[\[54\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Generieke%20besparingsmaatregel%20beleidsveld%20Wonen&dateOption=select&startDate=2020-02-14T09%3A00%3A00Z&endDate=2020-02-14T09%3A00%3A00Z)** : **(2020-02-14)** Generieke besparingsmaatregel beleidsveld Wonen 
 
-**[\[56\]](http://themis.vlaanderen.be/id/nieuwsbericht/65815A93E2E2C9E5814C1FB8)** : **(2023-12-22)** Uitvoeringsbesluit individueel maatwerk: wijziging leeftijdsgrenzen doelgroepvermindering voor personen zonder recente, duurzame werkervaring Voorontwerp van besluit van de Vlaamse Regering tot wijzig... 
+**[\[55\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=COVID-19%3A%20Subsidie%20consumptiebudget%20kwetsbare%20doelgroepen&dateOption=select&startDate=2020-07-10T08%3A00%3A00Z&endDate=2020-07-10T08%3A00%3A00Z)** : **(2020-07-10)** COVID-19: Subsidie consumptiebudget kwetsbare doelgroepen 
 
-**[\[57\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B84BA2364ED90009000D8D)** : **(2021-12-17)** Wijzigingsbesluit wijk-werken: éénmalige toelage voor inkomstenverlies wijk- werkorganisatoren Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 40 van het besluit van de Vlaamse Regeri... 
+**[\[56\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoeringsbesluit%20individueel%20maatwerk%3A%20wijziging%20leeftijdsgrenzen%20doelgroepvermindering%20voor%20personen%20zonder%20recente%2C%20duurzame%20werkervaring&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Uitvoeringsbesluit individueel maatwerk: wijziging leeftijdsgrenzen doelgroepvermindering voor personen zonder recente, duurzame werkervaring 
 
-**[\[58\]](http://themis.vlaanderen.be/id/resource/77a19050-4924-11ec-94bb-99a9d1e168fe)** : **(2021-04-02)** Plan Vlaamse Veerkracht: Investeren in mediawijsheid van de Vlaming Investeren in mediawijsheid van de Vlaming  In het kader van het project  ‘Investeren in mediawijsheid  van de Vlaming’ keurt de Vla... 
+**[\[57\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijzigingsbesluit%20wijk-werken%3A%20%C3%A9%C3%A9nmalige%20toelage%20voor%20inkomstenverlies%20wijk-werkorganisatoren&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Wijzigingsbesluit wijk-werken: éénmalige toelage voor inkomstenverlies wijk-werkorganisatoren 
 
-**[\[59\]](http://themis.vlaanderen.be/id/resource/f4cdfd70-4929-11ec-94bb-99a9d1e168fe)** : **(2020-04-10)** Coronavirus COVID-19 en impact op maatschappelijk kwetsbare kinderen en jongeren   De maatregelen ter bestrijding van het coronavirus hebben een specifieke impact op kinderen en jongeren in maatschapp... 
+**[\[58\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Investeren%20in%20mediawijsheid%20van%20de%20Vlaming&dateOption=select&startDate=2021-04-02T08%3A00%3A00Z&endDate=2021-04-02T08%3A00%3A00Z)** : **(2021-04-02)** Plan Vlaamse Veerkracht: Investeren in mediawijsheid van de Vlaming 
 
-**[\[60\]](http://themis.vlaanderen.be/id/resource/ad6185f0-4925-11ec-94bb-99a9d1e168fe)** : **(2020-12-18)** Eindrapport Centraal Expertencomité ‘Monitoring Discriminatie’ 
+**[\[59\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Coronavirus%20COVID-19%20en%20impact%20op%20maatschappelijk%20kwetsbare%20%0Akinderen%20en%20jongeren&dateOption=select&startDate=2020-04-10T08%3A00%3A00Z&endDate=2020-04-10T08%3A00%3A00Z)** : **(2020-04-10)** Coronavirus COVID-19 en impact op maatschappelijk kwetsbare 
+kinderen en jongeren 
 
-**[\[61\]]** : **(2020-06-12)** Evaluatie van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp 
+**[\[60\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Eindrapport%20Centraal%20Expertencomit%C3%A9%20%E2%80%98Monitoring%20Discriminatie%E2%80%99&dateOption=select&startDate=2020-12-18T09%3A00%3A00Z&endDate=2020-12-18T09%3A00%3A00Z)** : **(2020-12-18)** Eindrapport Centraal Expertencomité ‘Monitoring Discriminatie’ 
 
-**[\[62\]](http://themis.vlaanderen.be/id/nieuwsbericht/6491588F2D77B42474D4D941)** : **(2023-06-23)** Hoge Raad voor de Statistiek: voordracht vertegenwoordigers van de Vlaamse Gemeenschap 
+**[\[61\]]** : **(2020-06-12)**  
 
-**[\[63\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60AE150D364ED90008000200)** : **(2021-05-28)** Erkenning Steunpunt Welzijn, Volksgezondheid en Gezin (2021-2026)   De Vlaamse Regering erkent het consortium onder leiding van de KULeuven als Steunpunt Welzijn, Volksgezondheid en Gezin IV (Steunpun... 
+**[\[62\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Hoge%20Raad%20voor%20de%20Statistiek%3A%20voordracht%20vertegenwoordigers%20van%20de%20Vlaamse%20Gemeenschap&dateOption=select&startDate=2023-06-23T08%3A00%3A00Z&endDate=2023-06-23T08%3A00%3A00Z)** : **(2023-06-23)** Hoge Raad voor de Statistiek: voordracht vertegenwoordigers van de Vlaamse Gemeenschap 
 
-**[\[64\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DC2EED364ED90008000378)** : **(2021-07-02)** Besteding middelen Vlaams Klimaatfonds (VKF) voor verderzetting onderbouwde aanpak energiebesparing gebouwenpark in de sector Welzijn, Volksgezondheid en Gezin   De Vlaamse Regering neemt kennis van d... 
+**[\[63\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20Steunpunt%20Welzijn%2C%20Volksgezondheid%20en%20Gezin%20%282021-2026%29&dateOption=select&startDate=2021-05-28T08%3A00%3A00Z&endDate=2021-05-28T08%3A00%3A00Z)** : **(2021-05-28)** Erkenning Steunpunt Welzijn, Volksgezondheid en Gezin (2021-2026) 
 
-**[\[65\]](http://themis.vlaanderen.be/id/nieuwsbericht/651BE1857FDB1A5D07827920)** : **(2023-10-06)** Impact geografische omschrijving werkingsgebieden afvalintercommunales op efficiëntie logistiek huishoudelijk afval in Vlaanderen 
+**[\[64\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Besteding%20middelen%20Vlaams%20Klimaatfonds%20%28VKF%29%20voor%20verderzetting%20onderbouwde%20aanpak%20energiebesparing%20gebouwenpark%20in%20de%20sector%20Welzijn%2C%20Volksgezondheid%20en%20Gezin&dateOption=select&startDate=2021-07-02T08%3A00%3A00Z&endDate=2021-07-02T08%3A00%3A00Z)** : **(2021-07-02)** Besteding middelen Vlaams Klimaatfonds (VKF) voor verderzetting onderbouwde aanpak energiebesparing gebouwenpark in de sector Welzijn, Volksgezondheid en Gezin 
 
-**[\[66\]]** : **(2020-05-15)** Overzicht maatregelen voor kwetsbare gezinnen in het kader Covid19-maatregelen 
+**[\[65\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Impact%20geografische%20omschrijving%20werkingsgebieden%20afvalintercommunales%20op%20effici%C3%ABntie%20logistiek%20huishoudelijk%20afval%20in%20Vlaanderen&dateOption=select&startDate=2023-10-06T08%3A00%3A00Z&endDate=2023-10-06T08%3A00%3A00Z)** : **(2023-10-06)** Impact geografische omschrijving werkingsgebieden afvalintercommunales op efficiëntie logistiek huishoudelijk afval in Vlaanderen 
 
-**[\[67\]]** : **(2020-07-03)** Overzicht maatregelen voor kwetsbare gezinnen in het kader Covid19-maatregelen 
+**[\[66\]]** : **(2020-05-15)**  
 
-**[\[68\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60A5174D364ED90008000392)** : **(2021-05-21)** Plan Vlaamse Veerkracht: dossier 138 Opvolging actieplan mentaal welzijn  In het kader van het regeerakkoord, de beleidsnota Welzijn, Volksgezondheid en Gezin en Armoedebestrijding en het relanceplan ... 
+**[\[67\]]** : **(2020-07-03)**  
 
-**[\[69\]](http://themis.vlaanderen.be/id/nieuwsbericht/648821642D77B42474D4CDB2)** : **(2023-06-16)** Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget 
+**[\[68\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20dossier%20138&dateOption=select&startDate=2021-05-21T08%3A00%3A00Z&endDate=2021-05-21T08%3A00%3A00Z)** : **(2021-05-21)** Plan Vlaamse Veerkracht: dossier 138 
 
-**[\[70\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/638F3C1AC2B90D4571CF7598)** : **(2022-12-09)** Subsidie pilootproject Upstream - kwetsbaarheidstoets in scholen en snelle interventie voor het voorkomen van jongerenthuisloosheid en schooluitval Ontwerpbesluit van de Vlaamse Regering tot toekennin... 
+**[\[69\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereenvoudiging%20van%20de%20toeleidingsprocedure%20naar%20een%20persoonsvolgend%20budget&dateOption=select&startDate=2023-06-16T08%3A00%3A00Z&endDate=2023-06-16T08%3A00%3A00Z)** : **(2023-06-16)** Vereenvoudiging van de toeleidingsprocedure naar een persoonsvolgend budget 
 
-**[\[71\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6295BCB02071A7D754F180DC)** : **(2022-06-03)** Transitie van voorzieningen van onderwijs naar welzijn 
+**[\[70\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20pilootproject%20Upstream%20-%20kwetsbaarheidstoets%20in%20scholen%20en%20snelle%20interventie%20voor%20het%20voorkomen%20van%20jongerenthuisloosheid%20en%20schooluitval&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Subsidie pilootproject Upstream - kwetsbaarheidstoets in scholen en snelle interventie voor het voorkomen van jongerenthuisloosheid en schooluitval 
 
-**[\[72\]](http://themis.vlaanderen.be/id/nieuwsbericht/65703C42E2E2C9E5814BEC82)** : **(2023-12-08)** Expertisecentrum Dementie Vlaanderen: subsidie project ‘iedereen telt!’ Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan het Expertisecentrum Dementie Vlaanderen voor het pro... 
+**[\[71\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Transitie%20van%20voorzieningen%20van%20onderwijs%20naar%20welzijn&dateOption=select&startDate=2022-06-03T08%3A00%3A00Z&endDate=2022-06-03T08%3A00%3A00Z)** : **(2022-06-03)** Transitie van voorzieningen van onderwijs naar welzijn 
 
-**[\[73\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B85379364ED90009000FEF)** : **(2021-12-17)** VIA6: uitvoering maatregelen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 28 juni 2019 betreffende de programmatie, de erkenningsvoorwaarde... 
+**[\[72\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Expertisecentrum%20Dementie%20Vlaanderen%3A%20subsidie%20project%20%E2%80%98iedereen%20telt%21%E2%80%99&dateOption=select&startDate=2023-12-08T09%3A00%3A00Z&endDate=2023-12-08T09%3A00%3A00Z)** : **(2023-12-08)** Expertisecentrum Dementie Vlaanderen: subsidie project ‘iedereen telt!’ 
 
-**[\[74\]](http://themis.vlaanderen.be/id/nieuwsbericht/6581AC4CE2E2C9E5814C231B)** : **(2023-12-22)** Maatregelen versterking financiële weerbaarheid woonzorgcentra: uitvoeringsbesluit Voorontwerp van besluit van de Vlaamse Regering houdende de maatregelen tot het versterken van de financiële weerbaar... 
+**[\[73\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=VIA6%3A%20uitvoering%20maatregelen&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** VIA6: uitvoering maatregelen 
 
-**[\[75\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/635A8F7B1EA6B745D23CCB56)** : **(2022-10-28)** Naar een kader voor het Vlaams kennisveiligheidsbeleid 
+**[\[74\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Maatregelen%20versterking%20financi%C3%ABle%20weerbaarheid%20woonzorgcentra%3A%20uitvoeringsbesluit&dateOption=select&startDate=2023-12-22T09%3A00%3A00Z&endDate=2023-12-22T09%3A00%3A00Z)** : **(2023-12-22)** Maatregelen versterking financiële weerbaarheid woonzorgcentra: uitvoeringsbesluit 
 
-**[\[76\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/637C851434B8770AF8FDF0A8)** : **(2022-11-25)** SAM vzw: subsidie project 'Omgaan met vrijheidsbeperkende maatregelen' in de residentiële brede jeugdhulp en de residentiële geestelijke gezondheidszorg Ontwerpbesluit van de Vlaamse Regering tot toek... 
+**[\[75\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Naar%20een%20kader%20voor%20het%20Vlaams%20kennisveiligheidsbeleid&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Naar een kader voor het Vlaams kennisveiligheidsbeleid 
+
+**[\[76\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=SAM%20vzw%3A%20subsidie%20project%20%27Omgaan%20met%20vrijheidsbeperkende%20maatregelen%27%20in%20de%20residenti%C3%ABle%20brede%20jeugdhulp%20en%20de%20residenti%C3%ABle%20geestelijke%20gezondheidszorg&dateOption=select&startDate=2022-11-25T11%3A00%3A00Z&endDate=2022-11-25T11%3A00%3A00Z)** : **(2022-11-25)** SAM vzw: subsidie project 'Omgaan met vrijheidsbeperkende maatregelen' in de residentiële brede jeugdhulp en de residentiële geestelijke gezondheidszorg 
         </details> 
 

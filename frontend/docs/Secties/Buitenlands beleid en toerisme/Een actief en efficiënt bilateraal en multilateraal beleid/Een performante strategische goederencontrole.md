@@ -19,22 +19,22 @@ Op basis van de documenten kan geconcludeerd worden dat de Vlaamse Regering stap
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbericht/64B0ECC80592342F299DBE3D)** : **(2023-07-14)** Operationalisering 'Samenwerkingsakkoord tot invoeren van een mechanisme voor de screening van buitenlandse directe investeringen'   In het kader van de de operationalisering van de Vlaamse deelname a... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Operationalisering%20%27Samenwerkingsakkoord%20tot%20invoeren%20van%20een%20mechanisme%20voor%20de%20screening%20van%20buitenlandse%20directe%20investeringen%27&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Operationalisering 'Samenwerkingsakkoord tot invoeren van een mechanisme voor de screening van buitenlandse directe investeringen' 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/5cf6ef20-4924-11ec-94bb-99a9d1e168fe)** : **(2021-04-02)** Screeningsmechanisme voor directe buitenlandse investeringen die invloed hebben op onze veiligheidsbelangen en strategische sectoren: standpuntbepaling Wetsvoorstel tot wijziging van het Wetboek van e... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Screeningsmechanisme%20voor%20directe%20buitenlandse%20investeringen%20die%20invloed%20hebben%20op%20onze%20veiligheidsbelangen%20en%20strategische%20sectoren%3A%20standpuntbepaling&dateOption=select&startDate=2021-04-02T08%3A00%3A00Z&endDate=2021-04-02T08%3A00%3A00Z)** : **(2021-04-02)** Screeningsmechanisme voor directe buitenlandse investeringen die invloed hebben op onze veiligheidsbelangen en strategische sectoren: standpuntbepaling 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/639068AEC2B90D4571CF76F0)** : **(2022-12-09)** Screeningmechanisme buitenlandse directe investeringen: samenwerkingsakkoord en instemmingsdecreet Ontwerp van instemmingsdecreet  ​De Vlaamse Regering keurde op 30 november 2022 het samenwerkingsakko... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Screeningmechanisme%20buitenlandse%20directe%20investeringen%3A%20samenwerkingsakkoord%20en%20instemmingsdecreet&dateOption=select&startDate=2022-12-09T09%3A00%3A00Z&endDate=2022-12-09T09%3A00%3A00Z)** : **(2022-12-09)** Screeningmechanisme buitenlandse directe investeringen: samenwerkingsakkoord en instemmingsdecreet 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62B085D14ABF604F15C222A9)** : **(2022-06-24)** Screeningmechanisme buitenlandse directe investeringen: samenwerkingsakkoord en instemmingsdecreet A. Ontwerp van samenwerkingsakkoord tot het invoeren van een mechanisme voor de screening van buitenl... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Screeningmechanisme%20buitenlandse%20directe%20investeringen%3A%20samenwerkingsakkoord%20en%20instemmingsdecreet&dateOption=select&startDate=2022-06-24T08%3A00%3A00Z&endDate=2022-06-24T08%3A00%3A00Z)** : **(2022-06-24)** Screeningmechanisme buitenlandse directe investeringen: samenwerkingsakkoord en instemmingsdecreet 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbericht/642580A38A5434FEB56572A0)** : **(2023-03-31)** Instemmingsdecreet samenwerkingsakkoord screeningmechanisme buitenlandse directe investeringen Bekrachtiging en afkondiging van het decreet tot instemming met het samenwerkingsakkoord van 30 november ... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Instemmingsdecreet%20samenwerkingsakkoord%20screeningmechanisme%20buitenlandse%20directe%20investeringen&dateOption=select&startDate=2023-03-31T08%3A00%3A00Z&endDate=2023-03-31T08%3A00%3A00Z)** : **(2023-03-31)** Instemmingsdecreet samenwerkingsakkoord screeningmechanisme buitenlandse directe investeringen 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/a96f80b0-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-12)** Inning en consignatie overtredingen in het kader van het vervoer over de weg van gevaarlijke goederen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het koninklijk besluit van 24 ma... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Inning%20en%20consignatie%20overtredingen%20in%20het%20kader%20van%20het%20vervoer%20over%20de%20weg%20van%20gevaarlijke%20goederen&dateOption=select&startDate=2021-03-12T09%3A00%3A00Z&endDate=2021-03-12T09%3A00%3A00Z)** : **(2021-03-12)** Inning en consignatie overtredingen in het kader van het vervoer over de weg van gevaarlijke goederen 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/64A2F5172D77B42474D4F1DB)** : **(2023-07-07)** Vlaams standpunt herziening Europese verpakkingsrichtlijn 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20standpunt%20herziening%20Europese%20verpakkingsrichtlijn&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z)** : **(2023-07-07)** Vlaams standpunt herziening Europese verpakkingsrichtlijn 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60B6003C364ED9000800062B)** : **(2021-06-04)** Inning en consignatie overtredingen in het kader van het vervoer van gevaarlijke goederen over de weg Ontwerpbesluit van de Vlaamse Regering tot wijziging van het koninklijk besluit van 24 maart 1997 ... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Inning%20en%20consignatie%20overtredingen%20in%20het%20kader%20van%20het%20vervoer%20van%20gevaarlijke%20goederen%20over%20de%20weg%20&dateOption=select&startDate=2021-06-04T08%3A00%3A00Z&endDate=2021-06-04T08%3A00%3A00Z)** : **(2021-06-04)** Inning en consignatie overtredingen in het kader van het vervoer van gevaarlijke goederen over de weg  
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8BD80364ED900090015D0)** : **(2021-12-17)** Vlaamse havenstrategie   De Vlaamse Regering hecht haar definitieve goedkeuring aan de Vlaamse havenstrategie. Met de Vlaamse havenstrategie zet de Vlaamse overheid in op een verbreding en verdieping ... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaamse%20havenstrategie&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Vlaamse havenstrategie 
         </details> 
 

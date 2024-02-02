@@ -37,32 +37,32 @@ Op basis van de verstrekte informatie heeft de regering verschillende relevante 
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF126C364ED9000900043D)** : **(2021-12-10)** Visienota 'Energiearmoede 2025'   In Vlaanderen heeft ongeveer 15% van de gezinnen te kampen met energiearmoede. Bovendien zijn de energieprijzen de laatste tijd sterk gestegen. Het Regeerakkoord 2019... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Visienota%20%27Energiearmoede%202025%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Visienota 'Energiearmoede 2025' 
 
-**[\[1\]]** : **(2020-03-20)** Vlaams Actieplan Armoedebestrijding 2020-2024: doelstellingenkader 
+**[\[1\]]** : **(2020-03-20)**  
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/6351cc20-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024   De Vlaamse Regering keurt het Vlaams Actieplan Armoedebestrijding 2020-2024 goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregele... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2020-09-25T08%3A00%3A00Z&endDate=2020-09-25T08%3A00%3A00Z)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7C648364ED9000800020D)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk   De Vlaamse Regering wil binnen de projectregeling van het decreet sociaal- cultureel volwa... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vastleggen%20maatschappelijke%20uitdagingen%20in%20het%20kader%20van%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/5e5a8150-4925-11ec-94bb-99a9d1e168fe)** : **(2021-01-22)** Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie   De Vlaamse Regering keurt het voorstel goed met de  prioritaire maatschappelijke uitdagingen in het kader ... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Maatschappelijke%20uitdagingen%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk%3A%20e-inclusie&dateOption=select&startDate=2021-01-22T09%3A00%3A00Z&endDate=2021-01-22T09%3A00%3A00Z)** : **(2021-01-22)** Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/608A6D03364ED90008000A1F)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' Versterking mentaal welzijn: zorgzame buurten  In het kader van het relanceplan Vlaamse Veerkracht enerzijds en het r... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20versterking%20mentaal%20welzijn%20via%20acties%20%27Zorgzame%20Buurten%27&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF8335364ED90009000648)** : **(2021-12-10)** Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten' Zorgzame buurten A. Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de Koning Bou... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20Koning%20Boudewijnstichting%20voor%20project%20%27zorgzame%20buurten%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten' 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6230A0C66BB7B593CFC189BA)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten Versterking mentaal welzijn: zorgzame buurten  ​Op 30 april 2021 keurde de Vlaamse Regering de uitwerking van het beleid zorg... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Versterking%20mentaal%20welzijn%20door%20zorgzame%20buurten&dateOption=select&startDate=2022-03-18T09%3A00%3A00Z&endDate=2022-03-18T09%3A00%3A00Z)** : **(2022-03-18)** Plan Vlaamse Veerkracht: Versterking mentaal welzijn door zorgzame buurten 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6298815A2071A7D754F18460)** : **(2022-06-03)** Plan Vlaamse Veerkracht: Zorgzame buurten Zorgzame buurten A. Twee ontwerpbesluiten van de Vlaamse Regering tot toekenning van een bijkomende subsidie B. Twee ontwerpen van addendum bij de overeenkoms... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Zorgzame%20buurten&dateOption=select&startDate=2022-06-03T08%3A00%3A00Z&endDate=2022-06-03T08%3A00%3A00Z)** : **(2022-06-03)** Plan Vlaamse Veerkracht: Zorgzame buurten 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60DC343E364ED90008000382)** : **(2021-07-02)** Plan Vlaamse Veerkracht: subsidie Vlaamse Gemeenschapscommissie voor uitvoering projectoproep 'zorgzame buurten' Vlaamse Gemeenschapscommissie: subsidie zorgzame buurten Ontwerpbesluit van de Vlaamse ... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20Vlaamse%20Gemeenschapscommissie%20voor%20uitvoering%20projectoproep%20%27zorgzame%20buurten%27&dateOption=select&startDate=2021-07-02T08%3A00%3A00Z&endDate=2021-07-02T08%3A00%3A00Z)** : **(2021-07-02)** Plan Vlaamse Veerkracht: subsidie Vlaamse Gemeenschapscommissie voor uitvoering projectoproep 'zorgzame buurten' 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbericht/64AE7A650592342F299DBA40)** : **(2023-07-14)** Oproep ‘Lokaal Activeringspact’ leefloongerechtigden   In het kader van de conceptnota 'Flankerende activeringsaanpak voor de verplichte inschrijving van leefloongerechtigden' keurt de Vlaamse Regerin... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Oproep%20%E2%80%98Lokaal%20Activeringspact%E2%80%99%20leefloongerechtigden&dateOption=select&startDate=2023-07-14T08%3A00%3A00Z&endDate=2023-07-14T08%3A00%3A00Z)** : **(2023-07-14)** Oproep ‘Lokaal Activeringspact’ leefloongerechtigden 
 
-**[\[11\]](http://themis.vlaanderen.be/id/resource/19aad120-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-16)** Sociale economie: activeringstrajecten en arbeidsmatige activiteiten Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse regering van 8 december 1998 tot uitvo... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Sociale%20economie%3A%20activeringstrajecten%20en%20arbeidsmatige%20activiteiten&dateOption=select&startDate=2020-10-16T07%3A00%3A00Z&endDate=2020-10-16T07%3A00%3A00Z)** : **(2020-10-16)** Sociale economie: activeringstrajecten en arbeidsmatige activiteiten 
 
-**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7CEAD364ED90008000217)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 200... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6228675A6BB7B593CFC18473)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreff... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
         </details> 
 

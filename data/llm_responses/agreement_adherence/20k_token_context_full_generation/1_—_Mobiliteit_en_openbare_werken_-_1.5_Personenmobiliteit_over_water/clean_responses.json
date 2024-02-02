@@ -7,77 +7,88 @@
             "s3_clean_content": "Wijziging impulsprogramma binnenvaart Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 14 januari 2022 betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles en frequentieverhogingen van terminalhubshuttles  De Vlaamse Regering wijzigt principieel het besluit over een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles. De wijziging heft de voorwaarde op dat de consortia een bewijs moesten voorleggen dat aan het corridorschip dat de maritieme terminal aanloopt een vast behandelingsvenster was toegewezen, omdat de ongunstige marktomstandigheden niet toelaten om met deze vaste afspraken te werken. Daarnaast worden twee kaartjes aangepast zodat projecten uit de regio West-Vlaanderen, Henegouwen en Noord-Frankrijk ook in aanmerking kunnen komen bij een nieuwe tweede call in het najaar van 2023. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2023-07-07",
             "s3_filename_ingested": "ingestion/output/2023/07/64A4166D2D77B42474D4F8C1/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64A4166D2D77B42474D4F8C1"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20impulsprogramma%20binnenvaart&dateOption=select&startDate=2023-07-07T09%3A00%3A00Z&endDate=2023-07-07T09%3A00%3A00Z",
+            "source_title": "Wijziging impulsprogramma binnenvaart"
         },
         "2": {
             "s3_filename_clean": "clean/2020/10/2020-10-16-nota-5F847BA40379AD00080004C4.txt",
             "s3_clean_content": "Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust, wat betreft de toewijzing van de exploitatie van de personen-mobiliteit over water  Na advies van de Raad van State, wijzigt de Vlaamse Regering definitief het oprichtingsbesluit van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid 'Agentschap voor Maritieme Dienstverlening en Kust' (MDK). De wijziging voorziet in de toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water aan het Agentschap MDK.",
             "date": "2020-10-16",
             "s3_filename_ingested": "ingestion/output/2020/10/5F847BA40379AD00080004C4/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/1a2f4360-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Agentschap%20voor%20Maritieme%20Dienstverlening%20en%20Kust%20%28MDK%29%3A%20toewijzing%20van%20het%20beheer%2C%20de%20organisatie%20en%20de%20exploitatie%20van%20het%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2020-10-16T07%3A00%3A00Z&endDate=2020-10-16T07%3A00%3A00Z",
+            "source_title": "Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water"
         },
         "9": {
             "s3_filename_clean": "clean/2023/08/2023-08-31-nota-64EDCCAC3605E1AC863BD6A2.txt",
             "s3_clean_content": "Wijziging impulsprogramma binnenvaart Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 14 januari 2022 betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles en frequentieverhogingen van terminalhubshuttles  Na advies van de Raad van State wijzigt de Vlaamse Regering definitief het besluit over een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles. De wijziging heft de voorwaarde op dat de consortia een bewijs moesten voorleggen dat aan het corridorschip dat de maritieme terminal aanloopt een vast behandelingsvenster was toegewezen, omdat de ongunstige marktomstandigheden niet toelaten om met deze vaste afspraken te werken. Daarnaast worden twee kaartjes aangepast zodat projecten uit de regio West- Vlaanderen, Henegouwen en Noord-Frankrijk ook in aanmerking kunnen komen bij een nieuwe tweede call voor samenwerkingsmogelijkheden in het najaar van 2023.",
             "date": "2023-08-31",
             "s3_filename_ingested": "ingestion/output/2023/08/64EDCCAC3605E1AC863BD6A2/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbericht/64EDCCAC3605E1AC863BD6A2"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Wijziging%20impulsprogramma%20binnenvaart&dateOption=select&startDate=2023-08-31T08%3A00%3A00Z&endDate=2023-08-31T08%3A00%3A00Z",
+            "source_title": "Wijziging impulsprogramma binnenvaart"
         },
         "0": {
             "s3_filename_clean": "clean/2022/03/2022-03-11-nota-62286E5C6BB7B593CFC1847B.txt",
             "s3_clean_content": "Modaliteiten organisatie openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse Regering tot bepaling van de modaliteiten voor het organiseren van het openbaar personenvervoer over water  \u200bDe Vlaamse Regering bepaalt principieel de  modaliteiten voor het organiseren van het openbaar personenvervoer over water , zoals vervat in het decreet Basisbereikbaarheid. Over dit besluit wordt het advies gevraagd van de MORA en daarna van de Raad van State.",
             "date": "2022-03-11",
             "s3_filename_ingested": "ingestion/output/2022/03/62286E5C6BB7B593CFC1847B/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62286E5C6BB7B593CFC1847B"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Modaliteiten%20organisatie%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z",
+            "source_title": "Modaliteiten organisatie openbaar personenvervoer over water"
         },
         "1": {
             "s3_filename_clean": "clean/2020/07/2020-07-17-nota-5F0D5F31FA87E0000800053F.txt",
             "s3_clean_content": "Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust, wat betreft de toewijzing van de exploitatie van de personen-mobiliteit over water  De Vlaamse Regering wijzigt principieel het oprichtingsbesluit van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid 'Agentschap voor Maritieme Dienstverlening en Kust' (MDK). De wijziging voorziet in de toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water aan het Agentschap MDK. Over dit wijzigingsbesluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2020-07-17",
             "s3_filename_ingested": "ingestion/output/2020/07/5F0D5F31FA87E0000800053F/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/resource/d8a46f50-4927-11ec-94bb-99a9d1e168fe"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Agentschap%20voor%20Maritieme%20Dienstverlening%20en%20Kust%20%28MDK%29%3A%20toewijzing%20van%20het%20beheer%2C%20de%20organisatie%20en%20de%20exploitatie%20van%20het%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z",
+            "source_title": "Agentschap voor Maritieme Dienstverlening en Kust (MDK): toewijzing van het beheer, de organisatie en de exploitatie van het openbaar personenvervoer over water"
         },
         "10": {
             "s3_filename_clean": "clean/2021/12/2021-12-03-nota-61A77157364ED90008000004.txt",
             "s3_clean_content": "Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit Data Integratiediensten voor Slimme Mobiliteit  De Vlaamse Regering keurt de invulling goed van het relanceproject 'Data Integratiediensten voor Slimme Mobiliteit'. Voor dit project is een totaal budget voorzien van 5 miljoen euro. Het relanceproject voorziet een gestandaardiseerde oplossing voor data-uitwisseling tussen vervoerders en/of mobiliteitsdiensten, om mogelijk te maken dat een gebruiker via digitale kanalen eenvoudig meerdere types mobiliteitsdiensten kan combineren om zich op de meest effici\u00ebnte manier van A naar B te verplaatsen. Door de mobiliteitsdatastromen te standaardiseren en via de Vlaamse Sensor Data Space ter beschikking te stellen, moeten aanbieders die in verschillende regio's actief zijn hun data maar \u00e9\u00e9n keer delen, waarna deze vlot beschikbaar en herbruikbaar is voor alle aanbieders van oplossingen voor combimobiliteit.",
             "date": "2021-12-03",
             "s3_filename_ingested": "ingestion/output/2021/12/61A77157364ED90008000004/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61A77157364ED90008000004"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20Data%20Integratiediensten%20voor%20Slimme%20Mobiliteit&dateOption=select&startDate=2021-12-03T09%3A00%3A00Z&endDate=2021-12-03T09%3A00%3A00Z",
+            "source_title": "Plan Vlaamse Veerkracht: Data Integratiediensten voor Slimme Mobiliteit"
         },
         "5": {
             "s3_filename_clean": "clean/2022/01/2022-01-14-nota-61DE981D364ED900080009A4.txt",
             "s3_clean_content": "Impulsprogramma binnenvaart: subsidieregeling Ontwerpbesluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles en frequentieverhogingen van terminalhubshuttles  Het Vlaamse mobiliteitsbeleid voor goederenvervoer wil de verkeersopstopping op het Vlaamse wegennetwerk verlichten, de nadelen van het wegvervoer verminderen en de attractiviteit van de Vlaamse logistieke sector en Vlaamse havens verhogen door de uitbouw van een performant achterlandvervoersysteem. In dat kader heeft de Vlaamse overheid een tijdelijk en uitdovend pakket van financi\u00eble ondersteuningsmaatregelen voorbereid voor de binnenvaartsector, door een deel van de extra kosten van corridorshuttles en terminalhub-shuttles te dekken. De Vlaamse Regering keurt nu, na advies van de Raad van State, definitief  een vierjarige subsidieregeling goed om de hinterlandconnectiviteit van de Vlaamse zeehavens te bevorderen via nieuwe corridorshuttles en het verhogen van de frequentie van terminalhubshuttles.",
             "date": "2022-01-14",
             "s3_filename_ingested": "ingestion/output/2022/01/61DE981D364ED900080009A4/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61DE981D364ED900080009A4"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2022-01-14T09%3A00%3A00Z&endDate=2022-01-14T09%3A00%3A00Z",
+            "source_title": "Impulsprogramma binnenvaart: subsidieregeling"
         },
         "4": {
             "s3_filename_clean": "clean/2021/11/2021-11-19-nota-6194C901364ED90008000173.txt",
             "s3_clean_content": "Impulsprogramma binnenvaart: subsidieregeling Voorontwerp van besluit van de Vlaamse Regering betreffende een vierjarige subsidieregeling ter bevordering van de hinterlandconnectiviteit van de Vlaamse zeehavens via nieuwe corridorshuttles en frequentieverhogingen van terminalhubshuttles  Het Vlaamse mobiliteitsbeleid voor goederenvervoer wil de verkeersopstopping op het Vlaamse wegennetwerk verlichten, de nadelen van het wegvervoer verminderen en de attractiviteit van de Vlaamse logistieke sector en Vlaamse havens verhogen door de uitbouw van een performant achterlandvervoersysteem. In dat kader heeft de Vlaamse overheid een tijdelijk en uitdovend pakket van financi\u00eble ondersteuningsmaatregelen voorbereid voor de binnenvaartsector, door een deel van de extra kosten van corridorshuttles en terminalhub-shuttles te dekken. De Vlaamse Regering keurt nu principieel een vierjarige subsidieregeling goed om de hinterlandconnectiviteit van de Vlaamse zeehavens te bevorderen via nieuwe corridorshuttles en het verhogen van de frequentie van terminalhubshuttles. Over dit besluit wordt het advies ingewonnen van de Raad van State.",
             "date": "2021-11-19",
             "s3_filename_ingested": "ingestion/output/2021/11/6194C901364ED90008000173/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/6194C901364ED90008000173"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Impulsprogramma%20binnenvaart%3A%20subsidieregeling&dateOption=select&startDate=2021-11-19T09%3A00%3A00Z&endDate=2021-11-19T09%3A00%3A00Z",
+            "source_title": "Impulsprogramma binnenvaart: subsidieregeling"
         },
         "11": {
             "s3_filename_clean": "clean/2022/02/2022-02-25-nota-62188C1F6BB7B593CFC17FC3.txt",
             "s3_clean_content": "De Vlaamse Waterweg: tijdelijke uitbreiding van het personeelsbestand   De Vlaamse Regering  keurt de overeenkomst goed met de Vlaamse Waterweg en drie vakorganisaties, over de tijdelijke uitbreiding van het personeelsbestand van De Vlaamse Waterweg  tijdens deze regeerperiode, door het aanwerven van 40 personeelsleden op basis van contracten van bepaalde duur voor een periode van 24 maanden in de niveaus C en D. De overeenkomst vloeit voort uit een stakingsactie en daarop volgend vakbondsoverleg, waarbij de vakorganisaties duidelijk maakten dat de personeelsbesparingen de limiet hadden overschreden om nog een kwalitatieve en veilige dienstverlening te verzekeren.",
             "date": "2022-02-25",
             "s3_filename_ingested": "ingestion/output/2022/02/62188C1F6BB7B593CFC17FC3/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/62188C1F6BB7B593CFC17FC3"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=De%20Vlaamse%20Waterweg%3A%20tijdelijke%20uitbreiding%20van%20het%20personeelsbestand&dateOption=select&startDate=2022-02-25T09%3A00%3A00Z&endDate=2022-02-25T09%3A00%3A00Z",
+            "source_title": "De Vlaamse Waterweg: tijdelijke uitbreiding van het personeelsbestand"
         },
         "8": {
             "s3_filename_clean": "clean/2021/10/2021-10-15-nota-61659454364ED90009000485.txt",
             "s3_clean_content": "Verzameldecreet MOW II Ontwerpdecreet houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid en houdende een subsidieregeling ter bevordering van een modal shift in het goederenvervoer  Na advies van de Raad van State, hecht  de Vlaamse Regering haar definitieve  goedkeuring aan het ontwerpdecreet met diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid. Het decreet verzamelt verschillende wijzigingen aan de huidige regelgeving, en cre\u00ebert een subsidiemogelijkheid die een modal shift in het goederenvervoer moet bewerkstelligen. Het ontwerpdecreet wordt nu ingediend bij het Vlaams Parlement.",
             "date": "2021-10-15",
             "s3_filename_ingested": "ingestion/output/2021/10/61659454364ED90009000485/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/61659454364ED90009000485"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Verzameldecreet%20MOW%20II&dateOption=select&startDate=2021-10-15T08%3A00%3A00Z&endDate=2021-10-15T08%3A00%3A00Z",
+            "source_title": "Verzameldecreet MOW II"
         },
         "3": {
             "s3_filename_clean": "clean/2022/09/2022-09-02-nota-630E0E409531BD6B9732BE5E.txt",
             "s3_clean_content": "Modaliteiten organisatie openbaar personenvervoer over water Ontwerpbesluit van de Vlaamse Regering tot bepaling van de modaliteiten voor het organiseren van het openbaar personenvervoer over water  \u200bNa adviezen van de MORA en van de Raad van State  bepaalt  de Vlaamse Regering definitief de  modaliteiten voor het organiseren van het openbaar personenvervoer over water , zoals vervat in het decreet Basisbereikbaarheid.",
             "date": "2022-09-02",
             "s3_filename_ingested": "ingestion/output/2022/09/630E0E409531BD6B9732BE5E/document.json",
-            "source_url": "http://themis.vlaanderen.be/id/nieuwsbrief-info/630E0E409531BD6B9732BE5E"
+            "source_url": "https://beslissingenvlaamseregering.vlaanderen.be/?search=Modaliteiten%20organisatie%20openbaar%20personenvervoer%20over%20water&dateOption=select&startDate=2022-09-02T08%3A00%3A00Z&endDate=2022-09-02T08%3A00%3A00Z",
+            "source_title": "Modaliteiten organisatie openbaar personenvervoer over water"
         },
         "6": {
             "s3_filename_clean": "clean/2020/06/2020-06-12-mededeling-e380d9b0-0fe2-11eb-9a42-a101b41f0404.txt",

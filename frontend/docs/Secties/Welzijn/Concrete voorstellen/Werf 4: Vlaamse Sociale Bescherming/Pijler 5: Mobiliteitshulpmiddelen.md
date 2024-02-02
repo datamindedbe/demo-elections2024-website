@@ -38,18 +38,18 @@ Op basis van de geanalyseerde documenten kan worden geconcludeerd dat de regerin
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/resource/2da65370-4927-11ec-94bb-99a9d1e168fe)** : **(2020-10-09)** Tegemoetkoming voor mobiliteitshulpmiddelen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het de... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Tegemoetkoming%20voor%20mobiliteitshulpmiddelen&dateOption=select&startDate=2020-10-09T08%3A00%3A00Z&endDate=2020-10-09T08%3A00%3A00Z)** : **(2020-10-09)** Tegemoetkoming voor mobiliteitshulpmiddelen 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/636A2B2B34B8770AF8FDE0EE)** : **(2022-11-10)** Uitvoeringsbesluit decreet Vlaamse sociale bescherming: Mobiliteitshulpmiddelen Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houden... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoeringsbesluit%20decreet%20Vlaamse%20sociale%20bescherming%3A%20Mobiliteitshulpmiddelen&dateOption=select&startDate=2022-11-10T07%3A00%3A00Z&endDate=2022-11-10T07%3A00%3A00Z)** : **(2022-11-10)** Uitvoeringsbesluit decreet Vlaamse sociale bescherming: Mobiliteitshulpmiddelen 
 
-**[\[2\]](http://themis.vlaanderen.be/id/resource/64f73430-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-04)** Tegemoetkoming voor mobiliteitshulpmiddelen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering ... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Tegemoetkoming%20voor%20mobiliteitshulpmiddelen%3A%20wijzigingsbesluit&dateOption=select&startDate=2020-12-04T09%3A00%3A00Z&endDate=2020-12-04T09%3A00%3A00Z)** : **(2020-12-04)** Tegemoetkoming voor mobiliteitshulpmiddelen: wijzigingsbesluit 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6316F95C9531BD6B9732C4E3)** : **(2022-09-09)** Uitvoeringsbesluit decreet Vlaamse sociale bescherming: Mobiliteitshulpmiddelen Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 30 november 20... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoeringsbesluit%20decreet%20Vlaamse%20sociale%20bescherming%3A%20Mobiliteitshulpmiddelen&dateOption=select&startDate=2022-09-09T08%3A00%3A00Z&endDate=2022-09-09T08%3A00%3A00Z)** : **(2022-09-09)** Uitvoeringsbesluit decreet Vlaamse sociale bescherming: Mobiliteitshulpmiddelen 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/620390BED5F0FAFA87AFAD5A)** : **(2022-02-11)** Tegemoetkomingen mobiliteitshulpmiddelen Ontwerpbesluit van de Vlaamse Regering tot vervroeging van de indexering van de tegemoetkomingen voor mobiliteitshulpmiddelen en tot vaststelling van de regels... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Tegemoetkomingen%20mobiliteitshulpmiddelen&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z)** : **(2022-02-11)** Tegemoetkomingen mobiliteitshulpmiddelen 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/cec3ada0-4929-11ec-94bb-99a9d1e168fe)** : **(2020-04-24)** Ondersteuning van personen met een handicap: optimalisaties Voorontwerp van besluit van de Vlaamse Regering tot aanpassing van een aantal besluiten van de Vlaamse Regering over de ondersteuning van pe... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Ondersteuning%20van%20personen%20met%20een%20handicap%3A%20optimalisaties&dateOption=select&startDate=2020-04-24T08%3A00%3A00Z&endDate=2020-04-24T08%3A00%3A00Z)** : **(2020-04-24)** Ondersteuning van personen met een handicap: optimalisaties 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbericht/63DA22622E929B312AB5C5C3)** : **(2023-02-03)** Aanpassing tegemoetkomingen mobiliteitshulpmiddelen en regels voor toekenning aan verstrekkers en ondernemingen Ontwerpbesluit van de Vlaamse Regering tot aanpassing van de tegemoetkomingen voor mobil... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Aanpassing%20tegemoetkomingen%20mobiliteitshulpmiddelen%20en%20regels%20voor%20toekenning%20aan%20verstrekkers%20en%20ondernemingen&dateOption=select&startDate=2023-02-03T09%3A00%3A00Z&endDate=2023-02-03T09%3A00%3A00Z)** : **(2023-02-03)** Aanpassing tegemoetkomingen mobiliteitshulpmiddelen en regels voor toekenning aan verstrekkers en ondernemingen 
         </details> 
 

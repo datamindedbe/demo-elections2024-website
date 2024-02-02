@@ -25,42 +25,42 @@ Door te blijven investeren in participatie, digitalisering en lokale ondersteuni
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7CEAD364ED90008000217)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 200... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
 
-**[\[1\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6228675A6BB7B593CFC18473)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van artikel 23 van het besluit van de Vlaamse Regering van 15 mei 2009 betreff... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Erkenning%20verenigingen%20waar%20armen%20het%20woord%20nemen%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-03-11T09%3A00%3A00Z&endDate=2022-03-11T09%3A00%3A00Z)** : **(2022-03-11)** Erkenning verenigingen waar armen het woord nemen: wijzigingsbesluit 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60EE9BDD364ED900080014E1)** : **(2021-07-16)** Plan Vlaamse Veerkracht: toewijzing middelen 'Iedereen Digitaal' Iedereen Digitaal Drie ontwerpbesluiten van de Vlaamse Regering  Een van de belangrijke pijlers binnen het relanceplan 'Vlaamse Veerkra... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20toewijzing%20middelen%20%27Iedereen%20Digitaal%27&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Plan Vlaamse Veerkracht: toewijzing middelen 'Iedereen Digitaal' 
 
-**[\[3\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61E7C648364ED9000800020D)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk   De Vlaamse Regering wil binnen de projectregeling van het decreet sociaal- cultureel volwa... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vastleggen%20maatschappelijke%20uitdagingen%20in%20het%20kader%20van%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk&dateOption=select&startDate=2022-01-21T09%3A00%3A00Z&endDate=2022-01-21T09%3A00%3A00Z)** : **(2022-01-21)** Vastleggen maatschappelijke uitdagingen in het kader van projectsubsidies sociaal-cultureel volwassenenwerk 
 
-**[\[4\]](http://themis.vlaanderen.be/id/resource/5e5a8150-4925-11ec-94bb-99a9d1e168fe)** : **(2021-01-22)** Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie   De Vlaamse Regering keurt het voorstel goed met de  prioritaire maatschappelijke uitdagingen in het kader ... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Maatschappelijke%20uitdagingen%20projectsubsidies%20sociaal-cultureel%20volwassenenwerk%3A%20e-inclusie&dateOption=select&startDate=2021-01-22T09%3A00%3A00Z&endDate=2021-01-22T09%3A00%3A00Z)** : **(2021-01-22)** Maatschappelijke uitdagingen projectsubsidies sociaal-cultureel volwassenenwerk: e-inclusie 
 
-**[\[5\]](http://themis.vlaanderen.be/id/nieuwsbericht/650A9C783605E1AC863BFA21)** : **(2023-09-22)** Subsidies Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor project 'Ondersteuning van lokale besturen in het kader van samenleven in diversiteit: Plan Samenleven' Ontwerpb... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20Vlaamse%20lokale%20besturen%2C%20vzw%20de%20Rand%20en%20de%20Vlaamse%20Gemeenschapscommissie%20voor%20project%20%27Ondersteuning%20van%20lokale%20besturen%20in%20het%20kader%20van%20%20samenleven%20in%20diversiteit%3A%20Plan%20Samenleven%27&dateOption=select&startDate=2023-09-22T08%3A00%3A00Z&endDate=2023-09-22T08%3A00%3A00Z)** : **(2023-09-22)** Subsidies Vlaamse lokale besturen, vzw de Rand en de Vlaamse Gemeenschapscommissie voor project 'Ondersteuning van lokale besturen in het kader van  samenleven in diversiteit: Plan Samenleven' 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63A175C9DBF1CAE811022093)** : **(2022-12-23)** Subsidie lokale besturen, vzw De Rand en Vlaamse Gemeenschapscommissie project ‘Plan Samenleven’: wijzigingsbesluit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse ... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidie%20lokale%20besturen%2C%20vzw%20De%20Rand%20en%20Vlaamse%20Gemeenschapscommissie%20project%20%E2%80%98Plan%20Samenleven%E2%80%99%3A%20wijzigingsbesluit&dateOption=select&startDate=2022-12-23T09%3A00%3A00Z&endDate=2022-12-23T09%3A00%3A00Z)** : **(2022-12-23)** Subsidie lokale besturen, vzw De Rand en Vlaamse Gemeenschapscommissie project ‘Plan Samenleven’: wijzigingsbesluit 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/632977815CD4B179BD8710E3)** : **(2022-09-23)** Subsidies Vlaamse lokale besturen, vzw de Rand en Vlaamse Gemeenschapscommissie voor Plan Samenleven Ontwerpbesluit van de Vlaamse Regering tot de verdeling en toekenning van projectsubsidies aan de V... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Subsidies%20Vlaamse%20lokale%20besturen%2C%20vzw%20de%20Rand%20en%20Vlaamse%20Gemeenschapscommissie%20voor%20Plan%20Samenleven&dateOption=select&startDate=2022-09-23T08%3A00%3A00Z&endDate=2022-09-23T08%3A00%3A00Z)** : **(2022-09-23)** Subsidies Vlaamse lokale besturen, vzw de Rand en Vlaamse Gemeenschapscommissie voor Plan Samenleven 
 
-**[\[8\]](http://themis.vlaanderen.be/id/resource/6351cc20-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024   De Vlaamse Regering keurt het Vlaams Actieplan Armoedebestrijding 2020-2024 goed. Het plan omschrijft de planning van de belangrijkste beleidsmaatregele... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2020-09-25T08%3A00%3A00Z&endDate=2020-09-25T08%3A00%3A00Z)** : **(2020-09-25)** Vlaams Actieplan Armoedebestrijding 2020-2024 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/608A6D03364ED90008000A1F)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' Versterking mentaal welzijn: zorgzame buurten  In het kader van het relanceplan Vlaamse Veerkracht enerzijds en het r... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20versterking%20mentaal%20welzijn%20via%20acties%20%27Zorgzame%20Buurten%27&dateOption=select&startDate=2021-04-30T08%3A00%3A00Z&endDate=2021-04-30T08%3A00%3A00Z)** : **(2021-04-30)** Plan Vlaamse Veerkracht: versterking mentaal welzijn via acties 'Zorgzame Buurten' 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/63984FA0C2B90D4571CF89FB)** : **(2022-12-16)** Projectsubsidie verscheidene organisaties voor maatschappelijk opbouwwerk voor project 'Samen op Straat' Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie van de Vlaamse Gemeensch... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Projectsubsidie%20verscheidene%20organisaties%20voor%20maatschappelijk%20opbouwwerk%20voor%20project%20%27Samen%20op%20Straat%27&dateOption=select&startDate=2022-12-16T09%3A00%3A00Z&endDate=2022-12-16T09%3A00%3A00Z)** : **(2022-12-16)** Projectsubsidie verscheidene organisaties voor maatschappelijk opbouwwerk voor project 'Samen op Straat' 
 
-**[\[11\]](http://themis.vlaanderen.be/id/resource/e66f2db0-492b-11ec-94bb-99a9d1e168fe)** : **(2019-11-29)** ArmenTekort vzw: subsidie opschaling buddywerking voor mensen in armoede Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het begrotingsjaar 2019 ... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=ArmenTekort%20vzw%3A%20subsidie%20opschaling%20buddywerking%20voor%20mensen%20in%20armoede&dateOption=select&startDate=2019-11-29T09%3A00%3A00Z&endDate=2019-11-29T09%3A00%3A00Z)** : **(2019-11-29)** ArmenTekort vzw: subsidie opschaling buddywerking voor mensen in armoede 
 
-**[\[12\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/607FEA9E364ED900080004E1)** : **(2021-04-23)** Minderhedenforum vzw: tijdelijke projectsubsidie 2021 Ontwerpbesluit van de Vlaamse Regering tot toekenning van een projectsubsidie aan het Minderhedenforum vzw voor de periode 1 januari 2021 tot en m... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Minderhedenforum%20vzw%3A%20tijdelijke%20projectsubsidie%202021&dateOption=select&startDate=2021-04-23T08%3A00%3A00Z&endDate=2021-04-23T08%3A00%3A00Z)** : **(2021-04-23)** Minderhedenforum vzw: tijdelijke projectsubsidie 2021 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF8335364ED90009000648)** : **(2021-12-10)** Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten' Zorgzame buurten A. Ontwerpbesluit van de Vlaamse Regering tot toekenning van een subsidie aan de Koning Bou... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Plan%20Vlaamse%20Veerkracht%3A%20subsidie%20Koning%20Boudewijnstichting%20voor%20project%20%27zorgzame%20buurten%27&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Plan Vlaamse Veerkracht: subsidie Koning Boudewijnstichting voor project 'zorgzame buurten' 
 
-**[\[14\]]** : **(2020-03-20)** Vlaams Actieplan Armoedebestrijding 2020-2024: doelstellingenkader 
+**[\[14\]]** : **(2020-03-20)**  
 
-**[\[15\]](http://themis.vlaanderen.be/id/resource/c1359f90-4924-11ec-94bb-99a9d1e168fe)** : **(2021-03-05)** Uitbreiding tewerkstelling ‘Sociale Maribel’: overheveling van federale kredieten naar departementen CJM en WVG   De federale overheid heeft in 2002 een rechtsbasis gecreëerd om de werkgelegenheid in ... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitbreiding%20tewerkstelling%20%E2%80%98Sociale%20Maribel%E2%80%99%3A%20overheveling%20van%20federale%20kredieten%20naar%20departementen%20CJM%20en%20WVG&dateOption=select&startDate=2021-03-05T09%3A00%3A00Z&endDate=2021-03-05T09%3A00%3A00Z)** : **(2021-03-05)** Uitbreiding tewerkstelling ‘Sociale Maribel’: overheveling van federale kredieten naar departementen CJM en WVG 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6356A91C1EA6B745D23CC599)** : **(2022-10-28)** Bijsturing van het Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Bijsturing%20van%20het%20Vlaams%20Actieplan%20Armoedebestrijding%20%28VAPA%29%202020-2024&dateOption=select&startDate=2022-10-28T08%3A00%3A00Z&endDate=2022-10-28T08%3A00%3A00Z)** : **(2022-10-28)** Bijsturing van het Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024 
 
-**[\[17\]]** : **(2020-01-31)** Vlaams Actieplan Armoedebestrijding (VAPA) 2020-2024: traject 
+**[\[17\]]** : **(2020-01-31)**  
 
-**[\[18\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/62389AB36BB7B593CFC18C43)** : **(2022-03-25)** Voortgangsrapport van het Vlaams Actieplan Armoedebestrijding 2020-2024 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Voortgangsrapport%20van%20het%20Vlaams%20Actieplan%20Armoedebestrijding%202020-2024&dateOption=select&startDate=2022-03-25T09%3A00%3A00Z&endDate=2022-03-25T09%3A00%3A00Z)** : **(2022-03-25)** Voortgangsrapport van het Vlaams Actieplan Armoedebestrijding 2020-2024 
         </details> 
 

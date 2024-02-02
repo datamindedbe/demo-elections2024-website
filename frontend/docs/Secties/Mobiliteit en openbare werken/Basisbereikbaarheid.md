@@ -29,54 +29,54 @@ Uit de bovengenoemde beslissingen blijkt dat de Vlaamse regering actie heeft ond
 
 <details>
         <summary> Referenties</summary>
-        **[\[0\]](http://themis.vlaanderen.be/id/resource/ab28c210-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-04)** Decreet basisbereikbaarheid: kwaliteitseisen kernnet en aanvullend net, en streefwaarden wegbeheerders over doorstroming openbaar vervoer Voorontwerp van besluit van de Vlaamse Regering tot bepaling v... 
+        **[\[0\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Decreet%20basisbereikbaarheid%3A%20kwaliteitseisen%20kernnet%20en%20aanvullend%20net%2C%20en%20streefwaarden%20wegbeheerders%20over%20doorstroming%20openbaar%20vervoer&dateOption=select&startDate=2020-09-04T08%3A00%3A00Z&endDate=2020-09-04T08%3A00%3A00Z)** : **(2020-09-04)** Decreet basisbereikbaarheid: kwaliteitseisen kernnet en aanvullend net, en streefwaarden wegbeheerders over doorstroming openbaar vervoer 
 
-**[\[1\]](http://themis.vlaanderen.be/id/resource/5827de10-4928-11ec-94bb-99a9d1e168fe)** : **(2020-07-10)** Decreet basisbereikbaarheid: kwaliteitseisen kernnet en aanvullend net Voorontwerp van besluit van de Vlaamse Regering tot bepaling van de kwaliteitseisen voor het kernnet en het aanvullend net  In he... 
+**[\[1\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Decreet%20basisbereikbaarheid%3A%20kwaliteitseisen%20kernnet%20en%20aanvullend%20net&dateOption=select&startDate=2020-07-10T08%3A00%3A00Z&endDate=2020-07-10T08%3A00%3A00Z)** : **(2020-07-10)** Decreet basisbereikbaarheid: kwaliteitseisen kernnet en aanvullend net 
 
-**[\[2\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED7A56364ED9000800147A)** : **(2021-07-16)** Exploitatie kernnet en aanvullend net openbaar vervoer Voorontwerp van besluit van de Vlaamse Regering over de exploitatie van het kernnet en aanvullend net  De Vlaamse Regering hecht haar principiële... 
+**[\[2\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Exploitatie%20kernnet%20en%20aanvullend%20net%20openbaar%20vervoer&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Exploitatie kernnet en aanvullend net openbaar vervoer 
 
-**[\[3\]](http://themis.vlaanderen.be/id/resource/2697a4e0-4926-11ec-94bb-99a9d1e168fe)** : **(2020-12-11)** Basisbereikbaarheid: aanduiding van de VVM De Lijn als interne operator voor het kern- en aanvullend net   Om op 1 januari 2022 met de basisbereikbaarheid van start te kunnen gaan, moet er een operato... 
+**[\[3\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Basisbereikbaarheid%3A%20aanduiding%20van%20de%20VVM%20De%20Lijn%20als%20interne%20operator%20voor%20het%20kern-%20en%20aanvullend%20net&dateOption=select&startDate=2020-12-11T19%3A00%3A00Z&endDate=2020-12-11T19%3A00%3A00Z)** : **(2020-12-11)** Basisbereikbaarheid: aanduiding van de VVM De Lijn als interne operator voor het kern- en aanvullend net 
 
-**[\[4\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B8B83C364ED900090015BA)** : **(2021-12-17)** Exploitatie kernnet en aanvullend net openbaar vervoer: voorwaarden A. Ontwerpbesluit van de Vlaamse Regering over de exploitatie van het kernnet en het aanvullend net B. Ontwerpbesluit van de Vlaamse... 
+**[\[4\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Exploitatie%20kernnet%20en%20aanvullend%20net%20openbaar%20vervoer%3A%20voorwaarden&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Exploitatie kernnet en aanvullend net openbaar vervoer: voorwaarden 
 
-**[\[5\]](http://themis.vlaanderen.be/id/resource/a03429f0-492a-11ec-94bb-99a9d1e168fe)** : **(2020-02-21)** Benchmark VVM De Lijn Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van artikel 34, §1, derde lid van het decreet van 26 april 2019 betreffende de basisbereikbaarheid  Volgens de Euro... 
+**[\[5\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Benchmark%20VVM%20De%20Lijn&dateOption=select&startDate=2020-02-21T09%3A00%3A00Z&endDate=2020-02-21T09%3A00%3A00Z)** : **(2020-02-21)** Benchmark VVM De Lijn 
 
-**[\[6\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627B7E591C4A193816C310A0)** : **(2022-05-13)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor Ontwerpbesluit van de Vlaamse Regering over haltes en halte-infrastructuur  Na advies van de Raad van State keurt... 
+**[\[6\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereisten%20en%20beheer%20voor%20haltes%20openbaar%20personenvervoer%20over%20de%20weg%20en%20over%20het%20spoor&dateOption=select&startDate=2022-05-13T08%3A00%3A00Z&endDate=2022-05-13T08%3A00%3A00Z)** : **(2022-05-13)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor 
 
-**[\[7\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61F167FAD5F0FAFA87AFA599)** : **(2022-01-28)** Mobiliteitsmonitoring en voortgangsrapportage basisbereikbaarheid Voorontwerp van besluit van de Vlaamse Regering ter uitvoering van het decreet van 26 april 2019 betreffende de basisbereikbaarheid, w... 
+**[\[7\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Mobiliteitsmonitoring%20en%20voortgangsrapportage%20basisbereikbaarheid&dateOption=select&startDate=2022-01-28T09%3A00%3A00Z&endDate=2022-01-28T09%3A00%3A00Z)** : **(2022-01-28)** Mobiliteitsmonitoring en voortgangsrapportage basisbereikbaarheid 
 
-**[\[8\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/627B7ED21C4A193816C310A2)** : **(2022-05-13)** Mobiliteitsmonitoring en voortgangsrapportage basisbereikbaarheid Ontwerpbesluit van de Vlaamse Regering ter uitvoering van het decreet van 26 april 2019 betreffende de basisbereikbaarheid, wat betref... 
+**[\[8\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Mobiliteitsmonitoring%20en%20voortgangsrapportage%20basisbereikbaarheid&dateOption=select&startDate=2022-05-13T08%3A00%3A00Z&endDate=2022-05-13T08%3A00%3A00Z)** : **(2022-05-13)** Mobiliteitsmonitoring en voortgangsrapportage basisbereikbaarheid 
 
-**[\[9\]](http://themis.vlaanderen.be/id/nieuwsbericht/649BE8AE2D77B42474D4E91F)** : **(2023-06-30)** Uitvoering vervoer op maat: subsidieovereenkomsten Ontwerp van subsidieovereenkomst met betrekking tot de uitvoering van Vervoer op maat  De onderste vervoerslaag in het kader van de Basisbereikbaarhe... 
+**[\[9\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Uitvoering%20vervoer%20op%20maat%3A%20subsidieovereenkomsten&dateOption=select&startDate=2023-06-30T08%3A00%3A00Z&endDate=2023-06-30T08%3A00%3A00Z)** : **(2023-06-30)** Uitvoering vervoer op maat: subsidieovereenkomsten 
 
-**[\[10\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED60E8364ED90008001432)** : **(2021-07-16)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor Voorontwerp van besluit van de Vlaamse Regering over haltes en halte- infrastructuur  De Vlaamse Regering keurt p... 
+**[\[10\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereisten%20en%20beheer%20voor%20haltes%20openbaar%20personenvervoer%20over%20de%20weg%20en%20over%20het%20spoor&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor 
 
-**[\[11\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6166A2CC364ED90009000498)** : **(2021-10-15)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor Voorontwerp van besluit van de Vlaamse Regering over haltes en halte- infrastructuur  Na advies van de MORA keurt... 
+**[\[11\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Vereisten%20en%20beheer%20voor%20haltes%20openbaar%20personenvervoer%20over%20de%20weg%20en%20over%20het%20spoor&dateOption=select&startDate=2021-10-15T08%3A00%3A00Z&endDate=2021-10-15T08%3A00%3A00Z)** : **(2021-10-15)** Vereisten en beheer voor haltes openbaar personenvervoer over de weg en over het spoor 
 
-**[\[12\]](http://themis.vlaanderen.be/id/resource/5e34c650-4924-11ec-94bb-99a9d1e168fe)** : **(2021-04-02)** Projectoproep ‘Masterplan Toegankelijke haltes’   Voor de opstart van het Masterplan Toegankelijkheid  in 2021 wordt een oproep gelanceerd om de bus-  en tramhaltes van het kernnet en het aanvullend n... 
+**[\[12\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Projectoproep%20%E2%80%98Masterplan%20Toegankelijke%20haltes%E2%80%99&dateOption=select&startDate=2021-04-02T08%3A00%3A00Z&endDate=2021-04-02T08%3A00%3A00Z)** : **(2021-04-02)** Projectoproep ‘Masterplan Toegankelijke haltes’ 
 
-**[\[13\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B891DE364ED90009001585)** : **(2021-12-17)** Decreet Verkeersveiligheid van weginfrastructuur: uitbreiding toepassingsgebied Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Regering van 3 februari 2012 houdend... 
+**[\[13\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Decreet%20Verkeersveiligheid%20van%20weginfrastructuur%3A%20uitbreiding%20toepassingsgebied&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Decreet Verkeersveiligheid van weginfrastructuur: uitbreiding toepassingsgebied 
 
-**[\[14\]](http://themis.vlaanderen.be/id/resource/43d44950-492b-11ec-94bb-99a9d1e168fe)** : **(2019-12-20)** Benchmark VVM De Lijn Voorontwerp van besluit van de Vlaamse Regering tot uitvoering van artikel 34, §1, derde lid van het decreet van 26 april 2019 betreffende de basisbereikbaarheid  Volgens de Euro... 
+**[\[14\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Benchmark%20VVM%20De%20Lijn&dateOption=select&startDate=2019-12-20T09%3A00%3A00Z&endDate=2019-12-20T09%3A00%3A00Z)** : **(2019-12-20)** Benchmark VVM De Lijn 
 
-**[\[15\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/60ED6017364ED90008001431)** : **(2021-07-16)** Implementatiekader hoppinpunten of mobiliteitsknooppunten Voorontwerp van besluit van de Vlaamse Regering over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2... 
+**[\[15\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Implementatiekader%20hoppinpunten%20of%20mobiliteitsknooppunten&dateOption=select&startDate=2021-07-16T06%3A00%3A00Z&endDate=2021-07-16T06%3A00%3A00Z)** : **(2021-07-16)** Implementatiekader hoppinpunten of mobiliteitsknooppunten 
 
-**[\[16\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6194C9B7364ED90008000174)** : **(2021-11-19)** Implementatiekader hoppinpunten of mobiliteitsknooppunten Voorontwerp van besluit van de Vlaamse Regering over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2... 
+**[\[16\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Implementatiekader%20hoppinpunten%20of%20mobiliteitsknooppunten&dateOption=select&startDate=2021-11-19T09%3A00%3A00Z&endDate=2021-11-19T09%3A00%3A00Z)** : **(2021-11-19)** Implementatiekader hoppinpunten of mobiliteitsknooppunten 
 
-**[\[17\]](http://themis.vlaanderen.be/id/resource/915df990-4927-11ec-94bb-99a9d1e168fe)** : **(2020-09-11)** Regelgevend kader Mobipunten Voorontwerp van besluit van de Vlaamse Regering betreffende de mobipunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de ... 
+**[\[17\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Regelgevend%20kader%20Mobipunten&dateOption=select&startDate=2020-09-11T08%3A00%3A00Z&endDate=2020-09-11T08%3A00%3A00Z)** : **(2020-09-11)** Regelgevend kader Mobipunten 
 
-**[\[18\]](http://themis.vlaanderen.be/id/resource/d862f980-4927-11ec-94bb-99a9d1e168fe)** : **(2020-07-17)** Regelgevend kader Mobipunten Voorontwerp van besluit van de Vlaamse Regering betreffende de mobipunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot bepaling van de ... 
+**[\[18\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Regelgevend%20kader%20Mobipunten&dateOption=select&startDate=2020-07-17T08%3A00%3A00Z&endDate=2020-07-17T08%3A00%3A00Z)** : **(2020-07-17)** Regelgevend kader Mobipunten 
 
-**[\[19\]](http://themis.vlaanderen.be/id/nieuwsbericht/6423E5E08A5434FEB56570FE)** : **(2023-03-31)** Addendum Openbaredienstencontract VVM De Lijn 2023-2027 Ontwerp van addendum I aan het Openbaredienstencontract afgesloten tussen De Vlaamse Regering en De Lijn op 1 juli 2022  Op 1 juli 2022 werd het... 
+**[\[19\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Addendum%20Openbaredienstencontract%20VVM%20De%20Lijn%202023-2027&dateOption=select&startDate=2023-03-31T08%3A00%3A00Z&endDate=2023-03-31T08%3A00%3A00Z)** : **(2023-03-31)** Addendum Openbaredienstencontract VVM De Lijn 2023-2027 
 
-**[\[20\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/6202966DD5F0FAFA87AFAD58)** : **(2022-02-11)** Implementatiekader hoppinpunten of mobiliteitsknooppunten Ontwerpbesluit van de Vlaamse Regering over de Hoppinpunten en tot wijziging van het besluit van de Vlaamse Regering van 25 januari 2013 tot b... 
+**[\[20\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Implementatiekader%20hoppinpunten%20of%20mobiliteitsknooppunten&dateOption=select&startDate=2022-02-11T09%3A00%3A00Z&endDate=2022-02-11T09%3A00%3A00Z)** : **(2022-02-11)** Implementatiekader hoppinpunten of mobiliteitsknooppunten 
 
-**[\[21\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61AF33A9364ED9000900061E)** : **(2021-12-10)** Verlenging overeenkomst VVSG over Gemeentelijk Ondersteuningsplatform Vervoerregiowerking 2022-2025 Ontwerp van overeenkomst tussen Vlaamse overheid en de Vereniging van Vlaamse Steden en Gemeenten ov... 
+**[\[21\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verlenging%20overeenkomst%20VVSG%20over%20Gemeentelijk%20Ondersteuningsplatform%20Vervoerregiowerking%202022-2025&dateOption=select&startDate=2021-12-10T09%3A00%3A00Z&endDate=2021-12-10T09%3A00%3A00Z)** : **(2021-12-10)** Verlenging overeenkomst VVSG over Gemeentelijk Ondersteuningsplatform Vervoerregiowerking 2022-2025 
 
-**[\[22\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/616FD499364ED9000800020A)** : **(2021-10-22)** Verlenging openbaredienstverplichting vervoer van personen met een handicap of een ernstig beperkte mobiliteit Voorontwerp van besluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaa... 
+**[\[22\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verlenging%20openbaredienstverplichting%20vervoer%20van%20personen%20met%20een%20handicap%20of%20een%20ernstig%20beperkte%20mobiliteit&dateOption=select&startDate=2021-10-22T08%3A00%3A00Z&endDate=2021-10-22T08%3A00%3A00Z)** : **(2021-10-22)** Verlenging openbaredienstverplichting vervoer van personen met een handicap of een ernstig beperkte mobiliteit 
 
-**[\[23\]](http://themis.vlaanderen.be/id/nieuwsbrief-info/61B86ABA364ED9000900133D)** : **(2021-12-17)** Verlenging openbaredienstverplichting vervoer van personen met een handicap of een ernstig beperkte mobiliteit Ontwerpbesluit van de Vlaamse Regering tot wijziging van het besluit van de Vlaamse Reger... 
+**[\[23\]](https://beslissingenvlaamseregering.vlaanderen.be/?search=Verlenging%20openbaredienstverplichting%20vervoer%20van%20personen%20met%20een%20handicap%20of%20een%20ernstig%20beperkte%20mobiliteit&dateOption=select&startDate=2021-12-17T09%3A00%3A00Z&endDate=2021-12-17T09%3A00%3A00Z)** : **(2021-12-17)** Verlenging openbaredienstverplichting vervoer van personen met een handicap of een ernstig beperkte mobiliteit 
 
-**[\[24\]]** : **(2020-06-12)** Verdeling over de verschillende vervoersregio’s van de bijkomende middelen voor de vervoerslaag Vervoer op Maat bij Basisbereikbaarheid 
+**[\[24\]]** : **(2020-06-12)**  
         </details> 
 

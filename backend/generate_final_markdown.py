@@ -44,9 +44,7 @@ def create_markdown(input_path, output_path):
             else:
                 index_part=f"**[\[{key}\]]**"
 
-            description_part = references[str(key)].get('s3_clean_content','')
-            if len(description_part) > 200:
-                description_part = references[str(key)].get('s3_clean_content','')[:200] + '...'
+            description_part = references[str(key)].get('source_title','')
 
             single_ref=f"{index_part} : **({references[str(key)]['date']})** {description_part} \n\n"
             reference_markdown += single_ref
