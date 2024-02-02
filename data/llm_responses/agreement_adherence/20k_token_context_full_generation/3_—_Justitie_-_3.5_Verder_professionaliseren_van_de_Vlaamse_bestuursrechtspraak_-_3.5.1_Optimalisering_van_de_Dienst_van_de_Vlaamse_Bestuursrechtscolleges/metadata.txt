@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 63
+TOPIC_NAME: 3_—_Justitie_-_3.5_Verder_professionaliseren_van_de_Vlaamse_bestuursrechtspraak_-_3.5.1_Optimalisering_van_de_Dienst_van_de_Vlaamse_Bestuursrechtscolleges

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 52
+TOPIC_NAME: 3_—_Werk_en_sociale_economie_-_3.1_Uitdagingen_en_visie:_op_weg_naar_de_arbeidsmarkt_van_de_toekomst

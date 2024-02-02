@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 81
+TOPIC_NAME: 4_—_Kanselarij_en_bestuur_-_4.2_Concrete_voorstellen_-_4.2.4_Regionale_en_macro-economische_data_en_statistieken

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 71
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.5_Een_actief_en_efficiënt_bilateraal_en_multilateraal_beleid_-_4.5.2_Multilateraal

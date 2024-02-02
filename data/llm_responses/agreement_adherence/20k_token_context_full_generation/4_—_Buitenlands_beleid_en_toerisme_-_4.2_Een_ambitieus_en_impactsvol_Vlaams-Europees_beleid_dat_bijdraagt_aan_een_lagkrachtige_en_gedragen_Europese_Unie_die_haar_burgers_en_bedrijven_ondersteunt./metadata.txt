@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 58
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.2_Een_ambitieus_en_impactsvol_Vlaams-Europees_beleid_dat_bijdraagt_aan_een_lagkrachtige_en_gedragen_Europese_Unie_die_haar_burgers_en_bedrijven_ondersteunt.

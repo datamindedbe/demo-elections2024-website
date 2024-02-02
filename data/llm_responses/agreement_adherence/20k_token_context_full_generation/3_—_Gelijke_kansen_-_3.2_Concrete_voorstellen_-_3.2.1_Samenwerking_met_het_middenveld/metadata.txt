@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 66
+TOPIC_NAME: 3_—_Gelijke_kansen_-_3.2_Concrete_voorstellen_-_3.2.1_Samenwerking_met_het_middenveld

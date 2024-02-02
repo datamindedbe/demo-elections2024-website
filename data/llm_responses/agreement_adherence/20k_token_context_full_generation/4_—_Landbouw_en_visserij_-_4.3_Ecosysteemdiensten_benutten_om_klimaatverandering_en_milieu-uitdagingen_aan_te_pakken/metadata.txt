@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 55
+TOPIC_NAME: 4_—_Landbouw_en_visserij_-_4.3_Ecosysteemdiensten_benutten_om_klimaatverandering_en_milieu-uitdagingen_aan_te_pakken

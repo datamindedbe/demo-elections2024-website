@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 49
+TOPIC_NAME: 3_—_Justitie_-_3.3_Dankzij_een_krachtdadige_en_gestroomlijnde_bestuurlijke_handhaving_-_3.3.1_Bestuurlijke_bestrijding_van_georganiseerde_en_ondermijnende_misdaad

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 55
+TOPIC_NAME: 4_—_Wonen_-_4.2_Concrete_voorstellen_-_4.2.2_Eigendomsverwerving_wordt_verder_ondersteund

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 56
+TOPIC_NAME: 2_—_Omgeving_-_2.5_Omgevingskwaliteit_verder_verbeteren_-_2.5.2_Concrete_maatregelen_-_2.5.2.1_Lucht

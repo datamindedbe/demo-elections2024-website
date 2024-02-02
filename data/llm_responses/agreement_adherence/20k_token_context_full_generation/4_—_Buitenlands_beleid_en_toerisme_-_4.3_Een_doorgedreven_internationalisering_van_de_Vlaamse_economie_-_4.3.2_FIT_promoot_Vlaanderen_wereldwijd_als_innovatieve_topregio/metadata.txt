@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 74
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.3_Een_doorgedreven_internationalisering_van_de_Vlaamse_economie_-_4.3.2_FIT_promoot_Vlaanderen_wereldwijd_als_innovatieve_topregio

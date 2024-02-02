@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 54
+TOPIC_NAME: 3_—_Justitie_-_3.3_Dankzij_een_krachtdadige_en_gestroomlijnde_bestuurlijke_handhaving_-_3.3.2_Zorgvuldige_implementatie_van_het_Kaderdecreet_Bestuurlijke_Handhaving_en_een_stroomlijning_van_de_bestuurlijke_handhaving

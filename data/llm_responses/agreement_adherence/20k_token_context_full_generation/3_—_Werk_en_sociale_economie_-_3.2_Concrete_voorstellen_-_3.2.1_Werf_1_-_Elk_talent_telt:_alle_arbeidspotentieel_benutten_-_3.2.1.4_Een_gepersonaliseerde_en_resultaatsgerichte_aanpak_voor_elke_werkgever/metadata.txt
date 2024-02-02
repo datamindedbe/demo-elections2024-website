@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 57
+TOPIC_NAME: 3_—_Werk_en_sociale_economie_-_3.2_Concrete_voorstellen_-_3.2.1_Werf_1_-_Elk_talent_telt:_alle_arbeidspotentieel_benutten_-_3.2.1.4_Een_gepersonaliseerde_en_resultaatsgerichte_aanpak_voor_elke_werkgever

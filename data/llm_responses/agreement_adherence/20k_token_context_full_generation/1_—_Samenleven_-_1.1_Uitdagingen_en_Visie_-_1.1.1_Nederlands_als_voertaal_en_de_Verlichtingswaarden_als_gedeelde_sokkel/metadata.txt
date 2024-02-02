@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 50
+TOPIC_NAME: 1_—_Samenleven_-_1.1_Uitdagingen_en_Visie_-_1.1.1_Nederlands_als_voertaal_en_de_Verlichtingswaarden_als_gedeelde_sokkel

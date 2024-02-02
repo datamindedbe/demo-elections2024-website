@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 60
+TOPIC_NAME: 4_—_Buitenlands_beleid_en_toerisme_-_4.9_De_principiële_verdediging_van_de_waarden_vervat_in_de_Universele_en_Europese_verdragen_inzake_mensenrechten

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 71
+TOPIC_NAME: 2_—_Armoedebestrijding__-_2.2_Concrete_maatregelen_-_2.2.1_Een_vroege_detectie_en_aanpak_van_armoede

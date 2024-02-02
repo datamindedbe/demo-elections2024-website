@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 59
+TOPIC_NAME: 1_—_Welzijn_-_1.2_Concrete_voorstellen_-_1.2.1_Werf_1:_Welzijn_en_gezin_-_1.2.1.2_Adoptie

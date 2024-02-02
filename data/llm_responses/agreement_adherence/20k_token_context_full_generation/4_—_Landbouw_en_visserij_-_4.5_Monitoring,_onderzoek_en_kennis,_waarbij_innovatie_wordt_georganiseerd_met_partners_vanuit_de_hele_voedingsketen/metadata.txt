@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 59
+TOPIC_NAME: 4_—_Landbouw_en_visserij_-_4.5_Monitoring,_onderzoek_en_kennis,_waarbij_innovatie_wordt_georganiseerd_met_partners_vanuit_de_hele_voedingsketen

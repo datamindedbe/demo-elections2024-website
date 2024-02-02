@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 62
+TOPIC_NAME: 3_—_Justitie_-_3.2_Dankzij_een_krachtdadige_Vlaamse_justitie_-_3.2.6_Coördinatie_van_het_Strafrechtelijk-_en_Veiligheidsbeleid_binnen_de_Vlaamse_bevoegdheden

@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 66
+TOPIC_NAME: 2_—_Armoedebestrijding__-_2.2_Concrete_maatregelen_-_2.2.9_Samenwerking_met_het_middenveld

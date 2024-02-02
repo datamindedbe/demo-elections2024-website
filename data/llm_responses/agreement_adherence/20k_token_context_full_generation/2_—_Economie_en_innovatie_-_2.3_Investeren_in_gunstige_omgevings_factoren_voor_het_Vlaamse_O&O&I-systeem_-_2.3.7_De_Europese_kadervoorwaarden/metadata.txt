@@ -1,0 +1,4 @@
+MAX_PROMPT_TOKEN_COUNT: 20000
+MAX_DECISIONS_TO_INCLUDE: 200
+DECISIONS_INCLUDED_IN_PROMPT: 63
+TOPIC_NAME: 2_—_Economie_en_innovatie_-_2.3_Investeren_in_gunstige_omgevings_factoren_voor_het_Vlaamse_O&O&I-systeem_-_2.3.7_De_Europese_kadervoorwaarden
