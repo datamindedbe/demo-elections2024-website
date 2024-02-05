@@ -40,6 +40,12 @@ class VectorCollection():
             metadatas=[metadata],
             ids=[id]
         )
+    
+    def get_item(self, id: str) -> Optional[VectorDBItem]:
+        response = self.chromadb_collection.get(id)
+        if len(response['ids']) == 0:
+            return None
+        return VectorDBItem(id=response['ids'][0], text=remove_newline_char(response['documents'][0]), metadata=response['metadatas'][0])
 
     def similar_items(self, input_text: str, n_results: int = 10) -> List[VectorDBItem]:
         response = self.chromadb_collection.query(

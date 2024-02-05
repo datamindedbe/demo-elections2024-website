@@ -5,6 +5,9 @@
 import json
 import os
 from config import LLM_RESPONSE_PATH_OF_INTEREST
+from src.vector_store import VectorCollection
+
+decisions_collection = VectorCollection('decisions')
 
 def merge_dicts(dict1, dict2):
     result = {}
@@ -79,14 +82,13 @@ for folder in os.listdir(LLM_RESPONSE_PATH_OF_INTEREST):
     references = merge_dicts(references_s3_dict, references_full_dict)
 
     for key, value in references.items():
-        year, month, day = value['s3_filename_clean'].split('/')[-1].split('-')[:3]
-        references[key]['date'] = f"{year}-{month}-{day}"
+        vector_store_item = decisions_collection.get_item(value['s3_filename_clean'])
+        if vector_store_item is not None:
+            references[key]['date'] = vector_store_item.metadata['date']
+            references[key]['s3_filename_ingested'] = vector_store_item.metadata['s3_filename_ingested']
+            references[key]['source_url'] = vector_store_item.metadata['source_url']
+            references[key]['source_title'] = vector_store_item.metadata['source_title']
 
-        document_id = value['s3_filename_clean'].split('-')[-1].rstrip('.txt')
-        
-        # add an implied s3 key ingested
-        f"ingestion/output/{year}/{month}/{document_id}/document.json"
-        references[key]['s3_filename_ingested'] = f"ingestion/output/{year}/{month}/{document_id}/document.json"
 
 
 
