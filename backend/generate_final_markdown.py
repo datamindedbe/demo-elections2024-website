@@ -46,7 +46,7 @@ def create_markdown(input_path, output_path):
 
             description_part = references[str(key)].get('source_title','')
 
-            single_ref=f"{index_part} : **({references[str(key)]['date']})** {description_part} \n\n"
+            single_ref=f"{index_part} : **({references[str(key)].get('date','')})** {description_part} \n\n"
             reference_markdown += single_ref
 
         reference_markdown = reference_markdown.rstrip('\n\n')
