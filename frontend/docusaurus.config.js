@@ -30,7 +30,7 @@ const config = {
     {
       async : true,
       src : "https://www.feedbackrocket.io/sdk/v1.1.js",
-      'data-fr-id' : "zpymFBtmDsmX6XJXZVipc", // if we ever open source this - this should be injected
+      'data-fr-id' : "zpymFBtmDsmX6XJXZVipc", // replace this id for your own application. this one only works on the regeringsrobot.be domain
       'data-fr-theme': 'dynamic'
     }
   ],
