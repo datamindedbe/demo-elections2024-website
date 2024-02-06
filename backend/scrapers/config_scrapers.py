@@ -10,3 +10,7 @@ SCRAPER_DECISIONS_INFO_TEMPLATE = SCRAPER_DECISIONS_BASE_URL + "/news-items/sear
 SCRAPER_DECISIONS_ATTACHMENT_TEMPLATE = SCRAPER_DECISIONS_BASE_URL + "/news-item-infos?filter%5B%3Aid%3A%5D={id}&include=attachments.file&page%5Bsize%5D=1"
 SCRAPER_DECISIONS_START_DATE = date(2019, 10, 1)
 SCRAPER_DECISIONS_AWS_PROFILE_NAME= os.environ.get('AWS_PROFILE_NAME')
+
+
+SCRAPER_AGREEMENTS_REGEERAKKOORD_PDF_LOCATION = 'data/agreement_document/source/Regeerakkoord20192024.pdf'
+SCRAPER_AGREEMENTS_OUTPUT_LOCATION = 'data/agreement_document/sections/raw/'
