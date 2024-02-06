@@ -2,3 +2,7 @@ chromadb
 boto3
 openai
 tiktoken
+beautifulsoup4
+requests
+fake-useragent
+python-dateutil
