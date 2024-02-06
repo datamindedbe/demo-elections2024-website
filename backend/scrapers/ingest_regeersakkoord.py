@@ -200,13 +200,13 @@ for k in structuur:
                         
                         for kkkk in structuur[k][kk][kkk]:
                             section += 1
-                            ixx = write_file(kkkk, section, f'{k} - {kk} - {kkk} - {kkkk}.txt', ixx)
+                            ixx = write_file(kkkk, section, f'{k} - {kk} - {kkk} - {kkkk}', ixx)
                     else:
-                        ixx = write_file(kkk, section, f'{k} - {kk} - {kkk}.txt', ixx)
+                        ixx = write_file(kkk, section, f'{k} - {kk} - {kkk}', ixx)
                     
             else:
-                ixx = write_file(kk, section, f'{k} - {kk}.txt', ixx)
+                ixx = write_file(kk, section, f'{k} - {kk}', ixx)
             
     else:
-        ixx = write_file(k, section, f'{k}.txt', ixx)
+        ixx = write_file(k, section, f'{k}', ixx)
     section += 1
