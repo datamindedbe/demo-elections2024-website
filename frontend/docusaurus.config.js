@@ -94,6 +94,12 @@ const config = {
             position: 'right',
             value: '<div class=navbar__item>Beta Release - powered by <a href="https://www.dataminded.com/"> Data Minded</a></div>',
           },
+          {
+            href: 'https://github.com/datamindedbe/elections2024-website',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
         ],
       },
       footer: {
