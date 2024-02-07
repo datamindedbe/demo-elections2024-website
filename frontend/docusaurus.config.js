@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dataminded', // Usually your GitHub org/user name.
-  projectName: 'RegeringsRobot', // Usually your repo name.
+  projectName: 'Regeringsrobot', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -78,7 +78,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'aibotSidebar',
             position: 'left',
-            label: 'AI Analyse van het Regeerakkoord',
+            label: 'AI-analyse van het regeerakkoord',
           },
           // Add a feedback button in the top navbar on every page
           {
@@ -86,13 +86,13 @@ const config = {
             position: 'right',
             value:
               `<a href=# class=navbar__link data-fr-widget>
-                Geef Feedback
+                Geef feedback
               </a>`
           },
           {
             type: 'html',
             position: 'right',
-            value: '<div class=navbar__item>Beta Release - powered by <a href="https://www.dataminded.com/"> Data Minded</a></div>',
+            value: '<div class=navbar__item>Beta release - powered by <a href="https://www.dataminded.com/"> Data Minded</a></div>',
           },
           {
             href: 'https://github.com/datamindedbe/elections2024-website',
@@ -113,7 +113,7 @@ const config = {
         },
         copyright: `Copyright © ${new Date().getFullYear()} Data Minded.`,
         links:[{
-            html: `<p>Vrijwaring: <i> Wij kunnen niet garanderen dat de inhoud van deze webpagina volledig correct is, aangezien deze gedeeltelijk door AI (openai LLM) is gegenereerd. Deze website is uitsluitend gemaakt voor experimentele en educatieve doeleinden </i> </p>`,
+            html: `<p>Disclaimer: <i> Wij kunnen niet garanderen dat de inhoud van deze website volledig correct en is, aangezien deze gedeeltelijk met behulp van AI (OpenAI GPT-4) werd gegenereerd. Deze website is uitsluitend bedoeld voor experimentele en educatieve doeleinden.</i> </p>`,
         }]
       },
       prism: {
