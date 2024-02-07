@@ -1,3 +1,4 @@
+from typing import Optional
 import openai
 import tiktoken
 from config import OPENAI_API_KEY, OPENAI_MODEL_NAME
@@ -61,3 +62,33 @@ def generate_prompt_for_decision_consult(topic_text:str, matching_decisions:list
                 Jou antwoord:
     """
     return prompt, included_decision_count
+
+def extended_message(message:str)->Optional[str]:
+    # this function will take a given message and write it in a more verbose way
+
+    if len(message)==0:
+        return None
+    
+    prompt = f"""
+                herschrijf het volgende op een meer uitgebreide en uitgebreide manier,
+                waarbij u de verklaring op een paar manieren herformuleert: {message}
+    """
+
+    return get_response(prompt)
+
+def decisions_query(query:str, matching_decisions:list[VectorDBItem])->str:
+    # this function will take a given query and matching decisions and generate a response
+    flat_decisions = [f"{index} [url: {item.metadata['source_url']}] - {item.text}" for index, item in enumerate(matching_decisions)]
+    flat_decisions = "\n".join(flat_decisions)
+    prompt = f"""
+                heeft op onderstaand bericht gereageerd door, indien aanwezig, uitsluitend gebruik te maken van de in het betreffende Belissingen aangeboden informatie
+                Staat er niet voldoende informatie in de Belissingen om op het bericht te reageren, probeer dan niet te reageren. 
+                geef referenties en URL-links naar de vragen die in het antwoord zijn geraadpleegd.
+                Bericht:{query}
+                Beslissingen: {flat_decisions}
+                Jou antwoord:
+    """
+    return get_response(prompt)
+    
+
+    
