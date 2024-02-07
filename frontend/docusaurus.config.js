@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'De Regering Robot',
-  tagline: 'De regeringsbesluiten werden geanalyseerd door middel van AI',
+  title: 'De Regeringsrobot',
+  tagline: 'Generatieve AI legt voor u de politieke puzzel in elkaar',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -68,7 +68,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'De Regering Robot',
+        title: 'De Regeringsrobot',
         logo: {
           alt: 'My Site Logo',
           src: 'img/robot.png',
