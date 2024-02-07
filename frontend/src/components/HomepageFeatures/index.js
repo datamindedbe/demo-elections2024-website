@@ -4,31 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'overdaad aan informatie?',
+    title: 'Overdaad aan informatie?',
     image: 'img/emoji_hurt.png',
     description: (
       <>
-      Het publiek heeft toegang tot alle beslissingen die de Vlaamse overheid neemt. Het kan echter overweldigend zijn om al deze documenten zelf door te nemen om te begrijpen wat belangrijk is
+      U heeft gratis toegang tot alle documenten van de Vlaamse overheid, maar het is ondoenbaar en overweldigend om al deze documenten zelf te lezen. Hoe weet u wat belangrijk en relevant is?
       </>
     ),
   },
   {
-    title: 'We maken gebruik van AI om erachter te komen wat belangrijk is',
+    title: 'Onze AI-modellen analyseren tienduizenden overheidsdocumenten...',
     image: 'img/emoji_nerd.png',
     description: (
       <>
 
-We hebben geëxperimenteerd met de nieuwste AI-modellen om te bepalen of deze ons kunnen helpen inzicht te krijgen in de beslissingen van de overheid
+We zetten de nieuwste en meest krachtige AI-modellen in om inzicht te verwerven in de beslissingen van de Vlaamse overheid.
      </>
     ),
   },
   {
-    title: 'zodat u een eenvoudig overzicht krijgt',
+    title: '... zodat u een overzichtelijk beeld krijgt.',
     image: 'img/emoji_heart_eyes.png',
     description: (
       <>
 
-we creëerden een eenvoudig te begrijpen overzicht waarin wordt geprobeerd de beslissingen van de overheid te koppelen aan de plannen uit het Vlaamse Regeerakkoord (2019-2024)
+U krijgt een overzicht van de plannen van het Vlaamse regering en welke beslissingen de regering genomen heeft om deze plannen waar te maken.
       </>
     ),
   }

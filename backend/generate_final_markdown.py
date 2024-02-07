@@ -57,7 +57,7 @@ def create_markdown(input_path, output_path):
 
 
 if __name__ == '__main__':
-    OUTPUT_FOLDER = f'{FRONTEND_DOCS_PATH}Secties/'
+    OUTPUT_FOLDER = f'{FRONTEND_DOCS_PATH}Regeerakkoord/'
 
     structure = get_secties_structure(AGREEMENTS_PATH)
     for section in structure:
