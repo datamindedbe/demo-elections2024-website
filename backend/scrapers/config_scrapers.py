@@ -12,5 +12,5 @@ SCRAPER_DECISIONS_START_DATE = date(2019, 10, 1)
 SCRAPER_DECISIONS_AWS_PROFILE_NAME= os.environ.get('AWS_PROFILE_NAME')
 
 
-SCRAPER_AGREEMENTS_REGEERAKKOORD_PDF_LOCATION = 'data/agreement_document/source/Regeerakkoord20192024.pdf'
-SCRAPER_AGREEMENTS_OUTPUT_LOCATION = 'data/agreement_document/sections/raw/'
+SCRAPER_AGREEMENTS_REGEERAKKOORD_PDF_LOCATION = '../data/agreement_document/source/Regeerakkoord20192024.pdf'
+SCRAPER_AGREEMENTS_OUTPUT_LOCATION = '../data/agreement_document/sections/raw/'

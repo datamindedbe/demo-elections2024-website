@@ -53,20 +53,21 @@ running the project is broken up in a series of scripts. allowing for a particul
 - install docusaurus and related node dependencies by navigating into the frontend folder and running ```npm install```
 - export a environment variable called ```AWS_PROFILE_NAME``` which indicates the aws profile to use
 - export a environment variable called  ```OPENAI_API_KEY``` which is the api key for openai to use for running computing vector embeddings and llm responses
+- all backend scripts should be run from within the backend folder, and frontend scripts should be run from the frontend folder to avoid path issues
 
 ### scraping decision data
-The action required is to scrape the decision data from the government website. this is a two part process and involves running the scripts ```backend/scrapers/ingest_decisions.py``` followed by ```backend/scrapers/clean_decisions.py``` from the root directly. These scripts will read and write to an S3 bucket - the configuration for this step should be specified in the  file ```backend/scrapers/config_scrapers.py```.
+The action required is to scrape the decision data from the government website. this is a two part process and involves running the scripts ```scrapers/ingest_decisions.py``` followed by ```scrapers/clean_decisions.py```. These scripts will read and write to an S3 bucket - the configuration for this step should be specified in the  file ```scrapers/config_scrapers.py```.
 
 ### populating the vector store
-once the decision data is scraped we need to create and populate a vector store locally by running the script ```backend/setup_db.py```. as a safety measure to avoid accidental override you first need to set the reprocess flags to true in the script for each vector store you wish to initialize.
+once the decision data is scraped we need to create and populate a vector store locally by running the script ```setup_db.py```. as a safety measure to avoid accidental override you first need to set the reprocess flags to true in the script for each vector store you wish to initialize.
 
 ### Generating LLM responses
-Once the vector store has been populated you can generate generate LLM responses by running the ```backend/generate_llm_responses.py``` script. this will produce the responses to a tmp folder. If you are happy with the responses and want to persist/process them further, copy the results to the ```data/llm_responses/agreement_adherence``` folder.
+Once the vector store has been populated you can generate generate LLM responses by running the ```generate_llm_responses.py``` script. this will produce the responses to a tmp folder. If you are happy with the responses and want to persist/process them further, copy the results to the ```data/llm_responses/agreement_adherence``` folder.
 
 Note: this step can be both time and cost intensive. It is recommended to limit the number of responses to generate while iterating on a prompt with the variable ```TOPICS_LIMIT```
 
 ### Creating Markdown documents
-first run the script ```backend/llm_responses_to_json.py``` to restructure the llm responses for easier processing followed by the script ```backend/generate_final_markdown.py``` which will create and load the final markdown files to the docs folder in the frontend
+first run the script ```llm_responses_to_json.py``` to restructure the llm responses for easier processing followed by the script ```generate_final_markdown.py``` which will create and load the final markdown files to the docs folder in the frontend
 
 ### Building and serving the documentation website
 Lastly in order to serve your generated content

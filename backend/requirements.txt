@@ -6,3 +6,5 @@ beautifulsoup4
 requests
 fake-useragent
 python-dateutil
+fastapi
+pydantic
