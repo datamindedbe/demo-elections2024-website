@@ -4,16 +4,6 @@ class ActionProvider {
   constructor(createChatBotMessage, setStateFunc) {
     this.createChatBotMessage = createChatBotMessage;
     this.setState = setStateFunc;
-  }
-  queryResponse= (query) => {
-    let message = this.createChatBotMessage(
-      queryDecisions(query),
-      {
-        loading: true,
-        terminateLoading: true
-      }
-    );
-    this.addMessageToState(message);
   };
 
   addMessageToState = (message) => {
@@ -22,6 +12,19 @@ class ActionProvider {
       messages: [...state.messages, message]
     }));
   };
-}
+
+  queryResponse= (query) => {
+    queryDecisions(query).then((data) => {
+      console.log(data);
+      let message = this.createChatBotMessage(
+        data.message,
+        {
+          loading: true,
+          terminateLoading: true
+        }
+      );
+      this.addMessageToState(message);
+    });
+}}
 
 export default ActionProvider;
