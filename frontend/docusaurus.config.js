@@ -120,6 +120,14 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        appId: 'CT22MIK4DG',
+        apiKey: 'c1db25cdfdad490f0b44400e1b0a22cd',
+        indexName: 'regeringsrobot-1',
+        contextualSearch: false,
+        searchParameters: {},
+        searchPagePath: 'search',
+      },
     }),
 };
 
