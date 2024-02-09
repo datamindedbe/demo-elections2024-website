@@ -1,4 +1,4 @@
-# Evaluatie van de Naleving van het Regeerakkoord door de Regering
+# Een sterk lokaal ondernemerschap en bedrijvige kernen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

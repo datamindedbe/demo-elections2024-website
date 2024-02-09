@@ -1,6 +1,4 @@
-# Evaluatie van de nakoming van regeerakkoordbeloften door de Vlaamse regering
-
-De Vlaamse regering heeft in haar regeerakkoord beloofd om de activering te stimuleren door in contact te komen met inactieve personen die niet deelnemen aan de arbeidsmarkt om verschillende redenen [Regeerakkoord]. De regering heeft verschillende maatregelen genomen om deze belofte na te komen, onder meer door middel van hervormingen en nieuwe initiatieven gericht op het verlagen van drempels tot werkgelegenheid en het bevorderen van integratie in de arbeidsmarkt.
+# Activering stimuleren
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-
+# Slimme Groei
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

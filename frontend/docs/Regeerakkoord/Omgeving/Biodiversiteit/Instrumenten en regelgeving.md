@@ -1,4 +1,4 @@
-
+# Instrumenten en regelgeving
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

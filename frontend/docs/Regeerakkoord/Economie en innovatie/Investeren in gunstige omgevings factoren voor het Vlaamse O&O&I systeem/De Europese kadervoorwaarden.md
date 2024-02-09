@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord: Een Focus op Europese Kadervoorwaarden
-
-De beloften in regeerakkoord 2.3.7 richten zich op een proactieve en strategische benadering ten aanzien van de Europese Unie, waarbij nadruk wordt gelegd op vroege invloed op het beleid rond onderzoek, innovatie, industrie en interne markt, alsook voorbereiding op de gevolgen van de Brexit. De focus ligt ook op het uitvoeren van het Brexit actieplan en het ondersteunen van de uitwisseling van studenten en docenten na de uittreding van het VK uit de EU.
+# De Europese kadervoorwaarden
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

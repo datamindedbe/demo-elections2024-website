@@ -1,16 +1,4 @@
-# Uitvoering Regeerakkoord omtrent Luchthavenbeleid
-
-Op basis van de verstrekte documenten is er een analyse gemaakt over de mate waarin de Vlaamse Regering de doelstellingen uit het regeerakkoord met betrekking tot de luchthaven en geluidsproblematiek heeft nageleefd.
-
-Volgens het regeerakkoord streefde de regering naar een evenwichtige verdeling van de lasten van luchthaven geluidshinder en rechtsonzekerheid binnen de Vlaamse Rand en ten opzichte van het Brussels Gewest. Het doel was een vliegwet te implementeren op basis van historisch preferentieel baangebruik, eerlijke spreiding en aeronautische principes \[0\].
-
-Uit de besluiten kunnen we opmaken dat de regering zich actief heeft ingezet op dit gebied. Ze heeft een negatief advies uitgebracht op een resolutie die zou kunnen leiden tot een aanzienlijke beperking van de operationele mogelijkheden van Brussels Airport en het afwijken van de gestelde doelen uit het regeerakkoord \[0\]. Ook wijst ze een voorstel van koninklijk besluit af omtrent exploitatiebeperkingen op luchthavens, vanwege strijdigheid met de bevoegdheidsverdelende regels \[1\].
-
-Een belangenconflict wordt ingeroepen tegen de verschuiving van vliegroutes die meer geluidshinder in de Vlaamse Gemeenschap zou veroorzaken \[2\]. Verder wordt een geluidsactieplan voor de luchthaven Brussel-Nationaal goedgekeurd voor de periode van oktober 2021 tot juni 2024 \[3\]. Daarnaast worden strategische geluidsbelastingkaarten vastgesteld, wat bijdraagt aan de monitoring en aanpak van geluidshinder \[4\]\[5\].
-
-De visienota 'Vlaamse regionale luchthavens 2040' laat zien dat er gewerkt wordt aan een lange termijnstrategie voor Vlaamse luchthavens, zonder onmiddellijke financiële engagementen \[6\]. Fusies tussen luchthavenontwikkelingsmaatschappijen worden doorgevoerd om de samenwerking en efficiëntie te verbeteren \[7\]\[8\]\[9\].
-
-Tot slot is er besloten tot subsidiëring als reactie op de COVID-19 crisis om de liquiditeitspositie van de Vlaamse regionale luchthavens te ondersteunen \[10\]\[11\].
+# Luchthaven
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

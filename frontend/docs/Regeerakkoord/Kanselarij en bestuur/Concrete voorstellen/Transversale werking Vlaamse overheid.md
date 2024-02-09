@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord door Vlaamse Regering
+# Transversale werking Vlaamse overheid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,6 +1,4 @@
-# Evaluatie van de Waterbeleidsbeloften van de Vlaamse Regering
-
-De Vlaamse Regering heeft in haar regeerakkoord de ontwikkeling van een robuust watersysteem benadrukt, met specifieke doelen zoals het bufferen, gebruiken en infiltreren van hemelwater, de implementatie van slimme waterbuffers en infiltratiesystemen, en de coördinatie van waterbeheer naar Nederlands voorbeeld [Regeerakkoord].
+# Water: we investeren in een robuust watersysteem
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

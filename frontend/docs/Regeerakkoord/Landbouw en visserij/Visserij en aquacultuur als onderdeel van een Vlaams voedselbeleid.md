@@ -1,6 +1,4 @@
-# Voortgang van de Uitvoering van het Regeerakkoord in de Visserij en Aquacultuur
-
-De Vlaamse regering heeft in haar regeerakkoord beloftes gemaakt over visserij en aquacultuur en heeft verschillende beslissingen genomen om deze beloftes uit te voeren. Deze samenvatting bekijkt hoe goed de regering haar beloftes nakomt door te verwijzen naar relevante besluiten die sinds de goedkeuring van het regeerakkoord zijn genomen.
+# Visserij en aquacultuur als onderdeel van een Vlaams voedselbeleid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

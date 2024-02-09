@@ -1,4 +1,4 @@
-# Evaluatie Naleving Regeerakkoord op het Gebied van Wonen
+# Eigendomsverwerving wordt verder ondersteund
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,6 +1,4 @@
-# Uitvoering Regeerakkoord: Energie-efficiëntie van Gebouwen
-
-De Vlaamse regering heeft stappen ondernomen om het beoogde energiezuinige wonen en bouwen te realiseren, zoals vastgelegd in het regeerakkoord. Hier volgt een hoog niveau samenvatting van de relevante besluiten en hun impact op de naleving van de afspraken in het regeerakkoord.
+# Woningen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

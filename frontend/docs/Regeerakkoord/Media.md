@@ -1,6 +1,4 @@
-# Evaluatie van de Naleving van het Regeerakkoord in het Vlaamse Medialandschap
-
-Het beleid van de Vlaamse regering ten aanzien van het medialandschap volgens het Regeerakkoord en de daaropvolgende beslissingen wijst op inspanningen om de voornemens uit het regeerakkoord na te komen. Hieronder volgt een beknopte evaluatie van de mate waarin de genoemde punten uit het regeerakkoord zijn verwezenlijkt.
+# Media
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

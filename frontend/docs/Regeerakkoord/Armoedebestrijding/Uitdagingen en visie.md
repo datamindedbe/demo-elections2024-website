@@ -1,4 +1,4 @@
-# Samenvatting Uitvoering Regeerakkoord: Implementatie Armoedebeleid
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

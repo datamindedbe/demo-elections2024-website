@@ -1,4 +1,4 @@
-
+# Investeringsinstrumenten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

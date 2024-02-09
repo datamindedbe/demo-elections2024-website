@@ -1,6 +1,4 @@
-# Samenvatting: Nakoming Regeerakkoord Hernieuwbare Energie
-
-Hier volgt een samenvatting op hoog niveau van hoe de Vlaamse regering haar regeerakkoord commitment met betrekking tot hernieuwbare energie heeft nagekomen, gebaseerd op de verstrekte documenten.
+# Hernieuwbare energie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

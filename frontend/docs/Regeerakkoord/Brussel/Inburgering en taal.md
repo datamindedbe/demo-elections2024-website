@@ -1,4 +1,4 @@
-
+# Inburgering en taal
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

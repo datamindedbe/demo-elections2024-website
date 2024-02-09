@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord op Gebied van Omgevingsbeleid
+# Regelgeving digitaal platform
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord door Regeringsbeslissingen: Onderwijs
+# Pedagogische begeleidingsdiensten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

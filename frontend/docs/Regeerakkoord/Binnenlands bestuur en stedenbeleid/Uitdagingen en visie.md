@@ -1,4 +1,4 @@
-# Evaluatie van de naleving van het Vlaamse regeerakkoord
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

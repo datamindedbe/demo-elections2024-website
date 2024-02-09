@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord: Geestelijke Gezondheidszorg
-
-De plannen van de regering op het gebied van geestelijke gezondheidszorg zijn vastgelegd in het regeerakkoord, met de nadruk op toegankelijkheid, proactiviteit, betaalbaarheid en nabijheid. De beslissingen die in de jaren daarna zijn genomen, weerspiegelen inspanningen op deze gebieden, met een bijzondere focus op jongeren, perinatale zorg en suïcidepreventie [1.2.3.3].
+# Geestelijke gezondheid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

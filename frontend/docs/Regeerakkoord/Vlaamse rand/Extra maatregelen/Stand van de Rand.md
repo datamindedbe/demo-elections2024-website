@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord: De Stand van de Rand
+# Stand van de Rand
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

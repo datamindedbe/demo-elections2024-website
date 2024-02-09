@@ -1,4 +1,4 @@
-
+# Hoger en volwassenenonderwijs – Levenslang leren
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

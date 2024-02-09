@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord door de Vlaamse Regering
-
-De Vlaamse Regering lijkt over het algemeen toegewijd aan het nakomen van haar beloften uit het regeerakkoord met betrekking tot natuurbehoud en het milieu, zoals blijkt uit diverse beslissingen die genomen zijn in overeenstemming met de geplande acties uit het akkoord.
+# Soorten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

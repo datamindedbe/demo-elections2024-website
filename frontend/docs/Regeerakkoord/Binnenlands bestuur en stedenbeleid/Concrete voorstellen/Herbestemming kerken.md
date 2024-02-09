@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord op het Gebied van Herbestemming van Kerken in Vlaanderen
+# Herbestemming kerken
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

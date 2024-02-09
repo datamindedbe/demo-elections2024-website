@@ -1,4 +1,4 @@
-# Evaluatie van de uitvoering van het regeerakkoord inzake afvalbeheer
+# Verkleinen van afvalberg
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

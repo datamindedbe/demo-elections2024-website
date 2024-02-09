@@ -1,4 +1,4 @@
-# Samenvatting van de naleving van het regeerakkoord met betrekking tot jeugdbeleid
+# Jeugd
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

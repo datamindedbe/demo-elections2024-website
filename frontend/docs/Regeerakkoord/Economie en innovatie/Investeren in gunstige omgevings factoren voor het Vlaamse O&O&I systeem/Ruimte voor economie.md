@@ -1,4 +1,4 @@
-
+# Ruimte voor economie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

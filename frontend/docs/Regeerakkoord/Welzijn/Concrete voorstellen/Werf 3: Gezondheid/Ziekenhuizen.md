@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord: Ziekenhuissector in Vlaanderen
-
-De Vlaamse regering heeft in haar regeerakkoord verschillende beloftes gedaan met betrekking tot de ziekenhuissector \[0\]. Hieronder volgt een samenvatting van de uitvoering van deze beloftes, gebaseerd op de recente regeringsbeslissingen.
+# Ziekenhuizen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

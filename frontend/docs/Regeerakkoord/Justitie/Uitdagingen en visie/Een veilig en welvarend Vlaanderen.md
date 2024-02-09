@@ -1,4 +1,4 @@
-# Voortgangsrapportage regeerakkoord: Vlaamse Justitie en Handhaving
+# Een veilig en welvarend Vlaanderen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>
