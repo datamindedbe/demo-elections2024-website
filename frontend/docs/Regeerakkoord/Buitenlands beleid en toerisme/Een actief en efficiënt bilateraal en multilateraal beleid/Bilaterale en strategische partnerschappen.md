@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord Betreffende Bilaterale en Strategische Partnerschappen
+# Bilaterale en strategische partnerschappen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

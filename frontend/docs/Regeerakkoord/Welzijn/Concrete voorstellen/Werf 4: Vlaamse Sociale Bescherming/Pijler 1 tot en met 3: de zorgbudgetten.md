@@ -1,4 +1,4 @@
-# Evaluatie van de overeenstemming tussen het regeerakkoord en uitgevoerde beslissingen van de regering op gebied van zorgbudgetten
+# Pijler 1 tot en met 3: de zorgbudgetten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-
+# Vlaamse partners
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

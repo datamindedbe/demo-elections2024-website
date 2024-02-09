@@ -1,6 +1,4 @@
-# Samenvatting van de uitvoering van het Vlaams regeerakkoord inzake inburgering en integratie
-
-De Vlaamse regering heeft zich geëngageerd in haar regeerakkoord om het Vlaamse integratie- en inburgeringsbeleid te versterken en de economische en maatschappelijke participatie van nieuwkomers te bevorderen. De nadruk ligt op economische zelfredzaamheid, taalverwerving, en het naleven van de gedeelde normen en waarden van de Vlaamse samenleving. Hierbij volgt een samenvatting van de genomen stappen en beslissingen in relatie tot dat engagement.
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

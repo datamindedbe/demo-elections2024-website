@@ -1,6 +1,4 @@
-# Naleving Regeerakkoord door Vlaamse Regering op het Gebied van Juridische Eerstelijnsbijstand
-
-De Vlaamse Regering heeft stappen ondernomen om de uitvoering van het decreet m.b.t. de juridische eerstelijnsbijstand, zoals beschreven in het regeerakkoord, te optimaliseren. Deze inspanningen zijn terug te vinden in voorontwerpen en ontwerpbesluiten die principieel zijn goedgekeurd door de Vlaamse Regering en verder zijn onderworpen aan adviesprocedures. Het doel van deze wetsvoorstellen is om de toegang tot juridische eerstelijnsbijstand te vergemakkelijken en de kwaliteit hiervan te waarborgen. De regering streeft naar een laagdrempelige, efficiënte en kwalitatieve dienstverlening.
+# Juridische eerstelijnsbijstand
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

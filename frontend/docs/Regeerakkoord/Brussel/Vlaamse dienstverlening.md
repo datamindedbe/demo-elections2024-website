@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord door Vlaamse Regering: Focus op Vlaamse Dienstverlening in Brussel
+# Vlaamse dienstverlening
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

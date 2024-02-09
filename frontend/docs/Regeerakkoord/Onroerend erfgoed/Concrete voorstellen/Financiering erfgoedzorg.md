@@ -1,4 +1,4 @@
-# Samenvatting Nakoming Regeerakkoord: Erfgoedzorg en Financiering
+# Financiering erfgoedzorg
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

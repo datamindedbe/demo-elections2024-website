@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord op het Gebied van Toegankelijke Leefomgeving
-
-In het beoordeelde regeerakkoord is vastgesteld dat een integraal toegankelijke leefomgeving essentieel is voor een inclusieve maatschappij, waarbij speciaal gekeken wordt naar de fysieke en digitale toegankelijkheid voor alle burgers, met extra aandacht voor mensen met een handicap of chronische aandoening \[0\].
+# Toegankelijke leefomgeving
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

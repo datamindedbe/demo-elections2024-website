@@ -1,4 +1,4 @@
-# Beoordeling van de Uitvoering van het Vlaamse Regeerakkoord op het Gebied van Mest en Nutriënten
+# Mest en nutriënten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

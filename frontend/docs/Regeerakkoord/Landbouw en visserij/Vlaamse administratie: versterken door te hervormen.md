@@ -1,4 +1,4 @@
-
+# Vlaamse administratie: versterken door te hervormen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

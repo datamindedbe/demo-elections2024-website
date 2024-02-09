@@ -1,6 +1,4 @@
-# Samenvatting van de Uitvoering van het Regeerakkoord betreffende Groenblauwe Infrastructuur en Ecosysteemdiensten
-
-De regering heeft verscheidene besluiten en subsidies goedgekeurd die in lijn liggen met de beloftes uit het regeerakkoord aangaande groenblauwe infrastructuur en ecosysteemdiensten. Hieronder volgt een samenvatting van de maatregelen die de regering heeft genomen om haar beloftes na te komen:
+# Groenblauwe infrastructuur en ecosysteemdiensten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

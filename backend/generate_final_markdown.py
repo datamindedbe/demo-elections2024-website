@@ -25,7 +25,8 @@ def create_markdown(input_path, output_path):
 
     output_path = output_path.replace('.txt', '')
     with open(output_path + '.md', 'w') as f:
-        f.write(llm_data['heading'] + '\n\n')
+        heading = f"# {output_path.split('/')[-1]}"
+        f.write(heading + '\n\n')
 
         f.write(f"""<details>
         <summary>Regeerakkoord Sectie </summary>

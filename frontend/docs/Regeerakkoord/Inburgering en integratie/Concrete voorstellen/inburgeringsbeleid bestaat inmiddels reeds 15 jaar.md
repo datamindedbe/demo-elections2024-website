@@ -1,6 +1,4 @@
-# Naleving van het Regeerakkoord op het Gebied van Inburgeringsbeleid
-
-Het regeerakkoord benadrukt een inburgeringsbeleid dat nieuwkomers voorbereidt op participatie in de Vlaamse samenleving met nadruk op de kennis van de Nederlandse taal, inzicht in de samenleving, economische zelfredzaamheid en netwerkparticipatie \[0\]\[1\]. Een aantal beslissingen sinds de vorming van de regering geven inzicht in hoeverre deze beleidspunten zijn nagekomen.
+# inburgeringsbeleid bestaat inmiddels reeds 15 jaar
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

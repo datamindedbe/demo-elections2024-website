@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Plannen en Uitvoering in het Vlaamse Basisonderwijs
+# Basisonderwijs
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

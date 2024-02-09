@@ -1,4 +1,4 @@
-# Evaluatie van de Nakoming van Regeringsbeloften in Cultuur, Jeugd en Sport
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-# Samenvatting van de naleving van het regeerakkoord door de Vlaamse regering: Circulaire Economie
+# Economie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-# Evaluatie van het Regeerakkoord versus Regeringsbeslissingen over Sociale Voordelen
+# Sociale voordelen volgens de hoogte van het inkomen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

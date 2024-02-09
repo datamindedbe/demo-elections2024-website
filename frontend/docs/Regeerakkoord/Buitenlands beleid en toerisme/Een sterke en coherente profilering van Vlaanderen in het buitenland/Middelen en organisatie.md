@@ -1,4 +1,4 @@
-
+# Middelen en organisatie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

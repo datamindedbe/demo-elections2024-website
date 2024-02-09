@@ -1,4 +1,4 @@
-
+# Extra middelen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

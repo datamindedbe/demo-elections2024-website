@@ -1,4 +1,4 @@
-# Evaluatie van de naleving van het regeerakkoord door de Vlaamse regering
+# Strikte handhaving taalwetgeving
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-
+# Afval en circulaire economie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

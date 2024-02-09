@@ -1,4 +1,4 @@
-# Evaluatie van de Nakoming van het Regeerakkoord door de Vlaamse Regering
+# Investeringen opdrijven
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

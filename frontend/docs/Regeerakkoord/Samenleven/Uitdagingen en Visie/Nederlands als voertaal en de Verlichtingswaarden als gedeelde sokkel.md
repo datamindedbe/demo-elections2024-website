@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord van Vlaamse Regering
+# Nederlands als voertaal en de Verlichtingswaarden als gedeelde sokkel
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-# Voortgangsrapportage naleving regeerakkoord op gebied van radicaliseringspreventie
+# Preventie van radicalisering
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

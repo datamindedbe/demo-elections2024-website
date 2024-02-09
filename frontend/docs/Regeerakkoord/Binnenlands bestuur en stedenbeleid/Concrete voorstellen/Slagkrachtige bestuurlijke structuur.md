@@ -1,4 +1,4 @@
-
+# Slagkrachtige bestuurlijke structuur
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

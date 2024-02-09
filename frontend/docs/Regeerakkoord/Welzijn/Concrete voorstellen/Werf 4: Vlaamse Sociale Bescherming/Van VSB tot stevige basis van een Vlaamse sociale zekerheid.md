@@ -1,4 +1,4 @@
-
+# Van VSB tot stevige basis van een Vlaamse sociale zekerheid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

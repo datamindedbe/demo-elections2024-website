@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord over de Vlaamse Kust en Noordzee
+# Vlaamse kust en Noordzee
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

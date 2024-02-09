@@ -1,4 +1,4 @@
-
+# Open ruimte
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

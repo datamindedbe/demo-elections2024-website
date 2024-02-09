@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Logistiek en Transport in Vlaanderen
+# Logistiek
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

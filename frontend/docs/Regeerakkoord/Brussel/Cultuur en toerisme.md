@@ -1,4 +1,4 @@
-# Evaluatie Naleving Regeerakkoord: Cultuur en Toerisme
+# Cultuur en toerisme
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

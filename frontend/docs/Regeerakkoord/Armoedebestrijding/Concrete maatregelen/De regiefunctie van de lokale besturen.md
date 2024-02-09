@@ -1,4 +1,4 @@
-
+# De regiefunctie van de lokale besturen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

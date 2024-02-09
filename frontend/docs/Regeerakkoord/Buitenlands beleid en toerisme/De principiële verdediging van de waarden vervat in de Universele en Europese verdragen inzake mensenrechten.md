@@ -1,4 +1,4 @@
-
+# De principiële verdediging van de waarden vervat in de Universele en Europese verdragen inzake mensenrechten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

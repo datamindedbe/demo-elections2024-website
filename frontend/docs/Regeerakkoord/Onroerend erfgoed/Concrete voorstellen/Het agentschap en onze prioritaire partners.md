@@ -1,4 +1,4 @@
-# Evaluatie van de Naleving van het Regeerakkoord op het Gebied van Onroerend Erfgoed
+# Het agentschap en onze prioritaire partners
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

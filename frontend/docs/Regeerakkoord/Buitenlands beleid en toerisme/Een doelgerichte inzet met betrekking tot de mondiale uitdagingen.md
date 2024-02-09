@@ -1,4 +1,4 @@
-
+# Een doelgerichte inzet met betrekking tot de mondiale uitdagingen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

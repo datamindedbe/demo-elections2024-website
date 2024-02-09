@@ -1,4 +1,4 @@
-# Realisatie van fietsinfrastructuur plannen volgens het regeerakkoord
+# Fiets
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

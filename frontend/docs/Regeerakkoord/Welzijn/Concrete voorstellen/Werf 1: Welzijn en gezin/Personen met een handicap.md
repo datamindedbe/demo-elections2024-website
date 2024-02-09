@@ -1,4 +1,4 @@
-# Evaluatie van de naleving van beloften uit het regeerakkoord door de regering voor personen met een handicap
+# Personen met een handicap
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

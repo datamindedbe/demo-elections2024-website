@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Ondersteuning Locale Besturen
+# Ondersteuning van de lokale besturen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>
