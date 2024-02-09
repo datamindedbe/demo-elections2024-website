@@ -113,7 +113,7 @@ const config = {
         },
         copyright: `Copyright © ${new Date().getFullYear()} Data Minded.`,
         links:[{
-            html: `<p>Disclaimer: <i> Wij kunnen niet garanderen dat de inhoud van deze website volledig correct en is, aangezien deze gedeeltelijk met behulp van AI (OpenAI GPT-4) werd gegenereerd. Deze website is uitsluitend bedoeld voor experimentele en educatieve doeleinden.</i> </p>`,
+            html: `<p>Disclaimer: <i> Wij kunnen niet garanderen dat de inhoud van deze website volledig correct is, aangezien deze gedeeltelijk met behulp van AI (OpenAI GPT-4) werd gegenereerd. Deze website is uitsluitend bedoeld voor experimentele en educatieve doeleinden.</i> </p>`,
         }]
       },
       prism: {
