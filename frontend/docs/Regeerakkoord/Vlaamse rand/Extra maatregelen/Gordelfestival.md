@@ -1,4 +1,4 @@
-# Evaluatie van de Belgische regering: Uitvoering Regeerakkoord inzake Gordelfestival
+# Gordelfestival
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,6 +1,4 @@
-# Evaluatie van de Uitvoering van het Beleidsplan Ruimte Vlaanderen
-
-Op basis van de verstrekte documenten met betrekking tot de plannen en beslissingen van de Vlaamse regering, volgt hier een samenvatting op hoog niveau van hoe de overheid haar beloften uit het regeerakkoord is nagekomen, specifiek gericht op het Beleidspunt Ruimte Vlaanderen (BRV).
+# Beleidsplan Ruimte Vlaanderen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

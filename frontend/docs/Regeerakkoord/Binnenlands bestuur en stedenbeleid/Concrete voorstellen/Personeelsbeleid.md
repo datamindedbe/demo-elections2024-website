@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord betreffende Personeelsbeleid
+# Personeelsbeleid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

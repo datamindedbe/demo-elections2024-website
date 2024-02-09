@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Regeerakkoord op het Gebied van Landbouw
+# Landbouw
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

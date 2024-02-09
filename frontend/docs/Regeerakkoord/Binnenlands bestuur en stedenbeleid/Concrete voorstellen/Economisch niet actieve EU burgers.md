@@ -1,4 +1,4 @@
-
+# Economisch niet actieve EU burgers
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

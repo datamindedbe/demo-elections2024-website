@@ -1,26 +1,4 @@
-# Samenvatting Naleving Regeerakkoord op Gebied van Landgebruik en Koolstofopslag
-
-De regering heeft een duidelijke commitment uitgesproken in het regeerakkoord met betrekking tot het landgebruik en de netto koolstofopslag. Hieronder volgt een analyse van de genomen beslissingen en in hoeverre deze overeenstemmen met de beloftes uit het akkoord:
-
-1. De steun voor niet-productieve investeringen \[0\]\[1\] beoogt verbetering van klimaatbestendigheid en biodiversiteit in de landbouw en is in lijn met de plannen om koolstofverlies in landbouwbodems tegen te gaan.
-  
-2. De introductie van bijkomende combinatiemogelijkheden \[2\] van landbouwmaatregelen stimuleert agrariërs om het land duurzamer te gebruiken en ondersteunt koolstofopslag in landbouwgrond.
-
-3. Het verbeteren van bijenteelt \[3\]\[4\] draagt indirect bij aan de algehele biodiversiteit en kan positieve effecten hebben op de koolstofopslag van ecosystemen.
-
-4. De subsidie voor het verhogen van het effectieve organische koolstofgehalte \[5\]\[6\]\[7\] in bouwland via het teeltplan bevordert direct de opslag van koolstof in landbouwbodems.
-
-5. De steun voor duurzame verwerking en afzet van landbouwproducten \[8\]\[9\] kan de transitie naar een duurzamere landbouwsector stimuleren, wat potentiële voordelen voor koolstofopslag oplevert.
-
-6. Sensibiliseringsacties \[10\]\[11\]\[12\] kunnen bijdragen aan bewustwording en aanpassing van het beheer van gronden, wat indirect helpt bij het behalen van de doelstellingen.
-
-7. Strategisch beleid \[13\] en acties zoals het verhogen van natuurlijke opslaggebieden \[14\]\[15\] en het investeren in natte natuur \[16\]\[17\] en bossen \[15\] passen bij de ambitie om meer koolstof op te slaan en komen overeen met de voornemens van het regeerakkoord.
-
-8. Het Vlaams Gemeenschappelijk Landbouwbeleid \[13\]\[18\]\[19\]\[20\] richt zich op beleidsmaatregelen die in overeenstemming zijn met het streven naar koolstofneutrale gronden.
-
-9. Bijstellingen voor het verduurzamen van het overheidsbeleid \[21\]\[22\]\[23\]\[24\]\[25\] en energiebesparende maatregelen \[26\] kunnen indirect de koolstofbalans beïnvloeden door betere verantwoordelijkheden in het landgebruik.
-
-10. In projectoproepen en strategieën \[27\]\[28\]\[29\]\[30\]\[31\]\[32\]\[33\]\[34\]\[35\]\[36\]\[37\]\[38\]\[39\] \[40\]\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]\[54\]\[55\]\[56\]\[57\]\[58\] wordt de focus op duurzaam landgebruik en koolstofopslag herhaaldelijk benadrukt, hetgeen duidt op een eigenlijke implementatie van het regeerakkoord.
+# Landgebruik
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

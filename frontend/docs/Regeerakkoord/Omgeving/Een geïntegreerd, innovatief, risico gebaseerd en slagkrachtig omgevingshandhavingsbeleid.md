@@ -1,4 +1,4 @@
-# Uitvoering van het Regeerakkoord: Omgevingshandhavingsbeleid
+# Een geïntegreerd, innovatief, risico gebaseerd en slagkrachtig omgevingshandhavingsbeleid
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

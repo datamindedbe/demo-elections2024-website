@@ -1,4 +1,4 @@
-
+# Een vroege detectie en aanpak van armoede
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

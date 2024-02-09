@@ -1,6 +1,4 @@
-# Uitvoering Regeerakkoord en Energieplannen: Vlaamse Overheid en haar Beloften
-
----
+# Betaalbare energie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-
+# VZW De Rand
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

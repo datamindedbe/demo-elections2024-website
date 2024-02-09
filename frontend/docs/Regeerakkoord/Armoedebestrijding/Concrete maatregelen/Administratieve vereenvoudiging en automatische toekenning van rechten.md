@@ -1,6 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Administratieve Vereenvoudiging in de Sociale Sector
-
-In het kader van de in het regeerakkoord gestelde doelen voor administratieve vereenvoudiging en automatische toekenning van rechten, heeft de regering diverse beslissingen genomen die overeenkomen met deze beloften:
+# Administratieve vereenvoudiging en automatische toekenning van rechten
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Vlaams Regeerakkoord op ICT en Digitalisering
+# ICT en Informatie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

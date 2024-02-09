@@ -1,4 +1,4 @@
-# Evaluatie van de Nakoming van het Regeerakkoord door de Vlaamse Regering
+# Toegang tot kapitaal en strategische verankering
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

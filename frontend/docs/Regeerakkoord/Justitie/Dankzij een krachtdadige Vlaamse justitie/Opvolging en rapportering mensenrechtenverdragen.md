@@ -1,4 +1,4 @@
-# Evaluatie van de Beloftes in het Regeerakkoord: Mensenrechtenverdragen
+# Opvolging en rapportering mensenrechtenverdragen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

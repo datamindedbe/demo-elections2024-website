@@ -1,4 +1,4 @@
-# Uitvoering Regeerakkoord: Een Evaluatie van de Vlaamse Regering
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

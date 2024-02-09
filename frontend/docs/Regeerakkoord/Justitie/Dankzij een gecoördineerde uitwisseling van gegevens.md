@@ -1,4 +1,4 @@
-
+# Dankzij een gecoördineerde uitwisseling van gegevens
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

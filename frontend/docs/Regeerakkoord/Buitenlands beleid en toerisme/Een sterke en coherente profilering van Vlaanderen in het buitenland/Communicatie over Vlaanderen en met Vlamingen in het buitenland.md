@@ -1,4 +1,4 @@
-# Evaluatie van de Uitvoering van het Vlaamse Regeerakkoord op het Gebied van Internationale Profilering
+# Communicatie over Vlaanderen en met Vlamingen in het buitenland
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

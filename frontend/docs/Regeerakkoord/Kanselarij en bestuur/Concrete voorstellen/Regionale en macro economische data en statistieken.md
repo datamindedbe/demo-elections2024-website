@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord op Gebied van Regionale en Macro-economische Data en Statistieken
+# Regionale en macro economische data en statistieken
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

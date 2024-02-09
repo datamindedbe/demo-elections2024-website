@@ -1,4 +1,4 @@
-# Evaluatie van de implementatie van het regeerakkoord met betrekking tot welzijn in Brussel
+# Welzijn
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

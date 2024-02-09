@@ -1,4 +1,4 @@
-# Evaluatie van de uitvoering van het regeerakkoord betreffende integratie en inclusie
+# Uitsluiting voorkomen, samenleven bevorderen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

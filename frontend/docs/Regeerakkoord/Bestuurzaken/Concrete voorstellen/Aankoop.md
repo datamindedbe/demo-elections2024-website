@@ -1,4 +1,4 @@
-
+# Aankoop
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

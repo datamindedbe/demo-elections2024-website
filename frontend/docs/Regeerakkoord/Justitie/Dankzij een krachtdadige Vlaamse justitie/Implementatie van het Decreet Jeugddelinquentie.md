@@ -1,6 +1,4 @@
-# Uitvoering Regeerakkoord: Controle op de Implementatie van het Decreet Jeugddelinquentie
-
-De Vlaamse regering heeft zich via het regeerakkoord verbonden aan de implementatie van het decreet betreffende het jeugddelinquentierecht. Hieronder volgt een overzicht van de relevante besluitvorming en in hoeverre deze overeenkomen met de doelstellingen en beloften uit het regeerakkoord.
+# Implementatie van het Decreet Jeugddelinquentie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

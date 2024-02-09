@@ -1,6 +1,4 @@
-# Evaluatie van de Naleving van het Regeerakkoord inzake Onderwijs door de Vlaamse Regering
-
-Na analyse van de beschikbare documenten aangaande het regeerakkoord en de daaropvolgende beslissingen van de Vlaamse Regering, kan er een samenvatting gegeven worden over de naleving van de beloftes omtrent onderwijs. De focus ligt daarbij op infrastructuur, capaciteit, meertaligheid, en samenwerking met de Franse Gemeenschap, zoals uiteengezet in punt 5.8 van het regeerakkoord.
+# Onderwijs
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

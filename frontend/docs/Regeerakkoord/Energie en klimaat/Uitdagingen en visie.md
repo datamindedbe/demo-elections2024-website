@@ -1,4 +1,4 @@
-# Evaluatie van de Vlaamse Regering: Naleving van het Regeerakkoord op het vlak van Klimaatbeleid
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

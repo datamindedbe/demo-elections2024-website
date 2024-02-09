@@ -1,4 +1,4 @@
-
+# Dierenwelzijn
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

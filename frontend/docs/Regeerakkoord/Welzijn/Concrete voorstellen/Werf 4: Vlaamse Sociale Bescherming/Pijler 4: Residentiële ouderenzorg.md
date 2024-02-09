@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Residentiële Ouderenzorg
+# Pijler 4: Residentiële ouderenzorg
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

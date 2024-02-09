@@ -1,4 +1,4 @@
-
+# Aandacht voor welzijn, een leefbaar platteland en open ruimte
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

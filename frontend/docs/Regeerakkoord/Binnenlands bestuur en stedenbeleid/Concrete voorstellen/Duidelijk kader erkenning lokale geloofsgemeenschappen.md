@@ -1,4 +1,4 @@
-
+# Duidelijk kader erkenning lokale geloofsgemeenschappen
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

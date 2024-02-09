@@ -1,4 +1,4 @@
-# Analyse van de Naleving van het Regeerakkoord door de Vlaamse Regering Betreffende de Vrijheid van Religie en Levensbeschouwing
+# Vrijheid van religie en levensbeschouwing
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

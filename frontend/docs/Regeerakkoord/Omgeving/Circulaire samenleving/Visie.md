@@ -1,4 +1,4 @@
-# Evaluatie van de nakoming van het regeerakkoord door de Vlaamse regering op het gebied van circulaire economie
+# Visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

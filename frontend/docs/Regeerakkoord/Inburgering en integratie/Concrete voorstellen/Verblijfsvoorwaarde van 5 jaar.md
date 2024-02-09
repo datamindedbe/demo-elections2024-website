@@ -1,4 +1,4 @@
-
+# Verblijfsvoorwaarde van 5 jaar
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

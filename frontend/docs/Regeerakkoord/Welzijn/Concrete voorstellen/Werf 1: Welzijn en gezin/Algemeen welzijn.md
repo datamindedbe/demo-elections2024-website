@@ -1,6 +1,4 @@
-# Samenvatting Naleving Regeerakkoord door Vlaamse Regering: Welzijn en Zorg
-
----
+# Algemeen welzijn
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

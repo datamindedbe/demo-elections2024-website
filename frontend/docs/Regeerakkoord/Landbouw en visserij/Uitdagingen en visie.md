@@ -1,4 +1,4 @@
-# Voortgang van de Regeerbeloften in de Agrofood Sector
+# Uitdagingen en visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

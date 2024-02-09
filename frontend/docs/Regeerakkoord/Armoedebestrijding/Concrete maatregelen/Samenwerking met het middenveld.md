@@ -1,4 +1,4 @@
-
+# Samenwerking met het middenveld
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

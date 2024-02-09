@@ -1,4 +1,4 @@
-# Evaluatie van de nakoming van regeringsbeloften over internationalisering
+# FIT promoot Vlaanderen wereldwijd als innovatieve topregio
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

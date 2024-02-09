@@ -1,4 +1,4 @@
-
+# Industrie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

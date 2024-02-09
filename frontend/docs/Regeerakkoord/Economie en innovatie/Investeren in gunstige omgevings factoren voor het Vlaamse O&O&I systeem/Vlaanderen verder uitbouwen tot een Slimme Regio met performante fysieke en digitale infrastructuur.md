@@ -1,4 +1,4 @@
-# Evaluatie van de Vlaamse Regering in Naleving van het Regeerakkoord op Digitale Infrastructuur en Innovatie
+# Vlaanderen verder uitbouwen tot een Slimme Regio met performante fysieke en digitale infrastructuur
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

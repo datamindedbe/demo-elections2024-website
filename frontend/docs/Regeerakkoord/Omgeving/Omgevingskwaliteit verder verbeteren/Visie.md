@@ -1,6 +1,4 @@
-# Uitvoering van het Regeerakkoord: Beoordeling van Milieubeleid en Luchtkwaliteit
-
-De Vlaamse Regering heeft in haar regeerakkoord de ambities vastgelegd op het gebied van omgevingskwaliteit, met specifieke aandacht voor verbetering van de luchtkwaliteit, waterkwaliteit en sanering van verontreinigde bodem, evenals het verminderen van geluidsoverlast. We kijken naar een aantal beslissingen die genomen zijn sindsdien om te beoordelen in welke mate de regering haar beleidsplannen heeft uitgevoerd.
+# Visie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

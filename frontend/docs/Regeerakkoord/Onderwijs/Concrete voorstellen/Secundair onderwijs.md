@@ -1,4 +1,4 @@
-
+# Secundair onderwijs
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

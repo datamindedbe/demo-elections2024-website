@@ -1,4 +1,4 @@
-
+# Klanten van FIT hebben in een steeds competitievere internationale omgeving nood hebben aan meer informatie, begeleiding en advies op maat v
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

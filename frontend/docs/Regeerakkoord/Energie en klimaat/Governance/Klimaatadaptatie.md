@@ -1,4 +1,4 @@
-# Samenvatting Naleving Regeerakkoord: Klimaatadaptatie
+# Klimaatadaptatie
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

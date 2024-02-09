@@ -1,4 +1,4 @@
-
+# Ondernemerschap en innovatie waarbij risicomanagement, het onderhouden van stabiele markten en slim gekozen export centraal staan
 
 <details>
         <summary>Regeerakkoord Sectie </summary>

@@ -1,4 +1,4 @@
-
+# MOW
 
 <details>
         <summary>Regeerakkoord Sectie </summary>
