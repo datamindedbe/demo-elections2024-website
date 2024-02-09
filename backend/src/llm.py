@@ -10,7 +10,7 @@ client = openai.OpenAI(
 
 encoding = tiktoken.encoding_for_model(OPENAI_MODEL_NAME)
 
-def get_response(prompt:str)->str:
+def get_response(prompt:str, model_overide=None)->str:
     api_response = client.chat.completions.create(
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
@@ -19,7 +19,7 @@ def get_response(prompt:str)->str:
                 "content": prompt,
             }
         ],
-        model=OPENAI_MODEL_NAME,
+        model=model_overide if model_overide else OPENAI_MODEL_NAME,
     )
     return api_response.choices[0].message.content
 
@@ -69,23 +69,20 @@ def extended_message(message:str)->Optional[str]:
     if len(message)==0:
         return None
     
-    prompt = f"""
-                herschrijf het volgende op een meer uitgebreide en uitgebreide manier,
-                waarbij u de verklaring op een paar manieren herformuleert: {message}
+    prompt = f"""            
+    Reageer in een paar zinnen op de volgende stelling: {message}
     """
 
-    return get_response(prompt)
+    return get_response(prompt, model_overide="gpt-3.5-turbo")
 
 def decisions_query(query:str, matching_decisions:list[VectorDBItem])->str:
     # this function will take a given query and matching decisions and generate a response
     flat_decisions = [f"{index} [url: {item.metadata['source_url']}] - {item.text}" for index, item in enumerate(matching_decisions)]
     flat_decisions = "\n".join(flat_decisions)
     prompt = f"""
-                heeft op onderstaand bericht gereageerd door, indien aanwezig, uitsluitend gebruik te maken van de in het betreffende Belissingen aangeboden informatie
-                Staat er niet voldoende informatie in de Belissingen om op het bericht te reageren, probeer dan niet te reageren. 
-                geef referenties en URL-links naar de vragen die in het antwoord zijn geraadpleegd.
-                Bericht:{query}
-                Beslissingen: {flat_decisions}
+                Beantwoord de gegeven vraag met behulp van alleen de informatie in het onderstaande inhoudsgedeelte
+                inhoud: {flat_decisions}
+                vraag:{query}
                 Jou antwoord:
     """
     return get_response(prompt)
