@@ -6,6 +6,7 @@ import json
 import urllib
 from src.vector_store import VectorCollection
 from src.aws import list_s3_files, read_txt_from_s3
+from src.util import title_to_url
 
 from config import AGREEMENTS_PATH, DECISIONS_S3_BUCKET, DECISIONS_S3_PREFIX_CLEAN
 
@@ -13,13 +14,6 @@ from config import AGREEMENTS_PATH, DECISIONS_S3_BUCKET, DECISIONS_S3_PREFIX_CLE
 # note that this will take a while
 REPROCESS_AGREEMENTS = False
 REPROCESS_DECISIONS = False
-
-def title_to_url(title, date):
-    # this is a very custom function to interact with the flemish government's website
-    url_friendly_title = urllib.parse.quote(title)
-    url_friendly_date = urllib.parse.quote(date)
-    full_url = f"https://beslissingenvlaamseregering.vlaanderen.be/?search={url_friendly_title}&dateOption=select&startDate={url_friendly_date}&endDate={url_friendly_date}"
-    return full_url
 
 
 if REPROCESS_AGREEMENTS:
