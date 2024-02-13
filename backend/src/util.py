@@ -1,4 +1,5 @@
 import os 
+import urllib
 
 def remove_newline_char(text: str) -> str:
     return text.replace('\n', ' ')
@@ -77,3 +78,11 @@ def get_secties_structure(path):
             continue
 
     return sections
+
+
+def title_to_url(title, date):
+    # this is a very custom function to interact with the flemish government's website
+    url_friendly_title = urllib.parse.quote(title)
+    url_friendly_date = urllib.parse.quote(date)
+    full_url = f"https://beslissingenvlaamseregering.vlaanderen.be/?search={url_friendly_title}&dateOption=select&startDate={url_friendly_date}&endDate={url_friendly_date}"
+    return full_url
