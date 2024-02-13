@@ -1,6 +1,8 @@
 import boto3
 from config import AWS_PROFILE_NAME
-boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
+
+if AWS_PROFILE_NAME:
+    boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
 s3_client= boto3.client('s3')
 
 def list_s3_files(bucket_name, prefix):

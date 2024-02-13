@@ -8,7 +8,9 @@ from config import AWS_PROFILE_NAME, BEDROCK_REGION, BEDROCK_BUCKET
 from src.aws import read_txt_from_s3
 from src.util import title_to_url
 
-boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
+if AWS_PROFILE_NAME:
+    boto3.setup_default_session(profile_name=AWS_PROFILE_NAME)
+
 bedrock = boto3.client('bedrock-agent-runtime', region_name=BEDROCK_REGION)
 
 
