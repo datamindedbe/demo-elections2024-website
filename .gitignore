@@ -161,6 +161,8 @@ cython_debug/
 
 data/vector_db/
 tmp/
+backend/package/
+backend/package.zip
 
 # MacOS
 .DS_Store
