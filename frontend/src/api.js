@@ -8,5 +8,6 @@ export const queryDecisions = async (message) => {
         headers: { 'Content-Type': 'application/json', 'x-api-key': 'GoyQ3lFfGN3TvZUsnwjGAaTz9Bx3GRWp9Ohj5vs7'},
         parameters: {'query': message}})
     let response_json =  await data.json();
-    return response_json['body'];
+    console.log(response_json);
+    return JSON.parse(response_json['body']);
   };
