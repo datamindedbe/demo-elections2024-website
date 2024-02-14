@@ -38,7 +38,7 @@ function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-      < img style={{"max-width":"100px"}} src={image} alt={title} />
+      < img style={{"maxWidth":"100px"}} src={image} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

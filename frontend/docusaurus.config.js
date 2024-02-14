@@ -11,7 +11,7 @@ const config = {
   title: 'De Regeringsrobot',
   tagline: 'Generatieve AI legt voor u de politieke puzzel in elkaar',
   favicon: 'img/favicon.ico',
-
+  
   // Set the production url of your site here
   url: 'https://regeringsrobot.be',
   // Set the /<baseUrl>/ pathname under which your site is served
