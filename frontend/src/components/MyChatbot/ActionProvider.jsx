@@ -17,7 +17,7 @@ class ActionProvider {
     queryDecisions(query).then((data) => {
       console.log(data);
       let message = this.createChatBotMessage(
-        data.message,
+        data,
         {
           loading: true,
           terminateLoading: true
