@@ -4,3 +4,9 @@
     right: 20px;
     z-index: 1000;
 }
+
+.margined-decisions {
+    margin-bottom: 5px;
+    background-color: #85bce5;
+}
+

@@ -22,7 +22,7 @@ const DecisionsResponse = props => {
   // check if the response is a string
   if (typeof decisions === "string") {
     // if something went wrong - replace with a chatbot message
-    return (<div> {decisions} </div>)
+    return (<div class = "react-chatbot-kit-chat-bot-message"> {decisions} </div>)
   }
   
   // only take the title and url of the decisions
@@ -33,12 +33,17 @@ const DecisionsResponse = props => {
     }
   });
 
+  // filter out deciions with no title
+  const decisions_filtered = decisions.filter((decision) => {
+    return decision.title !== null
+  })
+
   return (
     <div>
     {
-      decisions.map((decision, index) => {
+      decisions_filtered.map((decision, index) => {
         return (
-          <div key={index}>
+          <div class = "margined-decisions react-chatbot-kit-chat-bot-message" key={index}>
             <a href={decision.url}>
               {decision.title}
             </a>
