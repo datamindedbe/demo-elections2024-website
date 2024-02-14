@@ -22,6 +22,8 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
         item = {
             "text": bedrock_item.text,
             "decision_url": bedrock_item.decision_url,
+            "title": bedrock_item.title,
+            "meeting_date": bedrock_item.meeting_date,
             "score": bedrock_item.score
         }
         items.append(item)
