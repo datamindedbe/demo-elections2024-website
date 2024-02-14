@@ -22,3 +22,8 @@ DECISIONS_S3_BUCKET_INGESTION = "ingestion/"
 # openai/llm config
 OPENAI_API_KEY =  os.environ.get('OPENAI_API_KEY')
 OPENAI_MODEL_NAME = "gpt-4-1106-preview"
+
+# bedrock config
+BEDROCK_REGION = 'us-east-1'
+BEDROCK_KNOWLEDGE_BASE_ID=os.environ.get('BEDROCK_KNOWLEDGE_BASE_ID')
+BEDROCK_BUCKET = 'rushil-test'
