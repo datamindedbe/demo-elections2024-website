@@ -14,17 +14,13 @@ class ActionProvider {
   };
 
   queryResponse= (query) => {
-    queryDecisions(query).then((data) => {
-      console.log(data);
-      let message = this.createChatBotMessage(
-        data,
-        {
-          loading: true,
-          terminateLoading: true
-        }
-      );
-      this.addMessageToState(message);
-    });
+    const message =  this.createChatBotMessage(
+      "Ik zal er naar kijken",
+      {
+        widget: "DecisionsResponse",
+      }
+    );
+    this.addMessageToState(message);
 }}
 
 export default ActionProvider;
