@@ -2,7 +2,6 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    z-index: 1000;
 }
 
 .margined-decisions {
@@ -10,3 +9,123 @@
     background-color: #85bce5;
 }
 
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .options {
+    padding-bottom: 15px;
+  }
+  
+  .options-header {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: normal;
+  }
+  
+  .options-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .option-item {
+    padding: 8px 15px;
+    border: 1px solid #2898ec;
+    border-radius: 25px;
+    color: #1f91e7;
+    font-size: 0.9rem;
+    margin: 3px;
+    box-shadow: inset 0px 0px 0px #2273c4;
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+  
+  .option-item:hover {
+    box-shadow: inset 195px 0px 0px #2273c4;
+    color: #ffffff;
+  }
+  
+  .stats {
+    color: white;
+    font-size: 0.9rem;
+    background-color: rgba(45, 159, 253, 0.589);
+    display: flex;
+    background: linear-gradient(to top right, rgb(15, 146, 221), #055991);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  .column-left {
+    text-align: right;
+  }
+  .column-right {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .url-link {
+    font-size: 0.9rem;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: #2273c4;
+    display: flex;
+    align-items: center;
+    color: #fff;
+  }
+  .url-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  .url-header {
+    font-size: 0.9rem;
+    font-weight: lighter;
+  }
+  
+  .tel-link {
+    font-size: 0.7rem;
+    padding: 2px 5px;
+    border-radius: 30px;
+    background-color: #2273c4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    fill: #fff;
+  }
+  
+  .app-chatbot-button {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    padding: 10px;
+    color: #fff;
+    background-color: #0d2d44;
+    border: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.6s ease-in-out;
+  }
+  .app-chatbot-button:hover {
+    transform: scale(1.1);
+  }
+  .app-chatbot-container {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    left: 40px;
+    bottom: 55px;
+    z-index: 9999;
+    box-shadow: 5px 5px 13px rgba(91, 81, 81, 0.4);
+    border-radius: 5px;
+  }
+  .app-chatbot-button-icon {
+    fill: #fff;
+  }
