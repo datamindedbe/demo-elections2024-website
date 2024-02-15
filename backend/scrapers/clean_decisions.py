@@ -111,6 +111,7 @@ def get_attribute_string(contents, attribute_name):
             if isinstance(attribute_content, list):
                 attribute_content = attribute_content[0]
             attribute_content = remove_markdown(remove_html_tags(attribute_content)).strip()
+            return attribute_content
     except:
         pass
     return attribute
@@ -135,7 +136,6 @@ def run():
                 contents = read_json_from_s3(SCRAPER_DECISIONS_OUTPUT_S3_BUCKET, file)
                 if contents:
                     logging.info(f'Processing {file}')
-
                     title = get_attribute_string(contents, 'title')
                     alternative_title = get_attribute_string(contents, 'alternativeTitle')
                     body = get_attribute_string(contents, 'htmlContent')
