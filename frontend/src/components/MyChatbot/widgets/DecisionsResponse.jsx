@@ -22,7 +22,7 @@ const DecisionsResponse = props => {
   // check if the response is a string
   if (typeof decisions === "string") {
     // if something went wrong - replace with a chatbot message
-    return (<div class = "react-chatbot-kit-chat-bot-message"> {decisions} </div>)
+    return (<div className = "react-chatbot-kit-chat-bot-message"> {decisions} </div>)
   }
   
   // only take the title and url of the decisions
