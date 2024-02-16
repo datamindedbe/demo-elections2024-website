@@ -18,6 +18,7 @@ class ActionProvider {
       "Ik zal er naar kijken",
       {
         widget: "DecisionsResponse",
+        withAvatar: true,
       }
     );
     this.addMessageToState(message);
