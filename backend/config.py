@@ -26,4 +26,4 @@ OPENAI_MODEL_NAME = "gpt-4-1106-preview"
 # bedrock config
 BEDROCK_REGION = 'us-east-1'
 BEDROCK_KNOWLEDGE_BASE_ID=os.environ.get('BEDROCK_KNOWLEDGE_BASE_ID')
-BEDROCK_BUCKET = 'rushil-test'
+BEDROCK_BUCKET = 'electionsai'
