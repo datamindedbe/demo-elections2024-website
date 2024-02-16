@@ -1,5 +1,3 @@
-import { queryDecisions } from "@site/src/api";
-
 class ActionProvider {
   constructor(createChatBotMessage, setStateFunc) {
     this.createChatBotMessage = createChatBotMessage;
@@ -13,7 +11,7 @@ class ActionProvider {
     }));
   };
 
-  queryResponse= (query) => {
+  queryResponse= () => {
     const message =  this.createChatBotMessage(
       "Ik zal er naar kijken",
       {

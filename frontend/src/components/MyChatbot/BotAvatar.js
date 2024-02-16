@@ -1,5 +1,4 @@
 import React from "react";
-
 import BotAvatar from "@site/static/img/robot_avatar.png";
 
 const CoBotAvatar = () => {
