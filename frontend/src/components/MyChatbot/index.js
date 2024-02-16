@@ -17,9 +17,10 @@ const MyChatbot = () => {
           <Fade big>
             <div className="floating-chatbot">
             <button
-            onClick={() => toggleBot((prev) => !prev)}
+             className="close-chatbot-button"
+             onClick={() => toggleBot((prev) => !prev)}
             >
-            <div>close</div>
+            <div>X</div>
           </button>
               <Chatbot
                 config={config}
