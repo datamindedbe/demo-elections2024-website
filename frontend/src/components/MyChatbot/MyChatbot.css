@@ -60,3 +60,19 @@
 .close-chatbot-button:hover {
   transform: scale(1.3);
 }
+
+.chatbot-hidden {
+  display: none;
+}
+
+.chatbot-visible {
+  display: block;
+}
+
+.chatbot-button-hidden {
+  display: none;
+}
+
+.chatbot-button-visible {
+  display: block;
+}

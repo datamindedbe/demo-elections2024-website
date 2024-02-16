@@ -9,13 +9,14 @@ import './MyChatbot.css';
 import robot from  "@site/static/img/robot_white.png";
 
 const MyChatbot = () => {
-    const [showBot, toggleBot] = React.useState(false);
-  
+    const [hideBot, toggleBot] = React.useState(true);
+    const hiddenChat = hideBot ? "chatbot-hidden" : "chatbot-visible";
+    const hiddenButton = !hideBot ? "chatbot-button-hidden" : "chatbot-button-visible";
+
     return (
       <div className="app-chatbot-container ">
-        {showBot && (
-          <Fade big>
-            <div className="floating-chatbot">
+          <Fade big className={hiddenChat}>
+            <div className="floating-chatbot" >
             <button
              className="close-chatbot-button"
              onClick={() => toggleBot((prev) => !prev)}
@@ -29,9 +30,8 @@ const MyChatbot = () => {
               />
             </div>
           </Fade>
-        )}
-        {!showBot && (
         <div>
+        <div className={hiddenButton}>
           <button
             className="app-chatbot-button"
             onClick={() => toggleBot((prev) => !prev)}
@@ -39,7 +39,7 @@ const MyChatbot = () => {
             <img src={robot} alt="chatbot" />
           </button>
         </div>
-        )}
+        </div>
       </div>
     );
   }
