@@ -5,7 +5,10 @@ import { queryDecisions } from "@site/src/api";
 const DecisionsResponse = props => {
   const [decisions, setDecisions] = useState([]);
   const [loading, setLoading] = useState(true);
-  const latest_message = props.state.messages[props.state.messages.length - 2].message // this is the message we want to query
+
+  // second last message is the user's message the last message is teh chatbot's initial response
+  // if we alter how the chatbot responds, we need to change this
+  const latest_message = props.state.messages[props.state.messages.length - 2].message
 
   useEffect(() => {
     const getDecisions = async () => {
@@ -17,11 +20,12 @@ const DecisionsResponse = props => {
   }, []);
 
   if (loading) {
-    return <div></div>;
+    return <div />;
   }
+
   // check if the response is a string
   if (typeof decisions === "string") {
-    // if something went wrong - replace with a chatbot message
+    // if something went wrong - assume good server side messages
     return (<div className = "react-chatbot-kit-chat-bot-message"> {decisions} </div>)
   }
   

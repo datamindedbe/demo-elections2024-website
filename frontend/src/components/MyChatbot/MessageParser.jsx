@@ -5,7 +5,6 @@ class MessageParser {
     }
   
     parse(query) {
-      console.log(query);
       return this.actionProvider.queryResponse(query);
     }
   }
