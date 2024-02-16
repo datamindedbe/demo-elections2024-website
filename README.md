@@ -12,7 +12,9 @@ The focus of the project is on Flemish politics, as such we use 2 sources of dat
 -  [Regeerakkoord van de Vlaamse Regering 2019-2024](https://www.vlaanderen.be/publicaties/regeerakkoord-van-de-vlaamse-regering-2019-2024)
 - The decisions made by the flemish government between 2019 & 2024 which can be found [here](https://beslissingenvlaamseregering.vlaanderen.be/)
 
-Making use of a RAG (retrieval augmented generation) workflow we use an LLM to analyse the implementation of the government agreement(Regeerakkoord) by providing context from the relevant goverment decisions made. We present the results in a documentation website created with docusaurus 
+Making use of a RAG (retrieval augmented generation) workflow we use an LLM to analyse the implementation of the government agreement(Regeerakkoord) by providing context from the relevant goverment decisions made. We present the results in a documentation website created with docusaurus.
+
+As an additional interactive component we also have incorporated a chatbot which can be used to semantically search for specific government decisions
 
 Note: We do not claim that the results produced in this project are complete and/or fully correct. This is an experimental project and the results should be interpretted in accordance with that.
 
@@ -73,6 +75,14 @@ first run the script ```llm_responses_to_json.py``` to restructure the llm respo
 Lastly in order to serve your generated content
 run:
 ```npm run docusaurus build``` followed by ```npm run docusaurus serve``` from within the frontend folder
+
+
+## Configuring the chatbot
+This is a feature still in development - so it will only be described at a high level.
+A Knowledge base has been setup in AWS bedrock on the scraped decisions bucket (specifically the reduced clean decisions)
+Within the backend folder is a lambda function which should be deployed as a AWS lambda function. this function interacts with the bedrock knowledge base.
+In front of this we have an api gateway endpoint configured which recieves requests from chatbot component in the react frontend
+
 
 
 
