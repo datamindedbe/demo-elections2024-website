@@ -9,7 +9,7 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
     if len(event["query"]) < 10:
         return {"statusCode": 400, "body": json.dumps("Vraag niet lang genoeg.")}
     
-    if len(event["query"]) > 1000:
+    if len(event["query"]) > 500:
         return {"statusCode": 400, "body": json.dumps("Vraag te lang.")}
 
     response = retrieve_bedrock_items(
