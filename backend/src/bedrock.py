@@ -3,7 +3,8 @@
 
 import boto3
 import json
-from typing import Optional
+import re
+from typing import Optional, List, Tuple
 from dataclasses import dataclass
 from functools import lru_cache
 from config import AWS_PROFILE_NAME, BEDROCK_REGION, BEDROCK_BUCKET
@@ -82,3 +83,23 @@ def retrieve_bedrock_items(knowledge_base_id: str, query: str, n_results: int = 
             break 
 
     return results
+
+# may not be the most sensible place for this function to live but it is a first pass
+def re_reference(response: str, decisions: List[BedrockRetrievedItem]) -> Tuple[str, List[BedrockRetrievedItem]]:
+    used_decision_references = []
+    for item in re.finditer("\[[0-9]*\]", response):
+        ref = int(item.group(0).strip("[]"))
+        if ref not in used_decision_references:
+            used_decision_references.append(ref)
+    print(used_decision_references)
+
+    # reduce the decisions to only those that are used
+    used_decisions_correct_order  = []
+    for ref in used_decision_references:
+        used_decisions_correct_order.append(decisions[ref])
+
+    # reorder the references by the order of occurence
+    for new_ref, old_ref in enumerate(used_decision_references):
+        response = response.replace(f"[{old_ref}]", f"[{new_ref}]")
+    
+    return response, used_decisions_correct_order

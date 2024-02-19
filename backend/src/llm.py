@@ -3,6 +3,8 @@ import openai
 import tiktoken
 from config import OPENAI_API_KEY, OPENAI_MODEL_NAME
 from src.vector_store import VectorDBItem
+from src.bedrock import BedrockRetrievedItem
+# TODO: Bedrock items and vector db items need to combined into a single type
 
 client = openai.OpenAI(
     api_key=OPENAI_API_KEY
@@ -75,16 +77,22 @@ def extended_message(message:str)->Optional[str]:
 
     return get_response(prompt, model_overide="gpt-3.5-turbo")
 
-def decisions_query(query:str, matching_decisions:list[VectorDBItem])->str:
+
+
+def decisions_query(query:str, decisions:list[BedrockRetrievedItem])->str:
     # this function will take a given query and matching decisions and generate a response
-    flat_decisions = [f"{index} [url: {item.metadata['source_url']}] - {item.text}" for index, item in enumerate(matching_decisions)]
+    flat_decisions = [f"{index} : {item.text}" for index, item in enumerate(decisions)]
     flat_decisions = "\n".join(flat_decisions)
     prompt = f"""
-                Beantwoord de gegeven vraag met behulp van alleen de informatie in het onderstaande inhoudsgedeelte
-                inhoud: {flat_decisions}
+                Beantwoord de gegeven vraag uitsluitend met behulp van de informatie in het onderstaande gedeelte over regeringsbeslissingen.
+                reageer op een gemoedelijke manier, niet met een lijst
+                geef het indexnummer van de gebruikte referentie op tussen enkelvoudige vierkante haken, zoals [1].
+
+                regeringsbeslissingen: {flat_decisions}
                 vraag:{query}
                 Jou antwoord:
     """
+    print(f"full prompt contains: {token_count(prompt)} tokens")
     return get_response(prompt)
     
 
