@@ -1,8 +1,6 @@
 from typing import Optional
 import openai
-import tiktoken
 from config import OPENAI_API_KEY, OPENAI_MODEL_NAME
-from src.vector_store import VectorDBItem
 from src.bedrock import BedrockRetrievedItem
 # TODO: Bedrock items and vector db items need to combined into a single type
 
@@ -10,7 +8,6 @@ client = openai.OpenAI(
     api_key=OPENAI_API_KEY
 )
 
-encoding = tiktoken.encoding_for_model(OPENAI_MODEL_NAME)
 
 def get_response(prompt:str, model_overide=None)->str:
     api_response = client.chat.completions.create(
@@ -26,9 +23,15 @@ def get_response(prompt:str, model_overide=None)->str:
     return api_response.choices[0].message.content
 
 def token_count(text:str)->int:
+    # tiktoken is not playing nicely on aws lambda so we need to do this 
+    # workaround to avoid importing it
+    import tiktoken
+    encoding = tiktoken.encoding_for_model(OPENAI_MODEL_NAME)
     return len(encoding.encode(text))
 
-def generate_prompt_for_decision_consult(topic_text:str, matching_decisions:list[VectorDBItem], max_tokens: int)->str:
+def generate_prompt_for_decision_consult(topic_text:str, matching_decisions, max_tokens: int)->str:
+    # we can't put a type on the decisions here because it requires importing from the vector db module
+    # and this is giving a problem when building the lambda... when there time - fix this
     flat_decisions = [f"{index} - {item.text}" for index, item in enumerate(matching_decisions)]
 
     prompt_instruction = """
@@ -92,7 +95,6 @@ def decisions_query(query:str, decisions:list[BedrockRetrievedItem])->str:
                 vraag:{query}
                 Jou antwoord:
     """
-    print(f"full prompt contains: {token_count(prompt)} tokens")
     return get_response(prompt)
     
 
