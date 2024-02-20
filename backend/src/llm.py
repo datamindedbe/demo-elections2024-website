@@ -90,9 +90,10 @@ def decisions_query(query:str, decisions:list[BedrockRetrievedItem])->str:
                 Beantwoord de gegeven vraag uitsluitend met behulp van de informatie in het onderstaande gedeelte over regeringsbeslissingen.
                 reageer op een gemoedelijke manier, niet met een lijst
                 geef het indexnummer van de gebruikte referentie op tussen enkelvoudige vierkante haken, zoals [1].
+                provide a short response
 
-                regeringsbeslissingen: {flat_decisions}
                 vraag:{query}
+                regeringsbeslissingen: {flat_decisions}
                 Jou antwoord:
     """
     return get_response(prompt)
