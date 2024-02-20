@@ -22,6 +22,7 @@ DECISIONS_S3_BUCKET_INGESTION = "ingestion/"
 # openai/llm config
 OPENAI_API_KEY =  os.environ.get('OPENAI_API_KEY')
 OPENAI_MODEL_NAME = "gpt-4-1106-preview"
+OPENAI_MODEL_NAME_CHATBOT = "gpt-4"
 
 # bedrock config
 BEDROCK_REGION = 'us-east-1'
