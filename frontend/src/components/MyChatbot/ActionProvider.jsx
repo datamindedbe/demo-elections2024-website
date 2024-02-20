@@ -13,9 +13,9 @@ class ActionProvider {
 
   queryResponse= () => {
     const message =  this.createChatBotMessage(
-      "Ik zal er naar kijken",
+      "Laat Ik dink...",
       {
-        widget: "DecisionsResponse",
+        widget: "FullRAGResponse",
         withAvatar: true,
       }
     );

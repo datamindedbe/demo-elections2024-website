@@ -6,7 +6,9 @@
 
 .margined-decisions {
     margin-bottom: 5px;
-    background-color: #85bce5;
+}
+.references-color {
+  background-color: #85bce5;
 }
 
 .app-chatbot-button {

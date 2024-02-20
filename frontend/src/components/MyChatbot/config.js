@@ -1,9 +1,10 @@
 import { createChatBotMessage} from 'react-chatbot-kit';
 import DecisionsResponse from './widgets/DecisionsResponse';
+import FullRAGResponse from './widgets/FullRAGResponse';
 import BotAvatar from "./BotAvatar";
 
 const config = {
-  initialMessages: [createChatBotMessage('geef mij een onderwerp en ik ga op zoek naar overheidsbesluiten die daarop betrekking hebben',
+  initialMessages: [createChatBotMessage('Ik wil uw vragen over overheidsbesluiten beantwoorden',
   {
     withAvatar: true,
   })
@@ -15,7 +16,12 @@ const config = {
   widgets: [{
     widgetName: 'DecisionsResponse',
     widgetFunc: (props) => <DecisionsResponse {...props} />
-  }],
+  },
+  {
+    widgetName: 'FullRAGResponse',
+    widgetFunc: (props) => <FullRAGResponse {...props} />
+  },
+],
 }
 
 export default config;
