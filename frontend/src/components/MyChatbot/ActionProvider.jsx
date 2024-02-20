@@ -13,7 +13,7 @@ class ActionProvider {
 
   queryResponse= () => {
     const message =  this.createChatBotMessage(
-      "Laat Ik dink...",
+      "Laat me even nadenken...",
       {
         widget: "FullRAGResponse",
         withAvatar: true,
