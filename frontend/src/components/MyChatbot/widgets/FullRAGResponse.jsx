@@ -77,6 +77,7 @@ const FullRAGResponse = props => {
             {response_part}
         </div>
         <div class = "react-chatbot-kit-chat-bot-message references-color">
+          <b>Referenties:</b>
         {
           decisions.map((decision, index) => {
               return (
