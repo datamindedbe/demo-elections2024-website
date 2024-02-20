@@ -98,8 +98,12 @@ def re_reference(response: str, decisions: List[BedrockRetrievedItem]) -> Tuple[
     for ref in used_decision_references:
         used_decisions_correct_order.append(decisions[ref])
 
-    # reorder the references by the order of occurence
+    # reorder the references by the order of occurence.. we do this in 2 
+    # steps to avoid overwriting the same reference
     for new_ref, old_ref in enumerate(used_decision_references):
-        response = response.replace(f"[{old_ref}]", f"[{new_ref}]")
+        response = response.replace(f"[{old_ref}]", f"[{new_ref}-tmp]")
+
+    for new_ref, _ in enumerate(used_decision_references):
+        response = response.replace(f"[{new_ref}-tmp]", f"[{new_ref}]")
     
     return response, used_decisions_correct_order

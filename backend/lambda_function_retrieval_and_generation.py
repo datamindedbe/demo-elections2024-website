@@ -31,7 +31,7 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
 
 if __name__ == "__main__":
     response = lambda_handler({
-            "query": "wat heeft de regering gedaan om de economie te stimuleren?"
+            "query": "animal abuse"
         }
     )
     print(response)
