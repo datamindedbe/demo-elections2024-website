@@ -42,51 +42,52 @@ const FullRAGResponse = props => {
       }
   });
 
+  // use a display message of "Link broken" if the title or url is null
+  decisions.forEach((decision, index) => {
+    if (decision.title === null || decision.url === null) {
+      decisions[index] = {
+        title: "link niet beschikbaar",
+        url: null
+      }
+    }
+  });
+
+// shorten the title if the title is too long
+  decisions.forEach((decision, index) => {
+    if (decision.title.length > 40) {
+      decisions[index] = {
+        title: decision.title.substring(0, 40) + "...",
+        url: decision.url
+      }
+    }
+  });
+
+// append the index to the title
+  decisions.forEach((decision, index) => {
+    decisions[index] = {
+      title: "[" + index + "]: " + decision.title,
+      url: decision.url
+    }
+  });
+
+
   return (
     <div>
         <div class = "margined-decisions react-chatbot-kit-chat-bot-message">
             {response_part}
         </div>
+        <div class = "react-chatbot-kit-chat-bot-message references-color">
         {
-         decisions.map((decision, index) => {
-            return (
-            <div class = "margined-decisions react-chatbot-kit-chat-bot-message" key={index}>
-                <a href={decision.url}>
-                {decision.title}
-                </a>
-            </div>
-         )
-      })
-    }
-    </div>
-  )
-
-  // only take the title and url of the decisions
-  decisions.forEach((decision, index) => {
-    decisions[index] = {
-      title: decision.title,
-      url: decision.decision_url
-    }
-  });
-
-  // filter out deciions with no title
-  const decisions_filtered = decisions.filter((decision) => {
-    return decision.title !== null
-  })
-
-  return (
-    <div>
-    {
-      decisions_filtered.map((decision, index) => {
-        return (
-          <div class = "margined-decisions react-chatbot-kit-chat-bot-message" key={index}>
-            <a href={decision.url}>
-              {decision.title}
-            </a>
-         </div>
-         )
-      })
-    }
+          decisions.map((decision, index) => {
+              return (
+              <div class = "margined-decisions" key={index}>
+                  <a href={decision.url}>
+                  {decision.title}
+                  </a>
+              </div>
+          )})
+        }
+       </div>
     </div>
   )
   }
