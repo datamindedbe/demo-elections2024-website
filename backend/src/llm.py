@@ -82,7 +82,7 @@ def extended_message(message:str)->Optional[str]:
 
 
 
-def decisions_query(query:str, decisions:list[BedrockRetrievedItem])->str:
+def decisions_query(query:str, decisions:list[BedrockRetrievedItem], llm_model=None)->str:
     # this function will take a given query and matching decisions and generate a response
     flat_decisions = [f"{index} : {item.text}" for index, item in enumerate(decisions)]
     flat_decisions = "\n".join(flat_decisions)
@@ -96,7 +96,7 @@ def decisions_query(query:str, decisions:list[BedrockRetrievedItem])->str:
                 regeringsbeslissingen: {flat_decisions}
                 Jou antwoord:
     """
-    return get_response(prompt)
+    return get_response(prompt, model_overide=llm_model)
     
 
     

@@ -1,6 +1,6 @@
 from src.bedrock import retrieve_bedrock_items, re_reference, BedrockRetrievedItem
 from src.llm import decisions_query
-from config import BEDROCK_KNOWLEDGE_BASE_ID
+from config import BEDROCK_KNOWLEDGE_BASE_ID, OPENAI_MODEL_NAME_CHATBOT
 import json
 from typing import Optional
 import time
@@ -20,7 +20,7 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
     print(f"Bedrock retrieval took {stop - start} seconds.")
 
     start = time.time()
-    llm_response = decisions_query(query, retrieved_items)
+    llm_response = decisions_query(query, retrieved_items, llm_model=OPENAI_MODEL_NAME_CHATBOT)
     stop = time.time()
     print(f"LLM generation took {stop - start} seconds.")
 
