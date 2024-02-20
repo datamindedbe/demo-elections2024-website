@@ -38,16 +38,16 @@ const FullRAGResponse = props => {
   decisions.forEach((decision, index) => {
       decisions[index] = {
         title: decision.title,
-        url: decision.decision_url
+        decision_url: decision.decision_url
       }
   });
 
   // use a display message of "Link broken" if the title or url is null
   decisions.forEach((decision, index) => {
-    if (decision.title === null || decision.url === null) {
+    if (decision.title === null || decision.decision_url === null) {
       decisions[index] = {
         title: "link niet beschikbaar",
-        url: null
+        decision_url: null
       }
     }
   });
@@ -57,16 +57,18 @@ const FullRAGResponse = props => {
     if (decision.title.length > 40) {
       decisions[index] = {
         title: decision.title.substring(0, 40) + "...",
-        url: decision.url
+        decision_url: decision.decision_url
       }
     }
   });
 
-// append the index to the title
+// create a display name with the index
   decisions.forEach((decision, index) => {
     decisions[index] = {
-      title: "[" + index + "]: " + decision.title,
-      url: decision.url
+      title_display: "[" + index + "]: " + decision.title,
+      decision_url: decision.decision_url,
+      title: decision.title
+
     }
   });
 
@@ -82,8 +84,8 @@ const FullRAGResponse = props => {
           decisions.map((decision, index) => {
               return (
               <div class = "margined-decisions" key={index}>
-                  <a href={decision.url}>
-                  {decision.title}
+                  <a href={decision.decision_url}>
+                  {decision.title_display}
                   </a>
               </div>
           )})
