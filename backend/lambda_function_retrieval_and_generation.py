@@ -36,7 +36,7 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
             print("No decisions used in response. returning generic response.")
             generic_response = "Sorry, maar ik kon geen relevante data vinden om uw vraag te kunnen beantwoorden. Mijn excuses."
 
-            return {"statusCode": 400, "body": generic_response}
+            return {"statusCode": 400, "body": json.dumps(generic_response)}
 
         start = time.time()
         used_decisions_dicts = []
