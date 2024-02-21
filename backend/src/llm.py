@@ -89,7 +89,8 @@ def decisions_query(query:str, decisions:list[BedrockRetrievedItem], llm_model=N
     prompt = f"""
                 Beantwoord de gegeven vraag uitsluitend met behulp van de informatie in het onderstaande gedeelte over regeringsbeslissingen.
                 Reageer op een gemoedelijke manier, niet met een lijst.
-                Geef het indexnummer van de gebruikte referentie tussen enkelvoudige vierkante haken, zoals [1].
+                Geef het indexnummer van de gebruikte referentie tussen enkelvoudige vierkante haken, zoals [1] of [2][3][4]. 
+                combineer referenties niet samen in één haakje
 
                 Vraag:{query}
                 Regeringsbeslissingen: {flat_decisions}
