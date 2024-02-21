@@ -23,7 +23,19 @@ export const queryRAG = async (message) => {
 
     var body = response_json["body"];
     if(body === undefined) {
-        // if there is a time out then the structure changes.this should be generalized
+      // this indicates an error state. this code is greatly in need of refactoring
+
+
+      if (response_json["message"] === "Endpoint request timed out") {
+        // special case for errors which could be translated in the lambda (gateway level)
+        return "Ik kon niet snel genoeg antwoorden, het kan zijn dat ik overbelast ben";
+      }
+
+      if (response_json["message"] === "Limit Exceeded") {
+        // special case for errors which could be translated in the lambda (gateway level)
+        return "Ik heb vandaag te veel vragen beantwoord. Probeer het morgen opnieuw";
+      }
+      
       return response_json["message"];
     };
 
