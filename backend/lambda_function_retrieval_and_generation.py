@@ -31,6 +31,13 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
         stop = time.time()
         print(f"Re-referencing took {stop - start} seconds.")
 
+        # condition for when there are no decisions used in the response
+        if len(used_decisions) == 0:
+            print("No decisions used in response. returning generic response.")
+            generic_response = "Sorry, maar ik kon geen relevante data vinden om uw vraag te kunnen beantwoorden. Mijn excuses."
+
+            return {"statusCode": 400, "body": json.dumps(generic_response)}
+
         start = time.time()
         used_decisions_dicts = []
         for decision in used_decisions:
