@@ -65,7 +65,7 @@ def lambda_handler(event: dict, context: Optional[dict] = None):
 
         total_time = retrieval_time + llm_generation_time + re_referencing_time + fetching_decision_data_time
         print(f"TOTAL_TIME: {total_time} seconds. - INVOCATION_ID:{invocation_id}")
-        if total_time > 30:
+        if total_time > 29:
             print(f"TIME_EXCEEDED - INVOCATION_ID:{invocation_id}")
 
         response = json.dumps({"response":re_referenced_llm_response,"decisions":used_decisions_dicts})
