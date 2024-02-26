@@ -91,7 +91,6 @@ def re_reference(response: str, decisions: List[BedrockRetrievedItem]) -> Tuple[
         ref = int(item.group(0).strip("[]"))
         if ref not in used_decision_references:
             used_decision_references.append(ref)
-    print(used_decision_references)
 
     # reduce the decisions to only those that are used
     used_decisions_correct_order  = []
