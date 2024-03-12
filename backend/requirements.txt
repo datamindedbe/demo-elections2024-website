@@ -8,3 +8,4 @@ fake-useragent
 python-dateutil
 fastapi
 pydantic
+pre-commit
