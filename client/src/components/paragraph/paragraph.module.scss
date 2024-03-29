@@ -1,0 +1,8 @@
+@import '@/styles/variables';
+
+.paragraph {
+  font-size: $font-size-normal;
+  font-family: $font-family-standard;
+  color: $color-grey-darkest;
+  margin: $spacing-xs 0;
+}

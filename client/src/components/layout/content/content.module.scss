@@ -1,0 +1,11 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/breakpoints';
+@import '../../../styles/mixins';
+
+.content {
+  padding: $standard-div-padding;
+
+  &.narrow {
+    max-width: $screen-md-min;
+  }
+}

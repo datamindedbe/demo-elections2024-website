@@ -1,0 +1,74 @@
+@import 'variables';
+@import 'mixins';
+@import 'fonts';
+
+* {
+  @include border-box-sizing();
+}
+
+html {
+  font-size: 14px;
+
+  @media (min-width: $screen-md-min) {
+    font-size: 15px;
+  }
+  @media (min-width: $screen-xl-min) {
+    font-size: 16px;
+  }
+}
+
+#root {
+  min-height: 100dvh;
+  width: 100%;
+}
+
+:root {
+  min-height: 100dvh;
+  font-family: $font-family-standard;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: $color-purple-dark;
+  background-color: $color-white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: $color-action-link;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: $color-action-link-hover;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: $full-height;
+  position: relative;
+}
+
+h1 {
+  @include header('h1');
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: $color-text;
+  }
+  a:hover {
+    color: $color-action-link;
+  }
+  button {
+    background-color: $color-button;
+  }
+}

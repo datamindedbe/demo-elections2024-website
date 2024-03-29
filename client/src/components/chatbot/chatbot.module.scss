@@ -1,0 +1,67 @@
+@import '@/styles/variables.scss';
+@import '@/styles/mixins.scss';
+
+.chatbot-scroll-area {
+  min-height: 0;
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    background-color: transparent;
+    width: $spacing-s;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: $border-radius-m;
+    background-color: $color-orange-dark;
+  }
+}
+
+.chatbot-column {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-l;
+
+  &.intro {
+    flex-direction: column-reverse;
+
+    @include for-size(md) {
+      flex-direction: column;
+    }
+  }
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-m;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-m;
+
+  background-color: #A8D9F1;
+
+  @container (width > 30rem) {
+    flex-direction: row;
+  }
+
+  input {
+    flex-grow: 1;
+  }
+
+  .submit-icon {
+    padding-top: 7px;
+  }
+}

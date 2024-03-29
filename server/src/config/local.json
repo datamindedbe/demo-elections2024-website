@@ -1,0 +1,12 @@
+{
+  "CORS": {
+    "allowedOrigins": ["http://localhost:3000"]
+  },
+  "LOGGING": {
+    "s3Bucket": "",
+    "s3BucketAuditLogs": ""
+  },
+  "DOCKER": {
+    "isCloud": false
+  }
+}

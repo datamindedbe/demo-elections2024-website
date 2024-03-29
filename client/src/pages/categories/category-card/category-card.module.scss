@@ -1,0 +1,42 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/mixins.scss';
+
+$min-category-card-height: 10rem;
+$max-category-card-height: 14rem;
+$icon-size: 4rem;
+
+.category {
+  @include no-select();
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  display: flex;
+
+  cursor: pointer;
+  max-height: $max-category-card-height;
+  border-radius: $border-radius-m;
+
+  padding: $div-flex-gap-l $div-flex-gap-sm;
+  gap: $div-flex-gap-sm;
+
+  border: 1px solid $color-border;
+  background: $color-white;
+
+  .title {
+    @extend .text-regular;
+    font-weight: $font-weight-bold;
+
+    margin: unset;
+  }
+
+  .icon {
+    width: $icon-size;
+    height: $icon-size;
+  }
+
+  &:hover {
+    border-color: $color-action;
+    background: $color-border;
+  }
+}

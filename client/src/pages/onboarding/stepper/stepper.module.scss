@@ -1,0 +1,75 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/mixins';
+
+$dot-size: $spacing-m;
+$arrow-size: $spacing-m;
+
+.dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: unset;
+  width: max-content;
+  column-gap: $spacing-s;
+  line-height: $dot-size;
+
+  .dot {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+
+    color: $color-blue-dark;
+    opacity: 20%;
+
+    transition: color $transition-speed-slow;
+
+    &.active {
+      cursor: default;
+      opacity: 100%;
+
+      color: $color-blue-dark;
+    }
+
+    .icon {
+      width: $dot-size;
+      height: $dot-size;
+    }
+
+    svg {
+      border-radius: 50%;
+      border: 1px solid transparent;
+    }
+
+    &:hover:not(.active) svg {
+      border-color: $color-blue-dark;
+    }
+  }
+
+  @include for-size(xs) {
+    line-height: calc($dot-size / 2);
+  }
+
+  .arrow {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    padding: $spacing-s;
+    cursor: pointer;
+    margin-left: $dot-size;
+
+    color: $color-action;
+
+    .icon {
+      width: $arrow-size;
+      height: $arrow-size;
+    }
+
+    &:hover {
+      border: 1px solid $color-action;
+    }
+
+    @include for-size(xs) {
+      display: none;
+    }
+  }
+}

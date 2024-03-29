@@ -1,0 +1,76 @@
+@import '@/styles/variables';
+@import '@/styles/mixins';
+
+.markdownWrapper {
+  font-family: $font-family-standard;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: $spacing-l;
+    margin-bottom: $spacing-m;
+  }
+
+  h1 {
+    @include header('h1');
+    font-family: $font-family-header;
+    font-size: $font-size-big;
+  }
+
+  h2 {
+    @include header('h2');
+    font-family: $font-family-header;
+    font-size: $font-size-medium;
+  }
+
+  h3 {
+    @include header('h3');
+    font-family: $font-family-header;
+    font-size: $font-size-medium;
+  }
+
+  h4 {
+    @include header('h4');
+    font-family: $font-family-header;
+    font-size: $font-size-normal;
+  }
+
+  h5 {
+    @include header('h5');
+    font-family: $font-family-header;
+    font-size: $font-size-normal;
+  }
+
+  h6 {
+    @include header('h6');
+    font-family: $font-family-header;
+    font-size: $font-size-normal;
+  }
+
+  ol,
+  ul {
+    padding: 0 $spacing-xl;
+  }
+
+  :global(#references) a {
+    scroll-margin-top: calc($navbar-height + $spacing-xl);
+  }
+
+    :global(.highlight) {
+    animation: yellow-flash-bg 3s;
+  }
+}
+
+.markdownContent {
+  font-size: $font-size-normal;
+  line-height: 1.5;
+  color: $color-grey-darkest;
+
+  @include for-size('xs') {
+    padding: 0;
+  }
+}
+
+@keyframes yellow-flash-bg {
+  from { background: yellow; }
+  75%  { background: yellow; }
+  to   { background: transparent; }
+}

@@ -1,0 +1,72 @@
+@import '@/styles/variables.scss';
+
+.message-container {
+  display: flex;
+  flex-direction: row;
+  gap: $spacing-s;
+
+  &.robot {
+    &:first-of-type > *, &.placeholder > * {
+      animation: pop-in $transition-speed-slow;
+      animation-fill-mode: both;
+    }
+
+    &:first-of-type > * {
+      animation-delay: $transition-speed-slower;
+    }
+
+    &.placeholder > * {
+      animation-delay: $transition-speed-faster;
+      animation-duration: $transition-speed-fast;
+    }
+
+    .message {
+      display: flex;
+      flex-direction: column;
+      gap: $spacing-s;
+
+      background-color: $color-message-robot;
+      border-radius: 0 $border-radius-m $border-radius-m $border-radius-m;
+    }
+
+    .wrapped-contents {
+      padding: $spacing-m;
+
+      background-color: $color-white;
+      border: 1px solid $color-grey-light;
+      border-radius: $border-radius-m;
+    }
+
+    details {
+      background-color: $color-white;
+      border-radius: $border-radius-m;
+
+      summary {
+        padding: $spacing-s $spacing-m;
+      }
+
+      .references {
+        padding: $spacing-m;
+      }
+    }
+  }
+
+  &.user {
+    flex-direction: row-reverse;
+
+    .message {
+      background-color: $color-message-user;
+      color: $color-white;
+      border-radius: $border-radius-m 0 $border-radius-m $border-radius-m;
+    }
+  }
+
+  .message {
+    padding: $spacing-m;
+  }
+}
+
+@keyframes pop-in {
+  0% { opacity: 0;transform: scale(0.1); }
+  100% { opacity: 1;transform: scale(1); }
+}

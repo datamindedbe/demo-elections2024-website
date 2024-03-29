@@ -1,0 +1,22 @@
+@import "@fontsource/poppins/latin-800.css";
+
+@font-face {
+  font-family: 'Product Sans Black';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../assets/fonts/Product_Sans_Black.ttf') format('woff');
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/Product_Sans_Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url("../assets/fonts/Product_Sans_Bold.ttf") format("truetype");
+}

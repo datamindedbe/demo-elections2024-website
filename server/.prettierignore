@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+.idea
+.vscode
+content
+coverage
+dist
+junit.xml
+node_modules
+test-report.xml

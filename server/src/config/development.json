@@ -1,0 +1,12 @@
+{
+  "CORS": {
+    "allowedOrigins": ["http://localhost:3000", "http://dev.regeringsrobot.be", "https://dev.regeringsrobot.be", "http://prd.regeringsrobot.be.dev.regeringsrobot.be", "https://prd.regeringsrobot.be.dev.regeringsrobot.be", "https://regeringsrobot.be"]
+  },
+  "LOGGING": {
+    "s3Bucket": "",
+    "s3LoggingEnabled": false
+  },
+  "DOCKER": {
+    "isContainerized": true
+  }
+}

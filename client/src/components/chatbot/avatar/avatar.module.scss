@@ -1,0 +1,30 @@
+@import '@/styles/variables.scss';
+
+.avatar {
+  border-radius: 100%;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: $spacing-xs;
+
+  display: inline-flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+
+  &.robot {
+    background-color: $color-blue-dark;
+  }
+
+  &.user {
+    background-color: $color-white;
+    color: $color-blue-dark;
+    font-weight: $font-weight-bold;
+  }
+
+  .robot-avatar {
+    width: 2rem;
+    height: auto;
+    padding-bottom: $spacing-xs;
+  }
+}

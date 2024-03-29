@@ -1,0 +1,34 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/breakpoints';
+@import '../../../styles/mixins';
+
+.container {
+  background-color: $color-background-light;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  &.page {
+    min-height: $page-height;
+    padding: 0 $chatbot-page-spacing;
+  }
+
+  &.application {
+    margin: 0 auto;
+    min-height: 100dvh;
+    position: relative;
+  }
+
+  &.chatbot-page {
+    min-height: calc($page-height - $footer-mobile-height);
+
+    @media screen and (min-width: $footer-stacked-max-screen-width) {
+      min-height: calc($page-height - $footer-desktop-height);
+    }
+
+    @include for-size(lg) {
+      padding-left: $chatbot-page-spacing;
+      padding-right: calc($chatbot-page-spacing + $chatbot-desktop-width);
+    }
+  }
+}
