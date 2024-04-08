@@ -1,0 +1,148 @@
+@import '@/styles/variables.scss';
+@import '@/styles/mixins.scss';
+
+:global(html):has(.chatbot.expanded) {
+  overflow: hidden;
+}
+
+.container {
+  position: relative;
+}
+
+.chatbot {
+  position: fixed;
+  bottom: -85%;
+  right: 0;
+  width: 100%;
+  height: 85%;
+  z-index: 10;
+
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  container-type: size;
+
+  background-color: $color-cyan-blue-medium;
+  border-top-left-radius: $border-radius-xl;
+  border-top-right-radius: $border-radius-xl;
+
+  transition: bottom $transition-speed-fast, visibility 0s $transition-speed-fast;
+
+  &.expanded {
+    visibility: visible;
+    bottom: 0;
+
+    transition: bottom $transition-speed-slow, visibility 0s;
+  }
+
+  @include for-size(lg) {
+    visibility: visible;
+    top: $navbar-height;
+    bottom: unset;
+    width: $chatbot-desktop-width;
+    height: calc(100vh - $navbar-height);
+
+    border-radius: unset;
+
+    transition: width $transition-speed-slow;
+
+    &.expanded {
+      width: 85%;
+      height: unset;
+      transition: width $transition-speed-slow;
+    }
+  }
+
+  .expand-collapse {
+    display: none;
+
+    @include for-size(lg) {
+      position: absolute;
+      top: 3rem;
+      left: -1.5rem;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      width: 3rem;
+      height: 3rem;
+      border-radius: 100%;
+      background-color: $color-orange-dark;
+
+      cursor: pointer;
+
+      img {
+        width: auto;
+        height: 1.25rem;
+        padding-right: 4px;
+
+        transition: transform $transition-speed-fast;
+      }
+    }
+  }
+
+  &.expanded .expand-collapse img {
+    transform: rotate(180deg);
+  }
+
+  .close {
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+
+    position: absolute;
+    top: $spacing-m;
+    right: $spacing-m;
+    align-items: center;
+    justify-content: center;
+
+    background-color: $color-white;
+    border-radius: 100%;
+
+    cursor: pointer;
+
+    .icon {
+      width: 1rem;
+      height: auto;
+    }
+
+    @include for-size(lg) {
+      display: none
+    }
+  }
+}
+
+.mobile-chatbot-icon {
+  position: fixed;
+  right: $spacing-l;
+  bottom: $spacing-l;
+  width: 5rem;
+  height: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 100%;
+  background-color: $color-blue-dark;
+  transition: box-shadow $transition-speed-faster;
+
+  cursor: pointer;
+  z-index: 5;
+
+  @include for-size(lg) {
+    display: none;
+  }
+
+  &:hover {
+    box-shadow: 0 0 11px $color-blue-dark;
+  }
+
+  img {
+    width: 3.5rem;
+    height: auto;
+    padding-bottom: 5px;
+  }
+}

@@ -1,0 +1,80 @@
+@import 'breakpoints';
+@import 'variables';
+
+@mixin border-box-sizing() {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+//==================================//
+//============= Breakpoints =============//
+//==================================//
+
+$sizes: (
+    xs: (0px, $screen-xs-max),
+    sm: ($screen-xs-max + 1px, $screen-md-min),
+    md: ($screen-md-min + 1px, $screen-lg-min),
+    lg: ($screen-lg-min + 1px, $screen-xl-min),
+    xl: ($screen-xl-min + 1px, $screen-xxl-min),
+    xxl: ($screen-xxl-min + 1px, 9999999px),
+);
+
+@mixin for-size($size) {
+  // Check if size is valid
+  @if not map-has-key($sizes, $size) {
+    @error "Invalid size: #{$size}. Please use one of the following: #{map-keys($sizes)}.";
+  }
+  @if $size == xs {
+    @media (max-width: nth(map-get($sizes, $size), 2)) {
+      @content;
+    }
+  } @else {
+    @media (min-width: nth(map-get($sizes, $size), 1)) {
+      @content;
+    }
+  }
+}
+
+//==================================//
+//============= Text =============//
+//==================================//
+@mixin text-ellipsis() {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@mixin no-select() {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@mixin header($variant: 'h1') {
+  color: $color-purple-dark;
+
+  @if $variant == 'h1' {
+    font-family: $font-family-h1;
+    font-size: $font-size-gargantuan;
+    font-weight: $font-weight-boldest;
+    line-height: 1.5;
+  } @else if $variant == 'h2' {
+    font-size: 2rem;
+    font-weight: 900;
+  } @else if $variant == 'h3' {
+    font-size: 1.75rem;
+    font-weight: 900;
+  } @else if $variant == 'h4' {
+    font-family: $font-family-header;
+    font-size: 1.5rem;
+    font-weight: $font-weight-boldest;
+  } @else if $variant == 'h5' {
+    font-size: 1.25rem;
+    font-weight: 600;
+  } @else if $variant == 'h6' {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+}

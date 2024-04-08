@@ -1,0 +1,12 @@
+@import '@/styles/variables';
+@import '@/styles/mixins';
+
+.breadcrumb {
+  display: flex;
+  gap: $div-flex-gap-m;
+  align-items: center;
+
+  span {
+    @extend .breadcrumb;
+  }
+}

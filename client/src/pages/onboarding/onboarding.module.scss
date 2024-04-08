@@ -1,0 +1,152 @@
+@import '@/styles/mixins';
+@import '@/styles/variables';
+
+$content-height: 18.25rem;
+$robot-img-min-height-mobile: 14rem;
+$robot-img-max-width-mobile: 26rem;
+
+.onboardingWrapper {
+  @include no-select();
+  z-index: 100;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  flex: 1;
+
+  padding: $spacing-xl;
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: $content-height; // The height is set here in order to avoid the content stepper from moving when switching between steps
+    flex: 1;
+
+    gap: $div-flex-gap-l;
+
+    .title {
+      @extend .text-title;
+
+      margin: unset;
+    }
+
+    .description {
+      @extend .text-subtitle;
+
+      margin: unset;
+    }
+
+    .stepper {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+
+      // Spacing
+      gap: $div-flex-gap-l;
+    }
+  }
+
+  .imageWrapper {
+    flex: 1;
+    height: 100%;
+    width: 100%;
+    min-width: $robot-img-max-width-mobile;
+
+    .robotImage {
+      aspect-ratio: 1/1;
+      bottom: 0;
+      right: 0;
+      height: auto;
+      width: 100%;
+
+      transition: opacity 0.5s ease-in-out;
+    }
+  }
+
+  //==================================//
+  //============= MOBILE =============//
+  //==================================//
+
+  @include for-size(xs) {
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    height: 100%;
+
+    padding: 0 $spacing-xl;
+
+    .content {
+      width: 100dvw;
+      text-align: left;
+      flex: 0;
+      justify-content: flex-end;
+      align-items: center;
+      height: max-content;
+
+      background: $color-white;
+      border-top-left-radius: $border-radius-xl;
+      border-top-right-radius: $border-radius-xl;
+
+      padding: $spacing-xl $spacing-l;
+      gap: $div-flex-gap-sm;
+
+      .title {
+        font-size: $font-size-huge;
+      }
+
+      .description {
+        font-size: $font-size-big;
+      }
+    }
+
+    .imageWrapper {
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      position: relative;
+      flex: 1;
+
+      .robotImage {
+        position: absolute;
+        left: 50%;
+        bottom: 50%;
+        transform: translate(-50%, 50%);
+        width: auto;
+        height: 100%;
+        min-height: $robot-img-min-height-mobile;
+        max-width: $robot-img-max-width-mobile;
+
+        object-fit: contain;
+      }
+    }
+
+    .stepper {
+      margin-top: $spacing-m;
+      width: 100%;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      gap: $div-flex-gap-m;
+    }
+  }
+}
+
+.backgroundImage {
+  z-index: 0;
+  width: $full-vw;
+  position: fixed;
+  height: 100%;
+
+  background-image: url("@/assets/background-onboarding.svg");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  @include for-size(xs) {
+    display: none;
+  }
+}

@@ -1,0 +1,157 @@
+@import 'palettes';
+@import 'breakpoints';
+
+//==================================//
+//============= COLORS =============//
+//==================================//
+$color-border: $color-grey-light;
+
+$color-button: $color-orange-dark;
+$color-button-hover: darken($color-orange-dark, 10%);
+$color-button-secondary: $color-orange-light;
+$color-button-secondary-hover: darken($color-orange-light, 10%);
+
+$color-form-focus: $color-blue-medium;
+
+$color-action-link: $color-blue-dark;
+$color-action-link-hover: darken($color-blue-dark, 10%);
+
+$color-action: $color-blue-dark;
+$color-action-hover: darken($color-blue-dark, 10%);
+
+$color-background-light: $color-cyan-blue-light;
+$color-background-medium: $color-grey-light;
+$color-background-dark: $color-cyan-blue-dark;
+
+$color-text: $color-purple-dark;
+
+$color-success: #5DBC56;
+$color-error: #ED1A24;
+$color-warning: #FFC20F;
+
+$color-message-robot: $color-blue-light;
+$color-message-user: $color-blue-dark;
+
+//=========================================//
+//========== BORDER RADIUS ============//
+//=======================================//
+$border-radius-xs: 4px;
+$border-radius-s: 8px;
+$border-radius-m: 16px;
+$border-radius-l: 32px;
+$border-radius-xl: 40px;
+
+//==================================//
+//========== FONTS  ================//
+//==================================//
+$font-family-standard: "Product Sans", sans-serif;
+$font-family-accent: "Poppins", sans-serif;
+$font-family-header: "Product Sans Black", sans-serif;
+$font-family-h1: $font-family-accent;
+
+//==================================//
+//========== FONT SIZES ============//
+//==================================//
+$font-size-gargantuan: 2.5rem;
+$font-size-colossal: 2rem;
+$font-size-huge: 1.75rem;
+$font-size-big: 1.5rem;
+$font-size-medium: 1.125rem;
+$font-size-normal: 1rem;
+$font-size-small: 0.75rem;
+
+
+//==================================//
+//========= FONT WEIGHTS ===========//
+//==================================//
+$font-weight-normal: 400;
+$font-weight-bold: 600;
+$font-weight-bolder: 800;
+$font-weight-boldest: 900;
+
+
+//==================================//
+//========== FONT TYPES ============//
+//==================================//
+.text-regular {
+  color: $color-purple-dark;
+  font-size: $font-size-normal;
+  font-family: $font-family-standard;
+}
+
+.text-footnote {
+  color: $color-grey-dark;
+  font-size: $font-size-small;
+  font-weight: $font-weight-normal;
+  font-family: $font-family-standard;
+}
+
+.text-title {
+  font-size: $font-size-gargantuan;
+  font-weight: $font-weight-bolder;
+  font-family: $font-family-accent;
+}
+
+.text-subtitle {
+  color: $color-purple-dark;
+  font-size: $font-size-big;
+  font-weight: $font-weight-normal;
+  font-family: $font-family-standard;
+}
+
+.breadcrumb {
+  color: $color-action-link;
+  font-family: $font-family-header;
+  font-weight: $font-weight-boldest;
+
+  &:hover {
+    color: $color-action-link-hover;
+  }
+}
+
+//==================================//
+//========== SPACING ============//
+//==================================//
+$spacing-xs: 0.25rem;
+$spacing-s: 0.5rem;
+$spacing-m: 1rem;
+$spacing-l: 1.5rem;
+$spacing-xl: 2rem;
+$spacing-xlm: 3rem;
+$spacing-xxl: 4rem;
+
+$div-flex-gap-sm: $spacing-s;
+$div-flex-gap-m: $spacing-l;
+$div-flex-gap-l: $spacing-xl;
+
+$standard-div-padding: $spacing-l;
+
+//==================================//
+//============ SIZES ==============//
+//================================//
+$navbar-height: 5rem;
+$max-content-width: $screen-xl-min;
+$button-height: $spacing-xlm;
+$button-min-width: 9.25rem;
+$chatbot-desktop-width: 30rem;
+$chatbot-page-spacing: max(calc((100% - $screen-md-min - $chatbot-desktop-width - (2 * $standard-div-padding)) / 2), 0px);
+$footer-desktop-height: 9rem;
+$footer-mobile-height: 14rem;
+$footer-stacked-max-screen-width: 30rem;
+
+//==================================================//
+//================= VIEW HEIGHTS  =================//
+//================================================//
+$page-height: calc(100dvh - $navbar-height);
+$full-height: 100dvh;
+$full-vw: 100vw;
+
+//==================================================//
+//================= TRANSITIONS  ==================//
+//================================================//
+$transition-speed-slower: 1.5s;
+$transition-speed-slow: 1s;
+$transition-speed-fast: 0.5s;
+$transition-speed-faster: 0.25s;
+
+

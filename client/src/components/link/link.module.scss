@@ -1,0 +1,12 @@
+@import '@/styles/variables';
+
+.link {
+  color: $color-action-link;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: $color-action-link-hover;
+    text-decoration: underline;
+  }
+}

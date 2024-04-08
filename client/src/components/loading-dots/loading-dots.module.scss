@@ -1,0 +1,50 @@
+@import '@/styles/variables.scss';
+
+.loader {
+  position: relative;
+  margin: 0 $spacing-m;
+  width: .75rem;
+  height: .75rem;
+  border-radius: 100%;
+
+  background-color: $color-blue-dark;
+
+  animation: loader 1s infinite linear alternate;
+  animation-delay: 0.5s;
+}
+
+.loader::before, .loader::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.loader::before {
+  left: -1rem;
+  width: .75rem;
+  height: .75rem;
+  border-radius: 100%;
+  background-color: $color-blue-dark;
+  animation: loader 1s infinite alternate;
+  animation-delay: 0s;
+}
+
+.loader::after {
+  left: 1rem;
+  width: .75rem;
+  height: .75rem;
+  border-radius: 100%;
+  background-color: $color-blue-dark;
+  animation: loader 1s infinite alternate;
+  animation-delay: 1s;
+}
+
+@keyframes loader {
+  0% {
+    background-color: $color-blue-dark;
+  }
+  50%, 100% {
+    background-color: $color-blue-light;
+  }
+}

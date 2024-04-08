@@ -1,0 +1,10 @@
+@import '@/styles/variables';
+
+.list {
+  color: $color-grey-darkest;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: 100%;
+  gap: $spacing-s;
+}

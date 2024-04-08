@@ -1,0 +1,16 @@
+@import '@/styles/variables';
+
+.input {
+  padding: $spacing-m;
+  border-radius: $border-radius-l;
+  border: none;
+
+  font-family: $font-family-standard;
+  font-size: $font-size-normal;
+  color: $color-purple-dark;
+  background-color: $color-white;
+
+  &::placeholder {
+    color: $color-purple-dark;
+  }
+}

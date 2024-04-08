@@ -1,0 +1,45 @@
+@import '@/styles/variables';
+
+.listItem {
+  @extend .text-subtitle;
+  font-size: $font-size-medium;
+  color: $color-text;
+
+  list-style: none;
+
+  background: $color-white;
+  border: 1px solid $color-grey-light;
+
+  border-radius: $border-radius-m;
+  padding: $spacing-m;
+
+  .agreementLink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: $color-text !important;
+  }
+
+
+  &.indented {
+    margin-left: $spacing-xlm;
+  }
+
+  .categoryLink {
+    @extend .agreementLink;
+  }
+
+  &:hover {
+    cursor: pointer;
+    
+    border-color: $color-action;
+    background: $color-border;
+  }
+
+  @for $i from 1 through 3 {
+    &.indent-level-#{$i} {
+      margin-left: $spacing-xl * $i;
+    }
+  }
+}

@@ -1,0 +1,63 @@
+@import '../../styles/variables';
+@import '../../styles/mixins';
+
+$logo-size: 42px;
+
+.container {
+  position: sticky;
+  top: 0;
+
+  z-index: 100;
+  width: 100%;
+
+  &.transparent {
+    background-color: transparent;
+  }
+
+  &.default, &.chatbot-page {
+    background-color: $color-white;
+  }
+}
+
+.wrapper {
+  @include no-select();
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  padding: 0;
+  align-items: center;
+  margin: 0 max($chatbot-page-spacing, $spacing-l);
+  height: $navbar-height;
+
+  @include for-size(md) {
+    padding: $spacing-s $spacing-m;
+  }
+
+  @include for-size(xxl) {
+    &:is(.chatbot-page *) {
+      margin-right: $chatbot-desktop-width;
+    }
+  }
+
+  .homeLink {
+    font-family: $font-family-accent;
+    font-weight: $font-weight-bolder;
+    font-size: $font-size-medium;
+    color: $color-text;
+  }
+}
+
+.logo-container {
+  display: flex;
+  gap: $spacing-l;
+
+  .logo {
+    width: $logo-size;
+    height: $logo-size;
+
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

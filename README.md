@@ -27,24 +27,28 @@ root/
  |   |-- {SCRIPTS}.py
  |   |-- src/
  |   |-- scrapers/
+ |-- client/
  |-- data/
  |   |-- agreements_document/
  |   |-- llm_responses/
- |-- frontend/
- |   |-- docs/
+ |-- server/
+ |   |-- assets/coalition-agreements/
  |   requirements.txt
 ```
-The project is composed of 3 main folders:
+The project is composed of 4 main folders:
 ### backend
-in this folder are python scripts used for the purpose of ingesting relevant data and populating them into a vector database; generating responses from an llm and storing converting these responses to a structured format which can then be served by the frontend
+in this folder are python scripts used for the purpose of ingesting relevant data and populating them into a vector database; generating responses from a llm and storing converting these responses to a structured format which can then be served by the frontend
+
+### client
+A React frontend to visualize the sections of the coalition agreement ("Regeerakkoord"), as well as provide a UI to interact with the chatbot.
 
 ### data
 Under agreement_document/ is the RegeerAkkoord document both as a pdf and broken down in .txt sections
 
-Under the llm_responses/ section are some intermediate llm results which are used in the process of generating the final website. 
+Under the llm_responses/ section are some intermediate llm results which are used in the process of generating the final website.
 
-### frontend
-A Docusaurus project which serves the final markdown files (in the frontend/docs folder) via a static documentation website which can be served locally or hosted (setting up hosting is not configured within this repo)
+### server
+A nodeJS with Typescript backend to serve the overview of sections in the coalition agreement ("Regeerakkoord") and to serve the contents of those sections, which can be found in the final markdown files (in "server/assets/coalition-agreements").
 
 ## Running the project
 
@@ -69,12 +73,17 @@ Once the vector store has been populated you can generate generate LLM responses
 Note: this step can be both time and cost intensive. It is recommended to limit the number of responses to generate while iterating on a prompt with the variable ```TOPICS_LIMIT```
 
 ### Creating Markdown documents
-first run the script ```llm_responses_to_json.py``` to restructure the llm responses for easier processing followed by the script ```generate_final_markdown.py``` which will create and load the final markdown files to the docs folder in the frontend
+first run the script ```llm_responses_to_json.py``` to restructure the llm responses for easier processing followed by the script ```generate_final_markdown.py``` which will create and load the final markdown files to the assets folder in the backend
 
-### Building and serving the documentation website
-Lastly in order to serve your generated content
-run:
-```npm run docusaurus build``` followed by ```npm run docusaurus serve``` from within the frontend folder
+### Building and serving the website
+In order to be able to build the website (front- and backend), it is necessary to install the dependencies for each part individually executing the following command `npm install --save-dev`, both in the 'server' and 'client' folder.
+After installing the dependencies, the overview of categories in the coalition agreement (regeerakkoord) needs to be generated using the command `npm run generate:all` from inside the 'server' folder.
+
+The frontend can be started by executing the command `npm run dev` from inside the client folder, while the NodeJS backend can be started in dev mode via `npm run start`. You can now browse to [http://localhost:3000](http://localhost:3000) to see the frontend application. The server has been started up on port 3001, except if a different port has been configured in the environment variable `PORT`.
+
+Alternatively, the front- and NodeJS backend can be started up together using docker. The image can be build using the following command, executed in the root directory of this project: `docker build -t regeringsrobot .`. After building the image, the container can be started using the command `docker run -dp 127.0.0.1:3001:3001 regeringsrobot`. This command maps port 3001 from the host machine onto port 3001 of the container.
+
+Note: the frontend is currently configured to use the deployed version of the Chatbot API.  The URL can be updated in /client/src/config/runtime-config.ts, in the function `getChatbotUrl`
 
 
 ## Configuring the chatbot
@@ -82,7 +91,3 @@ This is a feature still in development - so it will only be described at a high 
 A Knowledge base has been setup in AWS bedrock on the scraped decisions bucket (specifically the reduced clean decisions)
 Within the backend folder is a lambda function which should be deployed as a AWS lambda function. this function interacts with the bedrock knowledge base.
 In front of this we have an api gateway endpoint configured which recieves requests from chatbot component in the react frontend
-
-
-
-

@@ -1,0 +1,84 @@
+@import '../../styles/variables.scss';
+@import '../../styles/mixins';
+
+.footer {
+  padding: 0 $chatbot-page-spacing;
+
+  background-color: $color-white;
+
+  @include for-size(lg) {
+    padding-left: $chatbot-page-spacing;
+    padding-right: calc($chatbot-page-spacing + $chatbot-desktop-width);
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-l;
+
+    color: $color-grey-darkest;
+    font-weight: bold;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: underline;
+    color: $color-purple-dark;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: none;
+      color: $color-purple-dark;
+    }
+  }
+
+  .divider {
+    border-bottom: solid 2px $color-blue-light;
+  }
+
+  .two-columns {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-s;
+
+    @include for-size(md) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+
+  a.sourceCode {
+    display: inline-flex;
+    gap: $spacing-xs;
+    align-items: center;
+
+    .github-logo {
+      color: $color-black-dark;
+    }
+  }
+
+  .copyright {
+    @include for-size(md) {
+      font-size: 0.85rem;
+    }
+
+    .mobile-stacked {
+      @media screen and (max-width: $footer-stacked-max-screen-width) {
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+    a {
+      text-decoration: underline;
+      font-weight: bold;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+}
