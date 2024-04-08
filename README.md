@@ -86,8 +86,15 @@ Alternatively, the front- and NodeJS backend can be started up together using do
 Note: the frontend is currently configured to use the deployed version of the Chatbot API.  The URL can be updated in /client/src/config/runtime-config.ts, in the function `getChatbotUrl`
 
 
-## Configuring the chatbot
-This is a feature still in development - so it will only be described at a high level.
-A Knowledge base has been setup in AWS bedrock on the scraped decisions bucket (specifically the reduced clean decisions)
-Within the backend folder is a lambda function which should be deployed as a AWS lambda function. this function interacts with the bedrock knowledge base.
-In front of this we have an api gateway endpoint configured which recieves requests from chatbot component in the react frontend
+## Chatbot deployment
+The following infomation is specific to our deployment of the regeringsrobot:
+The chat endpoint is deployed as a single lambda function named electionsAIRetrievalAndGeneration
+running in the region eu-central-1
+can be redeployed by running backend/deploy_lambda_retrieval_and_generation.sh
+
+The lambda requires the following environment variables to be set BEDROCK_KNOWLEDGE_BASE_ID, OPENAI_API_KEY
+The lambda is triggered by an api gateway endpoint which is linked to a usage plan to control costs
+
+The lambda function connects to an aws bedrock knowledge base specified by a BEDROCK_KNOWLEDGE_BASE_ID
+the knowledge base is hosted in the us-east-1 region (due to bedrock availability)
+
