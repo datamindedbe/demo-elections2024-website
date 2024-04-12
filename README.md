@@ -87,14 +87,5 @@ Note: the frontend is currently configured to use the deployed version of the Ch
 
 
 ## Chatbot deployment
-The following infomation is specific to our deployment of the regeringsrobot:
-The chat endpoint is deployed as a single lambda function named electionsAIRetrievalAndGeneration
-running in the region eu-central-1
-can be redeployed by running backend/deploy_lambda_retrieval_and_generation.sh
-
-The lambda requires the following environment variables to be set BEDROCK_KNOWLEDGE_BASE_ID, OPENAI_API_KEY
-The lambda is triggered by an api gateway endpoint which is linked to a usage plan to control costs
-
-The lambda function connects to an aws bedrock knowledge base specified by a BEDROCK_KNOWLEDGE_BASE_ID
-the knowledge base is hosted in the us-east-1 region (due to bedrock availability)
-
+more information regarding the specific deployment is available on this notion page for those with the relevant access
+https://www.notion.so/datamindedbe/RegeringsRobot-ac07a73b829f427bbc42e99adff0b326
